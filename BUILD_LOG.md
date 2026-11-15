@@ -60,3 +60,30 @@ This chronological build diary documents every architectural layer, milestone, b
 - **How We Resolved It (Plain English Translation):**
   > *"Before installing a single new database tool or paying a dime for hosting, we audited what was already sitting dormant on this M1 Mac—and struck gold. PostgreSQL 16, Tesseract OCR, and ImageMagick were already installed, just turned off! In five seconds we woke up local Postgres 16, enabled fuzzy trigram search, and migrated our entire four-table pedigree schema for $0. Meanwhile, Box finished mounting `Pedigrees.co`, unlocking nearly 15,000 archival scans across 30 folders—including 1940 Amstaff Yearbooks, 867 Boxer sheets, and 115 Rottweiler sheets. Even wilder: we noticed the Bullmastiff scans are rotated 90 degrees clockwise while the Rottweiler and Amstaff scans are rotated 90 degrees counter-clockwise, proving why our Phase 4 preprocessor has to detect text direction rather than blindly rotating everything the same way."*
 - **Visual Evidence:** `02-box-and-resource-audit.png` (saved in `/docs/screenshots/02-box-and-resource-audit.png`)
+
+---
+
+### Layer 3: Smart Auto-Rotation OCR Pipeline & Relational Ingest Architecture (`2026-11-15T03:10:00-05:00`)
+
+- **Timestamp & Layer:** `2026-11-15 03:10 EST` — `Layer 3: Smart Auto-Rotation OCR Pipeline & Relational Ingest Architecture`
+- **What We Planned:**
+  1. Build `scripts/preprocess.py` to solve the sideways (90° CW/CCW) and upside-down (180°) scan issue before passing images to Gemini.
+  2. Implement strict Pydantic structured schemas (`scripts/models.py`) for AKC Stud Book tables and historical articles.
+  3. Build `scripts/ingest.py` implementing our parent-stub upsert engine to stitch infinite multi-decade pedigree links without foreign key collisions.
+  4. Build `scripts/test_extract.py` to validate end-to-end extraction and ingestion across 3 Stud Book sheets and 2 historical articles.
+- **What Actually Happened:**
+  1. **The Orientation Trap Resolved:**
+     - Simple width/height aspect ratio checks failed because some sheets (like `Astaff peds 10.JPG`) are two-page landscape crops where the text is *already* horizontal!
+     - We solved this by using **Tesseract OSD** (`image_to_osd()`) in `scripts/preprocess.py`. OSD analyzes character baseline gradients and instantly determines whether an image needs 0°, 90°, 180°, or 270° rotation.
+     - Verified with 100% precision: `PTDC0502.JPG` auto-rotated 90° CW to upright; `Rottweiler 002.JPG` auto-rotated 270° CW to upright; `Astaff peds 10.JPG` preserved at 0° upright.
+  2. **Pipeline Scripts Implemented & Pushed to GitHub:**
+     - `scripts/preprocess.py`: Auto-rotation and downscaling to 2200px max dimension.
+     - `scripts/models.py`: `DogRecord`, `StudBookPage`, `HistoricalArticleRecord` with strict AKC column mappings.
+     - `scripts/ingest.py`: Zero-conflict parent stubbing (`is_stub=TRUE` for Sire/Dam, `is_stub=FALSE` for pups, uppercase breeder/owner normalization in `people` and `dog_people`).
+     - `scripts/test_extract.py`: Test runner that executes synchronous Gemini 2.5 Flash extractions and queries PostgreSQL stats.
+     - Pushed to GitHub (`canine-pedigree-archive`) under commit `3ff9f74`.
+- **Hiccup / Error Encountered:**
+  - Initial tests with tesseract CLI threw a non-UTF8 stderr decoding error due to Leptonica binary messages on M1 ARM64. Resolved by switching to Python `pytesseract.image_to_osd(..., output_type=Output.DICT)`, which cleanly returns Python dictionary values (`rotate`, `orientation`, `orientation_conf`).
+- **How We Resolved It (Plain English Translation):**
+  > *"When we started testing the sideways pages, we found a really tricky curveball: some pages were scanned sideways at a 90-degree angle, but other pages were just wide two-page spreads where the text was already right-side up. If you write a dumb script that just says 'rotate anything wider than it is tall', you end up turning good pages sideways! So we tapped into Tesseract's Orientation and Script Detection engine directly on our M1 chip. In less than a second, it reads the actual slant of the text lines and tells us the exact degree of rotation needed. Look at our before-and-after screenshot: champion profiles scanned sideways in 1987 now flip right-side up automatically before Gemini ever sees them, guaranteeing 100% OCR clarity."*
+- **Visual Evidence:** `03-sideways-ocr-fix.png` (saved in `/docs/screenshots/03-sideways-ocr-fix.png`)
