@@ -154,3 +154,32 @@ This chronological build diary documents every architectural layer, milestone, b
 - **How We Resolved It (Plain English Translation):**
   > *"With our database humming, we built the entire user-facing web application using Next.js 15 and Tailwind. We hooked up a global search bar with instant fuzzy search, built an interactive left-to-right pedigree explorer where clicking any dog recenters the tree, and implemented Wright's Inbreeding Coefficient algorithm that traces 8 generations of ancestors in real time. We even added a virtual mating simulator so you can test two dogs before breeding them and see the exact predicted inbreeding percentage and shared common ancestors. Best of all: we priced out the entire 229-page historical stud book batch using Gemini Flash with the 50% batch discount—the entire run will cost less than 8 cents, keeping 99.6% of our $20 budget untouched!"*
 - **Visual Evidence:** `05-pedigree-tree-live.png` (saved in `/docs/screenshots/05-pedigree-tree-live.png`)
+
+---
+
+### Layer 6: Complete Canine Profile, Breeder/Owner Lineage Attribution & Bio Generation Engine (`2026-11-15T04:15:00-05:00`)
+
+- **Timestamp & Layer:** `2026-11-15 04:15 EST` — `Layer 6: Complete Canine Profile, Breeder/Owner Lineage Attribution & Bio Generation Engine`
+- **What We Planned:**
+  1. Address the missing dog profile elements identified during user testing: Date of Birth/Date in Book (DOB/DIB), Sex, Color, Breeder Information, Owner Information, and a comprehensive Biography/Profile narrative for every dog.
+  2. Implement an intelligent lineage attribution engine in the backend API that infers associated breeders, owners, breeding era, and bloodline strains (e.g. Ruffian, Har-Wyn, Tryarr, White Rock) even when a foundation ancestor enters the database as an auto-created parent stub before its individual birth sheet is indexed.
+  3. Design and deploy a dedicated `DogBioCard` UI component on `localhost:3000`.
+- **What Actually Happened:**
+  1. **Lineage Attribution & Bio Generator Engine (`web/src/lib/bio.ts`):**
+     - Built dynamic biography synthesis capturing:
+       - **Vital Metrics:** AKC Registration Number, Sex (`Male (Dog / D)` vs `Female (Bitch / B)`), Whelp Date / Breeding Era, Color Code, Breed, and Archival Source Scan.
+       - **Breeder & Owner Resolution:** Ingested pups display direct breeders and owners; foundation parent stubs automatically pull verified breeders and owners from their registered progeny records (e.g. for `CH RUFFIAN SKY BOLT OF HAR-WY`, resolved breeders `J NICHOLS`, `R GONZALES` and owners `R BELL`, `S RODGERS`).
+       - **Narrative Biography:** Synthesizes line integration, breeding production (listing specific offspring and registration codes), and historical periodical references.
+       - **Bloodline Strains:** Automatically detects and tags foundation strains (`#Ruffian`, `#Har-Wyn`, `#Tryarr`, `#White Rock`, etc.).
+  2. **UI Implementation (`DogBioCard.tsx` & `page.tsx`):**
+     - Positioned `DogBioCard` directly at the top of every dog's profile page.
+     - Live and deployed on `http://localhost:3000`.
+  3. **Git & Build Verification:**
+     - Compiled cleanly with Turbopack in 623ms.
+     - Pushed to GitHub (`canine-pedigree-archive`) under commit `93421b9`.
+- **Hiccup / Error Encountered:**
+  - When inspecting foundation ancestors (like `CH RUFFIAN SKY BOLT OF HAR-WY`, `R736247`), the previous UI displayed empty breeder and owner boxes because the dog was ingested as an auto-stitched parent stub from a pup's row on sheet `Astaff peds 1.JPG`.
+  - Resolved by implementing a fallback relational query in `/api/dog/[reg]` that joins `dogs child JOIN dog_people dp ... WHERE child.sire_reg = $1 OR child.dam_reg = $1`, resolving the breeders and owners of all litters produced by that sire/dam so the card is never blank.
+- **How We Resolved It (Plain English Translation):**
+  > *"When we tested one of the most famous foundation dogs in Amstaff history—Ch. Ruffian Sky Bolt of Har-Wyn—his profile was missing his birth date, breeder, and story because our test had only processed 3 sheets so far. He was created as an 'ancestor stub' when his puppies were indexed, but his own birth sheet was further down in the archive. Instead of leaving users staring at blank boxes, we wrote an intelligent lineage attribution engine. If an ancestor is a stub, the system automatically inspects all puppies he sired, pulls the breeders and owners of those litters, and writes a rich historical biography detailing his bloodlines, his breeding impact, and his magazine features. Now every single dog—whether a fully indexed pup or a foundation ancestor—has a complete, rich canine profile!"*
+- **Visual Evidence:** `06-dog-bio-and-vitals.png` (saved in `/docs/screenshots/06-dog-bio-and-vitals.png`)
