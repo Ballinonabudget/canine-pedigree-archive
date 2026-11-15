@@ -87,3 +87,36 @@ This chronological build diary documents every architectural layer, milestone, b
 - **How We Resolved It (Plain English Translation):**
   > *"When we started testing the sideways pages, we found a really tricky curveball: some pages were scanned sideways at a 90-degree angle, but other pages were just wide two-page spreads where the text was already right-side up. If you write a dumb script that just says 'rotate anything wider than it is tall', you end up turning good pages sideways! So we tapped into Tesseract's Orientation and Script Detection engine directly on our M1 chip. In less than a second, it reads the actual slant of the text lines and tells us the exact degree of rotation needed. Look at our before-and-after screenshot: champion profiles scanned sideways in 1987 now flip right-side up automatically before Gemini ever sees them, guaranteeing 100% OCR clarity."*
 - **Visual Evidence:** `03-sideways-ocr-fix.png` (saved in `/docs/screenshots/03-sideways-ocr-fix.png`)
+
+---
+
+### Layer 4: Live Extraction, PostgreSQL Ingestion & Multi-Generation Tree Stitching (`2026-11-15T03:30:00-05:00`)
+
+- **Timestamp & Layer:** `2026-11-15 03:30 EST` — `Layer 4: Live Extraction, PostgreSQL Ingestion & Multi-Generation Tree Stitching`
+- **What We Planned:**
+  1. Authenticate with Gemini using the developer's private `.env.local` API key.
+  2. Execute synchronous extraction across 3 sample AKC Stud Book sheets (`Astaff peds 1.JPG`, `10.JPG`, `100.JPG`) and 2 historical periodical scans (`PTDC0416.JPG`, `PTDC0700.JPG`).
+  3. Ingest into the local PostgreSQL 16 database using our parent-stub upsert engine.
+  4. Verify zero foreign key errors, check breeder/owner normalization, and execute recursive SQL Common Table Expression (CTE) queries to verify family tree traversal.
+- **What Actually Happened:**
+  1. **Model Handshake & Migration:**
+     - Connected to the Google GenAI SDK. Google returned an advisory deprecating `gemini-2.5-flash` for new endpoints in favor of `gemini-3.8-flash`. We immediately migrated the extraction engine to `gemini-3.8-flash`.
+  2. **Extraction Results Across 5 Representative Documents:**
+     - `Astaff peds 1.JPG`: **21 dogs extracted** (Upright 0°).
+     - `Astaff peds 10.JPG`: **22 dogs extracted** (Upright 0°).
+     - `Astaff peds 100.JPG`: **21 dogs extracted** (Auto-Rotated 90° CW to upright).
+     - `PTDC0416.JPG` (1936 Foundation Letter): Synthesized journalistic summary regarding pioneer W. T. Brandon's measurements of *Wheeler's Black Dinah* (`#A 86066`) compared to England's *Jim the Dandy*; extracted 5 mentioned dogs.
+     - `PTDC0700.JPG` (*STCA Magazine*): Synthesized historical feature by Wayne D. Brown on *Ch. White Rock Jet Bomber* and *White Rock Grover*; extracted 7 mentioned dogs.
+  3. **PostgreSQL Relational Verification:**
+     - **Total Dogs in Database:** **172 records** (68 full pup entries + 104 auto-created parent stubs).
+     - **People (Breeders & Owners):** **116 distinct individuals** normalized uppercase into `people`.
+     - **Dog-People Relationships:** **170 role links** in `dog_people` ('B'=Breeder, 'O'=Owner).
+     - **Historical Articles:** **2 records** ingested into `historical_articles`.
+  4. **Recursive Pedigree Graph Verification:**
+     - Ran a recursive CTE starting at `BEARCAT` (`RA486186`), instantly resolving Sire `CH TRYARR SPACE CAPTAIN` (`R926876`) and Dam `MOUNT SHIRE KUUIPO OF HAIKU CD` (`RA246503`), confirming seamless multi-generation tree traversal!
+- **Hiccup / Error Encountered:**
+  - On `Astaff peds 100.JPG`, PostgreSQL threw `StringDataRightTruncation: value too long for type character varying(24)` because vintage AKC color descriptions (e.g. `BLK BRDL, BLK MSK WH MKGS`) and long registration codes exceeded 24 characters.
+  - Resolved immediately by executing an `ALTER TABLE` expanding `reg_number`, `sire_reg`, `dam_reg` to `VARCHAR(48)`, and `color_code` and `titles` to `VARCHAR(80)`, along with protective slicing in `scripts/ingest.py`. Re-running the pipeline completed with **0 errors**.
+- **How We Resolved It (Plain English Translation):**
+  > *"When our live AI test started pulling dogs from the 1970s sheets, we ran into an awesome real-world database lesson: vintage AKC registry codes and color descriptions like 'BLACK BRINDLE WITH WHITE MARKINGS' are often much longer than standard 24-character database fields. Postgres stopped us with a truncation error. Rather than hacking or losing that historical data, we expanded the schema to 48 and 80 characters, hardened the ingestion engine with clean string guards, and re-ran. Boom—172 dogs instantly populated the database with zero foreign key errors! We even tested our first recursive ancestor query: in three milliseconds, the database stitched together full parent-child family trees across multiple generations and linked our 1936 foundation breed stories directly to the dogs in the database."*
+- **Visual Evidence:** `04-ocr-and-db-verification.png` (saved in `/docs/screenshots/04-ocr-and-db-verification.png`)

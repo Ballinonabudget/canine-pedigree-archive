@@ -61,7 +61,7 @@ def extract_stud_book_page(image_path: str) -> StudBookPage:
 
     print(f"[2/3 Gemini 2.5 Flash Extraction] Calling API...")
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model="gemini-3.8-flash",
         contents=[upright_im, STUD_BOOK_PROMPT],
         config=types.GenerateContentConfig(
             response_mime_type="application/json",
@@ -81,7 +81,7 @@ def extract_article(image_path: str) -> HistoricalArticleRecord:
 
     print(f"[2/3 Gemini 2.5 Flash Extraction] Calling API...")
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model="gemini-3.8-flash",
         contents=[upright_im, HISTORICAL_ARTICLE_PROMPT],
         config=types.GenerateContentConfig(
             response_mime_type="application/json",

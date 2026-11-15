@@ -23,7 +23,7 @@ def clean_reg(reg: Optional[str]) -> Optional[str]:
     if not reg:
         return None
     cleaned = reg.strip().replace(" ", "").replace("*", "")
-    return cleaned if len(cleaned) >= 3 else None
+    return cleaned[:48] if len(cleaned) >= 3 else None
 
 def ingest_dog_record(cursor, dog: DogRecord, source_file: str):
     pup_reg = clean_reg(dog.reg_number)
@@ -78,8 +78,16 @@ def ingest_dog_record(cursor, dog: DogRecord, source_file: str):
             source_file = EXCLUDED.source_file
         """,
         (
-            pup_reg, dog.name.strip(), dog.titles, dog.sex, dog.birth_date,
-            dog.color_code, dog.breed, sire_reg, dam_reg, source_file
+            pup_reg, 
+            dog.name.strip()[:180], 
+            dog.titles[:80] if dog.titles else None, 
+            dog.sex[:1] if dog.sex else 'U', 
+            dog.birth_date[:32] if dog.birth_date else None,
+            dog.color_code[:80] if dog.color_code else None, 
+            dog.breed[:48], 
+            sire_reg, 
+            dam_reg, 
+            source_file[:180]
         )
     )
 
