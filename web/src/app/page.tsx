@@ -5,7 +5,8 @@ import { SearchBar } from '@/components/SearchBar';
 import { PedigreeTree } from '@/components/PedigreeTree';
 import { TestMatingSimulator } from '@/components/TestMatingSimulator';
 import { ChroniclesTab } from '@/components/ChroniclesTab';
-import { Dna, GitBranch, Users, BookOpen, Award, ShieldCheck, Heart } from 'lucide-react';
+import { DogBioCard } from '@/components/DogBioCard';
+import { Dna, GitBranch, Users, BookOpen, Award, Heart, ShieldCheck } from 'lucide-react';
 
 export default function Home() {
   const [selectedReg, setSelectedReg] = useState<string>('RA486186'); // Default to BEARCAT
@@ -22,7 +23,6 @@ export default function Home() {
         setDogData(data);
         setSelectedReg(reg);
       } else {
-        // If query was by name from chronicles, search first
         const sRes = await fetch(`/api/search?q=${encodeURIComponent(reg)}`);
         const sData = await sRes.json();
         if (sData.dogs && sData.dogs.length > 0) {
@@ -101,7 +101,7 @@ export default function Home() {
           Canine Pedigree & Historical Archive
         </h1>
         <p className="text-sm text-slate-400 max-w-2xl mx-auto mb-6">
-          High-speed relational family trees, 8-generation Wright's COI calculations, and digitized historical breed chronicles.
+          High-speed relational family trees, verified breeder/owner records, 8-generation Wright's COI calculations, and digitized historical breed chronicles.
         </p>
 
         <SearchBar onSelectDog={handleSelectDog} />
@@ -115,154 +115,81 @@ export default function Home() {
           </div>
         ) : dogData?.dog ? (
           <div className="space-y-6">
-            {/* Active Dog Profile Card */}
-            <div className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 shadow-2xl relative overflow-hidden">
-              <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
-                <div>
-                  <div className="flex items-center gap-2 mb-1">
-                    <span className={`text-[11px] px-2.5 py-0.5 rounded-full font-bold border ${
-                      dogData.dog.sex === 'D'
-                        ? 'text-sky-400 bg-sky-950/60 border-sky-800/60'
-                        : 'text-rose-400 bg-rose-950/60 border-rose-800/60'
-                    }`}>
-                      {dogData.dog.sex === 'D' ? 'Male (Dog)' : 'Female (Bitch)'}
-                    </span>
-                    <span className="text-xs text-slate-400 font-semibold bg-slate-800/80 px-2.5 py-0.5 rounded-full border border-slate-700">
-                      {dogData.dog.breed}
-                    </span>
-                    {dogData.dog.is_stub && (
-                      <span className="text-xs text-amber-400 bg-amber-950/50 border border-amber-800/50 px-2 py-0.5 rounded-full">
-                        Auto-Stitched Stub
-                      </span>
-                    )}
-                  </div>
+            {/* 1. Dedicated Canine Bio & Vital Profile Card */}
+            <DogBioCard
+              dog={dogData.dog}
+              bio={dogData.bio}
+              progenyCount={dogData.progeny?.length ?? 0}
+              articleMentions={dogData.articleMentions}
+              onSelectDog={handleSelectDog}
+            />
 
-                  <h2 className="text-2xl sm:text-3xl font-extrabold text-white flex items-center gap-2">
-                    {dogData.dog.titles && (
-                      <span className="text-amber-400">{dogData.dog.titles}</span>
-                    )}
-                    <span>{dogData.dog.name}</span>
-                  </h2>
+            {/* 2. Sub-Tabs Navigation */}
+            <div className="bg-slate-900/60 border border-slate-800 rounded-2xl p-2 flex flex-wrap gap-2">
+              <button
+                onClick={() => setActiveTab('pedigree')}
+                className={`px-4 py-2.5 rounded-xl text-xs font-semibold flex items-center gap-2 transition-all ${
+                  activeTab === 'pedigree'
+                    ? 'bg-emerald-600 text-white shadow-lg shadow-emerald-950/40'
+                    : 'bg-slate-950 text-slate-300 hover:bg-slate-800'
+                }`}
+              >
+                <GitBranch className="w-3.5 h-3.5" />
+                <span>Interactive Pedigree Tree (4-5 Gen)</span>
+              </button>
 
-                  <div className="mt-2 flex flex-wrap items-center gap-3 text-xs text-slate-400">
-                    <span className="font-mono text-emerald-400 font-semibold bg-emerald-950/40 px-2 py-0.5 rounded border border-emerald-900/60">
-                      AKC: {dogData.dog.reg_number}
-                    </span>
-                    {dogData.dog.birth_date && <span>Whelp Date: {dogData.dog.birth_date}</span>}
-                    {dogData.dog.color_code && <span>Color: {dogData.dog.color_code}</span>}
-                    {dogData.dog.source_file && (
-                      <span className="text-slate-500 font-mono text-[11px]">
-                        Scan: {dogData.dog.source_file}
-                      </span>
-                    )}
-                  </div>
+              <button
+                onClick={() => setActiveTab('progeny')}
+                className={`px-4 py-2.5 rounded-xl text-xs font-semibold flex items-center gap-2 transition-all ${
+                  activeTab === 'progeny'
+                    ? 'bg-emerald-600 text-white shadow-lg shadow-emerald-950/40'
+                    : 'bg-slate-950 text-slate-300 hover:bg-slate-800'
+                }`}
+              >
+                <Users className="w-3.5 h-3.5" />
+                <span>Recorded Offspring ({dogData.progeny?.length ?? 0})</span>
+              </button>
 
-                  {/* Breeders & Owners */}
-                  {(dogData.dog.breeders?.length > 0 || dogData.dog.owners?.length > 0) && (
-                    <div className="mt-3 pt-3 border-t border-slate-800/60 flex flex-wrap gap-4 text-xs">
-                      {dogData.dog.breeders?.length > 0 && (
-                        <div>
-                          <span className="text-slate-500 font-semibold uppercase text-[10px] block">Breeder(s)</span>
-                          <span className="text-slate-300 font-medium">{dogData.dog.breeders.join(', ')}</span>
-                        </div>
-                      )}
-                      {dogData.dog.owners?.length > 0 && (
-                        <div>
-                          <span className="text-slate-500 font-semibold uppercase text-[10px] block">Owner(s)</span>
-                          <span className="text-slate-300 font-medium">{dogData.dog.owners.join(', ')}</span>
-                        </div>
-                      )}
-                    </div>
-                  )}
-                </div>
+              <button
+                onClick={() => setActiveTab('siblings')}
+                className={`px-4 py-2.5 rounded-xl text-xs font-semibold flex items-center gap-2 transition-all ${
+                  activeTab === 'siblings'
+                    ? 'bg-emerald-600 text-white shadow-lg shadow-emerald-950/40'
+                    : 'bg-slate-950 text-slate-300 hover:bg-slate-800'
+                }`}
+              >
+                <Award className="w-3.5 h-3.5" />
+                <span>
+                  Siblings (
+                  {(dogData.siblings?.fullSiblings?.length ?? 0) +
+                    (dogData.siblings?.halfSiblings?.length ?? 0)}
+                  )
+                </span>
+              </button>
 
-                {/* Wright's COI Badge */}
-                <div className="flex md:flex-col items-center md:items-end justify-between border-t md:border-t-0 md:border-l border-slate-800 pt-3 md:pt-0 md:pl-6">
-                  <div className="text-left md:text-right">
-                    <span className="text-[11px] text-slate-400 uppercase font-bold tracking-wider flex items-center gap-1 md:justify-end">
-                      <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
-                      Wright's COI (8-Gen)
-                    </span>
-                    <div className="text-3xl font-black text-emerald-400 mt-0.5">
-                      {dogData.coi?.coiPercent ?? 0}%
-                    </div>
-                  </div>
-                  <button
-                    onClick={() => setActiveTab('simulator')}
-                    className="text-[11px] text-emerald-400 hover:text-emerald-300 underline font-semibold mt-1"
-                  >
-                    Simulate Mating →
-                  </button>
-                </div>
-              </div>
+              <button
+                onClick={() => setActiveTab('simulator')}
+                className={`px-4 py-2.5 rounded-xl text-xs font-semibold flex items-center gap-2 transition-all ${
+                  activeTab === 'simulator'
+                    ? 'bg-emerald-600 text-white shadow-lg shadow-emerald-950/40'
+                    : 'bg-slate-950 text-slate-300 hover:bg-slate-800'
+                }`}
+              >
+                <Heart className="w-3.5 h-3.5 text-rose-400" />
+                <span>Virtual Test Mating Simulator</span>
+              </button>
 
-              {/* Sub-Tabs Navigation */}
-              <div className="mt-6 pt-4 border-t border-slate-800 flex flex-wrap gap-2">
-                <button
-                  onClick={() => setActiveTab('pedigree')}
-                  className={`px-4 py-2 rounded-xl text-xs font-semibold flex items-center gap-1.5 transition-colors ${
-                    activeTab === 'pedigree'
-                      ? 'bg-emerald-600 text-white shadow-lg shadow-emerald-950/40'
-                      : 'bg-slate-950 text-slate-300 hover:bg-slate-800'
-                  }`}
-                >
-                  <GitBranch className="w-3.5 h-3.5" />
-                  <span>Pedigree Tree (4-5 Gen)</span>
-                </button>
-
-                <button
-                  onClick={() => setActiveTab('progeny')}
-                  className={`px-4 py-2 rounded-xl text-xs font-semibold flex items-center gap-1.5 transition-colors ${
-                    activeTab === 'progeny'
-                      ? 'bg-emerald-600 text-white shadow-lg shadow-emerald-950/40'
-                      : 'bg-slate-950 text-slate-300 hover:bg-slate-800'
-                  }`}
-                >
-                  <Users className="w-3.5 h-3.5" />
-                  <span>Progeny & Offspring ({dogData.progeny?.length ?? 0})</span>
-                </button>
-
-                <button
-                  onClick={() => setActiveTab('siblings')}
-                  className={`px-4 py-2 rounded-xl text-xs font-semibold flex items-center gap-1.5 transition-colors ${
-                    activeTab === 'siblings'
-                      ? 'bg-emerald-600 text-white shadow-lg shadow-emerald-950/40'
-                      : 'bg-slate-950 text-slate-300 hover:bg-slate-800'
-                  }`}
-                >
-                  <Award className="w-3.5 h-3.5" />
-                  <span>
-                    Siblings (
-                    {(dogData.siblings?.fullSiblings?.length ?? 0) +
-                      (dogData.siblings?.halfSiblings?.length ?? 0)}
-                    )
-                  </span>
-                </button>
-
-                <button
-                  onClick={() => setActiveTab('simulator')}
-                  className={`px-4 py-2 rounded-xl text-xs font-semibold flex items-center gap-1.5 transition-colors ${
-                    activeTab === 'simulator'
-                      ? 'bg-emerald-600 text-white shadow-lg shadow-emerald-950/40'
-                      : 'bg-slate-950 text-slate-300 hover:bg-slate-800'
-                  }`}
-                >
-                  <Heart className="w-3.5 h-3.5" />
-                  <span>Test Mating Simulator</span>
-                </button>
-
-                <button
-                  onClick={() => setActiveTab('chronicles')}
-                  className={`px-4 py-2 rounded-xl text-xs font-semibold flex items-center gap-1.5 transition-colors ${
-                    activeTab === 'chronicles'
-                      ? 'bg-emerald-600 text-white shadow-lg shadow-emerald-950/40'
-                      : 'bg-slate-950 text-slate-300 hover:bg-slate-800'
-                  }`}
-                >
-                  <BookOpen className="w-3.5 h-3.5" />
-                  <span>Amstaff Chronicles</span>
-                </button>
-              </div>
+              <button
+                onClick={() => setActiveTab('chronicles')}
+                className={`px-4 py-2.5 rounded-xl text-xs font-semibold flex items-center gap-2 transition-all ${
+                  activeTab === 'chronicles'
+                    ? 'bg-emerald-600 text-white shadow-lg shadow-emerald-950/40'
+                    : 'bg-slate-950 text-slate-300 hover:bg-slate-800'
+                }`}
+              >
+                <BookOpen className="w-3.5 h-3.5 text-amber-400" />
+                <span>Amstaff & Breed Chronicles</span>
+              </button>
             </div>
 
             {/* Tab Views */}
@@ -271,7 +198,7 @@ export default function Home() {
                 <div className="flex items-center justify-between mb-2">
                   <h3 className="text-sm font-bold uppercase tracking-wider text-slate-300 flex items-center gap-2">
                     <GitBranch className="w-4 h-4 text-emerald-400" />
-                    Interactive Ancestor Tree (Click any ancestor to recenter)
+                    Interactive Ancestor Tree (Click any ancestor node to recenter)
                   </h3>
                   <span className="text-xs text-slate-500 font-mono">4-Generation Relational CTE</span>
                 </div>
@@ -302,7 +229,7 @@ export default function Home() {
                           <span className={`px-2 py-0.5 rounded-full text-[10px] font-bold ${
                             pup.sex === 'D' ? 'text-sky-400 bg-sky-950' : 'text-rose-400 bg-rose-950'
                           }`}>
-                            {pup.sex === 'D' ? 'Male' : 'Female'}
+                            {pup.sex === 'D' ? 'Male (D)' : 'Female (B)'}
                           </span>
                         </div>
                       </div>
