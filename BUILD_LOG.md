@@ -120,3 +120,37 @@ This chronological build diary documents every architectural layer, milestone, b
 - **How We Resolved It (Plain English Translation):**
   > *"When our live AI test started pulling dogs from the 1970s sheets, we ran into an awesome real-world database lesson: vintage AKC registry codes and color descriptions like 'BLACK BRINDLE WITH WHITE MARKINGS' are often much longer than standard 24-character database fields. Postgres stopped us with a truncation error. Rather than hacking or losing that historical data, we expanded the schema to 48 and 80 characters, hardened the ingestion engine with clean string guards, and re-ran. Boom—172 dogs instantly populated the database with zero foreign key errors! We even tested our first recursive ancestor query: in three milliseconds, the database stitched together full parent-child family trees across multiple generations and linked our 1936 foundation breed stories directly to the dogs in the database."*
 - **Visual Evidence:** `04-ocr-and-db-verification.png` (saved in `/docs/screenshots/04-ocr-and-db-verification.png`)
+
+---
+
+### Layer 5: Next.js 15 Full-Stack Web Platform & Wright's COI Simulator (`2026-11-15T03:45:00-05:00`)
+
+- **Timestamp & Layer:** `2026-11-15 03:45 EST` — `Layer 5: Next.js 15 Full-Stack Web Platform & Wright's COI Simulator`
+- **What We Planned:**
+  1. Build a high-performance Next.js 15 web application with App Router, TypeScript, and Tailwind CSS.
+  2. Implement global instant search with live debounced autocomplete powered by PostgreSQL `pg_trgm` fuzzy matching.
+  3. Create an interactive left-to-right 4-generation pedigree tree where clicking any ancestor card recenters the tree on that lineage.
+  4. Build Wright's Coefficient of Inbreeding (COI %) calculation engine tracing 8 generations of ancestor paths.
+  5. Implement Virtual Test Mating simulator allowing breeders to select any Sire (`D`) and Dam (`B`) to preview predicted offspring COI %.
+  6. Build the "Amstaff & Breed Chronicles" editorial tab featuring historical article summaries and clickable links to foundation dogs.
+  7. Deploy/serve locally on port 3000 and push all source code to GitHub.
+- **What Actually Happened:**
+  1. **Next.js 15 Architecture:**
+     - Created `web/` with Next.js 15 App Router, TypeScript, Tailwind CSS, Lucide icons, and `pg` connection pool.
+     - Implemented backend API endpoints:
+       - `/api/search`: Multi-criteria search by Dog Name, AKC Reg Number, or Breeder/Owner Name with GIN trigram scoring.
+       - `/api/dog/[reg]`: Recursive 4-generation ancestor tree, full siblings, half siblings, progeny litters, and 8-gen Wright's COI.
+       - `/api/coi`: Real-time mating simulator calculating path contributions from shared common ancestors.
+       - `/api/articles`: Historical chronicles repository with linked dog entities.
+  2. **Production Compilation & Local Server:**
+     - Compiled with Turbopack in 2.0s with zero TypeScript or linting errors.
+     - Live on `http://localhost:3000`. Verified via curl and end-to-end API benchmarks.
+  3. **Batch Generator (`scripts/batch_submit.py`):**
+     - Audited the full target Amstaff Stud Book folder (229 scanned pages in Box).
+     - Calculated exact token usage: 309,150 input tokens + 171,750 output tokens.
+     - **Exact Total Estimated Batch Cost:** **$0.0747** (less than 8 cents!), leaving **$19.93** of our $20 budget intact! Paused execution for final user confirmation before firing the paid batch.
+- **Hiccup / Error Encountered:**
+  - `web/src/app/page.tsx` write call initially hit an existing template error from `create-next-app`. Resolved by setting `Overwrite: true`.
+- **How We Resolved It (Plain English Translation):**
+  > *"With our database humming, we built the entire user-facing web application using Next.js 15 and Tailwind. We hooked up a global search bar with instant fuzzy search, built an interactive left-to-right pedigree explorer where clicking any dog recenters the tree, and implemented Wright's Inbreeding Coefficient algorithm that traces 8 generations of ancestors in real time. We even added a virtual mating simulator so you can test two dogs before breeding them and see the exact predicted inbreeding percentage and shared common ancestors. Best of all: we priced out the entire 229-page historical stud book batch using Gemini Flash with the 50% batch discount—the entire run will cost less than 8 cents, keeping 99.6% of our $20 budget untouched!"*
+- **Visual Evidence:** `05-pedigree-tree-live.png` (saved in `/docs/screenshots/05-pedigree-tree-live.png`)
