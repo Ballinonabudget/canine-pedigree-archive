@@ -1,0 +1,1273 @@
+{
+  "breed": "Boxer",
+  "date_header": "April 1980",
+  "dogs": [
+    {
+      "reg_number": "WE168207",
+      "name": "HUNZIKER'S FREIDA LEE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-30-78",
+      "color_code": "FN",
+      "breed": "Boxer",
+      "sire_name": "LEWTON'S MAX ALEXANDER",
+      "sire_reg": "WC961248",
+      "dam_name": "SHAWNA LEE",
+      "dam_reg": "WD925484",
+      "breeders": [
+        "J HUNZIKER"
+      ],
+      "owners": [
+        "J HUNZIKER"
+      ]
+    },
+    {
+      "reg_number": "WE488666",
+      "name": "INTERLUDE'S EASY DOES IT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-4-78",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "CH GOODMANACRE JET OF INTERLU",
+      "sire_reg": "WD434523",
+      "dam_name": "INTERLUDE'S JAY-JAY",
+      "dam_reg": "WD591676",
+      "breeders": [
+        "R NEWTON",
+        "D BRYANT"
+      ],
+      "owners": [
+        "J & D BRYANT",
+        "R NEWTON & D BRYANT"
+      ]
+    },
+    {
+      "reg_number": "WD636728",
+      "name": "CH INTERLUDE'S SOUTHERN COMFORT",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "12-13-76",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "CH INTERLUDE'S JON-JON",
+      "sire_reg": "WC961210",
+      "dam_name": "NAVAJO'S ANGIE BABY",
+      "dam_reg": "WD382819",
+      "breeders": [
+        "M MARSHALL",
+        "A MOE"
+      ],
+      "owners": [
+        "J & D BRYANT",
+        "M MARSHALL & A MOE"
+      ]
+    },
+    {
+      "reg_number": "WD919352",
+      "name": "IRIS' DANDY MIRACLE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-14-76",
+      "color_code": "BRDL & WH",
+      "breed": "Boxer",
+      "sire_name": "KING CASPER OF CIRCLE K",
+      "sire_reg": "WC978057",
+      "dam_name": "CIRCLE K'S SWEET GOLDEN GIRL",
+      "dam_reg": "WC936437",
+      "breeders": [
+        "H BROWN"
+      ],
+      "owners": [
+        "H BROWN",
+        "I PLATA"
+      ]
+    },
+    {
+      "reg_number": "WD718684",
+      "name": "JACAWAYS PRETTY PRECIOUS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-6-77",
+      "color_code": "FN",
+      "breed": "Boxer",
+      "sire_name": "JACAWAY'S NAME OF THE GAME",
+      "sire_reg": "WB396274",
+      "dam_name": "JACAWAYS CELESTIAL BODY",
+      "dam_reg": "WC713014",
+      "breeders": [
+        "N & M LEWIS"
+      ],
+      "owners": [
+        "N & M LEWIS",
+        "J CALAWAY"
+      ]
+    },
+    {
+      "reg_number": "WE337099",
+      "name": "JENIFER LYNN BARON",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-2-78",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "BRUNO RED BARON",
+      "sire_reg": "WC736651",
+      "dam_name": "DEVILIOUS DUTCH OF HOLLAND",
+      "dam_reg": "WD409605",
+      "breeders": [
+        "L MINEER"
+      ],
+      "owners": [
+        "L MINEER",
+        "D WHITEHEAD"
+      ]
+    },
+    {
+      "reg_number": "WE131953",
+      "name": "JENNIFER'S KHAKI",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-20-77",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "PETROVITCH LAURISKI",
+      "sire_reg": "WD467499",
+      "dam_name": "BLACKACRE BUTTER",
+      "dam_reg": "WD544317",
+      "breeders": [
+        "K KELLER JR",
+        "K KELLER",
+        "W & J GIBSON"
+      ],
+      "owners": [
+        "K KELLER JR",
+        "K KELLER",
+        "W & J GIBSON"
+      ]
+    },
+    {
+      "reg_number": "WE166461",
+      "name": "JERRY CHRISTMAS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-9-79",
+      "color_code": "FN WH MKGS",
+      "breed": "Boxer",
+      "sire_name": "ORTMAN'S DEVIL DART",
+      "sire_reg": "WD162590",
+      "dam_name": "IRISH OF CHERAMY",
+      "dam_reg": "WD935827",
+      "breeders": [
+        "B TINSLEY"
+      ],
+      "owners": [
+        "B TINSLEY",
+        "D PLUMLEY"
+      ]
+    },
+    {
+      "reg_number": "WE031381",
+      "name": "CH JJ'S AM MUSIC",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "5-13-78",
+      "color_code": "FN BLK MSK & WH M",
+      "breed": "Boxer",
+      "sire_name": "CH MOON VALLEY'S SUN N' SHADO",
+      "sire_reg": "WD136066",
+      "dam_name": "CH BEEHIVE'S FLYING FEET OF J",
+      "dam_reg": "WS566016",
+      "breeders": [
+        "J STITT"
+      ],
+      "owners": [
+        "J STITT",
+        "J & J STITT"
+      ]
+    },
+    {
+      "reg_number": "WD804577",
+      "name": "CH JODI'S NOCTURne",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "7-23-77",
+      "color_code": "BRDL & WH",
+      "breed": "Boxer",
+      "sire_name": "NABBY BOY OF PERRO CHATO BOX",
+      "sire_reg": "WD954559",
+      "dam_name": "PERRO CHATO BOX GIDGET MIDGET",
+      "dam_reg": "WD529255",
+      "breeders": [
+        "S PERRIGUEY"
+      ],
+      "owners": [
+        "S PERRIGUEY"
+      ]
+    },
+    {
+      "reg_number": "WE393311",
+      "name": "JOE'S KING",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-7-76",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "CH SHERILYN'S SHERIDAN",
+      "sire_reg": "WC630290",
+      "dam_name": "COPPFRICE KALMIA",
+      "dam_reg": "WD052891",
+      "breeders": [
+        "R & J JOHNSON",
+        "R & D BEASON"
+      ],
+      "owners": [
+        "R & J JOHNSON",
+        "R & D BEASON"
+      ]
+    },
+    {
+      "reg_number": "WE412094",
+      "name": "JULIUS WELLINGTON STRICKLER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-10-75",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "JERRY'S BANDIT BOY",
+      "sire_reg": "WB673905",
+      "dam_name": "KARALEE'S SOUTHERN BELLE",
+      "dam_reg": "WC550860",
+      "breeders": [
+        "L BELIVEAU"
+      ],
+      "owners": [
+        "L BELIVEAU",
+        "K GRANDY"
+      ]
+    },
+    {
+      "reg_number": "WD486186",
+      "name": "KADAU'S NOMADIC PRINCESS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-12-78",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "MANNING'S BEAU BRUMMEL",
+      "sire_reg": "WC221679",
+      "dam_name": "ANTLE'S SWEET BETSY FROM PIKE",
+      "dam_reg": "WC785837",
+      "breeders": [
+        "G STRICKLER",
+        "R & J ANTLE"
+      ],
+      "owners": [
+        "G STRICKLER",
+        "R & J ANTLE"
+      ]
+    },
+    {
+      "reg_number": "WF094239",
+      "name": "KATE'S BIG JAKE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-10-78",
+      "color_code": "FN BLK MSK WH MKGS",
+      "breed": "Boxer",
+      "sire_name": "CH BENJOMAN OF FIVE T'S",
+      "sire_reg": "WC451000",
+      "dam_name": "SNO-WHITE'S NOMADIC EMPRESS",
+      "dam_reg": "WC422178",
+      "breeders": [
+        "M & K DAUGHN",
+        "MRS J BRYANT"
+      ],
+      "owners": [
+        "M & K DAUGHN",
+        "MRS J BRYANT"
+      ]
+    },
+    {
+      "reg_number": "WE041814",
+      "name": "KATE'S GOLDEN SUNRISE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-11-78",
+      "color_code": "BRDL & WH",
+      "breed": "Boxer",
+      "sire_name": "RUTNEY HANCOCK VONZWHOL",
+      "sire_reg": "WD137061",
+      "dam_name": "KATY DAMSEL ROSE",
+      "dam_reg": "WD764223",
+      "breeders": [
+        "B HURLEY",
+        "R HURLEY II"
+      ],
+      "owners": [
+        "B HURLEY",
+        "R HURLEY II"
+      ]
+    },
+    {
+      "reg_number": "WE055255",
+      "name": "KATY MCDONALD",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-6-78",
+      "color_code": "FN",
+      "breed": "Boxer",
+      "sire_name": "CH MAR-BEL'S MAJOR BEAU",
+      "sire_reg": "WC158721",
+      "dam_name": "GAY'S GORGEOUS ROSE",
+      "dam_reg": "WD118896",
+      "breeders": [
+        "K & D MILLER",
+        "M & B MITCHELL"
+      ],
+      "owners": [
+        "K & D MILLER",
+        "M & B MITCHELL"
+      ]
+    },
+    {
+      "reg_number": "WE336001",
+      "name": "KEEF KAZAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-22-77",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "AMIGO KELLIS",
+      "sire_reg": "WC588748",
+      "dam_name": "TAFFY XXVII",
+      "dam_reg": "WD366441",
+      "breeders": [
+        "B & N MCDONALD",
+        "H KRAHE"
+      ],
+      "owners": [
+        "B & N MCDONALD",
+        "H KRAHE"
+      ]
+    },
+    {
+      "reg_number": "WE51874",
+      "name": "KING ZACHARY OF PACE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-17-78",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "CH TRYARR SPACE SOLAR FLARE",
+      "sire_reg": "WD136068",
+      "dam_name": "KRYSTAL MOON BEAM UD",
+      "dam_reg": "WC219426",
+      "breeders": [
+        "T & C KEELEY"
+      ],
+      "owners": [
+        "T & C KEELEY",
+        "P ALLER"
+      ]
+    },
+    {
+      "reg_number": "WD981215",
+      "name": "KISMET",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-7-77",
+      "color_code": "FN",
+      "breed": "Boxer",
+      "sire_name": "CHIEF MOQIE",
+      "sire_reg": "WD255263",
+      "dam_name": "GIULIANA QUEEN OF SHEBA",
+      "dam_reg": "WC880951",
+      "breeders": [
+        "J PHILLIPS"
+      ],
+      "owners": [
+        "J PHILLIPS",
+        "W BRIELMAYER"
+      ]
+    },
+    {
+      "reg_number": "WD504445",
+      "name": "KOAWOOD'S S'LIL BIT OF GINGER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-17-76",
+      "color_code": "BRDL & WH",
+      "breed": "Boxer",
+      "sire_name": "CAROLINA STAR'S GUNNER BOY",
+      "sire_reg": "WD639643",
+      "dam_name": "STARLIE'S CISSIE SIMON",
+      "dam_reg": "WD402223",
+      "breeders": [
+        "MRS G KIRK SR",
+        "D FISHER"
+      ],
+      "owners": [
+        "MRS G KIRK SR",
+        "D FISHER"
+      ]
+    },
+    {
+      "reg_number": "WD592559",
+      "name": "LADY ANDREA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-1-75",
+      "color_code": "FN",
+      "breed": "Boxer",
+      "sire_name": "CH BOX M PUNCHLINE PRECEDENT",
+      "sire_reg": "WC903740",
+      "dam_name": "BRUNHILDE HULUPALA",
+      "dam_reg": "WD656094",
+      "breeders": [
+        "L & R KELSEY",
+        "C LINDSEY"
+      ],
+      "owners": [
+        "L & R KELSEY",
+        "C LINDSEY"
+      ]
+    },
+    {
+      "reg_number": "WD742855",
+      "name": "LADY BRANDYWINE OF MORRIS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-3-77",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "PURTELL'S MULLIGAN O'REILLY",
+      "sire_reg": "WC439291",
+      "dam_name": "BALLYSHANNY MYSTIC MOLLY",
+      "dam_reg": "WC542413",
+      "breeders": [
+        "H & F FRENZKE",
+        "P PURTELL"
+      ],
+      "owners": [
+        "H & F FRENZKE",
+        "P PURTELL"
+      ]
+    },
+    {
+      "reg_number": "WD310879",
+      "name": "LADY CANDICE XVI",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-17-77",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "REBEL OF OLD DOMINION",
+      "sire_reg": "WC896885",
+      "dam_name": "CURTISES COTTON KANDY",
+      "dam_reg": "WD422943",
+      "breeders": [
+        "L MORRIS"
+      ],
+      "owners": [
+        "L MORRIS",
+        "M CURTIS"
+      ]
+    },
+    {
+      "reg_number": "WD185633",
+      "name": "LADY CATHERINE OF BRANDENBRG",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-24-77",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "CH TRADONALEE'S BISMARK",
+      "sire_reg": "WC999900",
+      "dam_name": "EDOKKO'S MIMI OF SATUMA",
+      "dam_reg": "WD580008",
+      "breeders": [
+        "R & T BAUGHMAN",
+        "Y KAMIMURA"
+      ],
+      "owners": [
+        "R & T BAUGHMAN",
+        "Y KAMIMURA"
+      ]
+    },
+    {
+      "reg_number": "WE310879",
+      "name": "LADY CHARO OF SUMMERVILLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-5-78",
+      "color_code": "FN",
+      "breed": "Boxer",
+      "sire_name": "LORD CALEDON ALEXANDER",
+      "sire_reg": "WC809376",
+      "dam_name": "MADRONA CINDERELLA",
+      "dam_reg": "WD334071",
+      "breeders": [
+        "J WILLOUGHBY",
+        "L WOODALL"
+      ],
+      "owners": [
+        "J WILLOUGHBY",
+        "L WOODALL"
+      ]
+    },
+    {
+      "reg_number": "WD846890",
+      "name": "LADY ENDICOTT COTTAGE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-21-75",
+      "color_code": "FN",
+      "breed": "Boxer",
+      "sire_name": "LORD SAMSON OF BOSWELL",
+      "sire_reg": "WD601272",
+      "dam_name": "SAMSON'S DELIAH OF TREX",
+      "dam_reg": "WD823641",
+      "breeders": [
+        "G ROBERTS",
+        "JR PILCHER"
+      ],
+      "owners": [
+        "G ROBERTS",
+        "JR PILCHER"
+      ]
+    },
+    {
+      "reg_number": "WD846890",
+      "name": "LADY KRISTINE V LINDERHOF",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-3-77",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "PRINCE OF WICKHAM",
+      "sire_reg": "WC656307",
+      "dam_name": "DONA-MARIE OF BODEGA ESPANA",
+      "dam_reg": "WD188083",
+      "breeders": [
+        "A & K FRICANO",
+        "R RIVERA"
+      ],
+      "owners": [
+        "A & K FRICANO",
+        "R RIVERA"
+      ]
+    },
+    {
+      "reg_number": "WD447801",
+      "name": "LADY KATHLEEN OF OAKS GLEN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-1-76",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "ALFONS OF THE LONE STAR",
+      "sire_reg": "WB942906",
+      "dam_name": "LYNNES BONNIE",
+      "dam_reg": "WD349465",
+      "breeders": [
+        "W SCOTT",
+        "T PRICKETT"
+      ],
+      "owners": [
+        "W SCOTT",
+        "T PRICKETT"
+      ]
+    },
+    {
+      "reg_number": "WE302321",
+      "name": "LADY OF BRANDY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-7-77",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "RED BARON OF YOUR STUFF",
+      "sire_reg": "WC840121",
+      "dam_name": "HERMIONE'S RULERS DUCHESS",
+      "dam_reg": "WC501956",
+      "breeders": [
+        "N & J MORTON",
+        "J & S KEASLER"
+      ],
+      "owners": [
+        "N & J MORTON",
+        "J & S KEASLER"
+      ]
+    },
+    {
+      "reg_number": "WD586194",
+      "name": "LADY SABRINA OF CALHOUN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-29-76",
+      "color_code": "FN",
+      "breed": "Boxer",
+      "sire_name": "WHISKEY XV",
+      "sire_reg": "WC155251",
+      "dam_name": "CLEO PATRICK DUMAS",
+      "dam_reg": "WD888493",
+      "breeders": [
+        "R RAINEY",
+        "H RAINEY"
+      ],
+      "owners": [
+        "R RAINEY",
+        "H RAINEY"
+      ]
+    },
+    {
+      "reg_number": "WE186422",
+      "name": "LADY SUSANNA II",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-18-78",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "MARINER'S LITTLE BIT O' HONEY",
+      "sire_reg": "WD207741",
+      "dam_name": "BRIDGET OF DORNOCH TAIN",
+      "dam_reg": "WC925514",
+      "breeders": [
+        "C & K WHEELUS",
+        "J PONDER"
+      ],
+      "owners": [
+        "C & K WHEELUS",
+        "J PONDER"
+      ]
+    },
+    {
+      "reg_number": "WE248074",
+      "name": "LADY VINTON",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-11-75",
+      "color_code": "FN",
+      "breed": "Boxer",
+      "sire_name": "CHIEF LEO",
+      "sire_reg": "WC554222",
+      "dam_name": "GYPSY RED",
+      "dam_reg": "WC567343",
+      "breeders": [
+        "N WHITE",
+        "R CREASER"
+      ],
+      "owners": [
+        "N WHITE",
+        "R CREASER"
+      ]
+    },
+    {
+      "reg_number": "WC986837",
+      "name": "LAMANCHA'S HEAVENLY ANGEL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-25-74",
+      "color_code": "BRDL & WH",
+      "breed": "Boxer",
+      "sire_name": "MAJOR BOPO",
+      "sire_reg": "WB273873",
+      "dam_name": "WORKMAN'S PENNY OF DOGPATCH",
+      "dam_reg": "WC291258",
+      "breeders": [
+        "C NORVELL",
+        "C DECAMP"
+      ],
+      "owners": [
+        "C NORVELL",
+        "C DECAMP"
+      ]
+    },
+    {
+      "reg_number": "WE091859",
+      "name": "LA RESNIK'S NATASHA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-14-78",
+      "color_code": "BRDL & WH",
+      "breed": "Boxer",
+      "sire_name": "A K ALEXANDER",
+      "sire_reg": "WC892272",
+      "dam_name": "LAMANCHA GINGERBREAD",
+      "dam_reg": "WC291254",
+      "breeders": [
+        "J PICCOLO",
+        "L MARCUS"
+      ],
+      "owners": [
+        "J PICCOLO",
+        "L MARCUS"
+      ]
+    },
+    {
+      "reg_number": "WE322802",
+      "name": "LA SHAWN'S BRANDY BANE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-7-76",
+      "color_code": "BRDL & WH",
+      "breed": "Boxer",
+      "sire_name": "CH HERNDON'S PRIDE OF GALCRES",
+      "sire_reg": "WC232022",
+      "dam_name": "TRECEDER'S A LITTLE MO'",
+      "dam_reg": "WB672862",
+      "breeders": [
+        "C & R PITTMAN",
+        "C & A KINSER"
+      ],
+      "owners": [
+        "C & R PITTMAN",
+        "C & A KINSER"
+      ]
+    },
+    {
+      "reg_number": "WD554378",
+      "name": "LASHINS COUNT OF MONTE CRISTO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-29-76",
+      "color_code": "BRDL & WH",
+      "breed": "Boxer",
+      "sire_name": "BARNEY KISMET LA SHAWN",
+      "sire_reg": "WC347631",
+      "dam_name": "JERRY'S BRANDY-BANG",
+      "dam_reg": "WC398066",
+      "breeders": [
+        "G & L SUNDERLAND",
+        "J HOWZE"
+      ],
+      "owners": [
+        "G & L SUNDERLAND",
+        "J HOWZE"
+      ]
+    },
+    {
+      "reg_number": "WE349935",
+      "name": "LEO-VAN-MARLE'S JOE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-22-77",
+      "color_code": "FN",
+      "breed": "Boxer",
+      "sire_name": "CLEMENTINE'S DUKE OF EARL",
+      "sire_reg": "WD710668",
+      "dam_name": "GERLAINE'S MS LIBERATION",
+      "dam_reg": "WC686372",
+      "breeders": [
+        "R LASHINSKY"
+      ],
+      "owners": [
+        "R LASHINSKY",
+        "N WIESE"
+      ]
+    },
+    {
+      "reg_number": "WD526928",
+      "name": "LITTLE LADY GINGER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-23-76",
+      "color_code": "BRDL & WH",
+      "breed": "Boxer",
+      "sire_name": "LITTLE GEM OF HANK JOE",
+      "sire_reg": "WB728559",
+      "dam_name": "CAPITOL HILL'S CRSTIE LOVE",
+      "dam_reg": "WC916713",
+      "breeders": [
+        "S & T HADFIELD",
+        "V MOLEN"
+      ],
+      "owners": [
+        "S & T HADFIELD",
+        "V MOLEN"
+      ]
+    },
+    {
+      "reg_number": "WD797326",
+      "name": "LITTLE MISS MOLLY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-28-77",
+      "color_code": "BRDL & WH",
+      "breed": "Boxer",
+      "sire_name": "DAMON VON BINGHAMTON",
+      "sire_reg": "WC497306",
+      "dam_name": "GREAT MISTY BANDIT",
+      "dam_reg": "WC513223",
+      "breeders": [
+        "D LINK"
+      ],
+      "owners": [
+        "D LINK",
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "WD842992",
+      "name": "LOWRYS PRIDE SANDI JAYLEE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-27-77",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "HOLLYWOOD'S LIL GEDEON",
+      "sire_reg": "WC065027",
+      "dam_name": "PATRICIA DANIELLE",
+      "dam_reg": "WC148574",
+      "breeders": [
+        "G STRICKLER"
+      ],
+      "owners": [
+        "G STRICKLER",
+        "F SMITH"
+      ]
+    },
+    {
+      "reg_number": "WD345846",
+      "name": "LUMAR'S MAGIC MAJIC",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-24-76",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "CH CHERYSLEMANS AVENGER",
+      "sire_reg": "WC608900",
+      "dam_name": "HLBOU CUIVRE",
+      "dam_reg": "WC793770",
+      "breeders": [
+        "J VAN LOO",
+        "M WHITLOW"
+      ],
+      "owners": [
+        "J VAN LOO",
+        "M WHITLOW"
+      ]
+    },
+    {
+      "reg_number": "WE060602",
+      "name": "MAC A NOR'S TYGER EYE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-1-78",
+      "color_code": "BRDL BLK MSK & WH MKG",
+      "breed": "Boxer",
+      "sire_name": "LONE OAK'S KADISSO",
+      "sire_reg": "WD421840",
+      "dam_name": "LADY MAXINE II",
+      "dam_reg": "WD510524",
+      "breeders": [
+        "C LONG",
+        "C & B HOWE"
+      ],
+      "owners": [
+        "C LONG",
+        "C & B HOWE"
+      ]
+    },
+    {
+      "reg_number": "WE082922",
+      "name": "MADAM LADY OF ROCHAMBEAU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-16-78",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "AL 'AND RUBYS PRIDE MR SAM",
+      "sire_reg": "WC580676",
+      "dam_name": "GYPSY LEE III",
+      "dam_reg": "WD283274",
+      "breeders": [
+        "J & D LOWERY",
+        "D BABIN"
+      ],
+      "owners": [
+        "J & D LOWERY",
+        "D BABIN"
+      ]
+    },
+    {
+      "reg_number": "WD361397",
+      "name": "MAGGIE MOLASSESS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-19-74",
+      "color_code": "BRDL",
+      "breed": "Boxer",
+      "sire_name": "BRUNO RED BARON",
+      "sire_reg": "WC125826",
+      "dam_name": "FRICKER'S SERENITY",
+      "dam_reg": "WC118868",
+      "breeders": [
+        "R M DYCKMAN",
+        "C ISTOCK & V P LUMMER"
+      ],
+      "owners": [
+        "R M DYCKMAN",
+        "C ISTOCK & V P LUMMER"
+      ]
+    },
+    {
+      "reg_number": "WE166461",
+      "name": "MAIKE'S FLINTHILL QUEEN BEE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-1-77",
+      "color_code": "FN",
+      "breed": "Boxer",
+      "sire_name": "CH MEMORYLANE'S MAESTRO",
+      "sire_reg": "WD120601",
+      "dam_name": "DIAMOND'S GAY MITZI OF MAC-A-",
+      "dam_reg": "WC602572",
+      "breeders": [
+        "D WILSON",
+        "E & C MCLEAN"
+      ],
+      "owners": [
+        "D WILSON",
+        "E & C MCLEAN"
+      ]
+    },
+    {
+      "reg_number": "WE062204",
+      "name": "MAJESTIC DAWN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-2-78",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "CH SHADYBROOK'S AIN REBEL",
+      "sire_reg": "WD295426",
+      "dam_name": "FREYLAND'S LADY MONTOOTH",
+      "dam_reg": "WD622042",
+      "breeders": [
+        "Y & K PHOSRITHONG",
+        "M MCBRIDE & B SILLS"
+      ],
+      "owners": [
+        "Y & K PHOSRITHONG",
+        "M MCBRIDE & B SILLS"
+      ]
+    },
+    {
+      "reg_number": "WD938740",
+      "name": "MAJOR DUNDEE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-18-75",
+      "color_code": "BRDL & WH",
+      "breed": "Boxer",
+      "sire_name": "ARCO DV Z HONOROUS",
+      "sire_reg": "WC383528",
+      "dam_name": "REGINA MIT DER WEITZ FUTZ",
+      "dam_reg": "WC865724",
+      "breeders": [
+        "R KANINSKY",
+        "I MITCHELL"
+      ],
+      "owners": [
+        "R KANINSKY",
+        "I MITCHELL"
+      ]
+    },
+    {
+      "reg_number": "WC750921",
+      "name": "MAJOR YON ERTZ",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-14-74",
+      "color_code": "FN & BLK MSK",
+      "breed": "Boxer",
+      "sire_name": "BRUNO RED BARON",
+      "sire_reg": "WC125826",
+      "dam_name": "LADY DEE OF CORINTN",
+      "dam_reg": "WC353255",
+      "breeders": [
+        "D WHITEHEAD",
+        "OWNER"
+      ],
+      "owners": [
+        "D WHITEHEAD"
+      ]
+    },
+    {
+      "reg_number": "WD886930",
+      "name": "MANDY XXVIII",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-30-77",
+      "color_code": "WH & BLK MKGS",
+      "breed": "Boxer",
+      "sire_name": "CAVA-LANES SQUINTIN LAVOWE",
+      "sire_reg": "WC809534",
+      "breeders": [
+        "S MAIKE",
+        "B & C THOMAS"
+      ],
+      "owners": [
+        "S MAIKE",
+        "B & C THOMAS"
+      ]
+    },
+    {
+      "reg_number": "WE187235",
+      "name": "MAR-BELLE'S BIGGIES",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-14-78",
+      "color_code": "BRDL & WH",
+      "breed": "Boxer",
+      "sire_name": "MAJOR BRANDY",
+      "sire_reg": "WD636270",
+      "dam_name": "LANCE'S SWEET CANDY",
+      "dam_reg": "WD129950",
+      "breeders": [
+        "D BEST",
+        "MRS E CAMPOS"
+      ],
+      "owners": [
+        "D BEST",
+        "MRS E CAMPOS"
+      ]
+    },
+    {
+      "reg_number": "WD738965",
+      "name": "MAR-JER'S BLACK JACK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-19-77",
+      "color_code": "BRDL",
+      "breed": "Boxer",
+      "sire_name": "VARNER'S SUNDANCE",
+      "sire_reg": "WC341600",
+      "dam_name": "VARNER'S SCHATZI",
+      "dam_reg": "WC523366",
+      "breeders": [
+        "J & P MESTAS",
+        "M & K VARNER"
+      ],
+      "owners": [
+        "J & P MESTAS",
+        "M & K VARNER"
+      ]
+    },
+    {
+      "reg_number": "WE401641",
+      "name": "MATTHEW'S SUE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-26-77",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "DUKE VON WINDSOR XIV",
+      "sire_reg": "WC703063",
+      "dam_name": "BOBBI VON FALKENBERG III",
+      "dam_reg": "WC458777",
+      "breeders": [
+        "R ERTZ",
+        "R FALKENBERG"
+      ],
+      "owners": [
+        "R ERTZ",
+        "R FALKENBERG"
+      ]
+    },
+    {
+      "reg_number": "WC275331",
+      "name": "MATTHEW'S BULLET",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-28-72",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "COCO LULU",
+      "sire_reg": "WD005885",
+      "dam_name": "MISS ABIGAIL",
+      "dam_reg": "WD895393",
+      "breeders": [
+        "K ESCALERA",
+        "M COWDEN"
+      ],
+      "owners": [
+        "K ESCALERA",
+        "M COWDEN"
+      ]
+    },
+    {
+      "reg_number": "WD989491",
+      "name": "MAX GIBERTI",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-28-78",
+      "color_code": "BRDL & WH",
+      "breed": "Boxer",
+      "sire_name": "MAR-RAY'S BRIGADIER",
+      "sire_reg": "WD477266",
+      "dam_name": "THE FIRST NOEL II",
+      "dam_reg": "WD254662",
+      "breeders": [
+        "R D'ALONZO",
+        "K SMEDLEY"
+      ],
+      "owners": [
+        "R D'ALONZO",
+        "K SMEDLEY"
+      ]
+    },
+    {
+      "reg_number": "WD886003",
+      "name": "ME-DON'S PRIDE OF SUZIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-14-77",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "CH TRADONALEE'S BISMARK",
+      "sire_reg": "WC999900",
+      "dam_name": "MARHUNT'S SPICY INJUN LADY",
+      "dam_reg": "WD409607",
+      "breeders": [
+        "P CARRUTHERS",
+        "V MCGARRY",
+        "M UNTER"
+      ],
+      "owners": [
+        "P CARRUTHERS",
+        "V MCGARRY"
+      ]
+    },
+    {
+      "reg_number": "WE313083",
+      "name": "MINNE SOTA OF IOWA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-7-77",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "CH HERNDON'S PURE MAGIC",
+      "sire_reg": "WC896229",
+      "dam_name": "HERNDON'S PROJE'GE'S PROMISE",
+      "dam_reg": "WD272584",
+      "breeders": [
+        "J WILSON",
+        "G ENGEMANN SR"
+      ],
+      "owners": [
+        "J WILSON",
+        "G ENGEMANN SR"
+      ]
+    },
+    {
+      "reg_number": "WD837085",
+      "name": "MISS ANN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-16-77",
+      "color_code": "BRDL & WH",
+      "breed": "Boxer",
+      "sire_name": "PRINCE GARY",
+      "sire_reg": "WC850126",
+      "dam_name": "PEARL OF SHORELSBURG",
+      "dam_reg": "WD468464",
+      "breeders": [
+        "H & B BOYERS",
+        "B SMALL SR"
+      ],
+      "owners": [
+        "H & B BOYERS",
+        "B SMALL SR"
+      ]
+    },
+    {
+      "reg_number": "WD567854",
+      "name": "MISS FRISKY LADY VI",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-3-76",
+      "color_code": "BRDL & WH",
+      "breed": "Boxer",
+      "sire_name": "SAM JOHN WAYNE",
+      "sire_reg": "WB030448",
+      "dam_name": "CANDY KISSES",
+      "dam_reg": "WD013464",
+      "breeders": [
+        "P KICKLIGHTER",
+        "J HOLMES"
+      ],
+      "owners": [
+        "P KICKLIGHTER",
+        "J HOLMES"
+      ]
+    },
+    {
+      "reg_number": "WE132250",
+      "name": "MISS KANDI OF BALDWIN ROAD",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-12-78",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "ZERO'S ZODIAC",
+      "sire_reg": "WC868947",
+      "dam_name": "SWAN LAKE",
+      "dam_reg": "WD907179",
+      "breeders": [
+        "L & V ARONSON",
+        "M MCLEOD"
+      ],
+      "owners": [
+        "L & V ARONSON",
+        "M MCLEOD"
+      ]
+    },
+    {
+      "reg_number": "WD520397",
+      "name": "MISSY'S DELIGHT",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-27-76",
+      "color_code": "FN & WH",
+      "breed": "Boxer",
+      "sire_name": "ZERO STRATTON",
+      "sire_reg": "WC265813",
+      "dam_name": "FRIEDA VON GOLIC",
+      "dam_reg": "WC622461",
+      "breeders": [
+        "R GILIBERTI",
+        "S GOLIC"
+      ],
+      "owners": [
+        "R GILIBERTI",
+        "S GOLIC"
+      ]
+    },
+    {
+      "reg_number": "WD993249",
+      "name": "MISTRESS TARA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-1-78",
+      "color_code": "BRDL & WH",
+      "breed": "Boxer",
+      "sire_name": "CH CHERYSLEMAN'S MINSTREL BOY",
+      "sire_reg": "WB675589",
+      "dam_name": "MEMORIES OF CHERRY ROAD",
+      "dam_reg": "WC207095",
+      "breeders": [
+        "F DUBE",
+        "A PONSART",
+        "R S PONSART"
+      ],
+      "owners": [
+        "F DUBE",
+        "A PONSART",
+        "R S PONSART"
+      ]
+    }
+  ]
+}

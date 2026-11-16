@@ -1,0 +1,26 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A67163",
+      "name": "ICH DORIAN V MARIENHOF OF MAZELAINE",
+      "titles": "ICH",
+      "sex": "D",
+      "birth_date": "4-15-33",
+      "color_code": "Brindle",
+      "breed": "Boxer",
+      "sire_name": "ICH Xerxes v Dom",
+      "sire_reg": null,
+      "dam_name": "Belinde Hassia",
+      "dam_reg": null,
+      "breeders": [
+        "Frau Thekla Schneider",
+        "West Germany"
+      ],
+      "owners": [
+        "John P. Wagner"
+      ]
+    }
+  ]
+}

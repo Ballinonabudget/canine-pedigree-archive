@@ -1,0 +1,26 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A66220",
+      "name": "CH CRONA V ZWERGECK",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "5-36",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "CH Lustig v Dom",
+      "sire_reg": null,
+      "dam_name": "Britta v Konigssee",
+      "dam_reg": null,
+      "breeders": [
+        "Frau Marie Lefevre"
+      ],
+      "owners": [
+        "John P. Wagner",
+        "Walter M. Kearns"
+      ]
+    }
+  ]
+}

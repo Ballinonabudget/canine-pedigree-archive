@@ -1,0 +1,1372 @@
+{
+  "breed": "Boxer",
+  "date_header": "June, 1953",
+  "dogs": [
+    {
+      "reg_number": "W380177",
+      "name": "Martin's Stern Dunst",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-19-51",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Army's Top Brass",
+      "sire_reg": "W206007",
+      "dam_name": "Taffy VII",
+      "dam_reg": "W188420",
+      "breeders": [
+        "J. H. Eady"
+      ],
+      "owners": [
+        "V. J. Martin"
+      ]
+    },
+    {
+      "reg_number": "W365953",
+      "name": "Marvin's Stardust Sallee",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-28-51",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Count von Maxamillion",
+      "sire_reg": "W285993",
+      "dam_name": "Paul's Star Dust",
+      "dam_reg": "W134525",
+      "breeders": [
+        "Mrs. Paul M. Hayrm"
+      ],
+      "owners": [
+        "Verl B. Marvin"
+      ]
+    },
+    {
+      "reg_number": "W358290",
+      "name": "Mary (B)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-19-51",
+      "color_code": "blk & wh msk",
+      "breed": "Boxer",
+      "sire_name": "Baron von Lupe",
+      "sire_reg": "W170991",
+      "dam_name": "Memphis' Royal Queen",
+      "dam_reg": "W141612",
+      "breeders": [
+        "Jim Barbee"
+      ],
+      "owners": [
+        "Jack N. Denton"
+      ]
+    },
+    {
+      "reg_number": "W385475",
+      "name": "Matheny's Queen",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-10-49",
+      "color_code": "blk msk",
+      "breed": "Boxer",
+      "sire_name": "High Spot Jack Pot",
+      "sire_reg": "W139086",
+      "dam_name": "Muffin v Schwerin",
+      "dam_reg": "W86850",
+      "breeders": [
+        "Arthur S. Paulsen"
+      ],
+      "owners": [
+        "Wm. E. Matheny"
+      ]
+    },
+    {
+      "reg_number": "W347716",
+      "name": "Matzie Walton",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-17-50",
+      "color_code": "Fn, wh mkgs",
+      "breed": "Boxer",
+      "sire_name": "Burly King Harry",
+      "sire_reg": "W731",
+      "dam_name": "James' Butch",
+      "dam_reg": "W146637",
+      "breeders": [
+        "James H. Privette"
+      ],
+      "owners": [
+        "Mildred Walton"
+      ]
+    },
+    {
+      "reg_number": "W375546",
+      "name": "Max-A-Million Bryarly",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-16-50",
+      "color_code": "Gldn brdl, wh on toe",
+      "breed": "Boxer",
+      "sire_name": "Ch. Bladan's-U-Chetnik",
+      "sire_reg": "A638276",
+      "dam_name": "Victoria Victory",
+      "dam_reg": "W116395",
+      "breeders": [
+        "Melvin S. Jones"
+      ],
+      "owners": [
+        "Geraldine L. Bryarly"
+      ]
+    },
+    {
+      "reg_number": "W370500",
+      "name": "Maximilian The Great",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-22-51",
+      "color_code": "Blk msk, wh",
+      "breed": "Boxer",
+      "sire_name": "Eric the Great of Kesthal",
+      "sire_reg": "A701186",
+      "dam_name": "Halli v Hellabrunn",
+      "dam_reg": "W282251",
+      "breeders": [
+        "Johnie L. Hendrix, Jr.",
+        "D. R. & C. S. Holbr"
+      ],
+      "owners": [
+        "Arnold L. & Lola Demek"
+      ]
+    },
+    {
+      "reg_number": "W3372893",
+      "name": "Max of Newhall",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-16-51",
+      "color_code": "Fn, blk msk, wh mkgs",
+      "breed": "Boxer",
+      "sire_name": "Slugger the Great",
+      "sire_reg": "W164223",
+      "dam_name": "Zita of Newhall",
+      "dam_reg": "W166211",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "William J. Stepp"
+      ]
+    },
+    {
+      "reg_number": "W326351",
+      "name": "Mazelaine's Ursa Minor",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-29-51",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Ch. Ursa Major of Sirrah Crest",
+      "sire_reg": "W60993",
+      "dam_name": "Ch. Clinaud's Amberly",
+      "dam_reg": "W78180",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mr. & Mrs. J. P. Wagner"
+      ]
+    },
+    {
+      "reg_number": "W351363",
+      "name": "Mees' Sparky",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-4-51",
+      "color_code": "Gldn brdl",
+      "breed": "Boxer",
+      "sire_name": "Duke of Whitehorn",
+      "sire_reg": "W140439",
+      "dam_name": "Patricia's Princess Petra",
+      "dam_reg": "W170465",
+      "breeders": [
+        "Keith D. Evans"
+      ],
+      "owners": [
+        "Theo. H. Mees"
+      ]
+    },
+    {
+      "reg_number": "W382393",
+      "name": "Meg von Gertz Geer",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-24-49",
+      "color_code": "Brdl",
+      "breed": "Boxer",
+      "sire_name": "Stein v Seeheim",
+      "sire_reg": "W39268",
+      "dam_name": "Minka v Teuffelsberg",
+      "dam_reg": "W66755",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mrs. G. A. Geer"
+      ]
+    },
+    {
+      "reg_number": "W385462",
+      "name": "Meg of Grayarlin",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-29-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Boxer",
+      "sire_name": "Putya",
+      "sire_reg": "W106500",
+      "dam_name": "Maria Ivanorna",
+      "dam_reg": "W283943",
+      "breeders": [
+        "C. M. & A. E. Zette"
+      ],
+      "owners": [
+        "J. F. Kamp & G. S. Pusey"
+      ]
+    },
+    {
+      "reg_number": "W379496",
+      "name": "Mel's Gypsy Girl",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-6-50",
+      "color_code": "Brdl, wh mkg",
+      "breed": "Boxer",
+      "sire_name": "Capri Est Hi-De-Ho High-Hat",
+      "sire_reg": "W131263",
+      "dam_name": "Fraulein Felina Sachs",
+      "dam_reg": "W227166",
+      "breeders": [
+        "Erle Danley"
+      ],
+      "owners": [
+        "M. J. Leary"
+      ]
+    },
+    {
+      "reg_number": "W360968",
+      "name": "Mercury's Main Event",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-20-51",
+      "color_code": "Fn, blk msk, wh",
+      "breed": "Boxer",
+      "sire_name": "Ch. Mercury of Birchdell",
+      "sire_reg": "W6958 C.D.",
+      "dam_name": "Quidadid of Sirrah Crest",
+      "dam_reg": "W31035",
+      "breeders": [
+        "Mr. & Mrs. Guy Ha."
+      ],
+      "owners": [
+        "Hans Schnabel"
+      ]
+    },
+    {
+      "reg_number": "W363149",
+      "name": "Meyer's Eric",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-30-49",
+      "color_code": "Brdl, wh mkgs",
+      "breed": "Boxer",
+      "sire_name": "Ch. War Major of Crystal",
+      "sire_reg": "A796154",
+      "dam_name": "Reba of Cedarvale",
+      "dam_reg": "W97948",
+      "breeders": [
+        "James H. Burke"
+      ],
+      "owners": [
+        "Mrs. Matilda J. Meyer"
+      ]
+    },
+    {
+      "reg_number": "W382069",
+      "name": "Micheals Jerra Boy",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-20-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Boxer",
+      "sire_name": "Aberdare of Allspath",
+      "sire_reg": "W19326",
+      "dam_name": "B. E's Lady",
+      "dam_reg": "W90760",
+      "breeders": [
+        "B. E. Willis"
+      ],
+      "owners": [
+        "J. W. Holbrook"
+      ]
+    },
+    {
+      "reg_number": "W322274",
+      "name": "Midge IX",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-28-51",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Rock Knoll Ragtime",
+      "sire_reg": "W118456",
+      "dam_name": "Rock Knoll Ripple",
+      "dam_reg": "W140548",
+      "breeders": [
+        "Axel W. Pearson"
+      ],
+      "owners": [
+        "Milton Grygielko"
+      ]
+    },
+    {
+      "reg_number": "W379535",
+      "name": "Midge v Wiley",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-5-50",
+      "color_code": "Brdl",
+      "breed": "Boxer",
+      "sire_name": "Ch. Abner v Neu",
+      "sire_reg": "W77653",
+      "dam_name": "Risque Lady of Knox",
+      "dam_reg": "W169701",
+      "breeders": [
+        "Thomas Reece"
+      ],
+      "owners": [
+        "Jack H. Poiand"
+      ]
+    },
+    {
+      "reg_number": "W358150",
+      "name": "Mike of Red Gap",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-5-50",
+      "color_code": "Fn, blk msk",
+      "breed": "Boxer",
+      "sire_name": "Butch of Red Gap",
+      "sire_reg": "W327514",
+      "dam_name": "Allo's Gretchen",
+      "dam_reg": "W181959",
+      "breeders": [
+        "A. V. Schwartz, Jr."
+      ],
+      "owners": [
+        "Edwin C. Peterson"
+      ]
+    },
+    {
+      "reg_number": "W383567",
+      "name": "Ming Toi",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-5-49",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Corydon's Agis",
+      "sire_reg": "W24763",
+      "dam_name": "Kit of Hickory Hills",
+      "dam_reg": "W88082",
+      "breeders": [
+        "A. S. Lewis"
+      ],
+      "owners": [
+        "A. Goff Bedford"
+      ]
+    },
+    {
+      "reg_number": "W382415",
+      "name": "Miss Cheatham v d Troy",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-30-49",
+      "color_code": "Fn, blk msk, wh",
+      "breed": "Boxer",
+      "sire_name": "Hark-O Triumph",
+      "sire_reg": "W59620",
+      "dam_name": "Phrona Bell v d Springbrook",
+      "dam_reg": "W146137",
+      "breeders": [
+        "Edwin C. Cheatham"
+      ],
+      "owners": [
+        "Wallace F. Callaway"
+      ]
+    },
+    {
+      "reg_number": "W322910",
+      "name": "Miss Donna Chips",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-19-51",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Gay Oak's Gold Rush",
+      "sire_reg": "W189691",
+      "dam_name": "Deborah of Englewood",
+      "dam_reg": "W264039",
+      "breeders": [
+        "Adam M. Uschak"
+      ],
+      "owners": [
+        "Richard S. Youschak"
+      ]
+    },
+    {
+      "reg_number": "W387610",
+      "name": "Miss Hush of Carrollton",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-23-47",
+      "color_code": "Fn, wh mkgs",
+      "breed": "Boxer",
+      "sire_name": "Carrollton's Sir Galahad",
+      "sire_reg": "W57359",
+      "dam_name": "Fauna of Willowvale",
+      "dam_reg": "W24503",
+      "breeders": [
+        "Thomas J. Savage"
+      ],
+      "owners": [
+        "John T. Smith"
+      ]
+    },
+    {
+      "reg_number": "W376053",
+      "name": "Miss Malissa",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-21-51",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Johnny Boy",
+      "sire_reg": "W53185",
+      "dam_name": "Miss Malinda",
+      "dam_reg": "W178152",
+      "breeders": [
+        "Darroll L. Lettingto"
+      ],
+      "owners": [
+        "Duane I. Lundgren"
+      ]
+    },
+    {
+      "reg_number": "W370634",
+      "name": "Miss Vixen's Duchess",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-26-51",
+      "color_code": "Brdl",
+      "breed": "Boxer",
+      "sire_name": "Wil-Lans Warwick Duke",
+      "sire_reg": "W47649",
+      "dam_name": "Lady Susie's Miss Vixen",
+      "dam_reg": "W164101",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Ruth Buchanan"
+      ]
+    },
+    {
+      "reg_number": "W402246",
+      "name": "Mister Fritz of Ditty Ridge",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-21-51",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Wuttke Carry-On",
+      "sire_reg": "W168286",
+      "dam_name": "Aladdin Miss Eva",
+      "dam_reg": "W157540",
+      "breeders": [
+        "Mary C. Mayson"
+      ],
+      "owners": [
+        "Robert P. Vincent"
+      ]
+    },
+    {
+      "reg_number": "W365357",
+      "name": "Mister Rocko",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-20-49",
+      "color_code": "Fn, wh mkgs",
+      "breed": "Boxer",
+      "sire_name": "Ch. Mazelaine's Masterpiece",
+      "sire_reg": "A924623",
+      "dam_name": "Kalua's Prelude",
+      "dam_reg": "W74239",
+      "breeders": [
+        "Richard R. Doell"
+      ],
+      "owners": [
+        "John E. Timmons"
+      ]
+    },
+    {
+      "reg_number": "W337303",
+      "name": "Mister Zeb",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-22-51",
+      "color_code": "Brdl, wh mkgs",
+      "breed": "Boxer",
+      "sire_name": "Ch. Vick Wick of Sirrah Crest",
+      "sire_reg": "W71824",
+      "dam_name": "Roxanne of Lake Bay",
+      "dam_reg": "W94106",
+      "breeders": [
+        "Joseph B. Barr"
+      ],
+      "owners": [
+        "Lorraine Lagerstedt"
+      ]
+    },
+    {
+      "reg_number": "W325559",
+      "name": "Mistletoe Kruger",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-14-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Boxer",
+      "sire_name": "Rudolph of Melsterr",
+      "sire_reg": "W232914",
+      "dam_name": "Golden Idol",
+      "dam_reg": "W220192",
+      "breeders": [
+        "Joseph Mongillo"
+      ],
+      "owners": [
+        "Andrea Z. Kruger"
+      ]
+    },
+    {
+      "reg_number": "W388815",
+      "name": "Mitzie Flash",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-6-51",
+      "color_code": "Fn, wh mkgs",
+      "breed": "Boxer",
+      "sire_name": "Ch. Miltonian's Cossack",
+      "sire_reg": "W109923",
+      "dam_name": "Ginger of Fairview",
+      "dam_reg": "W228668",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Geo. N. Brent"
+      ]
+    },
+    {
+      "reg_number": "W390397",
+      "name": "Mitzie von Kimbolten",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-27-51",
+      "color_code": "Fn, wh mkgs",
+      "breed": "Boxer",
+      "sire_name": "Gay Dan's Sentinel v Kimbolten",
+      "sire_reg": "W159351",
+      "dam_name": "Varga von Walterhorst",
+      "dam_reg": "W181235",
+      "breeders": [
+        "Gilbert L. Johnson"
+      ],
+      "owners": [
+        "La Verne A. Hansen"
+      ]
+    },
+    {
+      "reg_number": "W333545",
+      "name": "Mitzin of Danby",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-30-51",
+      "color_code": "Brdl",
+      "breed": "Boxer",
+      "sire_name": "Sir Ordway",
+      "sire_reg": "W191134",
+      "dam_name": "Kathlees Lady Lucinda",
+      "dam_reg": "W327518",
+      "breeders": [
+        "Leona K. Katherine"
+      ],
+      "owners": [
+        "Fred H. Fuller, Jr."
+      ]
+    },
+    {
+      "reg_number": "W354018",
+      "name": "Mobilio's Girl",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-13-52",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "King Dutch",
+      "sire_reg": "W69997",
+      "dam_name": "Dobby's Honey Girl",
+      "dam_reg": "A845424",
+      "breeders": [
+        "Julio Mobilio"
+      ],
+      "owners": [
+        "Frederic A. Law"
+      ]
+    },
+    {
+      "reg_number": "W373972",
+      "name": "Mommy",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-6-50",
+      "color_code": "Fn, blk msk",
+      "breed": "Boxer",
+      "sire_name": "Alan of Culmer",
+      "sire_reg": "A969184",
+      "dam_name": "Judy of Highlandtown",
+      "dam_reg": "W21047",
+      "breeders": [
+        "Henri E. Reinhard"
+      ],
+      "owners": [
+        "V. B. & L. C. Olsen"
+      ]
+    },
+    {
+      "reg_number": "W341655",
+      "name": "Monica III",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-14-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Boxer",
+      "sire_name": "Ch. Ursa Major of Sirrah Crest",
+      "sire_reg": "W165494",
+      "dam_name": "Glenbell Our Gal Gretel",
+      "dam_reg": "W140595 C.D.",
+      "breeders": [
+        "Mr. & Mrs. Glenn F",
+        "Mr. & Mrs. Stephen"
+      ],
+      "owners": [
+        "Maggie Ferguson"
+      ]
+    },
+    {
+      "reg_number": "W386768",
+      "name": "Mosel's Aladdin",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-22-50",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Major v Falk",
+      "sire_reg": "W174307",
+      "dam_name": "Unita von Tal",
+      "dam_reg": "W181134",
+      "breeders": [
+        "Mosel Kennels"
+      ],
+      "owners": [
+        "Margaret O'Gorman"
+      ]
+    },
+    {
+      "reg_number": "W391087",
+      "name": "Mr. Independence",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-4-51",
+      "color_code": "Brdl, blk msk, wh mkgs",
+      "breed": "Boxer",
+      "sire_name": "Bill v Kreuz",
+      "sire_reg": "",
+      "dam_name": "Oliver's Bronze Star",
+      "dam_reg": "W125719",
+      "breeders": [
+        "William W. McDowell"
+      ],
+      "owners": [
+        "William W. McDowell"
+      ]
+    },
+    {
+      "reg_number": "W378642",
+      "name": "Mr Ric",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-11-51",
+      "color_code": "Rd Fn",
+      "breed": "Boxer",
+      "sire_name": "Fostoria's Emblem",
+      "sire_reg": "W98077",
+      "dam_name": "Majestic Lady",
+      "dam_reg": "W65957",
+      "breeders": [
+        "Alice V. Gilbert"
+      ],
+      "owners": [
+        "Alice V. Gilbert"
+      ]
+    },
+    {
+      "reg_number": "W322973",
+      "name": "Muggins Egon",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-13-50",
+      "color_code": "Fn, blk msk",
+      "breed": "Boxer",
+      "sire_name": "Ch. Mr. Tutt",
+      "sire_reg": "W22795",
+      "dam_name": "Burgl v Wetterstein",
+      "dam_reg": "W323257 12-52",
+      "breeders": [
+        "Mr. & Mrs. G. P. Meu"
+      ],
+      "owners": [
+        "Harry Jenks"
+      ]
+    },
+    {
+      "reg_number": "W358970",
+      "name": "Muggs of Haven",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-29-49",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Cloudland Egon",
+      "sire_reg": "W136668",
+      "dam_name": "Duchess of Forest Lakes",
+      "dam_reg": "W134611",
+      "breeders": [
+        "Mrs. Doris Mull"
+      ],
+      "owners": [
+        "Mrs. Doris Mull"
+      ]
+    },
+    {
+      "reg_number": "W382573",
+      "name": "Mull's Golden Penny",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-29-52",
+      "color_code": "Fn, wh mkg",
+      "breed": "Boxer",
+      "sire_name": "Ch. Eustace Mein",
+      "sire_reg": "W2174",
+      "dam_name": "Duchess of Plymouth",
+      "dam_reg": "W39239",
+      "breeders": [
+        "Mitchell C. Murphy"
+      ],
+      "owners": [
+        "Mitchell C. Murphy"
+      ]
+    },
+    {
+      "reg_number": "W393716",
+      "name": "Murphy's Blaze",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-25-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Boxer",
+      "sire_name": "Adolph De Cadillac",
+      "sire_reg": "W170451",
+      "dam_name": "Pet La Rue",
+      "dam_reg": "W170452",
+      "breeders": [
+        "Mitchell C. Murphy"
+      ],
+      "owners": [
+        "Mitchell C. Murphy"
+      ]
+    },
+    {
+      "reg_number": "W393717",
+      "name": "Murphy's Patrika",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-22-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Boxer",
+      "sire_name": "Mac's Eric",
+      "sire_reg": "W195843",
+      "dam_name": "Abannette's Diana",
+      "dam_reg": "W212607",
+      "breeders": [
+        "Max M. Calhoun, Jr."
+      ],
+      "owners": [
+        "Max M. Calhoun, Jr."
+      ]
+    },
+    {
+      "reg_number": "W327288",
+      "name": "My Catherine the Empress",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-4-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Boxer",
+      "sire_name": "Rote Faust of Hartville",
+      "sire_reg": "W67074",
+      "dam_name": "Gretel of Laderic",
+      "dam_reg": "W266852",
+      "breeders": [
+        "Emma J. Wilson"
+      ],
+      "owners": [
+        "Emma J. Wilson"
+      ]
+    },
+    {
+      "reg_number": "W366190",
+      "name": "My Friend Flicka",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-21-51",
+      "color_code": "Fn, blk msk, wh mkgs",
+      "breed": "Boxer",
+      "sire_name": "Colonel Jim",
+      "sire_reg": "W125417",
+      "dam_name": "Innocent Miss Damrosch",
+      "dam_reg": "W155204",
+      "breeders": [
+        "Robert H. & Joy O. White"
+      ],
+      "owners": [
+        "Robert H. & Joy O. White"
+      ]
+    },
+    {
+      "reg_number": "W337144",
+      "name": "Mynheeeer Dyke",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-24-51",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Challenge of Treceder",
+      "sire_reg": "W43627",
+      "dam_name": "Betty v Diogenes",
+      "dam_reg": "W318366",
+      "breeders": [
+        "Truman D. Traxler"
+      ],
+      "owners": [
+        "Truman D. Traxler"
+      ]
+    },
+    {
+      "reg_number": "W346685",
+      "name": "Mystery",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-16-51",
+      "color_code": "Fn, blk msk, wh mkgs",
+      "breed": "Boxer",
+      "sire_name": "Conjurer of Woodcrest",
+      "sire_reg": "W77628",
+      "dam_name": "Lady Belvedere of Harkelroad",
+      "dam_reg": "W192517",
+      "breeders": [
+        "Randall & June Morley"
+      ],
+      "owners": [
+        "Randall & June Morley"
+      ]
+    },
+    {
+      "reg_number": "W327726",
+      "name": "Naomi's Tinka",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-17-51",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Graf Bauerstadt",
+      "sire_reg": "W242633",
+      "dam_name": "Vala re of Santa Fe",
+      "dam_reg": "W257541",
+      "breeders": [
+        "John H. Tonkin"
+      ],
+      "owners": [
+        "John H. Tonkin"
+      ]
+    },
+    {
+      "reg_number": "W337800",
+      "name": "Najray Mr. Bo",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-10-51",
+      "color_code": "Fn, wh mkg",
+      "breed": "Boxer",
+      "sire_name": "Locha Poka's Duke",
+      "sire_reg": "W128542",
+      "dam_name": "Casey's Baby Doll",
+      "dam_reg": "W228583",
+      "breeders": [
+        "Joseph Henry Ruffin"
+      ],
+      "owners": [
+        "Joseph Henry Ruffin"
+      ]
+    },
+    {
+      "reg_number": "W341370",
+      "name": "Nancy of Baltimore",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-1-52",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Ch. Southdown's Veto",
+      "sire_reg": "W87956",
+      "dam_name": "Keegan's Kavotte",
+      "dam_reg": "W33482",
+      "breeders": [
+        "Naomi Lewis"
+      ],
+      "owners": [
+        "Naomi Lewis"
+      ]
+    },
+    {
+      "reg_number": "W387617",
+      "name": "Newtons Monarch",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-24-50",
+      "color_code": "Blk msk",
+      "breed": "Boxer",
+      "sire_name": "Lord Dover",
+      "sire_reg": "W254170",
+      "dam_name": "Lady Koko",
+      "dam_reg": "W191393",
+      "breeders": [
+        "M. C. Griffin"
+      ],
+      "owners": [
+        "M. C. Griffin"
+      ]
+    },
+    {
+      "reg_number": "W379565",
+      "name": "Nicholas von Augsburg",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-28-50",
+      "color_code": "Brdl",
+      "breed": "Boxer",
+      "sire_name": "Teddy Bubbling Over",
+      "sire_reg": "W85619",
+      "dam_name": "Sasha von Wellings",
+      "dam_reg": "W229707",
+      "breeders": [
+        "James H. Evans"
+      ],
+      "owners": [
+        "James H. Evans"
+      ]
+    },
+    {
+      "reg_number": "W369615",
+      "name": "Nova Castria's of Bouncer",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-17-51",
+      "color_code": "Brdl, wh chest",
+      "breed": "Boxer",
+      "sire_name": "Firecracker II",
+      "sire_reg": "W199662",
+      "dam_name": "Chalet Aurora of Basiua",
+      "dam_reg": "W89296",
+      "breeders": [
+        "Leola North"
+      ],
+      "owners": [
+        "Leola North"
+      ]
+    },
+    {
+      "reg_number": "W372248",
+      "name": "Our Lady of Aranci",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-16-50",
+      "color_code": "Fn, blk msk",
+      "breed": "Boxer",
+      "sire_name": "Nelson",
+      "sire_reg": "W85209",
+      "dam_name": "Ambassadress of Mearme",
+      "dam_reg": "W82637",
+      "breeders": [
+        "Florence Bach"
+      ],
+      "owners": [
+        "Florence Bach"
+      ]
+    },
+    {
+      "reg_number": "W327455",
+      "name": "Our Southern Honey",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-5-51",
+      "color_code": "Gldn Fn",
+      "breed": "Boxer",
+      "sire_name": "Barro v Fruhlingsheim",
+      "sire_reg": "W381226 3-53",
+      "dam_name": "Schone Augen",
+      "dam_reg": "W372223 3-53",
+      "breeders": [
+        "Raymond Caranci"
+      ],
+      "owners": [
+        "Raymond Caranci"
+      ]
+    },
+    {
+      "reg_number": "W386612",
+      "name": "Pal of Harris Ranch",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-1-51",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Birchbark Nova-Castria Chico",
+      "sire_reg": "W80574",
+      "dam_name": "Fawn of Hibernia",
+      "dam_reg": "W103673",
+      "breeders": [
+        "Samuel J. Craig"
+      ],
+      "owners": [
+        "Samuel J. Craig"
+      ]
+    },
+    {
+      "reg_number": "W381397",
+      "name": "Pamela of Bronruth",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-9-49",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Delbet Ike",
+      "sire_reg": "A91441",
+      "dam_name": "Empress Tanya of Tewor",
+      "dam_reg": "W218957",
+      "breeders": [
+        "Ernest Harris"
+      ],
+      "owners": [
+        "Ernest Harris"
+      ]
+    },
+    {
+      "reg_number": "W385473",
+      "name": "Pat and Dot's Toby",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-8-50",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Von Bismarck of Harrowgate",
+      "sire_reg": "W274014",
+      "dam_name": "Queen of Kennydale",
+      "dam_reg": "W168904",
+      "breeders": [
+        "Estella M. Hatch"
+      ],
+      "owners": [
+        "Estella M. Hatch"
+      ]
+    },
+    {
+      "reg_number": "W379695",
+      "name": "Patrica of Buttonwoods",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-51",
+      "color_code": "Fn, wh feet",
+      "breed": "Boxer",
+      "sire_name": "Tiger IV",
+      "sire_reg": "W135292",
+      "dam_name": "Precocious Gwen",
+      "dam_reg": "W201709",
+      "breeders": [
+        "Francis S. Dwyer"
+      ],
+      "owners": [
+        "Francis S. Dwyer"
+      ]
+    },
+    {
+      "reg_number": "W382396",
+      "name": "Patsy of Lincoln Lane",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-12-48",
+      "color_code": "Fn, blk msk, wh",
+      "breed": "Boxer",
+      "sire_name": "Influx of Schwaby's",
+      "sire_reg": "A997354",
+      "dam_name": "Princess K. of Bronruth",
+      "dam_reg": "W152245",
+      "breeders": [
+        "Robert W. Caldwell, Jr."
+      ],
+      "owners": [
+        "Robert W. Caldwell, Jr."
+      ]
+    },
+    {
+      "reg_number": "W330043",
+      "name": "Patsy of Xanderl",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-19-51",
+      "color_code": "Gldn brdl",
+      "breed": "Boxer",
+      "sire_name": "Cohn's Royal Charm",
+      "sire_reg": "W214607",
+      "dam_name": "Leesa",
+      "dam_reg": "W107546",
+      "breeders": [
+        "Angelo J. Schiavo"
+      ],
+      "owners": [
+        "Angelo J. Schiavo"
+      ]
+    },
+    {
+      "reg_number": "W360164",
+      "name": "Pauls Fritz of Sinne",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-11-51",
+      "color_code": "Brdl",
+      "breed": "Boxer",
+      "sire_name": "Slugger of Somerset",
+      "sire_reg": "W144842",
+      "dam_name": "Patricia of Chashen Acres",
+      "dam_reg": "W58164",
+      "breeders": [
+        "Edwin L. Layton"
+      ],
+      "owners": [
+        "Edwin L. Layton"
+      ]
+    },
+    {
+      "reg_number": "W344348",
+      "name": "Peggy XX",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-15-50",
+      "color_code": "Brdl, wh chest",
+      "breed": "Boxer",
+      "sire_name": "Jimmy's Major",
+      "sire_reg": "A567870",
+      "dam_name": "Katreana v d Jahnshohle",
+      "dam_reg": "A966381",
+      "breeders": [
+        "Paul E. Tullar"
+      ],
+      "owners": [
+        "Paul E. Tullar"
+      ]
+    },
+    {
+      "reg_number": "W377376",
+      "name": "Peggy Ann of Mikals",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-2-52",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "El-Knuk's Ruff 'n' Tutt",
+      "sire_reg": "W10953",
+      "dam_name": "Lassie of Xanderl",
+      "dam_reg": "W22082",
+      "breeders": [
+        "Alexander J. Szczepanski"
+      ],
+      "owners": [
+        "Alexander J. Szczepanski"
+      ]
+    },
+    {
+      "reg_number": "W364899",
+      "name": "Peggy Bardo Candida",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-25-50",
+      "color_code": "Brdl, wh mkgs",
+      "breed": "Boxer",
+      "sire_name": "Dork of Sinne",
+      "sire_reg": "W58943",
+      "dam_name": "Braun Hilda",
+      "dam_reg": "W282780",
+      "breeders": [
+        "Orville Tucker"
+      ],
+      "owners": [
+        "Orville Tucker"
+      ]
+    },
+    {
+      "reg_number": "W368375",
+      "name": "Peggy of Blaze n Mirth",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-16-50",
+      "color_code": "Fn, wh feet",
+      "breed": "Boxer",
+      "sire_name": "Frederick v Kiegfeld",
+      "sire_reg": "W6294",
+      "dam_name": "Lady Cindy Lou II",
+      "dam_reg": "W141856",
+      "breeders": [
+        "Mrs. Grace Stewart"
+      ],
+      "owners": [
+        "Mrs. Grace Stewart"
+      ]
+    },
+    {
+      "reg_number": "W326111",
+      "name": "Penalope of Eloise",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-6-51",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Pix-Win's Sir Golden Donohue",
+      "sire_reg": "W278772",
+      "dam_name": "Bright Penny of May Don",
+      "dam_reg": "W208394",
+      "breeders": [
+        "Warren A. Botsford"
+      ],
+      "owners": [
+        "Warren A. Botsford"
+      ]
+    },
+    {
+      "reg_number": "W393725",
+      "name": "Pendel Pepper's von Esta",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-1-51",
+      "color_code": "Fn, wh mkg",
+      "breed": "Boxer",
+      "sire_name": "Bardo of Lazy B.",
+      "sire_reg": "W70583",
+      "dam_name": "Candida v Battental",
+      "dam_reg": "W131070",
+      "breeders": [
+        "Adele Dorkin"
+      ],
+      "owners": [
+        "Adele Dorkin"
+      ]
+    },
+    {
+      "reg_number": "W341375",
+      "name": "Penelope of Briardale",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-22-51",
+      "color_code": "Fn, blk mkgs",
+      "breed": "Boxer",
+      "sire_name": "Blaze Away of Char-Dale",
+      "sire_reg": "A941997",
+      "dam_name": "Robinson's Mirth",
+      "dam_reg": "W105165",
+      "breeders": [
+        "Daniel D. Teeter"
+      ],
+      "owners": [
+        "Daniel D. Teeter"
+      ]
+    },
+    {
+      "reg_number": "W370925",
+      "name": "Penelope of Seagrove",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-18-51",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Ch. Eustace Mein",
+      "sire_reg": "W2174",
+      "dam_name": "Allyn's Windy of Meadowdale",
+      "dam_reg": "W214417",
+      "breeders": [
+        "John F. Martin"
+      ],
+      "owners": [
+        "John F. Martin"
+      ]
+    },
+    {
+      "reg_number": "W228508",
+      "name": "Sir Fritz Jamaye's Case Ace",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "Boxer",
+      "sire_name": "Ch. Pendel Pepper",
+      "sire_reg": "W12285",
+      "dam_name": "Harris Road Tinker",
+      "dam_reg": "W271872",
+      "breeders": [
+        "Paul M. Benedict"
+      ],
+      "owners": [
+        "James A. Robertson"
+      ]
+    },
+    {
+      "reg_number": "W176966",
+      "name": "Nocululo's Jo Jo",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "Boxer",
+      "sire_name": "Sir Fritz Jamaye's Case Ace",
+      "sire_reg": "W228508",
+      "dam_name": "Lady Briardale",
+      "dam_reg": "W135575",
+      "breeders": [],
+      "owners": []
+    }
+  ]
+}

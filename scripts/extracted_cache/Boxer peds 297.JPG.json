@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A209925",
+      "name": "HIGH SPOT LETTI",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-15-37",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "Armin v Hanseatenhof Stoeckersburg",
+      "sire_reg": null,
+      "dam_name": "Delma v d Stoeckersburg",
+      "dam_reg": null,
+      "breeders": [
+        "Paul Ladin"
+      ],
+      "owners": [
+        "Paul Ladin"
+      ]
+    }
+  ]
+}

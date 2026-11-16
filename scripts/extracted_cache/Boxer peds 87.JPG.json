@@ -1,0 +1,44 @@
+{
+  "breed": "Boxer",
+  "date_header": "June, 1953",
+  "dogs": [
+    {
+      "reg_number": "W366395",
+      "name": "Jean's Madchen",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-19-51",
+      "color_code": "fn, blk msk, wh mkgs",
+      "breed": "Boxer",
+      "sire_name": "Major of Cedaredge",
+      "sire_reg": "W143302",
+      "dam_name": "Countess of Ranchacirclell",
+      "dam_reg": "W171018",
+      "breeders": [
+        "Mrs. J. A. Bartl"
+      ],
+      "owners": [
+        "Mrs. M. E. Brown"
+      ]
+    },
+    {
+      "reg_number": "W346841",
+      "name": "Jenee Queen of Dawson",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-12-52",
+      "color_code": "Brdl",
+      "breed": "Boxer",
+      "sire_name": "Duke of Knightwood",
+      "sire_reg": "W154511",
+      "dam_name": "Lady Dawn of Bettina",
+      "dam_reg": "W254679",
+      "breeders": [
+        "R. B. & M. Tell Grudier"
+      ],
+      "owners": [
+        "H. M. & M. J. Shaull"
+      ]
+    }
+  ]
+}

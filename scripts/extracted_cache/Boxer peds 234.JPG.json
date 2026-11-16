@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A699005",
+      "name": "CH BONITA OF CROSS ACRES",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "1-27-43",
+      "color_code": "Brindle",
+      "breed": "Boxer",
+      "sire_name": "Eagle of Tulgey Wood",
+      "sire_reg": null,
+      "dam_name": "Bravenhartz Ionic Irene",
+      "dam_reg": null,
+      "breeders": [
+        "Mrs. C.G. Cross"
+      ],
+      "owners": [
+        "Miss Patsy Martin"
+      ]
+    }
+  ]
+}

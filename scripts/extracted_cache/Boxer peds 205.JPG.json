@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": "1947",
+  "dogs": [
+    {
+      "reg_number": "W2821",
+      "name": "CH APOLLO OF SAN JOAQUIN",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "4-02-45",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "CH Ingo v Tal",
+      "sire_reg": null,
+      "dam_name": "Gay Lady Inga of San Joaquin",
+      "dam_reg": null,
+      "breeders": [
+        "Mr. & Mrs. J. Howard Davis"
+      ],
+      "owners": [
+        "Mr. & Mrs. J. Howard Davis"
+      ]
+    }
+  ]
+}

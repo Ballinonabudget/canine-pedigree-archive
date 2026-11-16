@@ -1,0 +1,57 @@
+{
+  "breed": "Alaskan Malamute",
+  "date_header": "SEPTEMBER-2",
+  "dogs": [
+    {
+      "reg_number": "W340840",
+      "name": "of Silver Sled",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-1-51",
+      "color_code": "Wlf gr & wh",
+      "breed": "Alaskan Malamute",
+      "sire_name": "Ch. Nahkook II",
+      "sire_reg": "W225177",
+      "dam_name": "Oogerook of Silver Sled",
+      "dam_reg": "W301092",
+      "owners": [
+        "Charles P. Boyce"
+      ]
+    },
+    {
+      "reg_number": "W340839",
+      "name": "of Silver Sled",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-13-51",
+      "color_code": "Blk, wh msk",
+      "breed": "Alaskan Malamute",
+      "sire_name": "Ch. Nahkook II",
+      "sire_reg": "W225177",
+      "dam_name": "Oogerook of Silver-Sled",
+      "dam_reg": "W268622",
+      "owners": [
+        "C. P. & R. L. Boyce"
+      ]
+    },
+    {
+      "reg_number": "W409875",
+      "name": "zee Sargeant",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-10-50",
+      "color_code": "Blk",
+      "breed": "Alaskan Malamute",
+      "sire_name": "Ch. Nahkook II",
+      "sire_reg": "W225177",
+      "dam_name": "Oogerook of Silver-Sled",
+      "dam_reg": "W268622",
+      "breeders": [
+        "Ralph & Marcheta Schmitt"
+      ],
+      "owners": [
+        "Ralph & Marcheta Schmitt"
+      ]
+    }
+  ]
+}

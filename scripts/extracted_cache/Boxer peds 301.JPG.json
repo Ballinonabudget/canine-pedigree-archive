@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A373871",
+      "name": "HEIGH HO BRAMBLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-09-39",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "ICH Dorian v Marienhof of Mazelaine",
+      "sire_reg": null,
+      "dam_name": "Mazelaine Quagga",
+      "dam_reg": null,
+      "breeders": [
+        "Charles Dewitt Matsler"
+      ],
+      "owners": [
+        "Margaret Brundage"
+      ]
+    }
+  ]
+}

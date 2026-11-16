@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A31887",
+      "name": "CH DAGMAR OF MAZELAINE",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "4-23-35",
+      "color_code": "Brindle",
+      "breed": "Boxer",
+      "sire_name": "CH Argus v Konigssee of Mazelaine",
+      "sire_reg": null,
+      "dam_name": "Anitra of Mazelaine",
+      "dam_reg": null,
+      "breeders": [
+        "John P. Wagner"
+      ],
+      "owners": [
+        "John P. Wagner"
+      ]
+    }
+  ]
+}

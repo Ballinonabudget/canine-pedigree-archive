@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "WA816054",
+      "name": "CH HOLLY LANE'S WINDSTORM",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "5-29-66",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "CH Brashaw's Masquerader",
+      "sire_reg": null,
+      "dam_name": "CH Holly Lane's Cookie",
+      "dam_reg": null,
+      "breeders": [
+        "Dr. E. A. & Eileen McClintock"
+      ],
+      "owners": [
+        "Dr. E. A. & Eileen McClintock"
+      ]
+    }
+  ]
+}

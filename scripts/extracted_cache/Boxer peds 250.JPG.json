@@ -1,0 +1,26 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A711033",
+      "name": "CLINAUDE'S GINGER SNAP",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-12-43",
+      "color_code": "Brindle",
+      "breed": "Boxer",
+      "sire_name": "Clinaude's Ace",
+      "sire_reg": null,
+      "dam_name": "Abigail of Galewood",
+      "dam_reg": null,
+      "breeders": [
+        "Edward W. & Mary M. Carmody"
+      ],
+      "owners": [
+        "Mrs. Audrey Dobyn Harridge",
+        "Mr. & Mrs. Peter O. Fisher, Jr."
+      ]
+    }
+  ]
+}

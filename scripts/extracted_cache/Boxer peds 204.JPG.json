@@ -1,0 +1,26 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "WD178908",
+      "name": "CH ARABY'S SHORTSTOP",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "5-14-75",
+      "color_code": "Brinde",
+      "breed": "Boxer",
+      "sire_name": "CH Von Schorer's Moon Shadow",
+      "sire_reg": null,
+      "dam_name": "Moon Valley's Merry Weather",
+      "dam_reg": null,
+      "breeders": [
+        "P. Mitchell",
+        "I. Baum"
+      ],
+      "owners": [
+        "P. Mitchell"
+      ]
+    }
+  ]
+}

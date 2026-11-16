@@ -1,0 +1,866 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "000001",
+      "name": "Ackland's Scheherazade",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000002",
+      "name": "CH Ada v Trauntal of Barmere",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000003",
+      "name": "CH Aimeebee's Apoppin'",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000004",
+      "name": "Amber Lady III, CDX",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000005",
+      "name": "Anitra of Mazelaine",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000006",
+      "name": "CH Apollo of San Joaquin",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000007",
+      "name": "ICH Aracrest's Jered",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000008",
+      "name": "ICH Aracrest's Kaylib",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000009",
+      "name": "CH Archduke of Valcar",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000010",
+      "name": "CH Arriba's Knight Revue",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000011",
+      "name": "CH Bang Away of Sirrah Crest",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000012",
+      "name": "CH Barrage of Quality Hill",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000013",
+      "name": "CH Benjoman of Five T's",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000014",
+      "name": "CH Bladan's U-Chetnik",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000015",
+      "name": "Blanka v Fohlnhof se Sumbula",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000016",
+      "name": "CH Bonita of Cross Acres",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000017",
+      "name": "Braermerwood Comin' Thru",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000018",
+      "name": "CH Brayshaw's Masquerader",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000019",
+      "name": "CH Bruhnwall's Venus",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000020",
+      "name": "CH Bubbling Over of Lilac Hedge",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000021",
+      "name": "CH But Good of Lilac Hedge",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000022",
+      "name": "CH Cajon's Calling Card",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000023",
+      "name": "Canyonair Diamond Lil, CD",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000024",
+      "name": "CH Canyonaire's Hickory Dick, CD",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000025",
+      "name": "CH Canyonair Honey Chile",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000026",
+      "name": "CH Canyonair's Man on Fire",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000027",
+      "name": "CH Canzonet's Musical Matinee",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000028",
+      "name": "CH Capriana's Bragabout",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000029",
+      "name": "CH Capriana's Renegade",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000030",
+      "name": "CH Captain Lookout of Thorhall",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000031",
+      "name": "Carlwen's Juliet von Barrage",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000032",
+      "name": "Cava-Lane's Flaming Star",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000033",
+      "name": "Cava-Lane's Velvet Touch",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000034",
+      "name": "Cherokee Rose of Baldr",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000035",
+      "name": "Clinaude's Ginger Snap",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000036",
+      "name": "CH Cochise of Cherokee Oaks",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000037",
+      "name": "Cora v d Bluetenau",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000038",
+      "name": "CH Crona v Zwergeck",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000039",
+      "name": "CH C-Ton's Gay Life",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000040",
+      "name": "Cynthia v Tal",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000041",
+      "name": "CH Dagmar of Mazelaine",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000042",
+      "name": "CH Dauber of Tulgey Wood",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000043",
+      "name": "CH Dempsey's Copper Gentleman",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000044",
+      "name": "CCH Denssie's Miss Fancy",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000045",
+      "name": "ICH Dorian v Marienhof of M.L.",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000046",
+      "name": "Dormac's Risque",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000047",
+      "name": "CH Duke Cronian",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000048",
+      "name": "CH Edjer of Baldr",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000049",
+      "name": "CH Eldic's Darius",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000050",
+      "name": "CH Eldic's Landlord",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000051",
+      "name": "CH Elixir of Rainylaine",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000052",
+      "name": "CH El Wendie of Rockland",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000053",
+      "name": "CH Endymion of Mazelaine",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000054",
+      "name": "Esta v d Wuerm",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000055",
+      "name": "CH Evo-Wen's Impressario",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000056",
+      "name": "CH Exuberant of Woodcrest",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000057",
+      "name": "GCH Fachinger v Neu-Drosedow, SH",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000058",
+      "name": "CH Flintwood's Bag 'N Baggage",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000059",
+      "name": "CH Flintwood's Banned in Boston",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000060",
+      "name": "Flintwood's Bespoken",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000061",
+      "name": "CH Flintwood's Linebacker",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000062",
+      "name": "CH Flintwood's Rabble Rouser",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000063",
+      "name": "CH Flintwood's Sundowner",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000064",
+      "name": "CH Frazer's Parade Meister",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000065",
+      "name": "CCH Gaymitz Dash O' Fire",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000066",
+      "name": "CH Gorgeous of Jofra",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000067",
+      "name": "ICH Gray Roy's Minstrel Boy",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000068",
+      "name": "GCH Gretel v Hohenneuffen",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000069",
+      "name": "CH Hansparke's Fashion Fair",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000070",
+      "name": "CH Ha-Mar Hint of Shady Lady",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000071",
+      "name": "CH Hazlyn's Zippity Do-Dah",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000072",
+      "name": "Heigh Ho Bramble",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000073",
+      "name": "ICH Helixview Noble Knight",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000074",
+      "name": "High Spot Letti",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000075",
+      "name": "CH Holly Lane's Cookie",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000076",
+      "name": "CH Holly Lane's Disk Wheel",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000077",
+      "name": "CH Holly Lane's Wildwind",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000078",
+      "name": "CH Holly Lane's Windstorm",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000079",
+      "name": "CH Huck Hill's Rampage",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000080",
+      "name": "CH Hy Hope's Sweet Stuff",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000081",
+      "name": "CH Ingo v Heger se Sumbula",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000082",
+      "name": "CH Jacaway's Satin Doll",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000083",
+      "name": "CH Ja-Rus' Swamp Fire",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000084",
+      "name": "Jered's Sky-Siren",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000085",
+      "name": "CH Jered's Sovereign",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000086",
+      "name": "CH Jered's Spellbinder",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000087",
+      "name": "CH Jered's Sweet Stuff",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000088",
+      "name": "CCH Jocolu's Charming Fashion",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000089",
+      "name": "CH Kobang of Sirrah Crest",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000090",
+      "name": "Konchita of Cross Acres",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000091",
+      "name": "K-9's Twister",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000092",
+      "name": "Legacy of Clover Downs",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000093",
+      "name": "CH Lewgin Lane's Whizz Bang",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000094",
+      "name": "ICH Lustig v Dom of Tulgey Wood",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000095",
+      "name": "CH Mahderf's El Chico",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000096",
+      "name": "ICH Marjack's Golden Mist",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000097",
+      "name": "CH Marjack's Golden Windjammer",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000098",
+      "name": "Marlene v Burcham",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000099",
+      "name": "CH Marquam Hill's Comanche",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000100",
+      "name": "CH Marquam Hill's Flamingo",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000101",
+      "name": "CH Marwal's Satisfactual",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000102",
+      "name": "Mazelaine's Kapellmeister",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000103",
+      "name": "CH Mazelaine's Masterpiece",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000104",
+      "name": "CH Mazelaine's Zazarac Brandy",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000105",
+      "name": "Merrilane's Mad Passion, CD",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000106",
+      "name": "CH Merry Monarch",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000107",
+      "name": "Merwin Hill's Gibson Girl",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000108",
+      "name": "ICH Millan's Fashion Hint",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000109",
+      "name": "Miss Raheba of May-Will",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000110",
+      "name": "CH Misty Maid of Thorhall",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000111",
+      "name": "ICH Monarch's Ego of Garakonti, CD",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000112",
+      "name": "CH Morgenshern of Kresthallo",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000113",
+      "name": "Nagerroc's Boom Boom",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000114",
+      "name": "CH Nemesis of Mazelaine",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000115",
+      "name": "CH Nocturne of Mazelaine",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000116",
+      "name": "CH Norhaven's Gladiator",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000117",
+      "name": "CH Paddy v Hohenneuffen of Barmere",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000118",
+      "name": "Patcha's Brocade",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000119",
+      "name": "CH Philanderer of Woodcrest",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000120",
+      "name": "CH Piccolo v d Stuttgarter",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000121",
+      "name": "CH Pinebrook's Radiation",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000122",
+      "name": "CH Popham's Fire Brand",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000123",
+      "name": "CH Questa of Sirrah Crest",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000124",
+      "name": "Quest of Mazelaine",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000125",
+      "name": "CH Rococo's Bright Magic",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000126",
+      "name": "CH Salgray's Ambush",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000127",
+      "name": "CH Salgray's Auntie Mame",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000128",
+      "name": "CH Salgray's Balladeer",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000129",
+      "name": "CH Salgray's Battle Chief",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000130",
+      "name": "CH Salgray's Fashion Plate",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000131",
+      "name": "CH Salgray's Flying High",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000132",
+      "name": "CH Salgray's Good Grief",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000133",
+      "name": "CH Salgray's Jitterbug",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000134",
+      "name": "CH Salgray's Memory Book",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000135",
+      "name": "CH Salgray's Ovation",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000136",
+      "name": "CCH Salgray's Roulette",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000137",
+      "name": "CH Sans Souci of Kresthallo",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000138",
+      "name": "CH Scher-Khoun's Abednego",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000139",
+      "name": "CCH Scher-Khoun's Autumn Concherto",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000140",
+      "name": "ICH Scher-Khoun's Meshack",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000141",
+      "name": "ICH Scher-Khoun's Shadrack",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000142",
+      "name": "CH Schoolmaster of Mazelaine",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000143",
+      "name": "ICH Sigurd v Dom of Barmere",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000144",
+      "name": "CH Sir Galahad of Bladan, CD",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000145",
+      "name": "CH Sorrelane's Student Prince",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000146",
+      "name": "CH Sortilair's Flaming Star",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000147",
+      "name": "CH Spark Plug",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000148",
+      "name": "Stapleton's Beau Allure",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000149",
+      "name": "Swagger of Mazelaine",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000150",
+      "name": "CH Symphony of Mazelaine",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000151",
+      "name": "CH Treceder's Selection",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000152",
+      "name": "CH Treceder's Sequel",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000153",
+      "name": "CH Treceder's Shine Boy",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000154",
+      "name": "Tudosal's Ruffels",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000155",
+      "name": "Ulanie of Cross Acres",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000156",
+      "name": "ICH Ursa Major of Sirrah Crest",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000157",
+      "name": "ICH Utz v Dom of Mazelaine",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000158",
+      "name": "CH Van's Belinda",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000159",
+      "name": "ICH V-E Admiral of Renrew",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000160",
+      "name": "Verand's Cloudy Dawn",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000161",
+      "name": "CH Vick Wick of Sirrah Crest",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000162",
+      "name": "CH Von Schorer's Miss Knock About",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000163",
+      "name": "CH Warlord of Mazelaine",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000164",
+      "name": "CH Wedge Hollow's Hasty Harry",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000165",
+      "name": "CH Wichita of Cherokee Oaks",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000166",
+      "name": "ICH Wil-Elen's Fashion Plate",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000167",
+      "name": "CH Yactor of Tulgey Wood",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000168",
+      "name": "CH Yller of Mazelaine",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000169",
+      "name": "CH Yobang of Sirrah Crest",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000170",
+      "name": "CH Your's True Lee",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000171",
+      "name": "CH Zack v Dom",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "000172",
+      "name": "Zorn v Dom",
+      "breed": "Boxer"
+    }
+  ]
+}

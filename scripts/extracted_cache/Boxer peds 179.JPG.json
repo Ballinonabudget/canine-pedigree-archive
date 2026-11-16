@@ -1,0 +1,48 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "166",
+      "name": "Yactor of Tulgey Wood",
+      "titles": "CH",
+      "sex": "D",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "167",
+      "name": "Yller of Mazelaine",
+      "titles": null,
+      "sex": "B",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "168",
+      "name": "Yobang of Sirrah Crest",
+      "titles": "CH",
+      "sex": "D",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "169",
+      "name": "Your's True Lee",
+      "titles": "CH",
+      "sex": "D",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "170",
+      "name": "Zack v Dom",
+      "titles": "CH",
+      "sex": "D",
+      "breed": "Boxer"
+    },
+    {
+      "reg_number": "171",
+      "name": "Zorn v Dom",
+      "titles": null,
+      "sex": "D",
+      "breed": "Boxer"
+    }
+  ]
+}

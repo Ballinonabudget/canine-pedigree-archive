@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A638276",
+      "name": "CH BLADAN'S U-CHETNIK",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "5-13-42",
+      "color_code": "Brindle",
+      "breed": "Boxer",
+      "sire_name": "CH Sir Galadad of Bladan, CD",
+      "sire_reg": null,
+      "dam_name": "Blue Glow of Bladan",
+      "dam_reg": null,
+      "breeders": [
+        "Bladan Kennels"
+      ],
+      "owners": [
+        "Bladan Kennels"
+      ]
+    }
+  ]
+}

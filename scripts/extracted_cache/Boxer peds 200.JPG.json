@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "WC952439",
+      "name": "CH ARRIBA'S ZECHIN",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "5-3-74",
+      "color_code": "Brindle",
+      "breed": "Boxer",
+      "sire_name": "ICH Scher-Khoun's Shadrack",
+      "sire_reg": null,
+      "dam_name": "CH Arriba's Jubilee",
+      "dam_reg": null,
+      "breeders": [
+        "Dr. Theodore Fickes"
+      ],
+      "owners": [
+        "A. & S. Ponsart"
+      ]
+    }
+  ]
+}

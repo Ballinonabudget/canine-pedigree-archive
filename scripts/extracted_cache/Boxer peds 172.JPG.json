@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "G-26132",
+      "name": "GCH GRETEL V HOHENNEUFFEN",
+      "titles": "GCH",
+      "sex": "B",
+      "birth_date": "2-06-31",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "GCH Caesar Deutenkofen",
+      "sire_reg": null,
+      "dam_name": "Cilly v Hohenneuffen",
+      "dam_reg": null,
+      "breeders": [
+        "Wilhelm Klink, West Germany"
+      ],
+      "owners": [
+        "Carl Walz"
+      ]
+    }
+  ]
+}

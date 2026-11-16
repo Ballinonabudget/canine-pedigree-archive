@@ -1,0 +1,1431 @@
+{
+  "breed": "Doberman Pinscher",
+  "date_header": "December, 1952",
+  "dogs": [
+    {
+      "reg_number": "W340277",
+      "name": "Candita",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-7-48",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Gayway Don",
+      "sire_reg": "A898450",
+      "dam_name": "Queenie of Paaele",
+      "dam_reg": "W42175",
+      "breeders": [
+        "Alfred F. Kong"
+      ],
+      "owners": [
+        "Oliver H. Pang"
+      ]
+    },
+    {
+      "reg_number": "W337974",
+      "name": "Cast of Showtime",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-24-50",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Big Boy of Schon",
+      "sire_reg": "W141497",
+      "dam_name": "Queenie Baroness v Furstenberg",
+      "dam_reg": "W146200",
+      "breeders": [
+        "Emil Klutsch"
+      ],
+      "owners": [
+        "Raymond T. Engel"
+      ]
+    },
+    {
+      "reg_number": "W342157",
+      "name": "Chica Belle",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-7-51",
+      "color_code": "Blk & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "El Chico",
+      "sire_reg": "W193378",
+      "dam_name": "Bonnie Belle",
+      "dam_reg": "W121391",
+      "breeders": [
+        "Mrs. B. F. Bryan"
+      ],
+      "owners": [
+        "G. A. Elliff"
+      ]
+    },
+    {
+      "reg_number": "W343976",
+      "name": "Chocolate Cookie de Reklaw",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-15-50",
+      "color_code": "Br & rd",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Edel of Reklaw",
+      "sire_reg": "W247338",
+      "dam_name": "Therese of Reklaw",
+      "dam_reg": "W113206",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mr. & Mrs. R. D. Walker"
+      ]
+    },
+    {
+      "reg_number": "W335246",
+      "name": "Count Setab",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-31-49",
+      "color_code": "Rd & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Duke Derigburg",
+      "sire_reg": "W166398",
+      "dam_name": "Damasyn Star",
+      "dam_reg": "W166399",
+      "breeders": [
+        "Marion A. Reading"
+      ],
+      "owners": [
+        "C. F. & M. A. Bates"
+      ]
+    },
+    {
+      "reg_number": "W336992",
+      "name": "Cyrill v Karlsfield",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-5-48",
+      "color_code": "Blk & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Astor v Grafenwink",
+      "sire_reg": null,
+      "dam_name": "Wanda v D Wertachbrucke",
+      "dam_reg": null,
+      "breeders": [
+        "Josef Stampfl"
+      ],
+      "owners": [
+        "Mrs. Edward W. Kubin"
+      ]
+    },
+    {
+      "reg_number": "W338040",
+      "name": "Damasyn the Solitaire",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-3-51",
+      "color_code": "Rd & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Ch. Dictator v Glenhugel",
+      "sire_reg": "A531251",
+      "dam_name": "Ch. Damasyn the Sultry Sister",
+      "dam_reg": "W31045",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mrs. Bob Adamson"
+      ]
+    },
+    {
+      "reg_number": "W328283",
+      "name": "Doby of Craigdell",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-5-50",
+      "color_code": "Blk & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Astor v Oberon",
+      "sire_reg": "W215862",
+      "dam_name": "Countess Theda v Wenzel",
+      "dam_reg": "W101961",
+      "breeders": [
+        "Porter Keith"
+      ],
+      "owners": [
+        "Ira D. Woodall"
+      ]
+    },
+    {
+      "reg_number": "W344872",
+      "name": "Ellie v d Elbe",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-30-48",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Ch. Emperor of Marienland",
+      "sire_reg": "A512391",
+      "dam_name": "Ch. Belydia v d Elbe",
+      "dam_reg": "A979556",
+      "breeders": [
+        "Hans Schmidt"
+      ],
+      "owners": [
+        "Adolf E. Bauhof"
+      ]
+    },
+    {
+      "reg_number": "W328279",
+      "name": "Frau von Blitz",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-22-50",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Damasyn the Marquis",
+      "sire_reg": "W175901",
+      "dam_name": "Freda v Loretz",
+      "dam_reg": "A878240",
+      "breeders": [
+        "Scott B. Robinett"
+      ],
+      "owners": [
+        "D. Bruce Finley"
+      ]
+    },
+    {
+      "reg_number": "W336556",
+      "name": "Freida d Hoffman",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-25-47",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Sieg of Huffmanheim",
+      "sire_reg": "A565357",
+      "dam_name": "Honora v Loretz",
+      "dam_reg": "A995538",
+      "breeders": [
+        "Gladys Thornburg"
+      ],
+      "owners": [
+        "D. R. Bolan"
+      ]
+    },
+    {
+      "reg_number": "W337363",
+      "name": "Gretchen's Leilani",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-13-51",
+      "color_code": "Rd & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "High Boy of Tee",
+      "sire_reg": "W135839",
+      "dam_name": "Gretchen v Jones",
+      "dam_reg": "W60520",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "B. T. & S. R. Jones"
+      ]
+    },
+    {
+      "reg_number": "W346390",
+      "name": "Hatton's Deddie",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-10-50",
+      "color_code": "Blk & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Trail 'em Atlas",
+      "sire_reg": "W54659",
+      "dam_name": "Gretchen of Ludwig Acres",
+      "dam_reg": "A995733",
+      "breeders": [
+        "Margaret L. Crosset"
+      ],
+      "owners": [
+        "Mr. & Mrs. D. Hatton"
+      ]
+    },
+    {
+      "reg_number": "W328795",
+      "name": "Hienie von Heidelberg",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-22-51",
+      "color_code": "Rd & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Benno v Sand Platz",
+      "sire_reg": "W245875",
+      "dam_name": "Imp of Satin",
+      "dam_reg": "W96622",
+      "breeders": [
+        "Mona G. Schmidt"
+      ],
+      "owners": [
+        "Ralph E. Powell"
+      ]
+    },
+    {
+      "reg_number": "W339555",
+      "name": "Iris von Dillonhof",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-25-51",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Ras von Munchausen",
+      "sire_reg": "W234868",
+      "dam_name": "Cheetah von Munchausen",
+      "dam_reg": "W234947",
+      "breeders": [
+        "James J. McDade"
+      ],
+      "owners": [
+        "T. D. Dillon"
+      ]
+    },
+    {
+      "reg_number": "W326646",
+      "name": "Karl of Wynlea",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-6-50",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Ch. Ximenes of Elblac",
+      "sire_reg": "A988264 C.D.",
+      "dam_name": "Princess of Solitude",
+      "dam_reg": "W25335",
+      "breeders": [
+        "Ada Andrews"
+      ],
+      "owners": [
+        "Arthur Andrews"
+      ]
+    },
+    {
+      "reg_number": "W326613",
+      "name": "Kim Von Hoffman",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-7-50",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Ch. Jet v d Ravensburg",
+      "sire_reg": "W43665",
+      "dam_name": "Carwyn's Forever Amber",
+      "dam_reg": "W109382",
+      "breeders": [
+        "Robert S. Hoffman"
+      ],
+      "owners": [
+        "Mrs. Robert I. Koch"
+      ]
+    },
+    {
+      "reg_number": "W325474",
+      "name": "King of Adonis",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-19-51",
+      "color_code": "Blk & br",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Duke the Onyx Adonis",
+      "sire_reg": "W129522",
+      "dam_name": "Lady Gail Hentswehr",
+      "dam_reg": "W192472",
+      "breeders": [
+        "Anna C. Keith"
+      ],
+      "owners": [
+        "Josephine A. Carpino"
+      ]
+    },
+    {
+      "reg_number": "W342123",
+      "name": "King of Ai-Ann-Ai",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-4-50",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Duke of Kenilworth",
+      "sire_reg": "W194923",
+      "dam_name": "Pride",
+      "dam_reg": "W82681",
+      "breeders": [
+        "Albert G. Aaronson"
+      ],
+      "owners": [
+        "Phyllis A. Stravato"
+      ]
+    },
+    {
+      "reg_number": "W342853",
+      "name": "Konigin of Hilltop House",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-1-50",
+      "color_code": "Rd & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Red Kelly of Doberman Downs",
+      "sire_reg": "W5816",
+      "dam_name": "Tina v Speker",
+      "dam_reg": "W36103",
+      "breeders": [
+        "Paul Cranford"
+      ],
+      "owners": [
+        "Mrs. Anna C. Guggenheim"
+      ]
+    },
+    {
+      "reg_number": "W346389",
+      "name": "Kuno v Bergerhof",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-1-51",
+      "color_code": "Blk & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Rico v Hagen",
+      "sire_reg": "W94539",
+      "dam_name": "Lady v Bergerhof",
+      "dam_reg": "W317880",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Alice Berger"
+      ]
+    },
+    {
+      "reg_number": "W329349",
+      "name": "Lady de-Vere of Hy-Way",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-22-49",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Daphne's Amos",
+      "sire_reg": "A858756",
+      "dam_name": "Delshire Cinder",
+      "dam_reg": "A921030",
+      "breeders": [
+        "George C. Simpson"
+      ],
+      "owners": [
+        "Frank H. & Olga M. Stevens"
+      ]
+    },
+    {
+      "reg_number": "W353526",
+      "name": "Lady Heidi von Sigmund",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-18-50",
+      "color_code": "Rd & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Lanze v Kurage",
+      "sire_reg": "W37014",
+      "dam_name": "Gypsy's Trotline of Alrajo",
+      "dam_reg": "W127728",
+      "breeders": [
+        "Roberta & Donna Good"
+      ],
+      "owners": [
+        "Elizabeth R. Sigmund"
+      ]
+    },
+    {
+      "reg_number": "W335798",
+      "name": "Lady von Karlarry",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-14-50",
+      "color_code": "Blk & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Derk v Burnsheim",
+      "sire_reg": "A336434",
+      "dam_name": "Duchess of Six Gables",
+      "dam_reg": "W162048",
+      "breeders": [
+        "Clayton V. Trimble"
+      ],
+      "owners": [
+        "Carl E. Bowen"
+      ]
+    },
+    {
+      "reg_number": "W323964",
+      "name": "Lady Love v",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-20-51",
+      "color_code": "Br & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Augustus v Weborg",
+      "sire_reg": "A964721",
+      "dam_name": "Teana v Staufeneck",
+      "dam_reg": "W141601",
+      "breeders": [
+        "Eugene Poschinger"
+      ],
+      "owners": [
+        "Bruno Ferri"
+      ]
+    },
+    {
+      "reg_number": "W334022",
+      "name": "Lady Love v Meareshe",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-22-50",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Count v Heinrich Luxaffen",
+      "sire_reg": "A522686",
+      "dam_name": "Maida v Tydra",
+      "dam_reg": "W32205",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Larry J. Meares"
+      ]
+    },
+    {
+      "reg_number": "W332186",
+      "name": "Lady of Maedchen vd Jessen",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-17-50",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Jo Jo v Guiles",
+      "sire_reg": "W35889",
+      "dam_name": "Maedchan v d Norbelhof",
+      "dam_reg": "W83947",
+      "breeders": [
+        "Alice Spina"
+      ],
+      "owners": [
+        "G. M. & H. H. Pulleyn"
+      ]
+    },
+    {
+      "reg_number": "W328184",
+      "name": "Lady Neubrucken",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-15-50",
+      "color_code": "Blk & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Pene Prince v Karlsruhe",
+      "sire_reg": "W83082",
+      "dam_name": "Fritzi v d Neubrucken",
+      "dam_reg": "W48414",
+      "breeders": [
+        "James S. Boyd"
+      ],
+      "owners": [
+        "W. C. Rhodes"
+      ]
+    },
+    {
+      "reg_number": "W329313",
+      "name": "Lady of Thendara II",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-24-50",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Blitzen III",
+      "sire_reg": "W5695",
+      "dam_name": "Lady of Thendara",
+      "dam_reg": "W23439",
+      "breeders": [
+        "Edna M. Adams"
+      ],
+      "owners": [
+        "Herbert M. Tillman"
+      ]
+    },
+    {
+      "reg_number": "W339493",
+      "name": "Lady Victoria III",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-23-50",
+      "color_code": "Blk & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Rancho Dobe's Faro",
+      "sire_reg": "W97488",
+      "dam_name": "Tina v Roxanna Kaydean",
+      "dam_reg": "W204379",
+      "breeders": [
+        "Ellen L. Price"
+      ],
+      "owners": [
+        "Dr. Loyd E. Neely"
+      ]
+    },
+    {
+      "reg_number": "W352577",
+      "name": "Leibchen's Beno of Fox Meadow",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-21-44",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Fritz v Baltgert",
+      "sire_reg": "A747825",
+      "dam_name": "Liebchen",
+      "dam_reg": "A353076 C.D.X.",
+      "breeders": [
+        "Ethel Schulmann"
+      ],
+      "owners": [
+        "Joseph W. Miley"
+      ]
+    },
+    {
+      "reg_number": "W339494",
+      "name": "Lenzen Safety Latch",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-29-50",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Lenzen Gentle Giant",
+      "sire_reg": "W173282",
+      "dam_name": "Sonel v Wagner",
+      "dam_reg": "W104869",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Irene Helstrom"
+      ]
+    },
+    {
+      "reg_number": "W340548",
+      "name": "Leta v Hennefent",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-28-50",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Klepti of Jerry Run",
+      "sire_reg": "W2784",
+      "dam_name": "Lena of Mergraf",
+      "dam_reg": "W181578",
+      "breeders": [
+        "K. O. Hennefent"
+      ],
+      "owners": [
+        "Otto J. Pozgav"
+      ]
+    },
+    {
+      "reg_number": "W334352",
+      "name": "Many Oaks Hella v Melcor",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-24-50",
+      "color_code": "Blk & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Ch. Hallwyre Home-Grown Bill",
+      "sire_reg": "A787491",
+      "dam_name": "Hexie v Mack Clarehof",
+      "dam_reg": "A980284",
+      "breeders": [
+        "Mrs. Hinton Bradbury"
+      ],
+      "owners": [
+        "Walter D. Martin, Jr."
+      ]
+    },
+    {
+      "reg_number": "W363130",
+      "name": "Maria von Beitnerheim",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-18-48",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Hallwyre Heinrich",
+      "sire_reg": "W83332",
+      "dam_name": "Hallwyre Heidy",
+      "dam_reg": "W151024",
+      "breeders": [
+        "Dr. D. M. Rumph"
+      ],
+      "owners": [
+        "Mrs. Sam S. Haynes"
+      ]
+    },
+    {
+      "reg_number": "W322175",
+      "name": "Mel-Mo's Farla",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-5-51",
+      "color_code": "Blk & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Quo Samerk von Marienland",
+      "sire_reg": null,
+      "dam_name": "Arista of Thirlestane",
+      "dam_reg": null,
+      "breeders": [
+        "Martin Birkner"
+      ],
+      "owners": [
+        "Daniel Avrunin"
+      ]
+    },
+    {
+      "reg_number": "W341699",
+      "name": "Mirzda von Hertze",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-27-51",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Ch. Brown's Achilles",
+      "sire_reg": "W67793",
+      "dam_name": "Too-Me-No's Brown's Melodious",
+      "dam_reg": "W185325",
+      "breeders": [
+        "Nancy Shy"
+      ],
+      "owners": [
+        "P. & W. O. Weindell"
+      ]
+    },
+    {
+      "reg_number": "W328284",
+      "name": "Pickering's Pal",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-25-47",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Charlemagne von Rubin",
+      "sire_reg": "W79258",
+      "dam_name": "Mirza von Bloemfontein",
+      "dam_reg": "W84619",
+      "breeders": [
+        "Albert F. Ryckaert"
+      ],
+      "owners": [
+        "Leon W. Zall"
+      ]
+    },
+    {
+      "reg_number": "W335862",
+      "name": "Princess Pat of Valley View",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-13-49",
+      "color_code": "Blk & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Pickering's Whirlwind",
+      "sire_reg": "A712661",
+      "dam_name": "Pickering's Punch",
+      "dam_reg": "W58430",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Spurgeon Pickering"
+      ]
+    },
+    {
+      "reg_number": "W324087",
+      "name": "Princess Heimwehr",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-27-51",
+      "color_code": "Blk & br",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Town and Country Gentleman",
+      "sire_reg": "A618430",
+      "dam_name": "Duchess v Ridenour",
+      "dam_reg": "A759496",
+      "breeders": [
+        "Harold B. Hall"
+      ],
+      "owners": [
+        "Patricia A. Newcomer"
+      ]
+    },
+    {
+      "reg_number": "W344869",
+      "name": "Princess von Ross",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-4-50",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Duke The Onyx Adonis",
+      "sire_reg": "W129522",
+      "dam_name": "Gretel v Heimwehr",
+      "dam_reg": "W127926",
+      "breeders": [
+        "Anna C. Keith"
+      ],
+      "owners": [
+        "Frances N. Pedato"
+      ]
+    },
+    {
+      "reg_number": "W351256",
+      "name": "Princess von Verde",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-29-51",
+      "color_code": "Blk",
+      "breed": "Doberman Pinscher",
+      "sire_name": "King v Haufler",
+      "sire_reg": "W53505",
+      "dam_name": "Duchess v Fowler",
+      "dam_reg": "W89325",
+      "breeders": [
+        "George R. Parsons"
+      ],
+      "owners": [
+        "Raymond Russell"
+      ]
+    },
+    {
+      "reg_number": "W328073",
+      "name": "Queen Duchess II",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-8-46",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Ch. Ivan v Trail",
+      "sire_reg": "W150628",
+      "dam_name": "Princess of Gladstone",
+      "dam_reg": "W186699",
+      "breeders": [
+        "John T. Gladstone"
+      ],
+      "owners": [
+        "Lois A. Cook"
+      ]
+    },
+    {
+      "reg_number": "W329325",
+      "name": "Rajah of Oakmeadow",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-11-50",
+      "color_code": "Blk & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Pincher",
+      "sire_reg": "W13142",
+      "dam_name": "Duchess Lady",
+      "dam_reg": "W14872",
+      "breeders": [
+        "Margaret Wetjen"
+      ],
+      "owners": [
+        "Alexander Radomski"
+      ]
+    },
+    {
+      "reg_number": "W335222",
+      "name": "Rauchbaum's First Choice",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-9-50",
+      "color_code": "Rd & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Royal Ranger",
+      "sire_reg": "W24384",
+      "dam_name": "Heidi of Sharon",
+      "dam_reg": "A904342",
+      "breeders": [
+        "John B. Absmeier"
+      ],
+      "owners": [
+        "John E. Schweizer"
+      ]
+    },
+    {
+      "reg_number": "W33389",
+      "name": "Rebel's Queen",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-2-50",
+      "color_code": "Blk & br",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Rougue of Valhalla",
+      "sire_reg": "W130924",
+      "dam_name": "Fylsan v Rauchsbaum",
+      "dam_reg": "W170205",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Clarence L. Beam"
+      ]
+    },
+    {
+      "reg_number": "W336076",
+      "name": "Rex of Troll-Val (Canada)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-14-48",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Andlauer's Buddie",
+      "sire_reg": "A808345",
+      "dam_name": "Lady Beth",
+      "dam_reg": "W45090",
+      "breeders": [
+        "Kenneth J. Hall"
+      ],
+      "owners": [
+        "Arthur M. Cochran"
+      ]
+    },
+    {
+      "reg_number": "W335296",
+      "name": "Rick (D)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-3-50",
+      "color_code": "Blk & rd",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Baron of Troll-on",
+      "sire_reg": null,
+      "dam_name": "Roxy of Troll-On",
+      "dam_reg": null,
+      "breeders": [
+        "Clifford Scott"
+      ],
+      "owners": [
+        "Richard A. Wonders"
+      ]
+    },
+    {
+      "reg_number": "W326665",
+      "name": "Rogue of Pontchartrain",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-15-50",
+      "color_code": "Blk & rd",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Baron Von Rick",
+      "sire_reg": "W205111",
+      "dam_name": "Lady Fleeta of Rusheim",
+      "dam_reg": "W129919",
+      "breeders": [
+        "James E. Salotto"
+      ],
+      "owners": [
+        "Daniel W. Mason"
+      ]
+    },
+    {
+      "reg_number": "W322716",
+      "name": "Rufus Linconnu",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-17-50",
+      "color_code": "Rd & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Ch. Cy of Dobe-Haven",
+      "sire_reg": "A666745",
+      "dam_name": "Joana of Pontchartrain",
+      "dam_reg": "W5653",
+      "breeders": [
+        "Glenn S. Staines"
+      ],
+      "owners": [
+        "Dorothy Lewis"
+      ]
+    },
+    {
+      "reg_number": "W348524",
+      "name": "Saksi of Red Hill",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-29-48",
+      "color_code": "Rd",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Ch. Kurt of Graceheim",
+      "sire_reg": "A678340",
+      "dam_name": "Alrajos Margo",
+      "dam_reg": "W50670",
+      "breeders": [
+        "Ray D. Hopkins"
+      ],
+      "owners": [
+        "Ruth Baker"
+      ]
+    },
+    {
+      "reg_number": "W334159",
+      "name": "Shuey's Freida Gardian",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-20-51",
+      "color_code": "Blk & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Damasyn Peter MacDuff",
+      "sire_reg": "W64439",
+      "dam_name": "Gretchel of Huntsover",
+      "dam_reg": "W23975",
+      "breeders": [
+        "Kay R. Dunning"
+      ],
+      "owners": [
+        "Robert J. Sharp"
+      ]
+    },
+    {
+      "reg_number": "W340280",
+      "name": "Sparky v Staufeneck II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-21-50",
+      "color_code": "Br & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Mac of Keeline",
+      "sire_reg": "W232582",
+      "dam_name": "Rocky v Hand",
+      "dam_reg": "W314423",
+      "breeders": [
+        "Mildred D. McElroy"
+      ],
+      "owners": [
+        "Mrs. J. E. & B. E. Shuey"
+      ]
+    },
+    {
+      "reg_number": "W329342",
+      "name": "Susie of Pont",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-11-50",
+      "color_code": "Blk & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Sparky v Staufeneck",
+      "sire_reg": "W167572",
+      "dam_name": "Tanna v Staufeneck",
+      "dam_reg": "W167705",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Eugene W. Pasch"
+      ]
+    },
+    {
+      "reg_number": "W333359",
+      "name": "Toar (D)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-6-51",
+      "color_code": "Rd & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Ch. Komet of Pontchartrain",
+      "sire_reg": "W5042",
+      "dam_name": "Andante of Pontchartrain",
+      "dam_reg": "W90566",
+      "breeders": [
+        "Glenn S. Staines"
+      ],
+      "owners": [
+        "Raymond B. Pratt"
+      ]
+    },
+    {
+      "reg_number": "W327961",
+      "name": "Trail Em Top Secret",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-15-51",
+      "color_code": "Blk & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Cody",
+      "sire_reg": "W216347",
+      "dam_name": "Posalex v Ur-Adel",
+      "dam_reg": "W215482",
+      "breeders": [
+        "Arthur T. Maloney"
+      ],
+      "owners": [
+        "William Harold King"
+      ]
+    },
+    {
+      "reg_number": "W329125",
+      "name": "Tyrand v Blitzen",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-25-49",
+      "color_code": "Br & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Trail Em Atlas",
+      "sire_reg": "W54659",
+      "dam_name": "Beth of By-A-Brook",
+      "dam_reg": "W38058",
+      "breeders": [
+        "William J. Tressider"
+      ],
+      "owners": [
+        "Ralph T. Miller"
+      ]
+    },
+    {
+      "reg_number": "W349189",
+      "name": "Wittland's Donna",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-26-50",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Blitz v Wildenstein",
+      "sire_reg": "A475925",
+      "dam_name": "Victoria II",
+      "dam_reg": "A637330",
+      "breeders": [
+        "Hans Vinz"
+      ],
+      "owners": [
+        "Ina Rother"
+      ]
+    },
+    {
+      "reg_number": "W342944",
+      "name": "Zorro (B)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-8-48",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Ch. Wittland's Black King",
+      "sire_reg": "A955389",
+      "dam_name": "Iris",
+      "dam_reg": "W101752",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Leo Wittenberg"
+      ]
+    },
+    {
+      "reg_number": "W324385",
+      "name": "Abigail Carlile",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-1-51",
+      "color_code": null,
+      "breed": "German Shepherd Dog",
+      "sire_name": "Ch. Zarek v Liebestraum",
+      "sire_reg": "W164368",
+      "dam_name": "Helsi's Imogene Carlile",
+      "dam_reg": "W182485",
+      "breeders": [
+        "J. R. Carlile"
+      ],
+      "owners": [
+        "Virginia Johnston"
+      ]
+    },
+    {
+      "reg_number": "W337954",
+      "name": "Ada vom Haus Kunz",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-1-46",
+      "color_code": "Blk & tan",
+      "breed": "German Shepherd Dog",
+      "sire_name": "Benno von der Egerhalde",
+      "sire_reg": null,
+      "dam_name": "Asta vom Haus Tron",
+      "dam_reg": null,
+      "breeders": [
+        "Charles F. Zerillo"
+      ],
+      "owners": [
+        "Karl Kunz"
+      ]
+    },
+    {
+      "reg_number": "W336930",
+      "name": "Adams' Lady",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-13-50",
+      "color_code": "Blk & tan",
+      "breed": "German Shepherd Dog",
+      "sire_name": "Ch. Vol of Longworth",
+      "sire_reg": "W22152",
+      "dam_name": "Oma Greta of Longworth",
+      "dam_reg": "W160205",
+      "breeders": [
+        "Max K. Adams"
+      ],
+      "owners": [
+        "Hazel I. Holmes"
+      ]
+    },
+    {
+      "reg_number": "W337400",
+      "name": "Adelheid von Bernem",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-17-48",
+      "color_code": "Slvr & blk",
+      "breed": "German Shepherd Dog",
+      "sire_name": "Baron Franz",
+      "sire_reg": "W52052",
+      "dam_name": "Heidi v Bernem",
+      "dam_reg": "W50236",
+      "breeders": [
+        "Wilhelm F. Neumann"
+      ],
+      "owners": [
+        "Gerhard H. Voigt"
+      ]
+    },
+    {
+      "reg_number": "W354831",
+      "name": "Ado aus der Hollgasse",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-23-45",
+      "color_code": "Blk & tan",
+      "breed": "German Shepherd Dog",
+      "sire_name": "Edo von der Kemptner Hutte",
+      "sire_reg": null,
+      "dam_name": "Asta von der Singoldquelle",
+      "dam_reg": null,
+      "breeders": [
+        "Stanford B. Tidaback"
+      ],
+      "owners": [
+        "Alfred Eschenlohr"
+      ]
+    },
+    {
+      "reg_number": "W338652",
+      "name": "Afa von Liebestraum",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-4-48",
+      "color_code": "Blk & tan",
+      "breed": "German Shepherd Dog",
+      "sire_name": "Judo v Liebestraum",
+      "sire_reg": "W1956",
+      "dam_name": "Vako v Boehm",
+      "dam_reg": "W50208",
+      "breeders": [
+        "Raymond A. Kohler"
+      ],
+      "owners": [
+        "R. Madelynn Wright"
+      ]
+    },
+    {
+      "reg_number": "W330175",
+      "name": "Alan of Long-Worth",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-14-46",
+      "color_code": "Blk & gr",
+      "breed": "German Shepherd Dog",
+      "sire_name": "Ch. Derry of Long-Worth",
+      "sire_reg": "A797520",
+      "dam_name": "Gilda of Costilla",
+      "dam_reg": "A671665",
+      "breeders": [
+        "Clyde I. Smith"
+      ],
+      "owners": [
+        "Lloyd C. Brackett"
+      ]
+    },
+    {
+      "reg_number": "W330161",
+      "name": "Alexandria Kushaqua",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-4-47",
+      "color_code": "Blk & tan",
+      "breed": "German Shepherd Dog",
+      "sire_name": "Argos von Wildmaringen",
+      "sire_reg": null,
+      "dam_name": "Iranka vom Blasienberg",
+      "dam_reg": null,
+      "breeders": [
+        "Hamilton H. Sweet"
+      ],
+      "owners": [
+        "Vaughan M. Evans"
+      ]
+    },
+    {
+      "reg_number": "W360532",
+      "name": "Alex de La Salle",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-12-47",
+      "color_code": "Blk & tan",
+      "breed": "German Shepherd Dog",
+      "sire_name": "Erich of Klodun, von Abt",
+      "sire_reg": "A701810 C.D.X.",
+      "dam_name": "Elsa v Klarbert",
+      "dam_reg": "W384",
+      "breeders": [
+        "J. L. Sinyin"
+      ],
+      "owners": [
+        "Albert H. Schwendeman"
+      ]
+    },
+    {
+      "reg_number": "W328874",
+      "name": "Alex von Santa Fee",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-10-46",
+      "color_code": "Blk & tan",
+      "breed": "German Shepherd Dog",
+      "sire_name": "Jorg von Biegwald",
+      "sire_reg": null,
+      "dam_name": "Gunda Seelenvater",
+      "dam_reg": null,
+      "breeders": [
+        "Samuel A. Boyer"
+      ],
+      "owners": [
+        "Hans Turk"
+      ]
+    },
+    {
+      "reg_number": "W349906",
+      "name": "Alex of Val-Dee",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-21-49",
+      "color_code": "Blk & slvr",
+      "breed": "German Shepherd Dog",
+      "sire_name": "Erich of Val-Dee",
+      "sire_reg": "A507643",
+      "dam_name": "Queenie XII",
+      "dam_reg": "W125191",
+      "breeders": [
+        "Ray W. Fields"
+      ],
+      "owners": [
+        "Mitchell L. Broyles"
+      ]
+    },
+    {
+      "reg_number": "W325892",
+      "name": "Alfons vom Uppenhorn",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-14-47",
+      "color_code": "Slvr gr",
+      "breed": "German Shepherd Dog",
+      "sire_name": "Norbert vom Polizeiprasidium Munchen",
+      "sire_reg": null,
+      "dam_name": "Stella vom Sonnenstein",
+      "dam_reg": null,
+      "breeders": [
+        "Edward J. O'Connor"
+      ],
+      "owners": [
+        "Anna Huber"
+      ]
+    },
+    {
+      "reg_number": "W325891",
+      "name": "Alma von der Eiskapelle",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-14-49",
+      "color_code": "Blk & tan",
+      "breed": "German Shepherd Dog",
+      "sire_name": "Alf vom haus Berberich",
+      "sire_reg": null,
+      "dam_name": "Asta vom Uppenborn",
+      "dam_reg": null,
+      "breeders": [
+        "Edward J. O'Connor"
+      ],
+      "owners": [
+        "Owner"
+      ]
+    },
+    {
+      "reg_number": "W343761",
+      "name": "Asgard's Alert",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-7-50",
+      "color_code": "Blk & tan",
+      "breed": "German Shepherd Dog",
+      "sire_name": "Ch. Valiant of Draham",
+      "sire_reg": "W23705 C.D.",
+      "dam_name": "Ch. Ionya of Grettamarc",
+      "dam_reg": "A795333",
+      "breeders": [
+        "C. P. Baker"
+      ],
+      "owners": [
+        "Asgard Kennels"
+      ]
+    },
+    {
+      "reg_number": "W336067",
+      "name": "Asta vom Haus Grabia",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-17-47",
+      "color_code": "Gr",
+      "breed": "German Shepherd Dog",
+      "sire_name": "Erlo vom Frankentrutz",
+      "sire_reg": null,
+      "dam_name": "Inge vom Haus Arnold",
+      "dam_reg": null,
+      "breeders": [
+        "Marion H. Puehler"
+      ],
+      "owners": [
+        "Ludwig Grabia"
+      ]
+    },
+    {
+      "reg_number": "W352336",
+      "name": "Asta von der Reichslinde",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-15-48",
+      "color_code": "Blk & cr",
+      "breed": "German Shepherd Dog",
+      "sire_name": "Drauf vom Holzheimerewald",
+      "sire_reg": null,
+      "dam_name": "Alona vom Basalthuegel",
+      "dam_reg": null,
+      "breeders": [
+        "W. L. Runzel, Jr."
+      ],
+      "owners": [
+        "Heinrich Hamshorn"
+      ]
+    }
+  ]
+}

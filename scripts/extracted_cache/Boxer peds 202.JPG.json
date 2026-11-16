@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A503435",
+      "name": "CH ARCHDUKE OF VALCAR",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "4-23-41",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "ICH Dorian v Marienhof of Mazelaine",
+      "sire_reg": null,
+      "dam_name": "CH Valwa v Dom",
+      "dam_reg": null,
+      "breeders": [
+        "Valcar Kennels"
+      ],
+      "owners": [
+        "Mr. & Mrs. John P. Wagner"
+      ]
+    }
+  ]
+}

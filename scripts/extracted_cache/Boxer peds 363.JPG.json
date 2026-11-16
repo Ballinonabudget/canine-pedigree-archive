@@ -1,0 +1,45 @@
+{
+  "breed": "Boxer",
+  "date_header": "JUNE 2000",
+  "dogs": [
+    {
+      "reg_number": "WP752411",
+      "name": "BRANDY'S LITTLE MISS BOOGIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-12-98",
+      "color_code": "FN BLK MSK WH MK",
+      "breed": "Boxer",
+      "sire_name": "ZEPPLIN II",
+      "sire_reg": "WP722410",
+      "dam_name": "CYANNS LITTLE BRANDY",
+      "dam_reg": "WP536084",
+      "breeders": [
+        "L MAYFIELD/W CARL JR"
+      ],
+      "owners": [
+        "L MAYFIELD/W CARL JR"
+      ]
+    },
+    {
+      "reg_number": "WP883449",
+      "name": "CHEYENNE APRIL RAIN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-21-98",
+      "color_code": "FN WH",
+      "breed": "Boxer",
+      "sire_name": "P BARON",
+      "sire_reg": "WP680780",
+      "dam_name": "GLADYS LADY-ADELE IN WHITE",
+      "dam_reg": "WP665698",
+      "breeders": [
+        "E K FLEMING/F S HARP-",
+        "ER"
+      ],
+      "owners": [
+        "E K FLEMING/F S HARP/J HART-"
+      ]
+    }
+  ]
+}

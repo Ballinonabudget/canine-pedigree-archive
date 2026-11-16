@@ -1,0 +1,1449 @@
+{
+  "breed": "Collie",
+  "dogs": [
+    {
+      "reg_number": "W334675",
+      "name": "St. Francis Domino",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-14-52",
+      "color_code": "Blk, wh & tan",
+      "breed": "Collie",
+      "sire_name": "Ranfurly Ranger",
+      "sire_reg": "W75525",
+      "dam_name": "Ranfurly Redouble",
+      "dam_reg": "W41756",
+      "breeders": [
+        "Frederick Peters"
+      ],
+      "owners": [
+        "Dorothy P. Fleming"
+      ]
+    },
+    {
+      "reg_number": "W346391",
+      "name": "St. Francis Valentine O'Sharon",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-4-48",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Robedith Represented",
+      "sire_reg": "W47757",
+      "dam_name": "Robedith Reverie",
+      "dam_reg": "W66963",
+      "breeders": [
+        "Robedith Kennels"
+      ],
+      "owners": [
+        "Mrs. F.S. Batsch & S. Forbes"
+      ]
+    },
+    {
+      "reg_number": "W347763",
+      "name": "Stimson's Missouri Brigadoon",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-17-51",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Stimson's Missouri Tiger",
+      "sire_reg": "W171004",
+      "dam_name": "Majors Minor",
+      "dam_reg": "W263503",
+      "breeders": [
+        "W. S. Major"
+      ],
+      "owners": [
+        "Geo. H. Stimson"
+      ]
+    },
+    {
+      "reg_number": "W345073",
+      "name": "Stimson's Missouri Princess",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-6-51",
+      "color_code": "Blk, wh, & tan",
+      "breed": "Collie",
+      "sire_name": "Stimson's Missouri Tiger",
+      "sire_reg": "W171004",
+      "dam_name": "Stimson's Bonnie o' Burnbrae",
+      "dam_reg": "W156766",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Geo. H. Stimson"
+      ]
+    },
+    {
+      "reg_number": "W322700",
+      "name": "Streak III",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-28-48",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Holton's Skipper",
+      "sire_reg": "A977521",
+      "dam_name": "Golden Lassie Highland",
+      "dam_reg": "W97090",
+      "breeders": [
+        "Ellsworth L. Locker"
+      ],
+      "owners": [
+        "George T. Cook"
+      ]
+    },
+    {
+      "reg_number": "W333607",
+      "name": "Sue's Golden Ginger Flower",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-26-46",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Sondol's Smokey Knight",
+      "sire_reg": "A748794",
+      "dam_name": "Delby's Golden Girl",
+      "dam_reg": "A989615",
+      "breeders": [
+        "El Roy L. Childs"
+      ],
+      "owners": [
+        "Dorothy A. Eckhardt"
+      ]
+    },
+    {
+      "reg_number": "W357901",
+      "name": "Sunday's Gay Bonnie",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-12-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Lightning VIII",
+      "sire_reg": "W211008",
+      "dam_name": "Our Girl Flicka",
+      "dam_reg": "W185998",
+      "breeders": [
+        "Mrs. Ann E. Dice"
+      ],
+      "owners": [
+        "Kathleen M. & Clyde E. Fasolt"
+      ]
+    },
+    {
+      "reg_number": "W321361",
+      "name": "Sungold Mollie M",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-20-48",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Joga Jupiter",
+      "sire_reg": "W34256",
+      "dam_name": "Linda of Spun-Gold",
+      "dam_reg": "W84908",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mrs. Ida Mae Morain"
+      ]
+    },
+    {
+      "reg_number": "W321335",
+      "name": "Sunymar Forest Doctor",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-7-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Ch. Perthshire Country Doctor",
+      "sire_reg": "W123464",
+      "dam_name": "Sunymar Forest Cruisette",
+      "dam_reg": "W119978",
+      "breeders": [
+        "Mr. & Mrs. Archie C. Iyall"
+      ],
+      "owners": [
+        "Mr. & Mrs. Raymond Potter"
+      ]
+    },
+    {
+      "reg_number": "W332511",
+      "name": "Sunny of Vestslope",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-15-50",
+      "color_code": "Gldn bl & wh",
+      "breed": "Collie",
+      "sire_name": "Major Bonamego",
+      "sire_reg": "W100013",
+      "dam_name": "Lassie of Vestslope",
+      "dam_reg": "W193014",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Joseph K. & Doris H. Barnes"
+      ]
+    },
+    {
+      "reg_number": "W336611",
+      "name": "Supersonic Sable Vi",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-2-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Jan-Way Colonel Ike",
+      "sire_reg": "W84229",
+      "dam_name": "Lassie of the Queens",
+      "dam_reg": "W128708",
+      "breeders": [
+        "Forrest G. Kille"
+      ],
+      "owners": [
+        "Richard S. Walters"
+      ]
+    },
+    {
+      "reg_number": "W347898",
+      "name": "Susan's Laughing Lass",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-17-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Joyful Sunbank Adventure",
+      "sire_reg": "A997653",
+      "dam_name": "Blake's Lady Landmark",
+      "dam_reg": "W32356",
+      "breeders": [
+        "Mrs. Warren E. Blake"
+      ],
+      "owners": [
+        "Mrs. George H. Robinson"
+      ]
+    },
+    {
+      "reg_number": "W343188",
+      "name": "Susie's Marty of Luckebite",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-18-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Sun Ladd",
+      "sire_reg": "W38775",
+      "dam_name": "Trisa's Lassie of Grand Ten",
+      "dam_reg": "W42189",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Maxine D. Cronk"
+      ]
+    },
+    {
+      "reg_number": "W357414",
+      "name": "Sussie V",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-28-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Trucker the Traveler",
+      "sire_reg": "W35957",
+      "dam_name": "Sussie Oakshaw",
+      "dam_reg": "W124477",
+      "breeders": [
+        "Wade & J. H. Blades"
+      ],
+      "owners": [
+        "James M. Mitchem"
+      ]
+    },
+    {
+      "reg_number": "W349649",
+      "name": "Sweetham Meadow Wild Honey",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-6-51",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Bellhaven Ardorson",
+      "sire_reg": "A641848",
+      "dam_name": "Elcroft Gold Coin",
+      "dam_reg": "W96055",
+      "breeders": [
+        "Edwin A. Hall"
+      ],
+      "owners": [
+        "Barbara F. Davis"
+      ]
+    },
+    {
+      "reg_number": "W322000",
+      "name": "Swinging Oaks' Pontilla Lad",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-22-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Bellhaven Mississippi Gent",
+      "sire_reg": "W149524",
+      "dam_name": "Tallahatchie River Tippy",
+      "dam_reg": "W91534",
+      "breeders": [
+        "Noll P. Davis"
+      ],
+      "owners": [
+        "Juniata L. Scott"
+      ]
+    },
+    {
+      "reg_number": "W329846",
+      "name": "Sybil Dibyl",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-8-51",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Ch. Newaygo's Ebony Parade",
+      "sire_reg": "W79321",
+      "dam_name": "Honeybrook Fair Ellen",
+      "dam_reg": "W132748",
+      "breeders": [
+        "W. R. Van Dyck"
+      ],
+      "owners": [
+        "John J. Bridle"
+      ]
+    },
+    {
+      "reg_number": "W325168",
+      "name": "Taffy Loch Tawndra",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-13-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Barnacle Bill the Sailor",
+      "sire_reg": "W110222",
+      "dam_name": "Lladnar Sandra Mardy",
+      "dam_reg": "W79200",
+      "breeders": [
+        "Robert E. Waterhouse"
+      ],
+      "owners": [
+        "Edward E. Dudley"
+      ]
+    },
+    {
+      "reg_number": "W340797",
+      "name": "Taffytop Blase",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-8-51",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Sonleworth's Royal Banner",
+      "sire_reg": "W157300",
+      "dam_name": "Taffytop Taffy",
+      "dam_reg": "W221397",
+      "breeders": [
+        "Taffytop Kennels"
+      ],
+      "owners": [
+        "James Mott Hollowell"
+      ]
+    },
+    {
+      "reg_number": "W329353",
+      "name": "Talk o' the Town Sable Lady",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-5-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Ch. Talk o' the Town Flash",
+      "sire_reg": "W20786",
+      "dam_name": "Shadalon Sasha",
+      "dam_reg": "W225970",
+      "breeders": [
+        "Bonnie McLaughlin"
+      ],
+      "owners": [
+        "Charles H. Stolz"
+      ]
+    },
+    {
+      "reg_number": "W340396",
+      "name": "Tanarrack Sandi",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-5-49",
+      "color_code": "Sbl",
+      "breed": "Collie",
+      "sire_name": "Flash Magic of Bellcali",
+      "sire_reg": "W58193",
+      "dam_name": "Token Happy Lassie",
+      "dam_reg": "W60879",
+      "breeders": [
+        "Hill Goldhart"
+      ],
+      "owners": [
+        "Gayle H. Moxon"
+      ]
+    },
+    {
+      "reg_number": "W350510",
+      "name": "Tarla of Nova",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-4-48",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Tarl the Red of Norsla",
+      "sire_reg": "W56911",
+      "dam_name": "Serena of Glamis",
+      "dam_reg": "A683420",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mary A. De Mass"
+      ]
+    },
+    {
+      "reg_number": "W343196",
+      "name": "Tawny Lass of Sable Home",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-4-50",
+      "color_code": "Sbl, wh mkgs",
+      "breed": "Collie",
+      "sire_name": "Bellhaven Sandy Tip",
+      "sire_reg": "W98547",
+      "dam_name": "Corrine's Beautiful Lady",
+      "dam_reg": "W98469",
+      "breeders": [
+        "Joan Corrine"
+      ],
+      "owners": [
+        "Florence Woulfin"
+      ]
+    },
+    {
+      "reg_number": "W356009",
+      "name": "Tempo o' Tomlee",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-2-50",
+      "color_code": "Blk, tan & wh",
+      "breed": "Collie",
+      "sire_name": "Ch. Blue Douglas of Abbehurst",
+      "sire_reg": "A923921",
+      "dam_name": "Raymoor Black Betty",
+      "dam_reg": "W131759",
+      "breeders": [
+        "Ray d. Brungton"
+      ],
+      "owners": [
+        "Charlotte Lee L. Coulson"
+      ]
+    },
+    {
+      "reg_number": "W333977",
+      "name": "Terrance Mac",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-6-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Seabright Sandstorm",
+      "sire_reg": "W32161",
+      "dam_name": "Lenzen Queen",
+      "dam_reg": "W233239",
+      "breeders": [
+        "Irene Helstrom"
+      ],
+      "owners": [
+        "Robert MacDonald"
+      ]
+    },
+    {
+      "reg_number": "W326988",
+      "name": "Tex of Bluebonnet",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-3-49",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Tex of Herbel",
+      "sire_reg": "W57746",
+      "dam_name": "Lady Alyth of Kinlochleven",
+      "dam_reg": "A975242",
+      "breeders": [
+        "Stephen M. Knight"
+      ],
+      "owners": [
+        "Bradley C. Judkins"
+      ]
+    },
+    {
+      "reg_number": "W330805",
+      "name": "Theadora Lass",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-14-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Langley Alert",
+      "sire_reg": "A840625",
+      "dam_name": "Lenora Lass",
+      "dam_reg": "W121260",
+      "breeders": [
+        "Marie D. Hoffman"
+      ],
+      "owners": [
+        "Edward L. Dallabrida"
+      ]
+    },
+    {
+      "reg_number": "W332294",
+      "name": "The Count Mac Dougle",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-13-48",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "The Count of Micheal",
+      "sire_reg": "W20483",
+      "dam_name": "Highland's Cristina",
+      "dam_reg": "W55290",
+      "breeders": [
+        "Mona F. Nestor"
+      ],
+      "owners": [
+        "J. C. Cribbs"
+      ]
+    },
+    {
+      "reg_number": "W340383",
+      "name": "The Highlands' Wee Bit o' Scot",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-2-49",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "His Honor of Roneill",
+      "sire_reg": "W94829",
+      "dam_name": "Gloccamoora's Desire",
+      "dam_reg": "W76416",
+      "breeders": [
+        "Jewel Rhodes & Jesse H. Forbes"
+      ],
+      "owners": [
+        "Jesse H. Forbes"
+      ]
+    },
+    {
+      "reg_number": "W332262",
+      "name": "Tira of Hazeland",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-7-50",
+      "color_code": "Tan, wh & blk",
+      "breed": "Collie",
+      "sire_name": "Hope of Hazeland",
+      "sire_reg": "W203361",
+      "dam_name": "Susan's Pansy of Hazeland",
+      "dam_reg": "W42927",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Hazel Irene Michaelis"
+      ]
+    },
+    {
+      "reg_number": "W347253",
+      "name": "Titan",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-12-51",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Sharron's Prince",
+      "sire_reg": "W84841",
+      "dam_name": "Golden Saber",
+      "dam_reg": "W246197",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mr. & Mrs. Donald O'Rourke"
+      ]
+    },
+    {
+      "reg_number": "W338524",
+      "name": "To Kalon Gipsy Princess",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-2-50",
+      "color_code": "Blk, wh & tan",
+      "breed": "Collie",
+      "sire_name": "Honeybrook Twenty Grand",
+      "sire_reg": "W81669",
+      "dam_name": "Blue Lady III",
+      "dam_reg": "W138592",
+      "breeders": [
+        "Fred E. Stumm"
+      ],
+      "owners": [
+        "William P. Burns, Jr."
+      ]
+    },
+    {
+      "reg_number": "W331222",
+      "name": "To Kalon Black Jewel",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-17-50",
+      "color_code": "Blk, wh & tan",
+      "breed": "Collie",
+      "sire_name": "Ch. To Kalon Ice Storm",
+      "sire_reg": "W40369",
+      "dam_name": "Wagner's First Lady",
+      "dam_reg": "W83349",
+      "breeders": [
+        "Fred M. Wagner"
+      ],
+      "owners": [
+        "To Kalon Kennels"
+      ]
+    },
+    {
+      "reg_number": "W360933",
+      "name": "To Kalon Lady Daffodil",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-16-50",
+      "color_code": "Gldn sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Ch. To Kalon Stormy Weather",
+      "sire_reg": "A917904",
+      "dam_name": "To Kalon Lady Phylis",
+      "dam_reg": "W149994",
+      "breeders": [
+        "To Kalon Kennels"
+      ],
+      "owners": [
+        "Herbert A. Masterson"
+      ]
+    },
+    {
+      "reg_number": "W362376",
+      "name": "To Kalon Lady Larora",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-23-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "To Kalon Dapper Dan",
+      "sire_reg": "W155831",
+      "dam_name": "Harline's Rhapsody",
+      "dam_reg": "A916117",
+      "breeders": [
+        "Gladys Hellmich"
+      ],
+      "owners": [
+        "Terra Pina Knls & Derbytown Knls"
+      ]
+    },
+    {
+      "reg_number": "W329495",
+      "name": "To Kalon's Lovely Lady",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-19-50",
+      "color_code": "Blk, wh & tan",
+      "breed": "Collie",
+      "sire_name": "To Kalon Stormy Weather",
+      "sire_reg": "A917904",
+      "dam_name": "To Kalon Lady Phylis",
+      "dam_reg": "W149994",
+      "breeders": [
+        "To Kalon Kennels"
+      ],
+      "owners": [
+        "Albert E. Fryel"
+      ]
+    },
+    {
+      "reg_number": "W338192",
+      "name": "To Kalon of July",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-19-49",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "To Kalon When Knights Were Bold",
+      "sire_reg": "W47408",
+      "dam_name": "Ransom's Souvenier o' Mac Duff",
+      "dam_reg": "W21311",
+      "breeders": [
+        "Irma E. Ransom"
+      ],
+      "owners": [
+        "Uliila R. Ward"
+      ]
+    },
+    {
+      "reg_number": "W322031",
+      "name": "To Kalon Sky King",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-24-49",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "To Kalon Still A King's Choice",
+      "sire_reg": "W84390",
+      "dam_name": "To Kalon's Enchanted Princess",
+      "dam_reg": "W108126",
+      "breeders": [
+        "Fred M. Wagner"
+      ],
+      "owners": [
+        "Vance West"
+      ]
+    },
+    {
+      "reg_number": "W362959",
+      "name": "To Kalon Tropical Flag",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-24-50",
+      "color_code": "Sbl, wh & tan",
+      "breed": "Collie",
+      "sire_name": "To Kalon Harvest Weather",
+      "sire_reg": "W189392",
+      "dam_name": "To Kalon Tropical Princess",
+      "dam_reg": "W122514",
+      "breeders": [
+        "To Kalon Kennels"
+      ],
+      "owners": [
+        "Gene Clodfelter & Tommy Nelson"
+      ]
+    },
+    {
+      "reg_number": "W348563",
+      "name": "To Kalon Lady Lassie",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-8-51",
+      "color_code": "Sbl",
+      "breed": "Collie",
+      "sire_name": "Collie's Admiral King",
+      "sire_reg": "W496530",
+      "dam_name": "Ronida's Lucky Lady",
+      "dam_reg": "W209590",
+      "breeders": [
+        "Mrs. G. B. Korte & R. Kerens"
+      ],
+      "owners": [
+        "Jack Shinault"
+      ]
+    },
+    {
+      "reg_number": "W329334",
+      "name": "Tower's Lady Ebony",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-19-51",
+      "color_code": "Blk, tan & wh",
+      "breed": "Collie",
+      "sire_name": "King of Doloreson",
+      "sire_reg": "W163376",
+      "dam_name": "Wee Bonnie Lassie",
+      "dam_reg": "W199514",
+      "breeders": [
+        "Donald W. Hoff"
+      ],
+      "owners": [
+        "J. J. Slemenda"
+      ]
+    },
+    {
+      "reg_number": "W325441",
+      "name": "Treve Haven Special",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-10-47",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Skipper of Tamarack",
+      "sire_reg": "W8074",
+      "dam_name": "Milady Betsy",
+      "dam_reg": "W154798",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Melvin H. Ernst"
+      ]
+    },
+    {
+      "reg_number": "W356206",
+      "name": "Tzena II",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-20-50",
+      "color_code": "Blk, wh & tan",
+      "breed": "Collie",
+      "sire_name": "Thanne's Laddie IV",
+      "sire_reg": "W34666",
+      "dam_name": "Lynn-Haven Special",
+      "dam_reg": "W40947",
+      "breeders": [
+        "William J. Simpson"
+      ],
+      "owners": [
+        "Harold P. Vanderhoof, Jr."
+      ]
+    },
+    {
+      "reg_number": "W336063",
+      "name": "Valentine of C-Gore",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-2-49",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Wonder Boy of C-Gore",
+      "sire_reg": "W120945",
+      "dam_name": "Gigi",
+      "dam_reg": "W204743",
+      "breeders": [
+        "Mrs. Edward C. Schiffner"
+      ],
+      "owners": [
+        "Mr. & Mrs. Joseph Mullalley"
+      ]
+    },
+    {
+      "reg_number": "W335201",
+      "name": "Valhalla's Stormy Weather",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-11-49",
+      "color_code": "Blk, bl & wh",
+      "breed": "Collie",
+      "sire_name": "Lord Saunders",
+      "sire_reg": "A948342",
+      "dam_name": "Klondike of Moose Lodge",
+      "dam_reg": "W58761",
+      "breeders": [
+        "Mr. & Mrs. Joseph Goret"
+      ],
+      "owners": [
+        "Robert C. Johnson"
+      ]
+    },
+    {
+      "reg_number": "W362513",
+      "name": "Val-Valle's Miss Blaze",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-13-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "King Val of Macanjo",
+      "sire_reg": "W96081",
+      "dam_name": "Valhalla's Star Saphire",
+      "dam_reg": "W181888",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Charlotte Wright"
+      ]
+    },
+    {
+      "reg_number": "W323872",
+      "name": "Van Cott's Queenie",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-21-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "To Kalon's Corncobler",
+      "sire_reg": "Van Cott",
+      "dam_name": "Queen Valle of Macanjo",
+      "dam_reg": "W96082",
+      "breeders": [
+        "Val-Valle Kennels"
+      ],
+      "owners": [
+        "Mrs. Ralph P. Mazzocchi"
+      ]
+    },
+    {
+      "reg_number": "W331066",
+      "name": "Van Horn's Starlet",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-20-51",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Star of Rickhaven",
+      "sire_reg": "W122887",
+      "dam_name": "Van Cott's Colleen",
+      "dam_reg": "W95379",
+      "breeders": [
+        "Susanne S. Saunders"
+      ],
+      "owners": [
+        "Mr. & Mrs. Louis Van Horn"
+      ]
+    },
+    {
+      "reg_number": "W339664",
+      "name": "Van Toma's Peggy",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-4-49",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Beaupeg's Royal Sunking",
+      "sire_reg": "W13441",
+      "dam_name": "Van Horn's Black Beauty",
+      "dam_reg": "W200728",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Lena Jane Sangga"
+      ]
+    },
+    {
+      "reg_number": "W332271",
+      "name": "Veradale Blaze",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-4-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Lad o'the Town",
+      "sire_reg": "W37767",
+      "dam_name": "Longleigh's Bright Penny",
+      "dam_reg": "A822468",
+      "breeders": [
+        "Ruth Peck"
+      ],
+      "owners": [
+        "L. W. Ditlevson"
+      ]
+    },
+    {
+      "reg_number": "W342109",
+      "name": "Vickie-Girl-Prissey",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-1-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Shauma Boy Chico",
+      "sire_reg": "W190772",
+      "dam_name": "Golden Blaze III",
+      "dam_reg": "W105588",
+      "breeders": [
+        "Doris I. Boggs"
+      ],
+      "owners": [
+        "Frank Waverly Venneri"
+      ]
+    },
+    {
+      "reg_number": "W325432",
+      "name": "Vilday's Golden Girl",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-10-51",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Black Valiant of Ardwick",
+      "sire_reg": "A788993",
+      "dam_name": "Penelope XVI",
+      "dam_reg": "W176333",
+      "breeders": [
+        "Harold Christiansen"
+      ],
+      "owners": [
+        "Lester M. Morrow, Jr."
+      ]
+    },
+    {
+      "reg_number": "W335520",
+      "name": "Vi-Lee's Hauteur of Gold",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-1-51",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Parader's Jay of Vi-Lee's",
+      "sire_reg": "W161696",
+      "dam_name": "Slique Serenade of Durkee Hill",
+      "dam_reg": "W81343",
+      "breeders": [
+        "Wallace S. Wilde"
+      ],
+      "owners": [
+        "Mr. & Mrs. Leonard Ja Baay"
+      ]
+    },
+    {
+      "reg_number": "W340398",
+      "name": "Vinnay's G-Gore",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-25-51",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Dunsinane Star Event",
+      "sire_reg": "W5442",
+      "dam_name": "Vi-Lee's Flirtatious",
+      "dam_reg": "W161243",
+      "breeders": [
+        "Leonard Ja Baay"
+      ],
+      "owners": [
+        "Ruth Vinnay"
+      ]
+    },
+    {
+      "reg_number": "W335650",
+      "name": "Welcome Mac Loxi",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-6-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Parader's Captain Fair",
+      "sire_reg": "W77542",
+      "dam_name": "Sherwood's Lady Sable",
+      "dam_reg": "W33264",
+      "breeders": [
+        "Edward Kovacich"
+      ],
+      "owners": [
+        "Ada D. Mayo"
+      ]
+    },
+    {
+      "reg_number": "W335520",
+      "name": "Wedly's Lassie Comet",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-6-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Jo Dean's Golden Boy",
+      "sire_reg": "W47609",
+      "dam_name": "Goldmont Goldilocks",
+      "dam_reg": "W43547",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Ross Arlin Weldy"
+      ]
+    },
+    {
+      "reg_number": "W321077",
+      "name": "Wendy of Windy Knoll",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-25-51",
+      "color_code": "Sbl, wh mkg",
+      "breed": "Collie",
+      "sire_name": "Elwell's Sandy's Echo",
+      "sire_reg": "W263500",
+      "dam_name": "Horein's Queen",
+      "dam_reg": "W183317",
+      "breeders": [
+        "John M. Horein"
+      ],
+      "owners": [
+        "Peter A. Biliotte"
+      ]
+    },
+    {
+      "reg_number": "W323334",
+      "name": "Westbrook Woodsmoke",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-21-51",
+      "color_code": "Blk, tan & wh",
+      "breed": "Collie",
+      "sire_name": "Westbrook Golden Arbor",
+      "sire_reg": "W178136",
+      "dam_name": "Lassie of Windy Knoll II",
+      "dam_reg": "W197656",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mrs. Dorothy M. West"
+      ]
+    },
+    {
+      "reg_number": "W347004",
+      "name": "Whispering Pines Moon Mist",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-6-51",
+      "color_code": "B",
+      "breed": "Collie",
+      "sire_name": "Ace of Spaces",
+      "sire_reg": "W107792",
+      "dam_name": "Mira Cloudmere",
+      "dam_reg": "W78348",
+      "breeders": [
+        "Wm. H. Johnson"
+      ],
+      "owners": [
+        "John A. Quiggle, Jr."
+      ]
+    },
+    {
+      "reg_number": "W332183",
+      "name": "Mind-Call's Wagonmiss",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-16-50",
+      "color_code": "Blk, wh & tan",
+      "breed": "Collie",
+      "sire_name": "Wind-Call of Wrangler",
+      "sire_reg": "W54358",
+      "dam_name": "Shushan Blue Voilet",
+      "dam_reg": "W233779",
+      "breeders": [
+        "La Verne J. Twiford"
+      ],
+      "owners": [
+        "Owner"
+      ]
+    },
+    {
+      "reg_number": "W332176",
+      "name": "Windy Hill's Orianna",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-31-48",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Thurmel Treve",
+      "sire_reg": "W44401",
+      "dam_name": "Lodestone Black Beauty",
+      "dam_reg": "A838729",
+      "breeders": [
+        "Albert F. Hahn"
+      ],
+      "owners": [
+        "Jeane C. Dollar"
+      ]
+    },
+    {
+      "reg_number": "W341214",
+      "name": "Wooley's Lane Tazza",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-6-48",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Wooley's Lane Gold Cuffs",
+      "sire_reg": "W79138",
+      "dam_name": "Honey of the Hill",
+      "dam_reg": "W40963",
+      "breeders": [
+        "Malcolm E. McAlpin"
+      ],
+      "owners": [
+        "Wooley's Lane Kennels"
+      ]
+    },
+    {
+      "reg_number": "W331734",
+      "name": "Wynn-Boi Prince Gold Parade",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-24-51",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Ruby's Prince Rudy",
+      "sire_reg": "W85139",
+      "dam_name": "Wooley's Lane Trude",
+      "dam_reg": "W15281",
+      "breeders": [
+        "Dorothy R. Winnie"
+      ],
+      "owners": [
+        "Elizabeth Hull Mazzie"
+      ]
+    },
+    {
+      "reg_number": "W323868",
+      "name": "Zellnick Kitty Glyn",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-5-50",
+      "color_code": "Sbl & wh",
+      "breed": "Collie",
+      "sire_name": "Bryn Gola Blacktop Gain",
+      "sire_reg": "W99679",
+      "dam_name": "Princess Lady VII",
+      "dam_reg": "W270089",
+      "breeders": [
+        "Zelia Nicolas"
+      ],
+      "owners": [
+        "J. A. McGlynn"
+      ]
+    },
+    {
+      "reg_number": "W347853",
+      "name": "Adelaide v Toddchen (Germany)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-19-50",
+      "color_code": "Blk & rd",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Alf v Koppernee",
+      "sire_reg": null,
+      "dam_name": "Adda v d Bahrenklause",
+      "dam_reg": null,
+      "breeders": [
+        "Jacqueline D. S. Bridwell"
+      ],
+      "owners": [
+        "Raymond Healy"
+      ]
+    },
+    {
+      "reg_number": "W353537",
+      "name": "Ahella of Bucks",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-24-50",
+      "color_code": "Blk & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Ch. Jet v d Ravensburg",
+      "sire_reg": "W43665",
+      "dam_name": "Clarestan Alanda",
+      "dam_reg": "W102291",
+      "breeders": [
+        "Wilmer D. Fretz"
+      ],
+      "owners": [
+        "Michael J. Landers"
+      ]
+    },
+    {
+      "reg_number": "W337427",
+      "name": "Anthem v Ryrod",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-11-49",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Ch. Chance Run's Town Talk",
+      "sire_reg": "W55734",
+      "dam_name": "Graihof Morning Star",
+      "dam_reg": "W83773 C.D.",
+      "breeders": [
+        "Harrison J. Hemmerling"
+      ],
+      "owners": [
+        "Graham H. & Jeanne M. Luhn"
+      ]
+    },
+    {
+      "reg_number": "W335996",
+      "name": "Baroness von Mongengrau",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-5-50",
+      "color_code": "Blk & br",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Jay Dee",
+      "sire_reg": "A979605",
+      "dam_name": "Lona Arnorom",
+      "dam_reg": "A963871",
+      "breeders": [
+        "Gwen V. Tiedeman"
+      ],
+      "owners": [
+        "Isabel Marks"
+      ]
+    },
+    {
+      "reg_number": "W342282",
+      "name": "Baroness van Arnheim",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-15-47",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Skeet v Luxembourg",
+      "sire_reg": "W46782",
+      "dam_name": "Bee v Luxemburg",
+      "dam_reg": "W46783",
+      "breeders": [
+        "John H. Webb"
+      ],
+      "owners": [
+        "Owner"
+      ]
+    },
+    {
+      "reg_number": "W341338",
+      "name": "Basko v Schloss Wiblingen (Ger.)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-11-47",
+      "color_code": "Blk & br",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Nero v Glashof",
+      "sire_reg": null,
+      "dam_name": "Alma v d Neckarspitz",
+      "dam_reg": null,
+      "breeders": [
+        "William Blaine"
+      ],
+      "owners": [
+        "Richard Kuhn"
+      ]
+    },
+    {
+      "reg_number": "W325159",
+      "name": "Beauty v Beavji",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-18-49",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Jocko v Berger",
+      "sire_reg": "W23803",
+      "dam_name": "Lady Bevaji",
+      "dam_reg": "W172222",
+      "breeders": [
+        "L. Talbot Sidelinker"
+      ],
+      "owners": [
+        "Owner"
+      ]
+    },
+    {
+      "reg_number": "W345025",
+      "name": "Black Knights' Gretchen",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-12-50",
+      "color_code": "Blk & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Trail'em Atlas",
+      "sire_reg": "W54659",
+      "dam_name": "Gretchen of Ludwig Acres",
+      "dam_reg": "A995733",
+      "breeders": [
+        "Mrs. Alice M. Fowler"
+      ],
+      "owners": [
+        "Margaret L. Crosset"
+      ]
+    },
+    {
+      "reg_number": "W326607",
+      "name": "Bonnie of Connell",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-20-51",
+      "color_code": "Br & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Augustus v Weborg",
+      "sire_reg": "A964721",
+      "dam_name": "Teana v Staufeneck",
+      "dam_reg": "W141601",
+      "breeders": [
+        "Robert Connell"
+      ],
+      "owners": [
+        "Eugene Poschinger"
+      ]
+    },
+    {
+      "reg_number": "W342680",
+      "name": "Bonnie Dale of Dobe Hacienda",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-12-49",
+      "color_code": "Blk & rust",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Blakie v Howells",
+      "sire_reg": "W170236",
+      "dam_name": "Athena of Iffland Farm",
+      "dam_reg": "W51666",
+      "breeders": [
+        "Kenneth L. Yereance"
+      ],
+      "owners": [
+        "Michael Phillips"
+      ]
+    },
+    {
+      "reg_number": "W326108",
+      "name": "Brenda Von Carlo",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-12-51",
+      "color_code": "Blk & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Ch. Brown's Archer",
+      "sire_reg": "W67794",
+      "dam_name": "Jetney v Carlo",
+      "dam_reg": "W122190",
+      "breeders": [
+        "Joseph J. Naryka"
+      ],
+      "owners": [
+        "Leo J. Hartnett"
+      ]
+    },
+    {
+      "reg_number": "W325160",
+      "name": "Brownie v Bevaji",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-18-49",
+      "color_code": "Br & tan",
+      "breed": "Doberman Pinscher",
+      "sire_name": "Jocko v Berger",
+      "sire_reg": "W23803",
+      "dam_name": "Lady Bevaji",
+      "dam_reg": "W172222",
+      "breeders": [
+        "L. Talbot Sidelinker"
+      ],
+      "owners": [
+        "Owner"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "W291525",
+      "name": "CH SPARK PLUG",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "5-14-51",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "CH Zack v Dom",
+      "sire_reg": null,
+      "dam_name": "Royal Lessa v Koenig",
+      "dam_reg": null,
+      "breeders": [
+        "Stephen N. Lovett"
+      ],
+      "owners": [
+        "Larry Downey"
+      ]
+    }
+  ]
+}

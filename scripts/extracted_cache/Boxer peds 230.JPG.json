@@ -1,0 +1,26 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "W90757",
+      "name": "CH BRUHNWALL'S VENUS",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "6-27-47",
+      "color_code": "Brindle",
+      "breed": "Boxer",
+      "sire_name": "CH Baron of Brightwood",
+      "sire_reg": null,
+      "dam_name": "Red Feather",
+      "dam_reg": null,
+      "breeders": [
+        "Mrs. W. T. Quick"
+      ],
+      "owners": [
+        "Mrs. W. T. Quick",
+        "Mr. & Mrs. D. Starkweather"
+      ]
+    }
+  ]
+}

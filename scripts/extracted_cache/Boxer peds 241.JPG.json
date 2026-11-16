@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A197750",
+      "name": "CH DAUBER OF TULGEY WOOD",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "7-20-37",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "ICH Sigurd v Dom",
+      "sire_reg": null,
+      "dam_name": "Ich Lustig v Dom of Tulgey Wood",
+      "dam_reg": null,
+      "breeders": [
+        "George J. Eberhardt",
+        "Tulgey Wood Kennels",
+        "Erwin O. Freund"
+      ],
+      "owners": []
+    }
+  ]
+}

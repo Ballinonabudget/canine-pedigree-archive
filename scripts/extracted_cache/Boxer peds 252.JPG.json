@@ -1,0 +1,24 @@
+{
+  "breed": "Boxer",
+  "dogs": [
+    {
+      "reg_number": "WD019561",
+      "name": "CH GLENNROE OPENSESAME",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "2-21-75",
+      "color_code": "Brindle",
+      "breed": "Boxer",
+      "sire_name": "CH Glennroe Eldorado",
+      "sire_reg": null,
+      "dam_name": "CH Glennroe Ingenue",
+      "dam_reg": null,
+      "breeders": [
+        "Glenn & Zona Grupe"
+      ],
+      "owners": [
+        "Gene & Jennifer Tellier"
+      ]
+    }
+  ]
+}

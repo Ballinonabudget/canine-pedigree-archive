@@ -1,0 +1,1356 @@
+{
+  "breed": "Boxers",
+  "date_header": "August, 1961",
+  "dogs": [
+    {
+      "reg_number": "W895050",
+      "name": "Ricky's Laddie",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-3-56",
+      "color_code": "FnWnMkgs",
+      "breed": "Boxers",
+      "sire_name": "Smart Alex of Biffhaven",
+      "sire_reg": "W289067",
+      "dam_name": "Lady Mento",
+      "dam_reg": "W672075",
+      "breeders": [
+        "Agatha L. Conway"
+      ],
+      "owners": [
+        "Virginia Cancrof Jenkins",
+        "K. C. & Claudette R."
+      ]
+    },
+    {
+      "reg_number": "WA12565",
+      "name": "Rinkey Dink's Lady",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-6-58",
+      "color_code": "FnWhonChst",
+      "breed": "Boxers",
+      "sire_name": "Rinkey Dink's Dandy",
+      "sire_reg": "W586475",
+      "dam_name": "Hulda von Alex",
+      "dam_reg": "W575137",
+      "breeders": [
+        "Mrs. J. C. Peterson"
+      ],
+      "owners": [
+        "Walter Leroy Heck"
+      ]
+    },
+    {
+      "reg_number": "W984461",
+      "name": "Ripper Lee",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-7-58",
+      "color_code": "FnWnMkgs",
+      "breed": "Boxers",
+      "sire_name": "Adams Prince Charming",
+      "sire_reg": "W616984",
+      "dam_name": "Duchess May",
+      "dam_reg": "W847721",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Belinda Lou Wade"
+      ]
+    },
+    {
+      "reg_number": "W651809",
+      "name": "Robison's Boots",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-2-55",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Sir Richard VI",
+      "sire_reg": "W442824",
+      "dam_name": "Gay Lady Jade",
+      "dam_reg": "W592671",
+      "breeders": [
+        "William E. Davis"
+      ],
+      "owners": [
+        "F. H. & G. M. Bender"
+      ]
+    },
+    {
+      "reg_number": "WA23191",
+      "name": "Roccar's Gingersnap",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-8-59",
+      "color_code": "RdFnBlkMskWh",
+      "breed": "Boxers",
+      "sire_name": "Ch. Amity Hall's Master Key",
+      "sire_reg": "W867947",
+      "dam_name": "Thomas's Lady Ruth",
+      "dam_reg": "W810156",
+      "breeders": [
+        "F. E. & Ruth C. Carse"
+      ],
+      "owners": [
+        "Marilyn & R. Wilkerson"
+      ]
+    },
+    {
+      "reg_number": "WA41009",
+      "name": "Ro-Dora's Big Daddy",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-18-59",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Ch. Ro-Dora's Cimarron",
+      "sire_reg": "W731387",
+      "dam_name": "Ro-Dora's Coquette",
+      "dam_reg": "W971140",
+      "breeders": [
+        "R. L. & D. A. Freiburger"
+      ],
+      "owners": [
+        "Mrs. Donald E. Campbell"
+      ]
+    },
+    {
+      "reg_number": "WA74140",
+      "name": "Roxanne of Roscommon",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-7-60",
+      "color_code": "FnwhonChst",
+      "breed": "Boxers",
+      "sire_name": "Mardall's Hi-Gate Beau",
+      "sire_reg": "W877052",
+      "dam_name": "Maxine of Kestmar",
+      "dam_reg": "W841194",
+      "breeders": [
+        "V. B. & D. M. Mathews"
+      ],
+      "owners": [
+        "J. C. Ruark"
+      ]
+    },
+    {
+      "reg_number": "WA19087",
+      "name": "Ruark's Sugar-Babe",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-29-59",
+      "color_code": "Fn",
+      "breed": "Boxers",
+      "sire_name": "Jered's Sovereign",
+      "sire_reg": "W537768",
+      "dam_name": "Myheco's Clementine",
+      "dam_reg": "W779088",
+      "breeders": [
+        "George L. & L. Meyer"
+      ],
+      "owners": [
+        "Ralph Montoto, Jr."
+      ]
+    },
+    {
+      "reg_number": "WA124324",
+      "name": "Running Fawn",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-28-59",
+      "color_code": "FnBlkMskWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Big Chief III",
+      "sire_reg": "W424354",
+      "dam_name": "Little Squaw",
+      "dam_reg": "W996912",
+      "breeders": [
+        "Berniece Tomaini"
+      ],
+      "owners": [
+        "George Russell, Jr."
+      ]
+    },
+    {
+      "reg_number": "W902326",
+      "name": "Russ's Royal Rexford",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-12-57",
+      "color_code": "Fn",
+      "breed": "Boxers",
+      "sire_name": "Arola's Lusty Lancer",
+      "sire_reg": "W578027",
+      "dam_name": "Pix Lotta Sparkle",
+      "dam_reg": "W743484",
+      "breeders": [
+        "Mrs. Charles F. Pickett"
+      ],
+      "owners": [
+        "Shirley G. & Albert R."
+      ]
+    },
+    {
+      "reg_number": "WA82234",
+      "name": "Sarge of Northwoods",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-29-59",
+      "color_code": "FnBlkMsk",
+      "breed": "Boxers",
+      "sire_name": "Major Sactikos",
+      "sire_reg": "W817924",
+      "dam_name": "Salley Sue",
+      "dam_reg": "W36822",
+      "breeders": [
+        "Albert R. Croker"
+      ],
+      "owners": [
+        "O. E. Fox, Jr."
+      ]
+    },
+    {
+      "reg_number": "WA101028",
+      "name": "Sargent v d Rotbuche",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-21-59",
+      "color_code": "BrdlWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Bob v d Rotbuche",
+      "sire_reg": "W860247",
+      "dam_name": "Von Indra's Miss Petite",
+      "dam_reg": "W941167",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Walter W. Saunders"
+      ]
+    },
+    {
+      "reg_number": "WA129822",
+      "name": "Saunders' Princess Taffy",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-3-59",
+      "color_code": "FnBlkMsk",
+      "breed": "Boxers",
+      "sire_name": "General von Burp",
+      "sire_reg": "W564320",
+      "dam_name": "Shelton's Princess Cinderella",
+      "dam_reg": "W886430",
+      "breeders": [
+        "Kathleen S. Shelton"
+      ],
+      "owners": [
+        "Stanley M. Zapor"
+      ]
+    },
+    {
+      "reg_number": "W880503",
+      "name": "Scampering Lady",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-3-56",
+      "color_code": "FnBlkMskWhChst",
+      "breed": "Boxers",
+      "sire_name": "Dusty von Cassidy",
+      "sire_reg": "W574688",
+      "dam_name": "Anna Belle IV",
+      "dam_reg": "W498292",
+      "breeders": [
+        "Gertrude Murray"
+      ],
+      "owners": [
+        "T. J. & M. M. Bosmyer"
+      ]
+    },
+    {
+      "reg_number": "WA23572",
+      "name": "Schon Johnny Reb",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-12-59",
+      "color_code": "FnBlkMsk",
+      "breed": "Boxers",
+      "sire_name": "Ch. Jered's Spellbinder",
+      "sire_reg": "W272761",
+      "dam_name": "Cathy of Holly Hedge",
+      "dam_reg": "W752496",
+      "breeders": [
+        "Mr. & Mrs. Kenneth E."
+      ],
+      "owners": [
+        "Harry & Dan Richard"
+      ]
+    },
+    {
+      "reg_number": "WA136733",
+      "name": "Schwinn's Colonel",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-18-55",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Reds Gregory Francis",
+      "sire_reg": "W232569",
+      "dam_name": "Schwinn's Dutchess",
+      "dam_reg": "W441379",
+      "breeders": [
+        "Thompson"
+      ],
+      "owners": [
+        "E. C. & K. M. Schwinn"
+      ]
+    },
+    {
+      "reg_number": "W978340",
+      "name": "Selbuort von Pharr",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-28-58",
+      "color_code": "Fn",
+      "breed": "Boxers",
+      "sire_name": "Duke Ray Fisher",
+      "sire_reg": "W880398",
+      "dam_name": "Scotty's Merry Christmas",
+      "dam_reg": "W565518",
+      "breeders": [
+        "E. C. & M. Schwinn"
+      ],
+      "owners": [
+        "Sam Pharr"
+      ]
+    },
+    {
+      "reg_number": "WA26730",
+      "name": "Sensational Sweetheart",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-14-59",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Wildwood's Powerama",
+      "sire_reg": "W725998",
+      "dam_name": "Mitzi Renee of Cha-Del",
+      "dam_reg": "W814753",
+      "breeders": [
+        "M. Richards"
+      ],
+      "owners": [
+        "Bennie F. Lewis"
+      ]
+    },
+    {
+      "reg_number": "W971413",
+      "name": "Shelley of Sweet Brier",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-18-59",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Copper Yodler",
+      "sire_reg": "W723638",
+      "dam_name": "Shelley's Creme De Cocoa",
+      "dam_reg": "W605477",
+      "breeders": [
+        "W. T. & Mrs. Catherine"
+      ],
+      "owners": [
+        "Della D. & W. Search"
+      ]
+    },
+    {
+      "reg_number": "WA131564",
+      "name": "Sherry's Duke of Troy",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-4-59",
+      "color_code": "FnBlkMskWh",
+      "breed": "Boxers",
+      "sire_name": "Weeping Willow's Bumble-Bee",
+      "sire_reg": "W504388",
+      "dam_name": "Cluney B",
+      "dam_reg": "W746645",
+      "breeders": [
+        "Thelma V. Francis"
+      ],
+      "owners": [
+        "Aloys Loerwald"
+      ]
+    },
+    {
+      "reg_number": "WA68652",
+      "name": "Sir Burgundy of Chief",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-15-59",
+      "color_code": "FnBlkMsk",
+      "breed": "Boxers",
+      "sire_name": "Chief Texo",
+      "sire_reg": "W875885",
+      "dam_name": "Easter of Houghton",
+      "dam_reg": "W580473",
+      "breeders": [
+        "Virgil O. & B. J. Cruca"
+      ],
+      "owners": [
+        "Alan J. Braun"
+      ]
+    },
+    {
+      "reg_number": "WA149006",
+      "name": "Sir Francis Drake IV",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-28-56",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Lord Franciscan",
+      "sire_reg": "W568118",
+      "dam_name": "Lady Jane of Fedora",
+      "dam_reg": "W670946",
+      "breeders": [
+        "Jenkins"
+      ],
+      "owners": [
+        "Kenneth C. Claudette"
+      ]
+    },
+    {
+      "reg_number": "D917511",
+      "name": "Sir Jiggs of Warwick",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-8-57",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "King Cole von Krug",
+      "sire_reg": "W364439",
+      "dam_name": "Miss Chief of the Alleghenies",
+      "dam_reg": "W359517",
+      "breeders": [
+        "Mrs. Max Edward Maas"
+      ],
+      "owners": [
+        "Clarence Noel, Jr."
+      ]
+    },
+    {
+      "reg_number": "W699723",
+      "name": "Sir Jock of Duke",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-18-55",
+      "color_code": "FnBlkMsk",
+      "breed": "Boxers",
+      "sire_name": "Duke of Park Place",
+      "sire_reg": "W556498",
+      "dam_name": "Tena of Scotts",
+      "dam_reg": "W466622",
+      "breeders": [
+        "Mrs. Billy C. Braahs"
+      ],
+      "owners": [
+        "Mrs. Harold O. Walberg"
+      ]
+    },
+    {
+      "reg_number": "WA147754",
+      "name": "Sir Kidds",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-29-57",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Sir Copper VI",
+      "sire_reg": "W701870",
+      "dam_name": "Fraulein Pepper Robson",
+      "dam_reg": "W716004",
+      "breeders": [
+        "Roger Wetmore"
+      ],
+      "owners": [
+        "E. S. & Sarah C. Munney"
+      ]
+    },
+    {
+      "reg_number": "D759454",
+      "name": "Sir Michael of Cato",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-3-56",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Sir Cato of Lamboll",
+      "sire_reg": "W512248",
+      "dam_name": "Chubby Wu",
+      "dam_reg": "W714750",
+      "breeders": [
+        "Francine McCarty"
+      ],
+      "owners": [
+        "John R. Wolthuis, Jr."
+      ]
+    },
+    {
+      "reg_number": "WA1438",
+      "name": "Sir Nohendon Boxey",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-22-58",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Kestmar's Pepper Pot",
+      "sire_reg": "W804220",
+      "dam_name": "Marbert's Lady Neptune",
+      "dam_reg": "W793355",
+      "breeders": [
+        "W. Burneston Baker"
+      ],
+      "owners": [
+        "Mr. & Mrs. J. A. Robson"
+      ]
+    },
+    {
+      "reg_number": "W853031",
+      "name": "Sir Pepperpot of Bramell",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-4-56",
+      "color_code": "NWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Colonel Rumbo of Ewald",
+      "sire_reg": "W138384",
+      "dam_name": "Lady Duchess of Milton",
+      "dam_reg": "W505737",
+      "breeders": [
+        "Charles R. DeVane, Jr."
+      ],
+      "owners": [
+        "Betty Wu"
+      ]
+    },
+    {
+      "reg_number": "WA142535",
+      "name": "Sissy's Bullet",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-1-59",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Sergeant Bullet's Flash",
+      "sire_reg": "W906964",
+      "dam_name": "Laura Lou",
+      "dam_reg": "WA45358",
+      "breeders": [
+        "Dorathy L. Retter"
+      ],
+      "owners": [
+        "Patsy W. Clark"
+      ]
+    },
+    {
+      "reg_number": "WA12772",
+      "name": "Sky Baby of Kar Mel Wood",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-17-58",
+      "color_code": "BrdlWh",
+      "breed": "Boxers",
+      "sire_name": "Ch. Jered's Spellbinder",
+      "sire_reg": "W272761",
+      "dam_name": "Pride and Joy of Terrin",
+      "dam_reg": "W572536",
+      "breeders": [
+        "Charles L. Crunk"
+      ],
+      "owners": [
+        "Hubert J. Milton, Sr."
+      ]
+    },
+    {
+      "reg_number": "WA49642",
+      "name": "Slaughter's Mick",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-13-58",
+      "color_code": "FnWhChst",
+      "breed": "Boxers",
+      "sire_name": "Grand Duke XVIII",
+      "sire_reg": "W770669",
+      "dam_name": "Susanna Victoria",
+      "dam_reg": "W91083",
+      "breeders": [
+        "June Klocke"
+      ],
+      "owners": [
+        "Owner"
+      ]
+    },
+    {
+      "reg_number": "WA158442",
+      "name": "Smith's Sparkling Gem",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-14-56",
+      "color_code": "FnBlkMsk",
+      "breed": "Boxers",
+      "sire_name": "Sure Fire's Dandy Shane",
+      "sire_reg": "W503319",
+      "dam_name": "Mystery Maiden",
+      "dam_reg": "W479959",
+      "breeders": [
+        "G. E. & Betty J. Steelman"
+      ],
+      "owners": [
+        "Roger V. Hale"
+      ]
+    },
+    {
+      "reg_number": "W919692",
+      "name": "Snacky of Caldwell",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-12-57",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Major of Jacaranda",
+      "sire_reg": "W524706",
+      "dam_name": "Sassey Mitzi Pruett",
+      "dam_reg": "W564467",
+      "breeders": [
+        "David D. & Pat Smith"
+      ],
+      "owners": [
+        "Vernoa D. Eden"
+      ]
+    },
+    {
+      "reg_number": "WA156660",
+      "name": "Sparklene Amber Girl",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-11-58",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Gleamaway Superior",
+      "sire_reg": "",
+      "dam_name": "Princess Bibokama",
+      "dam_reg": "WA90798",
+      "breeders": [
+        "Dan O. Caldwell, Jr."
+      ],
+      "owners": [
+        "James L. Anderson"
+      ]
+    },
+    {
+      "reg_number": "WA141372",
+      "name": "Spring Master's Samson",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-13-59",
+      "color_code": "FnBlkMsk",
+      "breed": "Boxers",
+      "sire_name": "Jubilee's Spring Master",
+      "sire_reg": "W825016",
+      "dam_name": "Jeannie Ann",
+      "dam_reg": "WA1353",
+      "breeders": [
+        "Harry E. & Betty J. Mann"
+      ],
+      "owners": [
+        "Hubert H. Tidmore, Jr."
+      ]
+    },
+    {
+      "reg_number": "W796225",
+      "name": "Star of Heaven",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-6-36",
+      "color_code": "RdfnBlkmskWhChst",
+      "breed": "Boxers",
+      "sire_name": "Duke of Cayey",
+      "sire_reg": "W631782",
+      "dam_name": "Rum Over Rocks",
+      "dam_reg": "W651236",
+      "breeders": [
+        "Delbert N. Tanner"
+      ],
+      "owners": [
+        "Owner"
+      ]
+    },
+    {
+      "reg_number": "WA91977",
+      "name": "Steelman's Lucky Doll",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-4-59",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Ch. Ivy-Dells Romancer",
+      "sire_reg": "W429241",
+      "dam_name": "Ch. Dancing Doll of Thorhall",
+      "dam_reg": "W635292",
+      "breeders": [
+        "Judith E. & R. F. Lifka"
+      ],
+      "owners": [
+        "Francis P. Taylor"
+      ]
+    },
+    {
+      "reg_number": "W833899",
+      "name": "Sterusan Golden Chano",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-25-56",
+      "color_code": "FnWh",
+      "breed": "Boxers",
+      "sire_name": "Littlejohhn of Harborhaven",
+      "sire_reg": "W483419",
+      "dam_name": "Lady Fancy of Green Acres",
+      "dam_reg": "W708972",
+      "breeders": [
+        "Kathryn & H.C. Steelman"
+      ],
+      "owners": [
+        "Sigrid A. & Albert S. C."
+      ]
+    },
+    {
+      "reg_number": "W951773",
+      "name": "Sugar Lady",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-29-58",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Sigmund Karlinhaus",
+      "sire_reg": "W949484",
+      "dam_name": "The Golden Lady",
+      "dam_reg": "W928082",
+      "breeders": [
+        "Spencer C. Steelman"
+      ],
+      "owners": [
+        "Patricia Mitchell"
+      ]
+    },
+    {
+      "reg_number": "WA103471",
+      "name": "Sukey of Bel Ami",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-29-56",
+      "color_code": "RdBlkMskWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Jataime De Bel Ami",
+      "sire_reg": "W449135",
+      "dam_name": "Markay's Tawny Heidi",
+      "dam_reg": "W610943",
+      "breeders": [
+        "James E. Donaldson, Jr."
+      ],
+      "owners": [
+        "G. Robert Maley"
+      ]
+    },
+    {
+      "reg_number": "WA48237",
+      "name": "Sundown's Black Boy",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-27-57",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Mister Shane II",
+      "sire_reg": "W543878",
+      "dam_name": "Queen of Sundown",
+      "dam_reg": "W763079",
+      "breeders": [
+        "M. Steve Coy"
+      ],
+      "owners": [
+        "V. B. & H. E. Whitacre"
+      ]
+    },
+    {
+      "reg_number": "WA114221",
+      "name": "Susie Kay II",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-23-59",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Happy of Delsea",
+      "sire_reg": "W995970",
+      "dam_name": "Princess Pageant",
+      "dam_reg": "W624936",
+      "breeders": [
+        "R. Roseen & W. Burback"
+      ],
+      "owners": [
+        "W. R. Ellison"
+      ]
+    },
+    {
+      "reg_number": "W822077",
+      "name": "Susie-Q of Dixie",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-29-57",
+      "color_code": "GldnBrWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Ch. Spark Plug",
+      "sire_reg": "W291525",
+      "dam_name": "Flapper of Dixie",
+      "dam_reg": "W377802",
+      "breeders": [
+        "W. R. Celsius & C. Patton"
+      ],
+      "owners": [
+        "Owner"
+      ]
+    },
+    {
+      "reg_number": "WA96617",
+      "name": "Sweets II",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-3-60",
+      "color_code": "Fn",
+      "breed": "Boxers",
+      "sire_name": "King Juno",
+      "sire_reg": "W961606",
+      "dam_name": "Lady Annabelle",
+      "dam_reg": "W64660",
+      "breeders": [
+        "James E. Rigel"
+      ],
+      "owners": [
+        "Wooley L. Durham, Jr."
+      ]
+    },
+    {
+      "reg_number": "WA12839",
+      "name": "Taffy Marie II",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-8-58",
+      "color_code": "Fn",
+      "breed": "Boxers",
+      "sire_name": "Count Annadale of Elswick",
+      "sire_reg": "W961226",
+      "dam_name": "Thorpe's Kodiak Princess",
+      "dam_reg": "W835446",
+      "breeders": [
+        "F. B. Littleton"
+      ],
+      "owners": [
+        "Owner"
+      ]
+    },
+    {
+      "reg_number": "WA61536",
+      "name": "Tammy Lynn",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-14-59",
+      "color_code": "FnBlkMsk",
+      "breed": "Boxers",
+      "sire_name": "Duke Von",
+      "sire_reg": "W667970",
+      "dam_name": "Bryan's Lady Cindy",
+      "dam_reg": "W838249",
+      "breeders": [
+        "R. O. Blackwell"
+      ],
+      "owners": [
+        "Mager"
+      ]
+    },
+    {
+      "reg_number": "WA37194",
+      "name": "Tello's Uno",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-31-58",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Tello",
+      "sire_reg": "W770180",
+      "dam_name": "Jigger's Jasmine of Edburgil",
+      "dam_reg": "W854904",
+      "breeders": [
+        "Henry Vieira"
+      ],
+      "owners": [
+        "L. H. Jones & Bessie T."
+      ]
+    },
+    {
+      "reg_number": "WA82805",
+      "name": "Tempestuous Tassie",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-29-59",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Evan's Dynamite",
+      "sire_reg": "W898071",
+      "dam_name": "Duchess of Covington",
+      "dam_reg": "W680869",
+      "breeders": [
+        "Anna L. & H. G. Rogers"
+      ],
+      "owners": [
+        "Richard F. Thorpe"
+      ]
+    },
+    {
+      "reg_number": "WA21922",
+      "name": "Terudon's My Gal Sal",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-28-59",
+      "color_code": "BrdlWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Ch. Canyonair's Man on Fire",
+      "sire_reg": "W794968",
+      "dam_name": "Canyonair's Katrinka II",
+      "dam_reg": "W325136",
+      "breeders": [
+        "Fred C. & Sara Tubbs"
+      ],
+      "owners": [
+        "J. T. & E. J. Romesberg"
+      ]
+    },
+    {
+      "reg_number": "WA52750",
+      "name": "Texas Jim II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-26-58",
+      "color_code": "Fn",
+      "breed": "Boxers",
+      "sire_name": "Duke Obrecht",
+      "sire_reg": "W343285",
+      "dam_name": "Tangee the Texas Lady",
+      "dam_reg": "W735398",
+      "breeders": [
+        "Denis & Mrs. Denis"
+      ],
+      "owners": [
+        "Kenneth F. Fordham"
+      ]
+    },
+    {
+      "reg_number": "W948879",
+      "name": "The Red Ripper",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-22-57",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Duke of Cherry Point",
+      "sire_reg": "W707486",
+      "dam_name": "Princess Pat of Rainbow",
+      "dam_reg": "W567514",
+      "breeders": [
+        "Bolzhauer"
+      ],
+      "owners": [
+        "Tom Evans"
+      ]
+    },
+    {
+      "reg_number": "WA29852",
+      "name": "Thomas's Theba Princess",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-4-59",
+      "color_code": "FnBlkMsk",
+      "breed": "Boxers",
+      "sire_name": "Finch's Sugarloaf Prince",
+      "sire_reg": "W994220",
+      "dam_name": "Finch's Sunshine of Rincon",
+      "dam_reg": "W982617",
+      "breeders": [
+        "David L. & Betty Claire"
+      ],
+      "owners": [
+        "Mr. & Mrs. Theodore"
+      ]
+    },
+    {
+      "reg_number": "D937606",
+      "name": "Thor of Palos Hills",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-18-58",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Ch. Storybrook's Jack Horner",
+      "sire_reg": "W249605",
+      "dam_name": "Bright Star of Palos Hills",
+      "dam_reg": "W785624",
+      "breeders": [
+        "Frohock"
+      ],
+      "owners": [
+        "Sam C. & Margaret Lance"
+      ]
+    },
+    {
+      "reg_number": "W888159",
+      "name": "Tina von Keywood",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-2-57",
+      "color_code": "GldnFnBlkMskWh",
+      "breed": "Boxers",
+      "sire_name": "Compo",
+      "sire_reg": "W566670",
+      "dam_name": "Baroness von Saugatuck",
+      "dam_reg": "W660917",
+      "breeders": [
+        "James R. & Mary E."
+      ],
+      "owners": [
+        "Elmer L. Taylor"
+      ]
+    },
+    {
+      "reg_number": "WA15971",
+      "name": "Tiny Lady of Keck Manor",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-26-58",
+      "color_code": "FnMkgs",
+      "breed": "Boxers",
+      "sire_name": "Lou Rhea's Buddy",
+      "sire_reg": "W475464",
+      "dam_name": "Peg of Lee Manor",
+      "dam_reg": "W481986",
+      "breeders": [
+        "Joyce Thomas"
+      ],
+      "owners": [
+        "Russell G. Patrick"
+      ]
+    },
+    {
+      "reg_number": "W964042",
+      "name": "Toni Tonette",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-5-57",
+      "color_code": "FnBlkMsk",
+      "breed": "Boxers",
+      "sire_name": "Baron von Charmot",
+      "sire_reg": "W856425",
+      "dam_name": "Ridgewood's Christina",
+      "dam_reg": "W831136",
+      "breeders": [
+        "Fanning Ernest L. Finch"
+      ],
+      "owners": [
+        "Charles K. & Petronella"
+      ]
+    },
+    {
+      "reg_number": "D834932",
+      "name": "Trail Blazer V",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-8-57",
+      "color_code": "Fn",
+      "breed": "Boxers",
+      "sire_name": "Patrolman",
+      "sire_reg": "W316824",
+      "dam_name": "Sherry Schaufner",
+      "dam_reg": "W504737",
+      "breeders": [
+        "T. Bard"
+      ],
+      "owners": [
+        "Owner"
+      ]
+    },
+    {
+      "reg_number": "W998455",
+      "name": "Trebor's Tiger Rag",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-13-56",
+      "color_code": "BrdlWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Ft Barons' Brandy",
+      "sire_reg": "W546014",
+      "dam_name": "Trebor's Tea for Two",
+      "dam_reg": "W724523",
+      "breeders": [
+        "R. F. Kozich"
+      ],
+      "owners": [
+        "Donald F. Law"
+      ]
+    },
+    {
+      "reg_number": "WA134591",
+      "name": "Truce Talks Cinderella",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-15-60",
+      "color_code": "BrBlkMskWh",
+      "breed": "Boxers",
+      "sire_name": "Truce Talk's Nip",
+      "sire_reg": "of Brandy",
+      "dam_name": "Duchess Myosi",
+      "dam_reg": "W888687",
+      "breeders": [
+        "Nina Rose Keck"
+      ],
+      "owners": [
+        "Edgar Lee Marriott"
+      ]
+    },
+    {
+      "reg_number": "W675982",
+      "name": "Tsar of Tanaw",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-4-56",
+      "color_code": "RdWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Mazelaine's ursa Minor",
+      "sire_reg": "W326351",
+      "dam_name": "Dutchess of Tanwaw",
+      "dam_reg": "W496188",
+      "breeders": [
+        "Florence Errington"
+      ],
+      "owners": [
+        "Betty J. Sterling"
+      ]
+    },
+    {
+      "reg_number": "WA35103",
+      "name": "Tyegarth Orange Bitters",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-28-59",
+      "color_code": "Br",
+      "breed": "Boxers",
+      "sire_name": "Tyegarth Mild and Bitter",
+      "sire_reg": "",
+      "dam_name": "Tyegarth Cindy Lou",
+      "dam_reg": "",
+      "breeders": [
+        "P. E. & R. E. Williams"
+      ],
+      "owners": [
+        "Betty Priscilla E. Shearin"
+      ]
+    },
+    {
+      "reg_number": "W732650",
+      "name": "Vans Western Storm",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-30-55",
+      "color_code": "FnBlkMzlWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Vagabond's Diamond Jim",
+      "sire_reg": "W281980",
+      "dam_name": "Glenbell Stormy",
+      "dam_reg": "W526596",
+      "breeders": [
+        "Harry P. Young"
+      ],
+      "owners": [
+        "Jed C. Alexander"
+      ]
+    },
+    {
+      "reg_number": "WA21069",
+      "name": "Vernon Pride",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-6-59",
+      "color_code": "BrWhonChst",
+      "breed": "Boxers",
+      "sire_name": "Chuckawa's Rusty",
+      "sire_reg": "W618996",
+      "dam_name": "Lady Marie II",
+      "dam_reg": "W502888",
+      "breeders": [
+        "William Burger"
+      ],
+      "owners": [
+        "Simon Krueger"
+      ]
+    },
+    {
+      "reg_number": "W966062",
+      "name": "Victoria Valentina",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-7-58",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Galanjud's Dow Jones",
+      "sire_reg": "W721964",
+      "dam_name": "Highlands Benedict Brandy",
+      "dam_reg": "W754852",
+      "breeders": [
+        "Wm. L. Page"
+      ],
+      "owners": [
+        "G. E. & Richard A. Waugh"
+      ]
+    },
+    {
+      "reg_number": "W642109",
+      "name": "Vidrine's True Lady",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-25-55",
+      "color_code": "FnBlkMskWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Lucky's Buddy Boy",
+      "sire_reg": "W499845",
+      "dam_name": "True Defender",
+      "dam_reg": "W465133",
+      "breeders": [
+        "Thomas R. Williamson III"
+      ],
+      "owners": [
+        "Miss S. Cartwright &"
+      ]
+    },
+    {
+      "reg_number": "W986887",
+      "name": "Vivian's Poison Ivy",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-14-58",
+      "color_code": "Brdl",
+      "breed": "Boxers",
+      "sire_name": "Bally Duff's Monarchson",
+      "sire_reg": "W493494",
+      "dam_name": "Misty Minjo",
+      "dam_reg": "W692710",
+      "breeders": [
+        "Ivan Wagner"
+      ],
+      "owners": [
+        "Mrs. J. Weyman"
+      ]
+    },
+    {
+      "reg_number": "WA18684",
+      "name": "Von Big Duke Roland",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-5-59",
+      "color_code": "FnBlkMsk",
+      "breed": "Boxers",
+      "sire_name": "Baron von Big Duke",
+      "sire_reg": "W636534",
+      "dam_name": "Rolla",
+      "dam_reg": "W737436",
+      "breeders": [
+        "Gerald W. & Loretta J."
+      ],
+      "owners": [
+        "Iris J. Schoonover"
+      ]
+    },
+    {
+      "reg_number": "D695226",
+      "name": "Von der Hellem's Dick",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-9-56",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Banter of Quality Hill",
+      "sire_reg": "W435599",
+      "dam_name": "Woodside's Little Acorn",
+      "dam_reg": "W502667",
+      "breeders": [
+        "Billy Wayne Landers"
+      ],
+      "owners": [
+        "J. M. Fisher"
+      ]
+    },
+    {
+      "reg_number": "WA153529",
+      "name": "Von Roco De Marco",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-23-58",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Mike Siegestor",
+      "sire_reg": "W940721",
+      "dam_name": "His Lady",
+      "dam_reg": "W865115",
+      "breeders": [
+        "Joseph Sparago"
+      ],
+      "owners": [
+        "Lykins Margaret Porterfield"
+      ]
+    },
+    {
+      "reg_number": "D994653",
+      "name": "Walnut Hill's Equalizer",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-23-59",
+      "color_code": "FnWhMkgs",
+      "breed": "Boxers",
+      "sire_name": "Ch. May-Will's Knock Out",
+      "sire_reg": "W200859",
+      "dam_name": "Walnut Hill Schatze",
+      "dam_reg": "W471983",
+      "breeders": [
+        "Doyle R. & Mrs. Doyle R."
+      ],
+      "owners": [
+        "Clark & Virginia Elkins"
+      ]
+    },
+    {
+      "reg_number": "WA96060",
+      "name": "Werr's Duke",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-59",
+      "color_code": "Brdl",
+      "breed": "Boxers",
+      "sire_name": "King Anthony of Carol Beach",
+      "sire_reg": "W503282",
+      "dam_name": "Miss Toots II",
+      "dam_reg": "WA16770",
+      "breeders": [
+        "Vivian L. Sensenbaugh"
+      ],
+      "owners": [
+        "Margaret J. Jansen"
+      ]
+    }
+  ]
+}

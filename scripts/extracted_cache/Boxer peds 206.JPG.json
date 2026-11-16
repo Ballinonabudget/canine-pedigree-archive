@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "957944",
+      "name": "ANITRA OF MAZELAINE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-11-33",
+      "color_code": "Brindle",
+      "breed": "Boxer",
+      "sire_name": "ICH Check v Hunnenstein",
+      "sire_reg": null,
+      "dam_name": "CH Landa of Mazelaine",
+      "dam_reg": null,
+      "breeders": [
+        "John P. Wagner"
+      ],
+      "owners": [
+        "John P. Wagner"
+      ]
+    }
+  ]
+}

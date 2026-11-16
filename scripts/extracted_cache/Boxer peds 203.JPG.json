@@ -1,0 +1,31 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "WB734305",
+      "name": "ICH ARACREST'S JERED",
+      "titles": "ICH",
+      "sex": "D",
+      "birth_date": "4-25-70",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "ICH Scher-Khoun's Shadrack",
+      "sire_reg": null,
+      "dam_name": "CCH Jocolu's Charming Fashion",
+      "dam_reg": null,
+      "breeders": [
+        "Jocolu's Miss Win-Sum",
+        "Mr. & Mrs. J. V. McGriskin"
+      ],
+      "owners": [
+        "Esquire of Blossomlea",
+        "Ev-Lyn's Sabre Girl",
+        "W. L. Addington &",
+        "Mr. & Mrs. J. V. McGriskin",
+        "Mr. & Mrs. Al Coffey",
+        "Aurgurva's Miss Show Spell"
+      ]
+    }
+  ]
+}

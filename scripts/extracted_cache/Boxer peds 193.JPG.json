@@ -1,0 +1,26 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "WD367665",
+      "name": "CH BITWYN'S STAR OF KING PT.",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "9-9-75",
+      "color_code": "Brindle",
+      "breed": "Boxer",
+      "sire_name": "CH Vul Kel's Big Ben",
+      "sire_reg": null,
+      "dam_name": "Bitwyn's New England Summer",
+      "dam_reg": null,
+      "breeders": [
+        "Dr. J. Bitler",
+        "P. Pelletier"
+      ],
+      "owners": [
+        "Dr. & Mrs. J. Bitler"
+      ]
+    }
+  ]
+}

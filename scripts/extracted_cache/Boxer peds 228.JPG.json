@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A692233",
+      "name": "CH BUT GOOD OF LILAC HEDGE",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "4-20-43",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "ICH Lustig v Dom of Tulgey Wood",
+      "sire_reg": null,
+      "dam_name": "Esta v d Wuerm",
+      "dam_reg": null,
+      "breeders": [
+        "Margaret S. Brundage"
+      ],
+      "owners": [
+        "Lilac Hedge Kennels"
+      ]
+    }
+  ]
+}

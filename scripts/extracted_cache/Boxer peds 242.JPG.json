@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "WD325490",
+      "name": "DASEL'S CRISTEL STAR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-24-75",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "CH Brumble Carolina Star",
+      "sire_reg": null,
+      "dam_name": "Scampan's Cristel Windjammer",
+      "dam_reg": null,
+      "breeders": [
+        "D. Lewis"
+      ],
+      "owners": [
+        "D. Lewis"
+      ]
+    }
+  ]
+}

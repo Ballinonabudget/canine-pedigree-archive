@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "WB828961",
+      "name": "CH ARRIBA'S CRESCENDO",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "11-19-70",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "CH Arriba's Excelsior",
+      "sire_reg": null,
+      "dam_name": "Arriba's Debutante",
+      "dam_reg": null,
+      "breeders": [
+        "L. E. & C. G. Reardon"
+      ],
+      "owners": [
+        "Dr. T. S. Pickes"
+      ]
+    }
+  ]
+}

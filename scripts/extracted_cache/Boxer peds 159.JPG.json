@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "WC153352",
+      "name": "CRAIG'S BRYNDELEEN TREX",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-74",
+      "color_code": "BRDL BLK MSK & WH MK",
+      "breed": "Boxer",
+      "sire_name": "PERRA RAY",
+      "sire_reg": "WC231561",
+      "dam_name": "TERRA DAK'S ELEGANT DAWN",
+      "dam_reg": "WD321916",
+      "breeders": [
+        "J FORD"
+      ],
+      "owners": [
+        "J FORD"
+      ]
+    }
+  ]
+}

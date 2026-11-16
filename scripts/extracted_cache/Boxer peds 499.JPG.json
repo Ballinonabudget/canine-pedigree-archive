@@ -1,0 +1,204 @@
+{
+  "breed": "Boxer",
+  "date_header": "FEBRUARY 2",
+  "dogs": [
+    {
+      "reg_number": "W936442",
+      "name": "Williams Lady Penelope",
+      "sex": "B",
+      "birth_date": "11-12-56",
+      "color_code": "FnBlkWk",
+      "breed": "Boxer",
+      "sire_name": "Breakaway's Roger's Flash",
+      "sire_reg": "W394796",
+      "dam_name": "Franks Lady Vienna",
+      "dam_reg": "W558525",
+      "breeders": [
+        "Bill Franks"
+      ],
+      "owners": [
+        "Glenn H. Williams"
+      ]
+    },
+    {
+      "reg_number": "W703459",
+      "name": "Woody's Pepper Boy",
+      "sex": "D",
+      "birth_date": "11-22-55",
+      "color_code": "FnBlkWk",
+      "breed": "Boxer",
+      "sire_name": "Duke of Fontaine",
+      "sire_reg": "W498017",
+      "dam_name": "Peggy's Pepper Candy",
+      "dam_reg": "W56342",
+      "breeders": [
+        "Peggy E. Green"
+      ],
+      "owners": [
+        "Woodrow T. Drury"
+      ]
+    },
+    {
+      "reg_number": "W539083",
+      "name": "Ch. Wyndway's Headpiece",
+      "sex": "B",
+      "birth_date": "8-27-57",
+      "color_code": "FnWkMsk",
+      "breed": "Boxer",
+      "sire_name": "Rexob and Wyndway Buzzbomb",
+      "sire_reg": "W539083",
+      "dam_name": "Wyndway's Apache",
+      "dam_reg": "W472288",
+      "breeders": [
+        "A. H. & D. S. Watson"
+      ],
+      "owners": [
+        "A. H. & D. S. Watson"
+      ]
+    },
+    {
+      "reg_number": "WA109385",
+      "name": "Wyndway's Ziguene",
+      "sex": "B",
+      "birth_date": "8-16-58",
+      "color_code": "FnBlkWk",
+      "breed": "Boxer",
+      "sire_name": "Ch. Wyndway's Lamplighter",
+      "sire_reg": "W739227",
+      "dam_name": "Wyndway's New Deal",
+      "dam_reg": "W806939",
+      "breeders": [
+        "Mrs. John F. Rodman"
+      ],
+      "owners": [
+        "Mrs. John F. Rodman"
+      ]
+    },
+    {
+      "reg_number": "W671093",
+      "name": "Zierlich von Mosehorn",
+      "sex": "B",
+      "birth_date": "6-7-56",
+      "color_code": "FnBlkWk",
+      "breed": "Boxer",
+      "sire_name": "Major Peck",
+      "sire_reg": "W577505",
+      "dam_name": "Peck's Lady",
+      "dam_reg": "W577506",
+      "breeders": [
+        "Burton O. Peck"
+      ],
+      "owners": [
+        "Patricia Sutcliffe"
+      ]
+    },
+    {
+      "reg_number": "W620375",
+      "name": "Big Boy",
+      "sex": "D",
+      "birth_date": "11-11-52",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Miking of Marbette",
+      "sire_reg": "W272791",
+      "dam_name": "Twit-Lee's Alexandra",
+      "dam_reg": "W214297",
+      "breeders": [
+        "Katharine A. Armstrong"
+      ],
+      "owners": [
+        "P. A. Wallace, Jr."
+      ]
+    },
+    {
+      "reg_number": "WA37408",
+      "name": "Wallaces Bonnie",
+      "sex": "B",
+      "birth_date": "1-31-56",
+      "color_code": "FnBlkWk",
+      "breed": "Boxer",
+      "sire_name": "Oreland Vindication",
+      "sire_reg": "V472858",
+      "dam_name": "Twit-Lee's Alexandra",
+      "dam_reg": "W214297",
+      "breeders": [
+        "Katharine A. Armstrong"
+      ],
+      "owners": [
+        "P. A. Wallace, Jr."
+      ]
+    },
+    {
+      "reg_number": "W646562",
+      "name": "Adam of Eden",
+      "sex": "D",
+      "birth_date": "12-5-58",
+      "color_code": "SblWh",
+      "breed": "Bullmastiff",
+      "sire_name": "Pine Grove Daniel",
+      "sire_reg": "W750201",
+      "dam_name": "Pama Lee of Oak Ridge",
+      "dam_reg": "W834237",
+      "breeders": [
+        "Ova D. Rains"
+      ],
+      "owners": [
+        "Constance R. Sherlin"
+      ]
+    },
+    {
+      "reg_number": "WA29221",
+      "name": "Amber Lites",
+      "sex": "B",
+      "birth_date": "7-18-59",
+      "color_code": "SblWh",
+      "breed": "Bullmastiff",
+      "sire_name": "Kirklyn's Fitz Rufus",
+      "sire_reg": "W631841",
+      "dam_name": "Heidi Love",
+      "dam_reg": "W940669",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Jane Jenkins"
+      ]
+    },
+    {
+      "reg_number": "WA29562",
+      "name": "Arland's Golden Glow",
+      "sex": "B",
+      "birth_date": "4-4-58",
+      "color_code": "BM",
+      "breed": "Bullmastiff",
+      "sire_name": "Ch. Kalon Blue Magic",
+      "sire_reg": "W461910",
+      "dam_name": "Ch. Kalon's Evening Primrose",
+      "dam_reg": "W485583",
+      "breeders": [
+        "Mr. & Mrs. L. H. Powell"
+      ],
+      "owners": [
+        "James S. Cooper"
+      ]
+    },
+    {
+      "reg_number": "W935013",
+      "name": "Auidwood Plush Lady",
+      "sex": "B",
+      "birth_date": "8-13-58",
+      "color_code": "SblWh",
+      "breed": "Bullmastiff",
+      "sire_name": "Auidwood Limited",
+      "sire_reg": "W651144",
+      "dam_name": "Baycrest's Lollipop Dandy",
+      "dam_reg": "W699636",
+      "breeders": [
+        "Joseph H. Malkone"
+      ],
+      "owners": [
+        "Arnold L. & S. L. Woolf"
+      ]
+    }
+  ]
+}

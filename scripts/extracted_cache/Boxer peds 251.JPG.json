@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "WB709779",
+      "name": "CHEROKEE ROSE OF BALDR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-26-70",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "Blackstone of Cherokee Oaks",
+      "sire_reg": null,
+      "dam_name": "Baldr's Shadowed Sherry",
+      "dam_reg": null,
+      "breeders": [
+        "Robert D. Conrad"
+      ],
+      "owners": [
+        "Robert D. Conrad"
+      ]
+    }
+  ]
+}

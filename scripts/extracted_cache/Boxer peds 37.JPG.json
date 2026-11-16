@@ -1,0 +1,22 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "W359630",
+      "name": "Tina III",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-15-51",
+      "color_code": "Fn",
+      "breed": "Boxer",
+      "sire_name": "Keegan's Baron of Briarnole",
+      "sire_reg": "W229659",
+      "dam_name": "Cobeana Lynn",
+      "dam_reg": "W168450",
+      "owners": [
+        "Mrs. Bert D. Solomkin"
+      ]
+    }
+  ]
+}

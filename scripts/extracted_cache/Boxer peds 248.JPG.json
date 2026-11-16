@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "G-24908",
+      "name": "CORA V D BLUETENAU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-05-30",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "GCH Edler v Isarstrand",
+      "sire_reg": null,
+      "dam_name": "Alma",
+      "dam_reg": null,
+      "breeders": [
+        "Joseph Gigerenzer"
+      ],
+      "owners": [
+        "Joseph Gigerenzer"
+      ]
+    }
+  ]
+}

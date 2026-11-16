@@ -1,0 +1,26 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A197750",
+      "name": "CH DAUBER OF TULGEY WOOD",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "7-20-37",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "ICH Lustig v Dom of Tulgey Wood",
+      "sire_reg": null,
+      "dam_name": "Ginger of Mazelaine",
+      "dam_reg": null,
+      "breeders": [
+        "George J. Eberhardt"
+      ],
+      "owners": [
+        "Tulgey Wood Kennels",
+        "Erwin O. Freund"
+      ]
+    }
+  ]
+}

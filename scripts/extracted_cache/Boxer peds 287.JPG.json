@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "WB247788",
+      "name": "CH HUCK HILL'S RAMPAGE",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "8-22-68",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "CH Alidan's Nautical Whitecap",
+      "sire_reg": null,
+      "dam_name": "Mill River's Bewildered",
+      "dam_reg": null,
+      "breeders": [
+        "W. H. Rankin, Jr."
+      ],
+      "owners": [
+        "W. H. Rankin, Jr."
+      ]
+    }
+  ]
+}

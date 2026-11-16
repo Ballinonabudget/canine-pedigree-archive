@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "W876361",
+      "name": "CH DEMPSEY'S COPPER GENTLEMAN",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "2-18-58",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "CH Jered's Spellbinder",
+      "sire_reg": null,
+      "dam_name": "Fontana's Crimson Mist",
+      "dam_reg": null,
+      "breeders": [
+        "Robert H. Dempsey"
+      ],
+      "owners": [
+        "Robert H. Dempsey"
+      ]
+    }
+  ]
+}

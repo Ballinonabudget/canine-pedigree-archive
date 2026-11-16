@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "WA389575",
+      "name": "CCH GAYMITZ DASH O' FIRE",
+      "titles": "CCH",
+      "sex": "B",
+      "birth_date": "5-62",
+      "color_code": "Brindle",
+      "breed": "Boxer",
+      "sire_name": "Ruda River Happy Go Lucky",
+      "sire_reg": null,
+      "dam_name": "ICH Gaymitz Spelling Bee",
+      "dam_reg": null,
+      "breeders": [
+        "Jack Northover"
+      ],
+      "owners": [
+        "Jack Northover"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "breed": "Boxer",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A692232",
+      "name": "CH BUBBLING OVER OF LILAC HEDGE",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "4-20-43",
+      "color_code": "Fawn",
+      "breed": "Boxer",
+      "sire_name": "ICH Lustig v Dom of Tulgey Wood",
+      "sire_reg": null,
+      "dam_name": "Heigh Ho Bramble",
+      "dam_reg": null,
+      "breeders": [
+        "Margaret S. Brundage"
+      ],
+      "owners": [
+        "Dr. L. E. Daniels"
+      ]
+    }
+  ]
+}
