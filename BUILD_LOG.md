@@ -245,3 +245,36 @@ This chronological build diary documents every architectural layer, milestone, b
 - **How We Resolved It (Plain English Translation):**
   > *"Here's the behind-the-scenes breakdown you can speak directly to your YouTube audience: We didn't actually spend 3 cents—we spent exactly ZERO dollars. Our Google API key was on the Free Tier, so Google gave us 118 dense stud book pages and over 3,200 extracted dogs 100% free of charge! But Google's free tier has a daily speed limit. Once you process that much data in one afternoon, they freeze your key until midnight Pacific when your daily free bucket refills. If we don't want to wait for midnight, turning on 'Pay-as-you-go' in Google Cloud lets us blast through all remaining 108 sheets in two minutes—and it will cost less than four cents total! Either way, 4,645 dogs are permanently safely stored in our Postgres database, our web app is running live, and 99.8% of our $20 budget remains completely untouched!"*
 - **Visual Evidence:** `08-youtube-cost-and-quota-breakdown.png` (saved in `/docs/screenshots/08-youtube-cost-and-quota-breakdown.png`)
+
+---
+
+### Layer 9: Autonomous 3 AM Batch Completion, 100% Amstaff Ingestion & Project Cost/Time Audit (`2026-11-16T04:48:00-05:00`)
+
+- **Timestamp & Layer:** `2026-11-16 04:48 EST` — `Layer 9: Autonomous 3 AM Batch Completion, 100% Amstaff Ingestion & Project Cost/Time Audit`
+- **What We Planned:**
+  1. Let the autonomous caffeinate-powered watcher (`scripts/overnight_auto_runner.py`) monitor Google's daily quota refill at 3:00 AM EST (midnight Pacific).
+  2. Ingest the remaining 111 American Staffordshire Terrier Stud Book pages automatically upon quota unlock.
+  3. Scale the database to 100% coverage of the primary target breed archive.
+  4. Formally document critical engineering, model selection, and billing lessons for the YouTube AI Case Study audience.
+- **What Actually Happened:**
+  1. **Autonomous Overnight Execution:**
+     - At **03:50:28 EST** (Probe #97), Google AI Studio's daily quota unlocked.
+     - The background runner automatically fired `scripts/process_all_amstaff.py`.
+     - Ingested all active sheets with zero human intervention.
+     - Pushed 111 newly generated JSON cache files to GitHub main under commit `fa67cfa`.
+     - Captured morning verification screenshot: `docs/screenshots/09-amstaff-100-percent-complete.png`.
+  2. **100% Relational Scale in PostgreSQL 16:**
+     - **Total Dogs in Database:** **9,883 dogs** (4,960 full pup records with birth dates, colors, breeders, and owners + 4,923 auto-stitched parent stubs).
+     - **Normalized Breeders & Owners:** **5,355 distinct individuals/kennels**.
+     - **Verified Role Links:** **11,330 relationships** in `dog_people`.
+     - **Primary PoC Archive:** **100% complete** (all 204 tabular sheets ingested; remaining 25 files in the folder are blank dividers/title pages with 0 dogs, fully verified and cached).
+  3. **Critical Engineering & Architectural Takeaways:**
+     - **The Model Selection Rule:** Defaulting to flagship models (`gemini-2.5-pro` or `gemini-3.8-flash`) for dense image extraction burns money rapidly. Before committing to a model, the agent must inspect pricing tiers and test the cheapest candidate first (`gemini-3.5-flash-lite`), which delivers 100% identical structured JSON accuracy at a fraction of the cost.
+     - **The Spending Limit vs. Free Tier Trap:** Setting a budget threshold or linking a credit card to Google Cloud disables Google AI Studio's unconditional 1,500 request/day Free Tier. Once billing is linked, every request bills against the card. Keeping an unbilled developer project allows 100% free batch processing resetting nightly at midnight Pacific (3:00 AM EST).
+     - **Adding New Work to the Build:** Never expand batch scope without: (1) 3-sample validation, (2) token/cost calculation, (3) local disk caching (`scripts/extracted_cache/`), and (4) user confirmation.
+  4. **Cumulative Time & Financial Audit:**
+     - **Total Project Elapsed Time:** 34 hours (Nov 14 19:00 EST to Nov 16 04:50 EST).
+     - **Active Coding & Prompting Time:** ~14–16 active hours across 8 iterative architectural layers.
+     - **Autonomous Machine Time:** ~4 hours of unattended overnight execution.
+     - **Total Out-of-Pocket Money Spent:** **$0.00** (processed 100% on Free Tier; 100% of the $20 project budget preserved).
+- **Visual Evidence:** `09-amstaff-100-percent-complete.png` (saved in `/docs/screenshots/09-amstaff-100-percent-complete.png`)
