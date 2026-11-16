@@ -1,0 +1,751 @@
+{
+  "breed": "Sealyham Terrier",
+  "date_header": "August 1950",
+  "dogs": [
+    {
+      "reg_number": "R69112",
+      "name": "BETTE SKIPPERS PLAYBOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-2-49",
+      "color_code": "Black",
+      "breed": "Scottish Terrier",
+      "sire_name": "Ch. Shieling's Signature",
+      "sire_reg": "90418",
+      "dam_name": "Highland Victory Maid",
+      "dam_reg": "R-7280",
+      "breeders": [
+        "Mrs. Bettie Rodermund Wagoner"
+      ],
+      "owners": [
+        "Ralph E. Hendrickson"
+      ]
+    },
+    {
+      "reg_number": "R69114",
+      "name": "SY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-14-49",
+      "color_code": "Brindle",
+      "breed": "Scottish Terrier",
+      "sire_name": "Count Garthright",
+      "sire_reg": "R-6040",
+      "dam_name": "Tam Lin Tentie",
+      "dam_reg": "R-5603",
+      "breeders": [
+        "Earl T. Luda"
+      ],
+      "owners": [
+        "Tam Lin Kennels",
+        "Kenbrick Kennels"
+      ]
+    },
+    {
+      "reg_number": "R68682",
+      "name": "OT MAC'S FAD (CANADA)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-30-50",
+      "color_code": "Brindle",
+      "breed": "Scottish Terrier",
+      "sire_name": "Haldon Mister Bones",
+      "sire_reg": null,
+      "dam_name": "Wynot ck Beauty",
+      "dam_reg": null,
+      "breeders": [
+        "Mrs. Ellen Evans"
+      ],
+      "owners": [
+        "Albert Collins"
+      ]
+    },
+    {
+      "reg_number": "R68542",
+      "name": "REINCH CHIEFTAIN (ENGLAND)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-24-49",
+      "color_code": "White, badger markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "St. Margaret's st",
+      "sire_reg": null,
+      "dam_name": "Mountnoddy Mucushla",
+      "dam_reg": null,
+      "breeders": [
+        "Howard A. Kelly, Jr."
+      ],
+      "owners": [
+        "Mrs. E. Auslan"
+      ]
+    },
+    {
+      "reg_number": "R68640",
+      "name": "LANT LADY'S LEADING LADY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-10-50",
+      "color_code": "White, badger head markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Walgil Question Mark",
+      "sire_reg": "A-796455",
+      "dam_name": "Gally Hill's Gallant Lady",
+      "dam_reg": "R-21042",
+      "breeders": [
+        "Mrs. James G. Sperekas"
+      ],
+      "owners": [
+        "Mrs. James G. Sperekas"
+      ]
+    },
+    {
+      "reg_number": "R68641",
+      "name": "LANT LADY'S LEADING MAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-10-50",
+      "color_code": "White, badger on eye",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Walgil Question Mark",
+      "sire_reg": "A-796455",
+      "dam_name": "Gally Hill's Gallant Lady",
+      "dam_reg": "R-21042",
+      "breeders": [
+        "Mrs. James G. Sperekas"
+      ],
+      "owners": [
+        "Mrs. James G. Sperekas"
+      ]
+    },
+    {
+      "reg_number": "R68987",
+      "name": "Y'S BLACK-EYED SUSAN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-8-50",
+      "color_code": "White, badger on eye",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Robin Hill Patriot",
+      "sire_reg": "A-886677",
+      "dam_name": "Lovable Imp of the Knoll",
+      "dam_reg": "R-43884",
+      "breeders": [
+        "Esther Brown Thomson"
+      ],
+      "owners": [
+        "Esther Brown Thomson"
+      ]
+    },
+    {
+      "reg_number": "R68984",
+      "name": "Y'S JOHNNY JONES",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-8-50",
+      "color_code": "White, badger on eye",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Robin Hill Patriot",
+      "sire_reg": "A-886677",
+      "dam_name": "Lovable Imp of the Knoll",
+      "dam_reg": "R-43884",
+      "breeders": [
+        "Esther Brown Thomson"
+      ],
+      "owners": [
+        "Esther Brown Thomson"
+      ]
+    },
+    {
+      "reg_number": "R68985",
+      "name": "Y'S SNOWY SCAMP",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-8-50",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Robin Hill Patriot",
+      "sire_reg": "A-886677",
+      "dam_name": "Lovable Imp of the Knoll",
+      "dam_reg": "R-43884",
+      "breeders": [
+        "Esther Brown Thomson"
+      ],
+      "owners": [
+        "Esther Brown Thomson"
+      ]
+    },
+    {
+      "reg_number": "R68986",
+      "name": "Y'S WEE WILLIE WINKIE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-8-50",
+      "color_code": "White, badger on eye",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Robin Hill Patriot",
+      "sire_reg": "A-886677",
+      "dam_name": "Lovable Imp of the Knoll",
+      "dam_reg": "R-43884",
+      "breeders": [
+        "Esther Brown Thomson"
+      ],
+      "owners": [
+        "Esther Brown Thomson"
+      ]
+    },
+    {
+      "reg_number": "R69119",
+      "name": "TLE MISS MUFFIN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-10-49",
+      "color_code": "White, badger on head",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Walgil Grit",
+      "sire_reg": "A-981785",
+      "dam_name": "Quests d Fiery Miss",
+      "dam_reg": "R-9732",
+      "breeders": [
+        "Nicholas L. Wallingford"
+      ],
+      "owners": [
+        "Mr. & Mrs. Herbert W. Hunt"
+      ]
+    },
+    {
+      "reg_number": "R69017",
+      "name": "R-LYN CAPTAIN COURAGEOUS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-7-50",
+      "color_code": "White, tan on head",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Mar-Lyn Captain Jinks",
+      "sire_reg": "A-48557",
+      "dam_name": "Ch. Lyn-Mar Caress",
+      "dam_reg": "R-1346",
+      "breeders": [
+        "Emily Yelich"
+      ],
+      "owners": [
+        "Lynden F. Carr",
+        "Margaret T. Carr"
+      ]
+    },
+    {
+      "reg_number": "R68999",
+      "name": "R-LYN CONNIE MURPH",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-26-49",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Lyn-Mar Count",
+      "sire_reg": "A-936374",
+      "dam_name": "Mar-Lyn ory",
+      "dam_reg": "R-23517",
+      "breeders": [
+        "Rosemary Davis"
+      ],
+      "owners": [
+        "Lynden F. Carr",
+        "Margaret T. Carr"
+      ]
+    },
+    {
+      "reg_number": "R68541",
+      "name": "ONA OF HILLBANK (ENGLAND)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-19-47",
+      "color_code": "White, tan head markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Gunside Seapilot Leckington",
+      "sire_reg": null,
+      "dam_name": "Mountnoddy Minx",
+      "dam_reg": null,
+      "breeders": [
+        "Bernice E. Sanborn"
+      ],
+      "owners": [
+        "Mrs. E. M. Wade"
+      ]
+    },
+    {
+      "reg_number": "R69065",
+      "name": "CEY'S SIR REGGID",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-19-49",
+      "color_code": "White, brown and black head markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Reggid spot",
+      "sire_reg": "R-3911",
+      "dam_name": "Her Highness Miss Saucey",
+      "dam_reg": "R-27942",
+      "breeders": [
+        "Mrs. L. F. Dockum"
+      ],
+      "owners": [
+        "Mrs. Raymond E. Poe"
+      ]
+    },
+    {
+      "reg_number": "R69364",
+      "name": "TFIRE'S LADY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-15-49",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Spitfire's Ski Trooper",
+      "sire_reg": "A-880821",
+      "dam_name": "Spitfire's Nora lle",
+      "dam_reg": "R-29068",
+      "breeders": [
+        "Agnes L. Hawley"
+      ],
+      "owners": [
+        "Gordon H. Arbogast"
+      ]
+    },
+    {
+      "reg_number": "R68716",
+      "name": "UNE'S ATOMIC ENERGY O' WAY'S",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-15-49",
+      "color_code": "White, badger on ear",
+      "breed": "Sealyham Terrier",
+      "sire_name": "MacBeth (Canada)",
+      "sire_reg": "R-24626",
+      "dam_name": "Triune's White Rose",
+      "dam_reg": "R-41721",
+      "breeders": [
+        "Joe W. Way"
+      ],
+      "owners": [
+        "Eva L. Kuss"
+      ]
+    },
+    {
+      "reg_number": "R68715",
+      "name": "UNE'S SNOW BOY O' STILES",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-15-49",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "MacBeth (Canada)",
+      "sire_reg": "R-24626",
+      "dam_name": "Triune's White Rose",
+      "dam_reg": "R-41721",
+      "breeders": [
+        "Ralph S. Stiles",
+        "Ehrrin Stiles"
+      ],
+      "owners": [
+        "Eva L. Kuss"
+      ]
+    },
+    {
+      "reg_number": "R68714",
+      "name": "UNE'S SNOW WHITE OF ARANYI",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-15-49",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "MacBeth (Canada)",
+      "sire_reg": "R-24626",
+      "dam_name": "Triune's White Rose",
+      "dam_reg": "R-41721",
+      "breeders": [
+        "Dorothea Aranyi"
+      ],
+      "owners": [
+        "Eva L. Kuss"
+      ]
+    },
+    {
+      "reg_number": "R68713",
+      "name": "UNE'S WHITE HYACINTH",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-15-49",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "MacBeth (Canada)",
+      "sire_reg": "R-24626",
+      "dam_name": "Triune's White Rose",
+      "dam_reg": "R-41721",
+      "breeders": [
+        "Lloyd Hildebrand"
+      ],
+      "owners": [
+        "Eva L. Kuss"
+      ]
+    },
+    {
+      "reg_number": "R68304",
+      "name": "RONICA'S MALLY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-2-48",
+      "color_code": "White and tan",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Etherden's Martin David",
+      "sire_reg": "A-879237",
+      "dam_name": "eggy Etherden Serene",
+      "dam_reg": "A-883792",
+      "breeders": [
+        "Arthur E. Hill"
+      ],
+      "owners": [
+        "Toini A. Walden"
+      ]
+    },
+    {
+      "reg_number": "R69061",
+      "name": "ITE PETAL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-16-48",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Van Winkle Voyager",
+      "sire_reg": "R-11187",
+      "dam_name": "Etherden Megan uroy",
+      "dam_reg": "A-955781",
+      "breeders": [
+        "Thomas W. Davis"
+      ],
+      "owners": [
+        "Ruth L. Boyce"
+      ]
+    },
+    {
+      "reg_number": "R68727",
+      "name": "ACUS DOUGLAS BRUCE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-2-50",
+      "color_code": "Light gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Merrybrac's Mustang",
+      "sire_reg": "A-827569",
+      "dam_name": "Bracadale Mermaid of Iradell (England)",
+      "dam_reg": "R-26555",
+      "breeders": [
+        "Abacus Kennels"
+      ],
+      "owners": [
+        "Abacus Kennels"
+      ]
+    },
+    {
+      "reg_number": "R68729",
+      "name": "ACUS HENRY BRUCE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-2-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Merrybrac's Mustang",
+      "sire_reg": "A-827569",
+      "dam_name": "racadale Mermaid of Iradell (England)",
+      "dam_reg": "R-26555",
+      "breeders": [
+        "Abacus Kennels"
+      ],
+      "owners": [
+        "Abacus Kennels"
+      ]
+    },
+    {
+      "reg_number": "R68730",
+      "name": "ACUS MAGGIE BRUCE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-2-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Merrybrac's Mustang",
+      "sire_reg": "A-827569",
+      "dam_name": "racadale Mermaid of Iradell (England)",
+      "dam_reg": "R-26555",
+      "breeders": [
+        "Abacus Kennels"
+      ],
+      "owners": [
+        "Abacus Kennels"
+      ]
+    },
+    {
+      "reg_number": "R68728",
+      "name": "ACUS ROBERT BRUCE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-2-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Merrybrac's Mustang",
+      "sire_reg": "A-827569",
+      "dam_name": "racadale Mermaid of Iradell (England)",
+      "dam_reg": "R-26555",
+      "breeders": [
+        "Abacus Kennels"
+      ],
+      "owners": [
+        "Abacus Kennels"
+      ]
+    },
+    {
+      "reg_number": "R68792",
+      "name": "CKY SILVER JEANNIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-29-49",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Swamie's King Karl",
+      "sire_reg": "R-24335",
+      "dam_name": "Mickey of auralone",
+      "dam_reg": "R-68791",
+      "breeders": [
+        "Ola Hacquest"
+      ],
+      "owners": [
+        "Hugh N. Bashor"
+      ]
+    },
+    {
+      "reg_number": "R68791",
+      "name": "CKEY OF LAURALONE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-16-48",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Chummie's Hero of Talisker",
+      "sire_reg": "A-546206",
+      "dam_name": "Grey Girlie of Talisker (Canada)",
+      "dam_reg": "R-7450",
+      "breeders": [
+        "Hugh N. Bashor"
+      ],
+      "owners": [
+        "Laura E. Heflin"
+      ]
+    },
+    {
+      "reg_number": "R68687",
+      "name": "TALISKER'S YOUNG CHUMMIE (CANADA)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-6-48",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Talisker's Wee Angus",
+      "sire_reg": null,
+      "dam_name": "Talisker's Don-Karin Lady Too",
+      "dam_reg": null,
+      "breeders": [
+        "Frank J. Humphrey, Jr."
+      ],
+      "owners": [
+        "Mrs. R. Percy Adams"
+      ]
+    },
+    {
+      "reg_number": "R69001",
+      "name": "GRE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-13-49",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Graecroft Guardsman",
+      "sire_reg": "R-36483",
+      "dam_name": "Perla of Arreton",
+      "dam_reg": "R-21616",
+      "breeders": [
+        "uliette Bush"
+      ],
+      "owners": [
+        "Marcel A. Aubry"
+      ]
+    },
+    {
+      "reg_number": "R69015",
+      "name": "EV'S QUEEN CRUSADER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-12-49",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Sir Tim",
+      "sire_reg": "R-46309",
+      "dam_name": "Kriener's Peg's Jill",
+      "dam_reg": "R-47768",
+      "breeders": [
+        "Mrs. Oma R. Wiggins"
+      ],
+      "owners": [
+        "Ruth F. Kriener"
+      ]
+    },
+    {
+      "reg_number": "R68406",
+      "name": "YKE OF SHERWALL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-22-49",
+      "color_code": "Fawn, white marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Rock of Sherwall",
+      "sire_reg": "R-43606",
+      "dam_name": "Abbyar of Sherwall",
+      "dam_reg": "R-41700",
+      "breeders": [
+        "Frederic J. Baker"
+      ],
+      "owners": [
+        "Sherwall Kennels"
+      ]
+    },
+    {
+      "reg_number": "R69180",
+      "name": "ARLSDALE'S BARON",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-16-50",
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Ch. Farlsdale Golden Duena",
+      "dam_reg": "R-9165",
+      "breeders": [
+        "Marguerite Farley"
+      ],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R69181",
+      "name": "ARLSDALE'S BIT O' ROYALTY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-16-50",
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Chite's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Ch. Farlsdale Golden Duena",
+      "dam_reg": "R-9165",
+      "breeders": [
+        "Marguerite Farley"
+      ],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R69182",
+      "name": "ARLSDALE'S DEMON",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-16-50",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Ch. Farlsdale Golden Duena",
+      "dam_reg": "R-9165",
+      "breeders": [
+        "Mr. & Mrs. L. M. Pleadwell"
+      ],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R69176",
+      "name": "ARLSDALE'S QUEEN OF CLUBS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-16-50",
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Ch. Farlsdale Golden Duena",
+      "dam_reg": "R-9165",
+      "breeders": [
+        "Marguerite Farley"
+      ],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R69183",
+      "name": "ARLSDALE'S SAMPSON",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-16-50",
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Ch. Farlsdale Golden Duena",
+      "dam_reg": "R-9165",
+      "breeders": [
+        "Mr. & Mrs. Henry Sorensen"
+      ],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R69177",
+      "name": "ARLSDALE'S TAWNY MIDGE TOO",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-16-50",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Ch. Farlsdale Golden Duena",
+      "dam_reg": "R-9165",
+      "breeders": [
+        "Marguerite Farley"
+      ],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R69178",
+      "name": "ARLSDALE'S TAWNY MINX",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-16-50",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Ch. Farlsdale Golden Duena",
+      "dam_reg": "R-9165",
+      "breeders": [
+        "Marguerite Farley"
+      ],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "May 24",
+  "dogs": [
+    {
+      "reg_number": "R-64497",
+      "name": "ALEXANDER'S BOPSIE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-3-49",
+      "color_code": "Light fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Corvino's Heiny",
+      "sire_reg": "R-27945",
+      "dam_name": "Corvino's Daisy",
+      "dam_reg": "R-31022",
+      "breeders": [
+        "Clyde O. Alexander"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R-65616",
+      "name": "APPLE JACK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-16-50",
+      "color_code": "Brindle, white on chest",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Janssen's Butcher Boy",
+      "sire_reg": "A-511592",
+      "dam_name": "Gallant Sukey",
+      "dam_reg": "R-49730",
+      "breeders": [
+        "Thomas John Gundry"
+      ],
+      "owners": [
+        "Thomas John Gundry"
+      ]
+    },
+    {
+      "reg_number": "R-65229",
+      "name": "BELL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-29-49",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Walkaway",
+      "sire_reg": "A-638596",
+      "dam_name": "Puddinpie Pepper Duster",
+      "dam_reg": "R-23102",
+      "breeders": [
+        "Joseph S. Andruski"
+      ],
+      "owners": [
+        "William M. Whitaker"
+      ]
+    },
+    {
+      "reg_number": "R-65243",
+      "name": "BUNCOMBE BLACK SAMBO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-12-49",
+      "color_code": "Black brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ruffian The Rock",
+      "sire_reg": "A-908520",
+      "dam_name": "Ruffian Merry",
+      "dam_reg": "R-33496",
+      "breeders": [
+        "B. H. Hartman"
+      ],
+      "owners": [
+        "Alberta H. Hartman"
+      ]
+    }
+  ]
+}

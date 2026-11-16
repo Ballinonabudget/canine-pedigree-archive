@@ -1,0 +1,60 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "UNKNOWN",
+      "name": "CH Jake Nighthawk Magnum",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH Mac Midnight Bandit",
+      "sire_reg": null,
+      "dam_name": "Cindy's Crystal Magnum",
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "David O'Dell",
+        "Connie J. O'Dell"
+      ]
+    },
+    {
+      "reg_number": "UNKNOWN",
+      "name": "Evergreen's CoCo Bear",
+      "titles": null,
+      "sex": "U",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH Evergreen's Chicago Bear",
+      "sire_reg": null,
+      "dam_name": "CH Evergreen's Sundancer",
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "David O'Dell",
+        "Connie J. O'Dell"
+      ]
+    },
+    {
+      "reg_number": "UNKNOWN",
+      "name": "CH J-Dell's Rambo of Northrock",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Lord Zee of Liescheski",
+      "sire_reg": null,
+      "dam_name": "Northrock Ruby's Image",
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "David O'Dell",
+        "Connie J. O'Dell"
+      ]
+    }
+  ]
+}

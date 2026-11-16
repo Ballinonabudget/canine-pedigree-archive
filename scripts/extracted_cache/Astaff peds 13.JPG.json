@@ -1,0 +1,662 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "MARCH 20",
+  "dogs": [
+    {
+      "reg_number": "RA373621",
+      "name": "THEODORE ALAN BAIRE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-14-76",
+      "color_code": "TN & BLK",
+      "breed": "Manchester Terrier",
+      "sire_name": "CRESCENT'S GENTLEMAN JIGGS",
+      "sire_reg": "R950613",
+      "dam_name": "SHAW'S PRINCESS",
+      "dam_reg": "R897466",
+      "breeders": [
+        "K & D ZIEGELBEIN"
+      ],
+      "owners": [
+        "F SCOTT",
+        "B TROMBLY"
+      ]
+    },
+    {
+      "reg_number": "RA354353",
+      "name": "THEODORE J BAYER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-8-76",
+      "color_code": "BLK & TN",
+      "breed": "Manchester Terrier",
+      "sire_name": "TUTHILL DUKE",
+      "sire_reg": "RA246890",
+      "dam_name": "DUKE'S BIG ANNIE",
+      "dam_reg": "R809110",
+      "breeders": [
+        "C & A HARRINGTON"
+      ],
+      "owners": [
+        "R BUSBY"
+      ]
+    },
+    {
+      "reg_number": "RA236672",
+      "name": "TIGRESS OF WHISKEY CREEK",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-26-75",
+      "color_code": "BLK & TN",
+      "breed": "Manchester Terrier",
+      "sire_name": "TIGER OF TALQUAN",
+      "sire_reg": "R774511",
+      "dam_name": "EROWAH WHISKEY CREEK",
+      "dam_reg": "R640546",
+      "breeders": [
+        "R SAUNDERS"
+      ],
+      "owners": [
+        "R SAUNDERS"
+      ]
+    },
+    {
+      "reg_number": "RA220445",
+      "name": "WAGGERY'S BONITINHA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-30-74",
+      "color_code": "BLK & TN",
+      "breed": "Manchester Terrier",
+      "sire_name": "CH BARBATTE HENCHMAN",
+      "sire_reg": "RA034758",
+      "dam_name": "CH GOLLIWOG'S LUCKY OMEN",
+      "dam_reg": "R814705",
+      "breeders": [
+        "J & J FANNING"
+      ],
+      "owners": [
+        "J & J FANNING"
+      ]
+    },
+    {
+      "reg_number": "RA447679",
+      "name": "WALLOWAS ANNE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-3-78",
+      "color_code": "BLK & TN",
+      "breed": "Manchester Terrier",
+      "sire_name": "WALLOWAS MIGHTY CODY",
+      "sire_reg": "RA422071",
+      "dam_name": "WALLOWAS APRIL",
+      "dam_reg": "RA371885",
+      "breeders": [
+        "C & C PARISH"
+      ],
+      "owners": [
+        "J & E LYSEK"
+      ]
+    },
+    {
+      "reg_number": "RA512059",
+      "name": "BLUE JENNIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-12-78",
+      "color_code": "BL & BRDL",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH X-PERT SIMMONS GOLD TRAPPER",
+      "sire_reg": "RA293392",
+      "dam_name": "PRINCES OF KINGS",
+      "dam_reg": "RA345686",
+      "breeders": [
+        "J WALSH"
+      ],
+      "owners": [
+        "R CHARLES"
+      ]
+    },
+    {
+      "reg_number": "RA477030",
+      "name": "BRICKYARD'S BOSCO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-26-78",
+      "color_code": "GREY BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "MAGNUMS BRICKYARD",
+      "sire_reg": "RA387609",
+      "dam_name": "MAGNUMS DJINN WIRTH",
+      "dam_reg": "RA416540",
+      "breeders": [
+        "A & K WIREMAN"
+      ],
+      "owners": [
+        "D SANDERS",
+        "S WIRTH"
+      ]
+    },
+    {
+      "reg_number": "RA324922",
+      "name": "DR GRABLE'S STITCH",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-17-76",
+      "color_code": "WH & BRDL",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "GRIT'S GOLDEN GATOR",
+      "sire_reg": "RA252753",
+      "dam_name": "GYP-SIE OF LA FOREST",
+      "dam_reg": "RA252811",
+      "breeders": [
+        "S MIZELLE"
+      ],
+      "owners": [
+        "S MIZELLE"
+      ]
+    },
+    {
+      "reg_number": "RA158712",
+      "name": "GALLANT GEMINI",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-3-74",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "GALLANT MAXIMILIAN",
+      "sire_reg": "R589488",
+      "dam_name": "CH GALLANT GOLDEN GIRL",
+      "dam_reg": "RA154637",
+      "breeders": [
+        "MRS T MUIR"
+      ],
+      "owners": [
+        "E RINGOLD"
+      ]
+    },
+    {
+      "reg_number": "RA377033",
+      "name": "GALLANT MACK'S DEMPSEY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-22-77",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "REBEL OF HAR-WYN'S GALLANT MACK",
+      "sire_reg": "R864384",
+      "dam_name": "SMOKEYS MAJOR LADY",
+      "dam_reg": "RA282847",
+      "breeders": [
+        "R & C MARTINA"
+      ],
+      "owners": [
+        "M FORSTON"
+      ]
+    },
+    {
+      "reg_number": "RA412852",
+      "name": "HULSEY'S BLACK EYE SUSIE",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "6-22-77",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SOONERS CHOCOLATE TEDDY BEAR",
+      "sire_reg": "RA145559",
+      "dam_name": "SOONERS MERRY BABE",
+      "dam_reg": "RA335870",
+      "breeders": [
+        "W & D PATTERSON"
+      ],
+      "owners": [
+        "M HULSEY"
+      ]
+    },
+    {
+      "reg_number": "RA367226",
+      "name": "LITTLE LULU SAPEROAN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-8-77",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "TROJAN'S GREEK MOON",
+      "sire_reg": "RA004812",
+      "dam_name": "GYP-SIE OF LA FOREST",
+      "dam_reg": "RA252811",
+      "breeders": [
+        "S MIZELLE"
+      ],
+      "owners": [
+        "S MIZELLE"
+      ]
+    },
+    {
+      "reg_number": "RA483919",
+      "name": "PATTON'S BLACKJACK FANNY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-31-78",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH WHITE ROCK JET BOMBER",
+      "sire_reg": "RA151369",
+      "dam_name": "CH ATCHLEY'S FANNY",
+      "dam_reg": "RA104096",
+      "breeders": [
+        "W PATTON MD"
+      ],
+      "owners": [
+        "W PATTON MD"
+      ]
+    },
+    {
+      "reg_number": "RA411137",
+      "name": "PATTON'S SEPTEMBER SURPRISE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-13-77",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH PATTON'S RED ROCK SKILLET",
+      "sire_reg": "RA247707",
+      "dam_name": "CH PATTON'S AMANDA BELLE",
+      "dam_reg": "RA184721",
+      "breeders": [
+        "J NELSON"
+      ],
+      "owners": [
+        "M PATTON"
+      ]
+    },
+    {
+      "reg_number": "RA447651",
+      "name": "PEPPER RIDGE FRAJA'S THUNDER",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "3-25-78",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH MARI-DON MISTER BEAU JANGLES CDX",
+      "sire_reg": "RA105953",
+      "dam_name": "CH FRAJA'S BLACK MARIA CD",
+      "dam_reg": "RA220906",
+      "breeders": [
+        "S THOMPSON"
+      ],
+      "owners": [
+        "J FRASER"
+      ]
+    },
+    {
+      "reg_number": "RA344913",
+      "name": "PETRONILLA OF THE PENDOLA'S",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-30-76",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "SALARES BLACK JACK OF HARWYN",
+      "sire_reg": "RA189803",
+      "dam_name": "SALARES BLUE LADY",
+      "dam_reg": "RA156486",
+      "breeders": [
+        "C PENDOLA"
+      ],
+      "owners": [
+        "L SALARES"
+      ]
+    },
+    {
+      "reg_number": "RA442698",
+      "name": "ROCKY MT MARAUDER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-14-78",
+      "color_code": "BL BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH WILLYNWOOD OGRE",
+      "sire_reg": "R641390",
+      "dam_name": "ROCKY MT POLKA DOT",
+      "dam_reg": "RA351928",
+      "breeders": [
+        "N CAPPS",
+        "S ROBERTS"
+      ],
+      "owners": [
+        "D TURNER"
+      ]
+    },
+    {
+      "reg_number": "RA452830",
+      "name": "ROUNDER'S ESPARANZA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-12-77",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH RUFFIAN LITTLE HERC OF HAR-WYN CD",
+      "sire_reg": "R928550",
+      "dam_name": "RUFFIAN SUNSET OF RAMAR",
+      "dam_reg": "RA202245",
+      "breeders": [
+        "R GRAY",
+        "R NAVARRO JR"
+      ],
+      "owners": [
+        "R ESTEVEZ",
+        "R GRAY"
+      ]
+    },
+    {
+      "reg_number": "RA452828",
+      "name": "ROUNDER'S RED PEPPER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-12-77",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH RUFFIAN LITTLE HERC OF HAR-WYN CD",
+      "sire_reg": "R928550",
+      "dam_name": "RUFFIAN SUNSET OF RAMAR",
+      "dam_reg": "RA202245",
+      "breeders": [
+        "I RAMIREZ",
+        "R GRAY"
+      ],
+      "owners": [
+        "R ESTEVEZ",
+        "R GRAY"
+      ]
+    },
+    {
+      "reg_number": "R896122",
+      "name": "RUFFIAN GUNNER OF HAR-WYN CD",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "6-25-71",
+      "color_code": "GLDN BRDL WH CHST",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH RUFFIAN JIM DANDY OF HAR-WYN",
+      "sire_reg": "R579099",
+      "dam_name": "RUFFIAN BLACK ASTRO OF HAR-WYN",
+      "dam_reg": "R702298",
+      "breeders": [
+        "D YOUNG"
+      ],
+      "owners": [
+        "C WILSON"
+      ]
+    },
+    {
+      "reg_number": "RA429481",
+      "name": "SOONER'S CHEROKEE STRIP",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "11-8-77",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SOONERS BIG MAC",
+      "sire_reg": "RA337218",
+      "dam_name": "CH NUGENT'S MERRY MIDNIGHT CD",
+      "dam_reg": "R933357",
+      "breeders": [
+        "L & G JOHNSON"
+      ],
+      "owners": [
+        "E PARSONS",
+        "L SMITH"
+      ]
+    },
+    {
+      "reg_number": "RA498769",
+      "name": "STORKLIND'S KITTY TWO",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-27-76",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH TODNER'S MAGNUM FORCE",
+      "sire_reg": "RA159507",
+      "dam_name": "STORKLIND'S BABES",
+      "dam_reg": "RA225177",
+      "breeders": [
+        "D QUINLAN"
+      ],
+      "owners": [
+        "C BALLARD"
+      ]
+    },
+    {
+      "reg_number": "RA470107",
+      "name": "TITAN'S HEFTY HEFER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-8-78",
+      "color_code": "BLK & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH TITAN'S HELVETIUS BLUE",
+      "sire_reg": "RA348875",
+      "dam_name": "TITAN'S LITTLE BLACKBABY",
+      "dam_reg": "RA360380",
+      "breeders": [
+        "R DOBBS"
+      ],
+      "owners": [
+        "C & N CAPPS"
+      ]
+    },
+    {
+      "reg_number": "RA275531",
+      "name": "TOBY'S ZORRO",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-6-76",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "TOP STAF O'KIRLEY'S POWER BULL",
+      "sire_reg": "R906704",
+      "dam_name": "TONIETTA'S DIXIE BELL",
+      "dam_reg": "RA104994",
+      "breeders": [
+        "H JOHNSON"
+      ],
+      "owners": [
+        "H JOHNSON"
+      ]
+    },
+    {
+      "reg_number": "RA119523",
+      "name": "TUFFSTAFF-DAGO-JOE-THE-FIRST",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-26-73",
+      "color_code": "BRDL",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "STORKLIND'S BLACK BRUNO",
+      "sire_reg": "RA017474",
+      "dam_name": "TOPSTAFES MANDY",
+      "dam_reg": "R992310",
+      "breeders": [
+        "D QUINLAN"
+      ],
+      "owners": [
+        "C CAVINS"
+      ]
+    },
+    {
+      "reg_number": "RA428684",
+      "name": "BESCHUTZER ENGELS-SCHATZ",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-14-78",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "CH MAIALA ROBIN'S RAINEY",
+      "sire_reg": "RA186164",
+      "dam_name": "MELRIDGE MOONSONG",
+      "dam_reg": "RA154669",
+      "breeders": [
+        "M & K SAMPLE"
+      ],
+      "owners": [
+        "R & W MC CART"
+      ]
+    },
+    {
+      "reg_number": "RA411657",
+      "name": "BESCHUTZER KRIZDEN CASS",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "10-20-77",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "CH MAIALA ROBIN'S RAINEY",
+      "sire_reg": "RA186164",
+      "dam_name": "CH AUSLAND FAK'RS' FANCI O' K RIZDEN",
+      "dam_reg": "RA212542",
+      "breeders": [
+        "R & W MCCART"
+      ],
+      "owners": [
+        "C DAVIS"
+      ]
+    },
+    {
+      "reg_number": "RA477833",
+      "name": "FERNDALES DAPPER DAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-13-78",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "CH FERNDALES BAD BAD LEROY BROWN",
+      "sire_reg": "RA158749",
+      "dam_name": "CH TASMIN BETA KAKTUS KATE",
+      "dam_reg": "RA062501",
+      "breeders": [
+        "MRS D DOSS"
+      ],
+      "owners": [
+        "MRS D DOSS"
+      ]
+    },
+    {
+      "reg_number": "RA477832",
+      "name": "FERNDALES DISCO LADY",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "7-13-78",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "CH FERNDALES BAD BAD LEROY BROWN",
+      "sire_reg": "RA158749",
+      "dam_name": "CH TASMIN BETA KAKTUS KATE",
+      "dam_reg": "RA062501",
+      "breeders": [
+        "MRS D DOSS"
+      ],
+      "owners": [
+        "MRS D DOSS"
+      ]
+    },
+    {
+      "reg_number": "RA438805",
+      "name": "PASS CREEK AUSSIE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-8-77",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "TRAWICK'S WOODY",
+      "sire_reg": "RA207258",
+      "dam_name": "TRAWICK'S JANIT",
+      "dam_reg": "RA207259",
+      "breeders": [
+        "J SWENSEN"
+      ],
+      "owners": [
+        "E TRAWICK"
+      ]
+    },
+    {
+      "reg_number": "RA443307",
+      "name": "PLESANT PASTURES PLAYBOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-20-78",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "CH TINEE TOWN THE PAGEBOY",
+      "sire_reg": "RA330503",
+      "dam_name": "TAMMIKIN'S DOLLY BLUE",
+      "dam_reg": "R898982",
+      "breeders": [
+        "MRS M FOX",
+        "MRS B PURVIS"
+      ],
+      "owners": [
+        "MRS N FOX",
+        "S LUND"
+      ]
+    },
+    {
+      "reg_number": "RA481151",
+      "name": "RETKE'S HEATHER OF MELOBAR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-27-78",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "CH RETKE'S ALFIE OF MELOBAR CD",
+      "sire_reg": "RA060155",
+      "dam_name": "CH RETKE'S DEMI OF MELOBAR",
+      "dam_reg": "RA222066",
+      "breeders": [
+        "B RETKE"
+      ],
+      "owners": [
+        "B RETKE"
+      ]
+    },
+    {
+      "reg_number": "RA430443",
+      "name": "TRALENE'S KAN D MAN",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "8-28-77",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "CH ROACHAN'S RUM RUNNER O'TRALENE",
+      "sire_reg": "RA270065",
+      "dam_name": "CH TINEE TOWN MISS MELODY",
+      "dam_reg": "R913556",
+      "breeders": [
+        "E & J MAY"
+      ],
+      "owners": [
+        "MRS E MAY"
+      ]
+    },
+    {
+      "reg_number": "RA447955",
+      "name": "TRALENE'S LUCKY LINDY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-10-78",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "CH ROACHAN'S RUM RUNNER O'TRALENE",
+      "sire_reg": "RA270065",
+      "dam_name": "CH PLEASANT PASTURES RED TREASURE",
+      "dam_reg": "R897510",
+      "breeders": [
+        "J & M MAY"
+      ],
+      "owners": [
+        "MRS E MAY"
+      ]
+    }
+  ]
+}

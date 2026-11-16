@@ -1,0 +1,45 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "UNKNOWN",
+      "name": "INDIAN RAID'S ANIMAL",
+      "titles": "CH, C.D.",
+      "sex": "U",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Indian Raid's Snoopy McGoo",
+      "sire_reg": null,
+      "dam_name": "Indian Raid's Kiss My Grits",
+      "dam_reg": null,
+      "breeders": [
+        "Richard Castellane"
+      ],
+      "owners": [
+        "Jeannette R. Durand"
+      ]
+    },
+    {
+      "reg_number": "UNKNOWN",
+      "name": "CRAZY CRITTER OF RUFHAUS",
+      "titles": "C.D.",
+      "sex": "U",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH Sligo McCarthy",
+      "sire_reg": null,
+      "dam_name": "CH Rufhaus X-Pert Stormy Tyme",
+      "dam_reg": null,
+      "breeders": [
+        "Patricia Smith",
+        "Gerald Smith"
+      ],
+      "owners": [
+        "Sigrid Reisiger"
+      ]
+    }
+  ]
+}

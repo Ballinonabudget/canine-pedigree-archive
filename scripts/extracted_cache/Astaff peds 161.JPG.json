@@ -1,0 +1,367 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "July 19",
+  "dogs": [
+    {
+      "reg_number": "R-67047",
+      "name": "ALCALDE DE X-PERT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-25-49",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. X-Pert Brindle Biff",
+      "sire_reg": "R-6446",
+      "dam_name": "X-Pert Blossom Queen",
+      "dam_reg": "R-23663",
+      "breeders": [
+        "Dr. Carroll A. Roll"
+      ],
+      "owners": [
+        "Dr. Carroll A. Roll"
+      ]
+    },
+    {
+      "reg_number": "R-67540",
+      "name": "CALEDONIA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-17-49",
+      "color_code": "Red fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Lamb's Sir Smudgie",
+      "sire_reg": "A-468207",
+      "dam_name": "Robinson's Miss Diane",
+      "dam_reg": "R-36972",
+      "breeders": [
+        "Robert E. Endicott"
+      ],
+      "owners": [
+        "Mary Etta Robinson"
+      ]
+    },
+    {
+      "reg_number": "R-67763",
+      "name": "DEE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-17-50",
+      "color_code": "Light brown",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Mike II",
+      "sire_reg": "R-22913",
+      "dam_name": "DeVault's Dolly Vee",
+      "dam_reg": "R-61099",
+      "breeders": [
+        "Mrs. Nancy Long"
+      ],
+      "owners": [
+        "A. B. DeVault"
+      ]
+    },
+    {
+      "reg_number": "R-68076",
+      "name": "FLEETA OF HAR-WYN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-30-49",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Headlight Hal",
+      "sire_reg": "A-586841",
+      "dam_name": "Ch. Harper's Texas Lady",
+      "dam_reg": "R-53812",
+      "breeders": [
+        "James E. Grubbs"
+      ],
+      "owners": [
+        "Mrs. W. D. Harper"
+      ]
+    },
+    {
+      "reg_number": "R-68264",
+      "name": "GALLANT CHICHITA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-30-49",
+      "color_code": "Fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Headlight Hal",
+      "sire_reg": "A-586841",
+      "dam_name": "Ch. Harper's Texas Lady",
+      "dam_reg": "R-53812",
+      "breeders": [
+        "Edwin C. Ringold"
+      ],
+      "owners": [
+        "Mrs. W. D. Harper"
+      ]
+    },
+    {
+      "reg_number": "R-67427",
+      "name": "HADLEY'S BLONDIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-7-47",
+      "color_code": "Fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Hadley's Young Boxer",
+      "sire_reg": "R-67426",
+      "dam_name": "Hadley's Goldie",
+      "dam_reg": "A-753128",
+      "breeders": [
+        "Howard M. Hadley"
+      ],
+      "owners": [
+        "Howard M. Hadley"
+      ]
+    },
+    {
+      "reg_number": "R-67431",
+      "name": "HADLEY'S BOOGER RED",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-14-45",
+      "color_code": "Red, dark mask",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Hadley's Young Tim",
+      "sire_reg": "A-756720",
+      "dam_name": "Wallace's Madam Queen",
+      "dam_reg": "R-67430",
+      "breeders": [
+        "Howard M. Hadley"
+      ],
+      "owners": [
+        "Robert F. Wallace"
+      ]
+    },
+    {
+      "reg_number": "R-67428",
+      "name": "HADLEY'S RED FLASH",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-1-41",
+      "color_code": "Red and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Corvino's Shortly",
+      "sire_reg": "A-656066",
+      "dam_name": "Menefee's Ginger*",
+      "dam_reg": null,
+      "breeders": [
+        "Howard M. Hadley"
+      ],
+      "owners": [
+        "Robert S. Menefee"
+      ]
+    },
+    {
+      "reg_number": "R-67429",
+      "name": "HADLEY'S TURK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-30-48",
+      "color_code": "Red and white, dark mask",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Jack Williams Hobo*",
+      "sire_reg": null,
+      "dam_name": "Silvers' Tiger Rose II*",
+      "dam_reg": null,
+      "breeders": [
+        "Howard M. Hadley"
+      ],
+      "owners": [
+        "Granville W. Silvers"
+      ]
+    },
+    {
+      "reg_number": "R-67426",
+      "name": "HADLEY'S YOUNG BOXER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-20-39",
+      "color_code": "Red fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Menefee's Boxer*",
+      "sire_reg": null,
+      "dam_name": "Menefee's Rose*",
+      "dam_reg": null,
+      "breeders": [
+        "Howard M. Hadley"
+      ],
+      "owners": [
+        "Robert S. Menefee"
+      ]
+    },
+    {
+      "reg_number": "R-67689",
+      "name": "PADDY'S FLASH",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-15-49",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Williams Paddy Boy",
+      "sire_reg": "A-840803",
+      "dam_name": "Hopper's Miss Taffy Tan",
+      "dam_reg": "R-19567",
+      "breeders": [
+        "John B. Lane"
+      ],
+      "owners": [
+        "Eugene H. Hopper"
+      ]
+    },
+    {
+      "reg_number": "R-67617",
+      "name": "RUFFIAN BEAUCAIRE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-27-50",
+      "color_code": "Golden brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ruffian Diamond Jim of Har-Wyn",
+      "sire_reg": "R-62633",
+      "dam_name": "Ruffian Dreadnaught",
+      "dam_reg": "A-908524",
+      "breeders": [
+        "Talpha M. DuBose"
+      ],
+      "owners": [
+        "Mrs. W. D. Harper"
+      ]
+    },
+    {
+      "reg_number": "R-67572",
+      "name": "TACOMA DUKE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-20-49",
+      "color_code": "Fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dispatcher",
+      "sire_reg": "R-5583",
+      "dam_name": "Doyle's Dixie",
+      "dam_reg": "A-776599",
+      "breeders": [
+        "H. J. McGreary"
+      ],
+      "owners": [
+        "Charles J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R-67215",
+      "name": "TACOMA FRIVOLOUS SAL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-20-49",
+      "color_code": "Fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dispatcher II",
+      "sire_reg": "R-5583",
+      "dam_name": "Doyle's Dixie",
+      "dam_reg": "A-776599",
+      "breeders": [
+        "Charles Scherer"
+      ],
+      "owners": [
+        "Charles J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R-67232",
+      "name": "TACOMA ROSCO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-27-49",
+      "color_code": "Fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dispatcher II",
+      "sire_reg": "R-5583",
+      "dam_name": "Doyle's Susie",
+      "dam_reg": "R-4258",
+      "breeders": [
+        "Mrs. U. V. Reese"
+      ],
+      "owners": [
+        "Charles J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R-67292",
+      "name": "TACOMA SALLY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-20-49",
+      "color_code": "Fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dispatcher II",
+      "sire_reg": "R-5583",
+      "dam_name": "Doyle's Dixie",
+      "dam_reg": "A-776599",
+      "breeders": [
+        "Mrs. Eddie Rabkin"
+      ],
+      "owners": [
+        "Charles J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R-68135",
+      "name": "TUG",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-29-49",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Walkaway",
+      "sire_reg": "A-638596",
+      "dam_name": "Puddinpie Pepper Duster",
+      "dam_reg": "R-23102",
+      "breeders": [
+        "John Gilian"
+      ],
+      "owners": [
+        "William M. Whitaker"
+      ]
+    },
+    {
+      "reg_number": "R-67430",
+      "name": "WALLACE'S MADAM QUEEN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-6-41",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Wallace's Searcy Jeff*",
+      "sire_reg": null,
+      "dam_name": "Wallace's Spider*",
+      "dam_reg": null,
+      "breeders": [
+        "Howard M. Hadley"
+      ],
+      "owners": [
+        "Robert F. Wallace"
+      ]
+    },
+    {
+      "reg_number": "R-67048",
+      "name": "X-PERT GERENTE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-25-49",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. X-Pert Brindle Biff",
+      "sire_reg": "R-6446",
+      "dam_name": "X-Pert Blossom Queen",
+      "dam_reg": "R-23663",
+      "breeders": [
+        "Dr. Carroll A. Roll"
+      ],
+      "owners": [
+        "Dr. Carroll A. Roll"
+      ]
+    }
+  ]
+}

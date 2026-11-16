@@ -1,0 +1,139 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R37114",
+      "name": "CARROLL'S DUCHESS III",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-2-47",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. X-Pert Brindle Sheik",
+      "sire_reg": "A610478",
+      "dam_name": "X-Pert Duchess II",
+      "dam_reg": "R603",
+      "breeders": [
+        "Jesse Carroll"
+      ],
+      "owners": [
+        "Lloyd M. Gibbons"
+      ]
+    },
+    {
+      "reg_number": "R37288",
+      "name": "CHITA'S MICHAEL O' DAY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-27-47",
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Edward's Pancho Villa",
+      "sire_reg": "A247019",
+      "dam_name": "Ch. Chita",
+      "dam_reg": "A321803",
+      "breeders": [
+        "Mrs. C. E. Early"
+      ],
+      "owners": [
+        "Mrs. L. L. Wakefield"
+      ]
+    },
+    {
+      "reg_number": "R37389",
+      "name": "DUSKY'S SURVIVOR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-30-47",
+      "color_code": "Black, white chest",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Babe's Lone Survivor",
+      "sire_reg": "A426121",
+      "dam_name": "Lobo's Babe",
+      "dam_reg": "A580389",
+      "breeders": [
+        "Edward D. Pedlar"
+      ],
+      "owners": [
+        "Mrs. A. B. Casey Whitney"
+      ]
+    },
+    {
+      "reg_number": "R36955",
+      "name": "HEETEL'S HONEY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-24-46",
+      "color_code": "Red",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dispatcher",
+      "sire_reg": "A819563",
+      "dam_name": "Doyle's Honey",
+      "dam_reg": "A643420",
+      "breeders": [
+        "Arthur A. Heetel"
+      ],
+      "owners": [
+        "Charles J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R37967",
+      "name": "HUCK OF SHERWALL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-12-43",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Mickey Do",
+      "sire_reg": "A92361",
+      "dam_name": "X-Pert Goldie Girl",
+      "dam_reg": "A386590",
+      "breeders": [
+        "Sherwall Kennels"
+      ],
+      "owners": [
+        "Sherwall Kennels"
+      ]
+    },
+    {
+      "reg_number": "R37234",
+      "name": "JACK'S RED BUCK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-15-47",
+      "color_code": "Fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dispatcher II",
+      "sire_reg": "R5583",
+      "dam_name": "Doyle's Susie",
+      "dam_reg": "R4258",
+      "breeders": [
+        "Jack L. Dotson"
+      ],
+      "owners": [
+        "Chas. J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R37385",
+      "name": "LADY LUCK",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-15-47",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Mr. Mugwump",
+      "sire_reg": "R7051",
+      "dam_name": "Doyle's Penelope",
+      "dam_reg": "A907875",
+      "breeders": [
+        "Ruth E. Kyser"
+      ],
+      "owners": [
+        "Eileen P. Books"
+      ]
+    }
+  ]
+}

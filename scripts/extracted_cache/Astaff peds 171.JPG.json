@@ -1,0 +1,767 @@
+{
+  "breed": "Staffordshire Terrier",
+  "date_header": "October 1950",
+  "dogs": [
+    {
+      "reg_number": "R71027",
+      "name": "ARMAR HUMPHREY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-14-48",
+      "color_code": "Silver",
+      "breed": "Skye Terrier",
+      "sire_name": "Ensign of Arreton",
+      "sire_reg": "A853355",
+      "dam_name": "Armar Tamara",
+      "dam_reg": "A850313",
+      "breeders": [
+        "Marian M. Chandler"
+      ],
+      "owners": [
+        "Marian M. Chandler"
+      ]
+    },
+    {
+      "reg_number": "R70886",
+      "name": "BEAUREGARD DE STONEBRAE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-16-47",
+      "color_code": "Silver",
+      "breed": "Skye Terrier",
+      "sire_name": "Light Cloud of Letts-Dhu",
+      "sire_reg": "5274",
+      "dam_name": "Fontine of Letts-Dhu",
+      "dam_reg": "R18758",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R71792",
+      "name": "GA-DOON II",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-15-50",
+      "color_code": "Blue gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Talisker's Mighty Michael (Canada)",
+      "sire_reg": "R65087",
+      "dam_name": "sy v Paunsdorf (Germany)",
+      "dam_reg": "R64188",
+      "breeders": [
+        "Calhoun John",
+        "Margaret Killeen"
+      ],
+      "owners": [
+        "Wavie D. Brinkmann"
+      ]
+    },
+    {
+      "reg_number": "R70893",
+      "name": "DON QUIXOTE OF STONEBRAE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-11-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Little Dickens of Letts-Dhu",
+      "sire_reg": "R18754",
+      "dam_name": "Cynthia of Stonebrae",
+      "dam_reg": "R58106",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R71246",
+      "name": "ETHERDEN'S HIGHLAND CHIEF",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-26-49",
+      "color_code": "Gray blue",
+      "breed": "Skye Terrier",
+      "sire_name": "Swamie's King Karl",
+      "sire_reg": "R24335",
+      "dam_name": "Girlie of Talisker",
+      "dam_reg": "R7450",
+      "breeders": [
+        "Florence M. Etherden"
+      ],
+      "owners": [
+        "Florence M. Etherden"
+      ]
+    },
+    {
+      "reg_number": "R71035",
+      "name": "OF LETTS-DHU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-17-49",
+      "color_code": "Cream",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Du Bazizoo Beau Geste",
+      "sire_reg": "A394960",
+      "dam_name": "Candace of Stonebrae",
+      "dam_reg": "R65826",
+      "breeders": [
+        "Mr. & Mrs. Herbert Hudson"
+      ],
+      "owners": [
+        "Mr. & Mrs. Herbert Hudson"
+      ]
+    },
+    {
+      "reg_number": "R70889",
+      "name": "ELA OF STONEBRAE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-28-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Beauregarde of Stonebrae",
+      "sire_reg": "R70886",
+      "dam_name": "The Georgia Gossip",
+      "dam_reg": "R46230",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R70887",
+      "name": "ROD OF STONEBRAE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-28-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Beauregarde of Stonebrae",
+      "sire_reg": "R70886",
+      "dam_name": "The Georgia Gossip",
+      "dam_reg": "R46230",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R70888",
+      "name": "A OF STONEBRAE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-28-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Beauregarde of Stonebrae",
+      "sire_reg": "R70886",
+      "dam_name": "The Georgia Gossip",
+      "dam_reg": "R46230",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R70894",
+      "name": "QUADRILLE OF STONEBRAE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-11-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Little Dickens of Letts-Dhu",
+      "sire_reg": "R18754",
+      "dam_name": "Cynthia of Stonebrae",
+      "dam_reg": "R58106",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R70890",
+      "name": "TIN OF STONEBRAE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-11-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Little Dickens of Letts-Dhu",
+      "sire_reg": "R18754",
+      "dam_name": "Cynthia of Stonebrae",
+      "dam_reg": "R58106",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R70892",
+      "name": "TUS OF STONEBRAE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-11-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Little Dickens of Letts-Dhu",
+      "sire_reg": "R18754",
+      "dam_name": "Cynthia of Stonebrae",
+      "dam_reg": "R58106",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R70895",
+      "name": "T OF STONEBRAE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-11-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Little Dickens of Letts-Dhu",
+      "sire_reg": "R18754",
+      "dam_name": "Cynthia of Stonebrae",
+      "dam_reg": "R58106",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R70891",
+      "name": "N OF STONEBRAE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-11-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Little Dickens of Letts-Dhu",
+      "sire_reg": "R18754",
+      "dam_name": "Cynthia of Stonebrae",
+      "dam_reg": "R58106",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R71402",
+      "name": "TALISKER'S RIP (CANADA)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-29-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Kirkby Longago of Talisker*",
+      "sire_reg": null,
+      "dam_name": "Talisker's Morning Star*",
+      "dam_reg": null,
+      "breeders": [
+        "Mrs. N. M. Kuhlman"
+      ],
+      "owners": [
+        "Mrs. R. Percy Adams"
+      ]
+    },
+    {
+      "reg_number": "R71829",
+      "name": "R",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-12-49",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Sir Tim",
+      "sire_reg": "R46309",
+      "dam_name": "Kriener's Peg's Jill",
+      "dam_reg": "R47668",
+      "breeders": [
+        "Harlan Pilj"
+      ],
+      "owners": [
+        "Ruth F. Kriener"
+      ]
+    },
+    {
+      "reg_number": "R71654",
+      "name": "OF ROSSMORE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-13-50",
+      "color_code": "Red, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Chita's Michael O' Day",
+      "sire_reg": "R37288",
+      "dam_name": "Carmelita de Chatsworth",
+      "dam_reg": "A909092",
+      "breeders": [
+        "Jeanne Durant"
+      ],
+      "owners": [
+        "Gladys C. Smith"
+      ]
+    },
+    {
+      "reg_number": "R71090",
+      "name": "BRANDY OF SHERWALL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-21-50",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Huck of Sherwall",
+      "sire_reg": "R37967",
+      "dam_name": "Princess of Sherwall",
+      "dam_reg": "R36873",
+      "breeders": [
+        "Jane Morehouse"
+      ],
+      "owners": [
+        "Sherwall Kennels"
+      ]
+    },
+    {
+      "reg_number": "R71531",
+      "name": "II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-30-47",
+      "color_code": "Black, white on chest",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Babe's Lone Survivor",
+      "sire_reg": "A426121",
+      "dam_name": "LoBo's Babe",
+      "dam_reg": "0389",
+      "breeders": [
+        "S. C. Killman"
+      ],
+      "owners": [
+        "Mrs. A. B. Casey Whitney"
+      ]
+    },
+    {
+      "reg_number": "R71651",
+      "name": "MICHAEL'S CARBON COPY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-13-50",
+      "color_code": "Black, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Chita's Michael O' Day",
+      "sire_reg": "R37288",
+      "dam_name": "Carmelita de Chatsworth",
+      "dam_reg": "A909092",
+      "breeders": [
+        "Gladys C. Smith"
+      ],
+      "owners": [
+        "Gladys C. Smith"
+      ]
+    },
+    {
+      "reg_number": "R71409",
+      "name": "I",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-17-49",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Krysinski's Gentleman Jim",
+      "sire_reg": "R59504",
+      "dam_name": "Ruth's Toddle",
+      "dam_reg": "A897877",
+      "breeders": [
+        "Stewart S. Oldfield"
+      ],
+      "owners": [
+        "Frank L. Ruth"
+      ]
+    },
+    {
+      "reg_number": "R71652",
+      "name": "ROSSMORE'S CHAMOIS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-13-50",
+      "color_code": "Light fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Chita's Michael O' Day",
+      "sire_reg": "R37288",
+      "dam_name": "Carmelita de Chatsworth",
+      "dam_reg": "A909092",
+      "breeders": [
+        "Gladys C. Smith"
+      ],
+      "owners": [
+        "Gladys C. Smith"
+      ]
+    },
+    {
+      "reg_number": "R71653",
+      "name": "ROSSMORE'S COPPER COUNT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-13-50",
+      "color_code": "Red, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Chita's Michael O' Day",
+      "sire_reg": "R37288",
+      "dam_name": "Carmelita de Chatsworth",
+      "dam_reg": "A909092",
+      "breeders": [
+        "Gladys C. Smith"
+      ],
+      "owners": [
+        "Gladys C. Smith"
+      ]
+    },
+    {
+      "reg_number": "R71657",
+      "name": "ROSSMORE'S FLASHY FASHION",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-13-50",
+      "color_code": "Black, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Chita's Michael O' Day",
+      "sire_reg": "R37288",
+      "dam_name": "Carmelita de Chatsworth",
+      "dam_reg": "A909092",
+      "breeders": [
+        "Gladys C. Smith"
+      ],
+      "owners": [
+        "Gladys C. Smith"
+      ]
+    },
+    {
+      "reg_number": "R71656",
+      "name": "ROSSMORE'S LITTLE STAR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-13-50",
+      "color_code": "Black, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Chita's Michael O' Day",
+      "sire_reg": "R37288",
+      "dam_name": "Carmelita de Chatsworth",
+      "dam_reg": "A909092",
+      "breeders": [
+        "Gladys C. Smith"
+      ],
+      "owners": [
+        "Gladys C. Smith"
+      ]
+    },
+    {
+      "reg_number": "R71655",
+      "name": "ROSSMORE'S NAUGHTY KNIGHT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-13-50",
+      "color_code": "Light fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Chita's Michael O' Day",
+      "sire_reg": "R37288",
+      "dam_name": "Carmelita de Chatsworth",
+      "dam_reg": "A909092",
+      "breeders": [
+        "Ann Shaffer"
+      ],
+      "owners": [
+        "Gladys C. Smith"
+      ]
+    },
+    {
+      "reg_number": "R71658",
+      "name": "ROSSMORE'S STORMY WEATHER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-13-50",
+      "color_code": "Black, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Chita's Michael O' Day",
+      "sire_reg": "R37288",
+      "dam_name": "Carmelita de Chatsworth",
+      "dam_reg": "A909092",
+      "breeders": [
+        "Gladys C. Smith"
+      ],
+      "owners": [
+        "Gladys C. Smith"
+      ]
+    },
+    {
+      "reg_number": "R71634",
+      "name": "RUFFIAN BIG GIRL OF HAR-WYN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-27-50",
+      "color_code": "Dark brindle, white marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ruffian Grand Jim of Har-Wyn",
+      "sire_reg": "R62633",
+      "dam_name": "Ruffian Dreadnaught",
+      "dam_reg": "A908524",
+      "breeders": [
+        "Mrs. W. D. Harper"
+      ],
+      "owners": [
+        "Mrs. W. D. Harper"
+      ]
+    },
+    {
+      "reg_number": "R71635",
+      "name": "RUFFIAN CAPTAIN DEE OF HAR-WYN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-27-50",
+      "color_code": "Blue gray, white marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ruffian Grand Jim of Har-Wyn",
+      "sire_reg": "R62633",
+      "dam_name": "Ruffian Dreadnaught",
+      "dam_reg": "A908524",
+      "breeders": [
+        "Mrs. W. D. Harper"
+      ],
+      "owners": [
+        "Mrs. W. D. Harper"
+      ]
+    },
+    {
+      "reg_number": "R71636",
+      "name": "RUFFIAN CORVETTE OF HAR-WYN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-27-50",
+      "color_code": "Dark brindle, white marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ruffian Grand Jim of Har-Wyn",
+      "sire_reg": "R62633",
+      "dam_name": "Ruffian Dreadnaught",
+      "dam_reg": "A908524",
+      "breeders": [
+        "Mrs. W. D. Harper"
+      ],
+      "owners": [
+        "Mrs. W. D. Harper"
+      ]
+    },
+    {
+      "reg_number": "R71637",
+      "name": "RUFFIAN DESTROYER OF HAR-WYN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-27-50",
+      "color_code": "Golden brindle, white marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ruffian Grand Jim of Har-Wyn",
+      "sire_reg": "R62633",
+      "dam_name": "Ruffian Dreadnaught",
+      "dam_reg": "A908524",
+      "breeders": [
+        "Mrs. W. D. Harper"
+      ],
+      "owners": [
+        "Mrs. W. D. Harper"
+      ]
+    },
+    {
+      "reg_number": "R71633",
+      "name": "RUFFIAN VALINDA OF HAR-WYN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-21-50",
+      "color_code": "Dark brindle, white marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ruffian Blue",
+      "sire_reg": "R53256",
+      "dam_name": "Ruffian Troubles of Har-Wyn",
+      "dam_reg": "R60813",
+      "breeders": [
+        "Mrs. W. D. Harper"
+      ],
+      "owners": [
+        "Roy A. Velinder"
+      ]
+    },
+    {
+      "reg_number": "R71025",
+      "name": "CYCLONE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-20-46",
+      "color_code": "Brown brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "\"PR\" Adams Cyclone Jr.*",
+      "sire_reg": null,
+      "dam_name": "\"PR\" Adams Lee*",
+      "dam_reg": null,
+      "breeders": [
+        "James E. Holmes"
+      ],
+      "owners": [
+        "W. P. Adams"
+      ]
+    },
+    {
+      "reg_number": "R71594",
+      "name": "RINE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-10-50",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Aman Tip Top (England)",
+      "sire_reg": "R51105",
+      "dam_name": "Walhall",
+      "dam_reg": "R42833",
+      "breeders": [
+        "Edna S. Calvert"
+      ],
+      "owners": [
+        "Malcom Macrae"
+      ]
+    },
+    {
+      "reg_number": "R71270",
+      "name": "OF BIRCHWOOD",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-17-49",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Marlu Top Sawyer",
+      "sire_reg": "A591350",
+      "dam_name": "of Birchwood",
+      "dam_reg": "A618885",
+      "breeders": [
+        "Dorothy Hardcastle"
+      ],
+      "owners": [
+        "Dorothy Hardcastle"
+      ]
+    },
+    {
+      "reg_number": "R70916",
+      "name": "MR. TROUBLE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-1-49",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Bodie's Top Raider",
+      "sire_reg": "R40105",
+      "dam_name": "Ch. Bodie's",
+      "dam_reg": "R11271",
+      "breeders": [
+        "Dr. & Mrs. Don Rush"
+      ],
+      "owners": [
+        "Bodie Kennels"
+      ]
+    },
+    {
+      "reg_number": "R71522",
+      "name": "YANKEE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-7-50",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Syl-Von's Trader",
+      "sire_reg": "R64875",
+      "dam_name": "Syl-Von's Dinah",
+      "dam_reg": null,
+      "breeders": [
+        "Robert A. Schultheis"
+      ],
+      "owners": [
+        "Vaughn R. Sylvester"
+      ]
+    },
+    {
+      "reg_number": "R71240",
+      "name": "T O'HARA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-7-49",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Bodie's Topside",
+      "sire_reg": "R6389",
+      "dam_name": "Bodie's Tania",
+      "dam_reg": null,
+      "breeders": [
+        "Charles W. Golding"
+      ],
+      "owners": [
+        "Bodie Kennels"
+      ]
+    },
+    {
+      "reg_number": "R71045",
+      "name": "CUMBIN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-26-49",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Carlano Cock Robin",
+      "sire_reg": "R40000",
+      "dam_name": "Carlano",
+      "dam_reg": "R45206",
+      "breeders": [
+        "Carl F. Neumann"
+      ],
+      "owners": [
+        "Carl F. Neumann"
+      ]
+    },
+    {
+      "reg_number": "R70859",
+      "name": "MONTGOMERY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-8-50",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Victory Boy (England)",
+      "sire_reg": "R61506",
+      "dam_name": "Coltan",
+      "dam_reg": "R11378",
+      "breeders": [
+        "Mrs. Stuart Irvine"
+      ],
+      "owners": [
+        "Mr. & Mrs. Sloan Colt"
+      ]
+    }
+  ]
+}

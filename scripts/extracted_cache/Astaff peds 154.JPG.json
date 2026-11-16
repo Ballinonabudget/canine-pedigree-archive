@@ -1,0 +1,766 @@
+{
+  "breed": "Sealyham Terrier",
+  "date_header": "May 1950",
+  "dogs": [
+    {
+      "reg_number": "R65471",
+      "name": "ATOMIC ENERGY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-10-49",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Rinklestone Radar",
+      "sire_reg": "A883223",
+      "dam_name": "Bourbon's Fair Lady",
+      "dam_reg": "R58254",
+      "breeders": [
+        "Eleanor M. Maurer"
+      ],
+      "owners": [
+        "William E. Christian"
+      ]
+    },
+    {
+      "reg_number": "R65185",
+      "name": "BANKERS BEACH COW SLIP",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-7-49",
+      "color_code": "White, badger on ears",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Etherden's Jason Serene",
+      "sire_reg": "R35287",
+      "dam_name": "Ch. Bankers Beach Wave",
+      "dam_reg": "A844840",
+      "breeders": [
+        "James Lewis"
+      ],
+      "owners": [
+        "James Lewis"
+      ]
+    },
+    {
+      "reg_number": "R65186",
+      "name": "BANKERS BEACH SNOW FLAKE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-7-49",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Etherden's Jason Serene",
+      "sire_reg": "R35287",
+      "dam_name": "Ch. Bankers Beach Wave",
+      "dam_reg": "A844840",
+      "breeders": [
+        "James Lewis"
+      ],
+      "owners": [
+        "James Lewis"
+      ]
+    },
+    {
+      "reg_number": "R65133",
+      "name": "BELVOIR CAPTAIN FLAGSTAFF",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-16-49",
+      "color_code": "White, black on eye",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Croglin Commando",
+      "sire_reg": "A753234",
+      "dam_name": "Hargrave's Twinkle",
+      "dam_reg": "R52857",
+      "breeders": [
+        "Suzanne S. Rollins"
+      ],
+      "owners": [
+        "Suzanne S. Rollins"
+      ]
+    },
+    {
+      "reg_number": "R65134",
+      "name": "BELVOIR TEE TWINKLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-16-49",
+      "color_code": "White, badger on ears",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Croglin Commando",
+      "sire_reg": "A753234",
+      "dam_name": "Hargrave's Twinkle",
+      "dam_reg": "R52857",
+      "breeders": [
+        "Suzanne S. Rollins"
+      ],
+      "owners": [
+        "Suzanne S. Rollins"
+      ]
+    },
+    {
+      "reg_number": "R64605",
+      "name": "BONNIE BUNTY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-13-49",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "The Playboy o' Quildare",
+      "sire_reg": "A837877",
+      "dam_name": "Hilbing's Delight",
+      "dam_reg": "R48777",
+      "breeders": [
+        "Winifred Green"
+      ],
+      "owners": [
+        "George J. Hilbinger"
+      ]
+    },
+    {
+      "reg_number": "R64513",
+      "name": "DAISY SNOWGIRL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-20-47",
+      "color_code": "White, tan head markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Criterion of Hampton Hill",
+      "sire_reg": "A452693",
+      "dam_name": "Ch. Elfreda of Oxclose and Clairedale",
+      "dam_reg": "A364696",
+      "breeders": [
+        "Mr. & Mrs. Sydney A. Nelson"
+      ],
+      "owners": [
+        "Walter D. Gilmore"
+      ]
+    },
+    {
+      "reg_number": "R65262",
+      "name": "DIXIE SCAMP",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-9-44",
+      "color_code": "White, badger markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Samphire Scamp of Erracht",
+      "sire_reg": "A410928",
+      "dam_name": "Etherden's Winsome Rebel",
+      "dam_reg": "A329972",
+      "breeders": [
+        "Dorothy E. Levin"
+      ],
+      "owners": [
+        "Mr. & Mrs. Sid Etherden"
+      ]
+    },
+    {
+      "reg_number": "R64971",
+      "name": "ILMER FIGHTER'S FAME (ENG.)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-1-48",
+      "color_code": "White, badger marking",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ilmer Alert*",
+      "sire_reg": null,
+      "dam_name": "Ilmer Little Vamp*",
+      "dam_reg": null,
+      "breeders": [
+        "William B. Freer"
+      ],
+      "owners": [
+        "Sir Jocelyn Lucas"
+      ]
+    },
+    {
+      "reg_number": "R65218",
+      "name": "ILMER MOONLIGHTER (ENG.)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-5-49",
+      "color_code": "White, tan head markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ilmer Ribston Roy*",
+      "sire_reg": null,
+      "dam_name": "Mandalay of Aquinas*",
+      "dam_reg": null,
+      "breeders": [
+        "Barbara Levering"
+      ],
+      "owners": [
+        "Mrs. D. King"
+      ]
+    },
+    {
+      "reg_number": "R65466",
+      "name": "LADY ELIZABETH WESTERNER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-5-49",
+      "color_code": "White, tan head markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Walgil Westerner",
+      "sire_reg": "R8466",
+      "dam_name": "Walgil Wicket",
+      "dam_reg": "A836872",
+      "breeders": [
+        "Emily Franks"
+      ],
+      "owners": [
+        "Walter D. Gilmore"
+      ]
+    },
+    {
+      "reg_number": "R65741",
+      "name": "LADY FRANKLIN OF WILLIAMSON",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-13-48",
+      "color_code": "White, brown ear markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Walgil Question Mark",
+      "sire_reg": "A796455",
+      "dam_name": "Ch. Walgil Widow",
+      "dam_reg": "R10267",
+      "breeders": [
+        "A. F. Small"
+      ],
+      "owners": [
+        "Walter D. Gilmore"
+      ]
+    },
+    {
+      "reg_number": "R64975",
+      "name": "LADYKIN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-23-48",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Walgil Westerner",
+      "sire_reg": "R8466",
+      "dam_name": "Ch. Leftie's Lady",
+      "dam_reg": "A646193",
+      "breeders": [
+        "Mrs. Albert E. Heekin, Jr."
+      ],
+      "owners": [
+        "Walter D. Gilmore"
+      ]
+    },
+    {
+      "reg_number": "R65492",
+      "name": "LITTLE MISS MUFFET SERENE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-14-48",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Etherden's Jason Serene",
+      "sire_reg": "R35287",
+      "dam_name": "Lady Catherine Serene",
+      "dam_reg": "A883510",
+      "breeders": [
+        "Robert J. Ramsey"
+      ],
+      "owners": [
+        "Arthur E. Quirk"
+      ]
+    },
+    {
+      "reg_number": "R64904",
+      "name": "MISS MOPPIT",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-18-49",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Frankie's Atomic Power",
+      "sire_reg": "R15291",
+      "dam_name": "Chastain's Top Tail",
+      "dam_reg": "R15290",
+      "breeders": [
+        "Polly P. Hanson"
+      ],
+      "owners": [
+        "Mrs. W. C. Chastain"
+      ]
+    },
+    {
+      "reg_number": "R65386",
+      "name": "POST TOASTY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-19-49",
+      "color_code": "White, badge head markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Carvaun Citation",
+      "sire_reg": "A888796",
+      "dam_name": "Carvaun Cocoa",
+      "dam_reg": "R271",
+      "breeders": [
+        "Bob Post"
+      ],
+      "owners": [
+        "Russell C. Thompson"
+      ]
+    },
+    {
+      "reg_number": "R65155",
+      "name": "PRINCESS PEM OF HARDER HILL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-20-49",
+      "color_code": "White, badger head markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Robin Hill Buccaneer",
+      "sire_reg": "R30537",
+      "dam_name": "Carvaun Caper",
+      "dam_reg": "A659709",
+      "breeders": [
+        "Mrs. Hubert Harder"
+      ],
+      "owners": [
+        "Mrs. Tom Martin"
+      ]
+    },
+    {
+      "reg_number": "R64809",
+      "name": "ROBIN HOOD'S MISCHIEF",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-20-49",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Robin Hill Buccaneer",
+      "sire_reg": "R30537",
+      "dam_name": "Carvaun Caper",
+      "dam_reg": "A659709",
+      "breeders": [
+        "Valerie J. Menkes"
+      ],
+      "owners": [
+        "Mrs. Tom Martin"
+      ]
+    },
+    {
+      "reg_number": "R65669",
+      "name": "SIX MILE RADAR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-16-49",
+      "color_code": "White, badger head marking",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Rinklestone Radar",
+      "sire_reg": "A883223",
+      "dam_name": "Six Mile Bots Sots",
+      "dam_reg": "R23023",
+      "breeders": [
+        "Kenneth S. Carlisle"
+      ],
+      "owners": [
+        "Mrs. Chester R. Tschirgi"
+      ]
+    },
+    {
+      "reg_number": "R64992",
+      "name": "WHISKERS WEBER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-28-49",
+      "color_code": "White, tan head marking",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Robin Hill Buccaneer",
+      "sire_reg": "R30537",
+      "dam_name": "Loch Vista's Stewardess",
+      "dam_reg": "A447986",
+      "breeders": [
+        "Fredricka Jan Weber"
+      ],
+      "owners": [
+        "Mrs. Chester R. Tschirgi"
+      ]
+    },
+    {
+      "reg_number": "R65041",
+      "name": "CHRISTOPHER OF STONEBRAE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-21-47",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Little Dickens of Letts-Dhu",
+      "sire_reg": "R18758",
+      "dam_name": "Gray Angel of Letts-Dhu",
+      "dam_reg": "A963252",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R65233",
+      "name": "FONTINA OF STONEBRAE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-1-49",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Little Cap of Stonebrae",
+      "sire_reg": "R50177",
+      "dam_name": "Fontine of Letts-Dhu",
+      "dam_reg": "R18758",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R65232",
+      "name": "HEPSICA OF STONEBRAE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-27-49",
+      "color_code": "Light silver",
+      "breed": "Skye Terrier",
+      "sire_name": "Charles of Letts-Dhu",
+      "sire_reg": "R48937",
+      "dam_name": "Ch. Little Dorrit of Letts-Dhu",
+      "dam_reg": "R19208",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R65077",
+      "name": "JEREMY OF STONEBRAE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-30-49",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Little Cap of Stonebrae",
+      "sire_reg": "R50177",
+      "dam_name": "Fontine of Letts-Dhu",
+      "dam_reg": "R18758",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R65076",
+      "name": "JERROLD OF STONEBRAE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-30-49",
+      "color_code": "Cream",
+      "breed": "Skye Terrier",
+      "sire_name": "Little Cap of Stonebrae",
+      "sire_reg": "R50177",
+      "dam_name": "Fontine of Letts-Dhu",
+      "dam_reg": "R18758",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R65080",
+      "name": "JESSICA OF STONEBRAE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-30-49",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Little Cap of Stonebrae",
+      "sire_reg": "R50177",
+      "dam_name": "Fontine of Letts-Dhu",
+      "dam_reg": "R18758",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R65079",
+      "name": "JOBYNA OF STONEBRAE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-30-49",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Little Cap of Stonebrae",
+      "sire_reg": "R50177",
+      "dam_name": "Fontine of Letts-Dhu",
+      "dam_reg": "R18758",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R65078",
+      "name": "JONATHAN OF STONEBRAE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-30-49",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Little Cap of Stonebrae",
+      "sire_reg": "R50177",
+      "dam_name": "Fontine of Letts-Dhu",
+      "dam_reg": "R18758",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R65081",
+      "name": "JUDITH OF STONEBRAE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-30-49",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Little Cap of Stonebrae",
+      "sire_reg": "R50177",
+      "dam_name": "Fontine of Letts-Dhu",
+      "dam_reg": "R18758",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R65045",
+      "name": "KATHRYN OF STONEBRAE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-7-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Christopher of Stonebrae",
+      "sire_reg": "R65041",
+      "dam_name": "Rona of Letts-Dhu",
+      "dam_reg": "R58107",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R65043",
+      "name": "KEVIN OF STONEBRAE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-7-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Christopher of Stonebrae",
+      "sire_reg": "R65041",
+      "dam_name": "Rona of Letts-Dhu",
+      "dam_reg": "R58107",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R65042",
+      "name": "KIM OF STONEBRAE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-7-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Christopher of Stonebrae",
+      "sire_reg": "R65041",
+      "dam_name": "Rona of Letts-Dhu",
+      "dam_reg": "R58107",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R65044",
+      "name": "KIRSTIE OF STONEBRAE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-7-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Christopher of Stonebrae",
+      "sire_reg": "R65041",
+      "dam_name": "Rona of Letts-Dhu",
+      "dam_reg": "R58107",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R64438",
+      "name": "PRINCESS DEDEE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-3-49",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Don Hough of Don-Karin",
+      "sire_reg": "R9255",
+      "dam_name": "Fifi La Natt",
+      "dam_reg": "R32164",
+      "breeders": [
+        "Mr. & Mrs. Eugene S. Samson"
+      ],
+      "owners": [
+        "Nathaniel Sanders"
+      ]
+    },
+    {
+      "reg_number": "R64460",
+      "name": "SCHUYLER OF BUENA VENTURA",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-19-49",
+      "color_code": "Black and silver",
+      "breed": "Skye Terrier",
+      "sire_name": "Don Estaban of Don Karin",
+      "sire_reg": "R27603",
+      "dam_name": "Christine of Don-Karin",
+      "dam_reg": "R8081",
+      "breeders": [
+        "Delilah Kallman"
+      ],
+      "owners": [
+        "Delilah Kallman"
+      ]
+    },
+    {
+      "reg_number": "R65087",
+      "name": "TALISKER'S MIGHTY MICHAEL (CAN.)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-2-45",
+      "color_code": "Gray silver",
+      "breed": "Skye Terrier",
+      "sire_name": "Talisker's Mighty Atom*",
+      "sire_reg": null,
+      "dam_name": "Chummie's Stardust of Talisker*",
+      "dam_reg": null,
+      "breeders": [
+        "Mrs. Henry P. Erwin"
+      ],
+      "owners": [
+        "Mrs. R. Percy Adams"
+      ]
+    },
+    {
+      "reg_number": "R64497",
+      "name": "ALEXANDER'S BOPSIE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-3-49",
+      "color_code": "Light fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Corvino's Heiny",
+      "sire_reg": "R27945",
+      "dam_name": "Corvino's Daisy",
+      "dam_reg": "R31022",
+      "breeders": [
+        "Clyde O. Alexander"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R65616",
+      "name": "APPLE JACK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-16-50",
+      "color_code": "Brindle, white on chest",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Janssen's Butcher Boy",
+      "sire_reg": "A511592",
+      "dam_name": "Gallant Sukey",
+      "dam_reg": "R49730",
+      "breeders": [
+        "Thomas John Gundry"
+      ],
+      "owners": [
+        "Thomas John Gundry"
+      ]
+    },
+    {
+      "reg_number": "R65229",
+      "name": "BELL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-29-49",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Walkaway",
+      "sire_reg": "A638596",
+      "dam_name": "Puddinpie Pepper Duster",
+      "dam_reg": "R23102",
+      "breeders": [
+        "Joseph S. Andruski"
+      ],
+      "owners": [
+        "William M. Whitaker"
+      ]
+    },
+    {
+      "reg_number": "R65243",
+      "name": "BUNCOMBE BLACK SAMBO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-12-49",
+      "color_code": "Black brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ruffian The Rogue",
+      "sire_reg": "A908520",
+      "dam_name": "Ruffian Merry",
+      "dam_reg": "R33496",
+      "breeders": [
+        "B. H. Hartman"
+      ],
+      "owners": [
+        "Alberta H. Hartman"
+      ]
+    }
+  ]
+}

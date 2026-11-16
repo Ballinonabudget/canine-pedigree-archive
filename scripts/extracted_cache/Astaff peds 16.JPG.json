@@ -1,0 +1,196 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "FEBRUARY 10",
+  "dogs": [
+    {
+      "reg_number": "RA957374",
+      "name": "BLACK MT BULL RAMBO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-10-85",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "METCALF'S DERBYTOWN ACE",
+      "sire_reg": "RA793361",
+      "dam_name": "BESTAFF'S FLIGHT OF FANCY",
+      "dam_reg": "RA824081",
+      "breeders": [
+        "V DIXON"
+      ],
+      "owners": [
+        "F LEE"
+      ]
+    },
+    {
+      "reg_number": "RB013083",
+      "name": "DEVIL DIAMOND GOLDEN DELIGHT CDX",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-2-86",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "KOA-HAWAII'S GOLDEN WARRIOR CD",
+      "sire_reg": "RA792934",
+      "dam_name": "CH SIERRA'S GOLD RUSH CENTERFOLD",
+      "dam_reg": "RA747255",
+      "breeders": [
+        "M CLAROSE"
+      ],
+      "owners": [
+        "P OKOUCHI"
+      ]
+    },
+    {
+      "reg_number": "RA994231",
+      "name": "CH GOLD RUSH TRUE GRIT",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "7-3-85",
+      "color_code": "RD & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH TRYARR ROOSTER COGBURN",
+      "sire_reg": "RA499474",
+      "dam_name": "CH SIERRA'S GOLD RUSH CENTERFOLD",
+      "dam_reg": "RA747255",
+      "breeders": [
+        "D & A DEL RIO"
+      ],
+      "owners": [
+        "D & A DEL RIO"
+      ]
+    },
+    {
+      "reg_number": "RB165110",
+      "name": "CH MAGNOLIA'S HOT ROCKIN RODNEY",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "11-7-87",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH WADE'S STORMY HARBOR",
+      "sire_reg": "RA920946",
+      "dam_name": "CH MAGNOLIA'S LADY SOPHIA OF OLD BC",
+      "dam_reg": "RA787954",
+      "breeders": [
+        "J & M HINMAN"
+      ],
+      "owners": [
+        "J & M HINMAN"
+      ]
+    },
+    {
+      "reg_number": "RB067233",
+      "name": "CH NIGHTLORD'S COMET",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "12-25-85",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH PARAGON LUCRE'S NIGHTLORD CD",
+      "sire_reg": "RA809041",
+      "dam_name": "PARAGON LUCRE'S CORSAIR JET",
+      "dam_reg": "RA880993",
+      "breeders": [
+        "T & L COOPER"
+      ],
+      "owners": [
+        "K DAVIS"
+      ]
+    },
+    {
+      "reg_number": "RB010887",
+      "name": "POHINA'S WIDE BODY EXPRESS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-17-85",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH ARNOLD'S BOY BANDIT",
+      "sire_reg": "RA742610",
+      "dam_name": "CH SINDELAR'S MISS SPARKY",
+      "dam_reg": "RA820448",
+      "breeders": [
+        "O POHINA III & C POHINA"
+      ],
+      "owners": [
+        "C LEE"
+      ]
+    },
+    {
+      "reg_number": "RB160019",
+      "name": "SIERRA MEGGAN MASSIVE BEAUTY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-16-87",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH LIL SIERRA PERCY PENNY PACKER",
+      "sire_reg": "RA936526",
+      "dam_name": "CH SIERRA'S MY MEGGIE MAE",
+      "dam_reg": "RA840444",
+      "breeders": [
+        "W HATTON"
+      ],
+      "owners": [
+        "S DEAN"
+      ]
+    },
+    {
+      "reg_number": "RA951457",
+      "name": "CH WHITE ROCK EBONY DOLL CDX",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "12-24-83",
+      "color_code": "BLK WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH LOGUES WHITE ROCK OX BOMBER",
+      "sire_reg": "RA772031",
+      "dam_name": "WHITE ROCK JET FLASH",
+      "dam_reg": "RA778242",
+      "breeders": [
+        "H PASCOE"
+      ],
+      "owners": [
+        "H PASCOE"
+      ]
+    },
+    {
+      "reg_number": "RB110740",
+      "name": "CH WHITE ROCK PERRY THE FRIDGE",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "12-19-85",
+      "color_code": "BL BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH WHITE ROCK JET BOMBER",
+      "sire_reg": "RA151369",
+      "dam_name": "CH PATTON'S WHITE ROCK PENNY",
+      "dam_reg": "RA399448",
+      "breeders": [
+        "H PASCOE"
+      ],
+      "owners": [
+        "H PASCOE"
+      ]
+    },
+    {
+      "reg_number": "RB180020",
+      "name": "WOODS DIAMONDBACK DOTTY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-1-86",
+      "color_code": "BLK & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "WOODS BULL OF THE WOODS",
+      "sire_reg": "RA928831",
+      "dam_name": "ASHRAE HUNKA REDBOLT",
+      "dam_reg": "RA677338",
+      "breeders": [
+        "M WOOD"
+      ],
+      "owners": [
+        "M WOOD & J CUMMINGS"
+      ]
+    }
+  ]
+}

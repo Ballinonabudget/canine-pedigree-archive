@@ -1,0 +1,120 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "July 1949",
+  "dogs": [
+    {
+      "reg_number": "R52892",
+      "name": "BUTCH'S BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-16-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Butch C.D.X.",
+      "sire_reg": "R-7719",
+      "dam_name": "Peg-O-San Diego",
+      "dam_reg": "R-8559",
+      "breeders": [
+        "Carl M. Crews, Jr."
+      ],
+      "owners": [
+        "Harold R. Robinson"
+      ]
+    },
+    {
+      "reg_number": "R51697",
+      "name": "CALEDONIAN LOKI II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-9-48",
+      "color_code": "Fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Colby's Trim",
+      "sire_reg": "A-641508",
+      "dam_name": "Colby's Becky",
+      "dam_reg": "R-27583",
+      "breeders": [
+        "Malcolm MacDonald"
+      ],
+      "owners": [
+        "Louis B. Colby"
+      ]
+    },
+    {
+      "reg_number": "R52563",
+      "name": "CHITA'S SASSY GAL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-13-49",
+      "color_code": "Brown gray",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Pat Murphy of H.Q.",
+      "sire_reg": "A-639020",
+      "dam_name": "Ch. Chita",
+      "dam_reg": "A-321803",
+      "breeders": [
+        "Mr. & Mrs. Wm. G. Bovett"
+      ],
+      "owners": [
+        "Mrs. L. L. Wakefield"
+      ]
+    },
+    {
+      "reg_number": "R51856",
+      "name": "FARLSDALE'S MAISIE J. L.",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-14-49",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farlsdale's Sir Daniel",
+      "sire_reg": "R-20553",
+      "dam_name": "Farlsdale's Shenanigan",
+      "dam_reg": "R-10345",
+      "breeders": [
+        "John Labadie"
+      ],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R51855",
+      "name": "FARLSDALE'S MONA J. L.",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-14-49",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farlsdale's Sir Daniel",
+      "sire_reg": "R-20553",
+      "dam_name": "Farlsdale's Shenanigan",
+      "dam_reg": "R-10345",
+      "breeders": [
+        "Julia Labadie"
+      ],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R52974",
+      "name": "JUDY III",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-24-48",
+      "color_code": "White and brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Shawnee Chief",
+      "sire_reg": "A-606181",
+      "dam_name": "Brisk Bubbles",
+      "dam_reg": "R-9697",
+      "breeders": [
+        "Mrs. John C. Wehrley"
+      ],
+      "owners": [
+        "Joseph F. Wheatley"
+      ]
+    }
+  ]
+}

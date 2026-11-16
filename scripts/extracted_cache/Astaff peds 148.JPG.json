@@ -1,0 +1,785 @@
+{
+  "breed": "Staffordshire Terrier",
+  "date_header": "DEC. 19",
+  "dogs": [
+    {
+      "reg_number": "R57759",
+      "name": "WOODWELL LITTLE JOHN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-26-48",
+      "color_code": "White, badger tan head marking",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Robin Hill Secret Weapon",
+      "sire_reg": "A833332",
+      "dam_name": "Woodwell Galatea",
+      "dam_reg": "R4509",
+      "breeders": [
+        "Mrs. R. Maurice Tripp"
+      ],
+      "owners": [
+        "George Wells"
+      ]
+    },
+    {
+      "reg_number": "R57756",
+      "name": "WOODWELL MAID MARIAN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-26-48",
+      "color_code": "White, badger tan head marking",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Robin Hill Secret Weapon",
+      "sire_reg": "A833332",
+      "dam_name": "Woodwell Galatea",
+      "dam_reg": "R4509",
+      "breeders": [
+        "Mrs. R. Maurice Tripp"
+      ],
+      "owners": [
+        "George Wells"
+      ]
+    },
+    {
+      "reg_number": "R57760",
+      "name": "WOODWELL ROBIN HOOD",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-26-48",
+      "color_code": "White, black head marking",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Robin Hill Secret Weapon",
+      "sire_reg": "A833332",
+      "dam_name": "Woodwell Galatea",
+      "dam_reg": "R4509",
+      "breeders": [
+        "Mrs. R. Maurice Tripp"
+      ],
+      "owners": [
+        "George Wells"
+      ]
+    },
+    {
+      "reg_number": "R57758",
+      "name": "WOODWELL WILL SCARLETT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-26-48",
+      "color_code": "White, badger tan head marking",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Robin Hill Secret Weapon",
+      "sire_reg": "A833332",
+      "dam_name": "Woodwell Galatea",
+      "dam_reg": "R4509",
+      "breeders": [
+        "Frances F. Wells"
+      ],
+      "owners": [
+        "George Wells"
+      ]
+    },
+    {
+      "reg_number": "R57486",
+      "name": "BURBERRY OF ARRETON",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-1-49",
+      "color_code": "Silver",
+      "breed": "Skye Terrier",
+      "sire_name": "Scottish Mist of Arreton",
+      "sire_reg": "R47343",
+      "dam_name": "Chummie's Little Lady of Talisker",
+      "dam_reg": "A833199",
+      "breeders": [
+        "Mrs. Michael Stillman"
+      ],
+      "owners": [
+        "Mrs. Michael Stillman"
+      ]
+    },
+    {
+      "reg_number": "R58105",
+      "name": "CANDIDE OF STONEBRAE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-21-47",
+      "color_code": "Light silver",
+      "breed": "Skye Terrier",
+      "sire_name": "Little Dickens of Letts-Dhu",
+      "sire_reg": "R18754",
+      "dam_name": "Gray Angel of Letts-Dhu",
+      "dam_reg": "A963252",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R57735",
+      "name": "CATHERINE STUART OF ABACUS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-15-49",
+      "color_code": "Light gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Laughing Clown de Luchar",
+      "sire_reg": "A301334",
+      "dam_name": "High Time Chummie's Mist",
+      "dam_reg": "R9108",
+      "breeders": [
+        "Abacus Kennels"
+      ],
+      "owners": [
+        "Abacus Kennels"
+      ]
+    },
+    {
+      "reg_number": "R58580",
+      "name": "CLOUD QUEEN OF IRADELL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-22-49",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Bonnie Henry of Iradell",
+      "sire_reg": "R37333",
+      "dam_name": "Ivory Queen of Iradell",
+      "dam_reg": "R32356",
+      "breeders": [
+        "Consuelo V. Smith"
+      ],
+      "owners": [
+        "Consuelo V. Smith"
+      ]
+    },
+    {
+      "reg_number": "R58579",
+      "name": "CLOUDY HENRY OF IRADELL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-22-49",
+      "color_code": "Cream",
+      "breed": "Skye Terrier",
+      "sire_name": "Bonnie Henry of Iradell",
+      "sire_reg": "R37333",
+      "dam_name": "Ivory Queen of Iradell",
+      "dam_reg": "R32356",
+      "breeders": [
+        "Consuelo V. Smith"
+      ],
+      "owners": [
+        "Consuelo V. Smith"
+      ]
+    },
+    {
+      "reg_number": "R58106",
+      "name": "CYNTHIA OF STONEBRAE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-21-47",
+      "color_code": "Dark gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Little Dickens of Letts-Dhu",
+      "sire_reg": "R18754",
+      "dam_name": "Gray Angel of Letts-Dhu",
+      "dam_reg": "A963252",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R57738",
+      "name": "JAMES STUART OF ABACUS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-15-49",
+      "color_code": "Light gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Laughing Clown de Luchar",
+      "sire_reg": "A301334",
+      "dam_name": "High Time Chummie's Mist",
+      "dam_reg": "R9108",
+      "breeders": [
+        "Abacus Kennels"
+      ],
+      "owners": [
+        "Abacus Kennels"
+      ]
+    },
+    {
+      "reg_number": "R58582",
+      "name": "LIKAQUEEN OF IRADELL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-22-49",
+      "color_code": "Cream",
+      "breed": "Skye Terrier",
+      "sire_name": "Bonnie Henry of Iradell",
+      "sire_reg": "R37333",
+      "dam_name": "Ivory Queen of Iradell",
+      "dam_reg": "R32356",
+      "breeders": [
+        "Consuelo V. Smith"
+      ],
+      "owners": [
+        "Consuelo V. Smith"
+      ]
+    },
+    {
+      "reg_number": "R57734",
+      "name": "LINDA STUART OF ABACUS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-15-49",
+      "color_code": "Light gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Laughing Clown de Luchar",
+      "sire_reg": "A301334",
+      "dam_name": "High Time Chummie's Mist",
+      "dam_reg": "R9108",
+      "breeders": [
+        "Abacus Kennels"
+      ],
+      "owners": [
+        "Abacus Kennels"
+      ]
+    },
+    {
+      "reg_number": "R58587",
+      "name": "MERRYBRAC'S MAJESTY II",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-30-49",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Merrybrac's Mustang",
+      "sire_reg": "A827569",
+      "dam_name": "Highland Queen of What-Ho",
+      "dam_reg": "A485805",
+      "breeders": [
+        "Hilda H. Pyne"
+      ],
+      "owners": [
+        "Hilda H. Pyne"
+      ]
+    },
+    {
+      "reg_number": "R58586",
+      "name": "MERRYBRAC'S MANIKIN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-30-49",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Merrybrac's Mustang",
+      "sire_reg": "A827569",
+      "dam_name": "Highland Queen of What-Ho",
+      "dam_reg": "A485805",
+      "breeders": [
+        "Hilda H. Pyne"
+      ],
+      "owners": [
+        "Hilda H. Pyne"
+      ]
+    },
+    {
+      "reg_number": "R58578",
+      "name": "MOUNTAIN BOY OF IRADELL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-22-49",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Bonnie Henry of Iradell",
+      "sire_reg": "R37333",
+      "dam_name": "Ivory Queen of Iradell",
+      "dam_reg": "R32356",
+      "breeders": [
+        "Consuelo V. Smith"
+      ],
+      "owners": [
+        "Consuelo V. Smith"
+      ]
+    },
+    {
+      "reg_number": "R58107",
+      "name": "RONA OF LETTS-DHU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-19-47",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Little Thistle of Letts-Dhu",
+      "sire_reg": "R19207",
+      "dam_name": "Glory of Don-Karin",
+      "dam_reg": "R1778",
+      "breeders": [
+        "Meta A. Tompkins"
+      ],
+      "owners": [
+        "Mr. & Mrs. Herbert Hudson"
+      ]
+    },
+    {
+      "reg_number": "R58581",
+      "name": "SILVER QUEEN OF IRADELL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-22-49",
+      "color_code": "Cream",
+      "breed": "Skye Terrier",
+      "sire_name": "Bonnie Henry of Iradell",
+      "sire_reg": "R37333",
+      "dam_name": "Ivory Queen of Iradell",
+      "dam_reg": "R32356",
+      "breeders": [
+        "Consuelo V. Smith"
+      ],
+      "owners": [
+        "Consuelo V. Smith"
+      ]
+    },
+    {
+      "reg_number": "R57736",
+      "name": "SUSAN STUART OF ABACUS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-15-49",
+      "color_code": "Light gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Laughing Clown de Luchar",
+      "sire_reg": "A301334",
+      "dam_name": "High Time Chummie's Mist",
+      "dam_reg": "R9108",
+      "breeders": [
+        "Abacus Kennels"
+      ],
+      "owners": [
+        "Abacus Kennels"
+      ]
+    },
+    {
+      "reg_number": "R57485",
+      "name": "TANSY OF ARRETON",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-1-49",
+      "color_code": "Silver",
+      "breed": "Skye Terrier",
+      "sire_name": "Scottish Mist of Arreton",
+      "sire_reg": "R47343",
+      "dam_name": "Chummie's Little Lady of Talisker",
+      "dam_reg": "A833199",
+      "breeders": [
+        "Mrs. Michael Stillman"
+      ],
+      "owners": [
+        "Mrs. Michael Stillman"
+      ]
+    },
+    {
+      "reg_number": "R57737",
+      "name": "THOMAS STUART OF ABACUS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-15-49",
+      "color_code": "Light gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Laughing Clown de Luchar",
+      "sire_reg": "A301334",
+      "dam_name": "High Time Chummie's Mist",
+      "dam_reg": "R9108",
+      "breeders": [
+        "Abacus Kennels"
+      ],
+      "owners": [
+        "Abacus Kennels"
+      ]
+    },
+    {
+      "reg_number": "R57733",
+      "name": "VICTORIA STUART OF ABACUS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-15-49",
+      "color_code": "Light gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Laughing Clown de Luchar",
+      "sire_reg": "A301334",
+      "dam_name": "High Time Chummie's Mist",
+      "dam_reg": "R9108",
+      "breeders": [
+        "Abacus Kennels"
+      ],
+      "owners": [
+        "Abacus Kennels"
+      ]
+    },
+    {
+      "reg_number": "R57668",
+      "name": "AMBER LADY KAY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-26-49",
+      "color_code": "Red, white and black",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Chita's Butch",
+      "sire_reg": "R7719",
+      "dam_name": "Sunn Bonnette Sue",
+      "dam_reg": "R44543",
+      "breeders": [
+        "Grace B. Massey"
+      ],
+      "owners": [
+        "Katherine E. Erwin"
+      ]
+    },
+    {
+      "reg_number": "R57808",
+      "name": "BASHY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-1-49",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Rip's Fine Boy",
+      "sire_reg": "R57805",
+      "dam_name": "Judy II",
+      "dam_reg": "R49578",
+      "breeders": [
+        "Edward F. De Ford"
+      ],
+      "owners": [
+        "Edward F. De Ford"
+      ]
+    },
+    {
+      "reg_number": "R58054",
+      "name": "BELDEN'S SIR CHARLES",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-26-49",
+      "color_code": "Golden red and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Chita's Butch",
+      "sire_reg": "R7719",
+      "dam_name": "Sunn Bonnette Sue",
+      "dam_reg": "R44543",
+      "breeders": [
+        "H. J. Belden"
+      ],
+      "owners": [
+        "Katherine E. Erwin"
+      ]
+    },
+    {
+      "reg_number": "R58370",
+      "name": "BOZO KILLOREN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-17-49",
+      "color_code": "Light brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Acorn Andy",
+      "sire_reg": "R41657",
+      "dam_name": "Saucy Sheila of H.Q.",
+      "dam_reg": "A759488",
+      "breeders": [
+        "Frank T. Killoren"
+      ],
+      "owners": [
+        "John R. Shepley"
+      ]
+    },
+    {
+      "reg_number": "R57806",
+      "name": "BRIN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-1-49",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Rip's Fine Boy",
+      "sire_reg": "R57805",
+      "dam_name": "Judy II",
+      "dam_reg": "R49578",
+      "breeders": [
+        "Edward F. De Ford"
+      ],
+      "owners": [
+        "Edward F. De Ford"
+      ]
+    },
+    {
+      "reg_number": "R57794",
+      "name": "CORVINO'S ALFA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-20-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Corvino's Iron Will",
+      "sire_reg": "A759731",
+      "dam_name": "Corvino's Sparetime",
+      "dam_reg": "R27957",
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R58028",
+      "name": "CORVINO'S FATE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-20-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Corvino's Iron Will",
+      "sire_reg": "A759731",
+      "dam_name": "Corvino's Sparetime",
+      "dam_reg": "R27957",
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R57749",
+      "name": "GREER'S DUCHESS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-31-39",
+      "color_code": "Red and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Stones' Jiggs",
+      "sire_reg": null,
+      "dam_name": "Hershey's Duchess",
+      "dam_reg": "A330212",
+      "breeders": [
+        "John L. Greer"
+      ],
+      "owners": [
+        "Harold L. Hershey"
+      ]
+    },
+    {
+      "reg_number": "R57807",
+      "name": "JIGGS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-1-49",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Rip's Fine Boy",
+      "sire_reg": "R57805",
+      "dam_name": "Judy II",
+      "dam_reg": "R49578",
+      "breeders": [
+        "Edward F. De Ford"
+      ],
+      "owners": [
+        "Edward F. De Ford"
+      ]
+    },
+    {
+      "reg_number": "R58501",
+      "name": "NABISCO BUTCH",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-9-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Anne's Mike",
+      "sire_reg": "R32849",
+      "dam_name": "Bobby Sox",
+      "dam_reg": "A986772",
+      "breeders": [
+        "D. Morrow"
+      ],
+      "owners": [
+        "Herbert M. Lawhorne"
+      ]
+    },
+    {
+      "reg_number": "R58244",
+      "name": "RED OAK OF MAPLECREEK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-17-49",
+      "color_code": "Fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Acorn Andy",
+      "sire_reg": "R41657",
+      "dam_name": "Saucy Sheila of H.Q.",
+      "dam_reg": "A759488",
+      "breeders": [
+        "John R. Shepley"
+      ],
+      "owners": [
+        "John R. Shepley"
+      ]
+    },
+    {
+      "reg_number": "R57805",
+      "name": "RIP'S FINE BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-15-42",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Rip",
+      "sire_reg": "A437742",
+      "dam_name": "Whitenack's Patsy",
+      "dam_reg": "A535061",
+      "breeders": [
+        "Edward F. De Ford"
+      ],
+      "owners": [
+        "Clarence Whitenack"
+      ]
+    },
+    {
+      "reg_number": "R58245",
+      "name": "SAUCY GAL OF MAPLECREEK",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-17-49",
+      "color_code": "Dark brindle, white feet and chest",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Acorn Andy",
+      "sire_reg": "R41657",
+      "dam_name": "Saucy Sheila of H.Q.",
+      "dam_reg": "A759488",
+      "breeders": [
+        "John R. Shepley"
+      ],
+      "owners": [
+        "John R. Shepley"
+      ]
+    },
+    {
+      "reg_number": "R57389",
+      "name": "TACOMA SALUTE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-4-48",
+      "color_code": "White",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Kane's Tacoma Blaze",
+      "sire_reg": "A776601",
+      "dam_name": "Doyle's Tacoma Debutante",
+      "dam_reg": "R24096",
+      "breeders": [
+        "Charles W. Craig"
+      ],
+      "owners": [
+        "Charles J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R57605",
+      "name": "TACOMA TIGER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-8-49",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dispatcher II",
+      "sire_reg": "R5583",
+      "dam_name": "Doyle's Cindy",
+      "dam_reg": "R4264",
+      "breeders": [
+        "Fred Jr. & Judy Hahn"
+      ],
+      "owners": [
+        "Charles J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R58158",
+      "name": "X-PERT BUDDY OF ELLIOTT II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-9-49",
+      "color_code": "Fawn, black and white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R6446",
+      "dam_name": "X-Pert Gallant Betty",
+      "dam_reg": "A822281",
+      "breeders": [
+        "Henry Schuhmann"
+      ],
+      "owners": [
+        "Henry Schuhmann"
+      ]
+    },
+    {
+      "reg_number": "R58159",
+      "name": "X-PERT MY DIXIE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-9-49",
+      "color_code": "Fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R6446",
+      "dam_name": "X-Pert Gallant Betty",
+      "dam_reg": "A822281",
+      "breeders": [
+        "Henry Schuhmann"
+      ],
+      "owners": [
+        "Henry Schuhmann"
+      ]
+    },
+    {
+      "reg_number": "R57899",
+      "name": "X-PERT PANAMA PATSY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-24-49",
+      "color_code": "Light brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert King Nero",
+      "sire_reg": "R44",
+      "dam_name": "X-Pert Kentucky Kate",
+      "dam_reg": "R23661",
+      "breeders": [
+        "Glenda Rae Lee"
+      ],
+      "owners": [
+        "David S. Smith"
+      ]
+    },
+    {
+      "reg_number": "R58157",
+      "name": "X-PERT PRETTY BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-9-49",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R6446",
+      "dam_name": "X-Pert Gallant Betty",
+      "dam_reg": "A822281",
+      "breeders": [
+        "Henry Schuhmann"
+      ],
+      "owners": [
+        "Henry Schuhmann"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "breed": "Australian Terrier",
+  "date_header": "FEBRUARY 1980",
+  "dogs": [
+    {
+      "reg_number": "RA487092",
+      "name": "WAIMEA PRINCESS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-9-78",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "WILLYNWOOD BULLIT",
+      "sire_reg": "RA337854",
+      "dam_name": "KINGSTON SAND PEBBLE",
+      "dam_reg": "RA321158",
+      "breeders": [
+        "D & E GOMES"
+      ],
+      "owners": [
+        "H & F KAMOKU"
+      ]
+    },
+    {
+      "reg_number": "RA463983",
+      "name": "WILLYNWOOD KANSAS KANDY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-21-77",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH TRYARR FINE RED ROCK ROWDY PUG",
+      "sire_reg": "RA190102",
+      "dam_name": "TRYARR LADY MADONNA",
+      "dam_reg": "RA245108",
+      "breeders": [
+        "B PERRIN"
+      ],
+      "owners": [
+        "W PETERSON JR"
+      ]
+    },
+    {
+      "reg_number": "RA524230",
+      "name": "ARCHIMEDES",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-27-69",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "BAKER'S MR MAGOO",
+      "sire_reg": "R568451",
+      "dam_name": "COX'S MELODIE",
+      "dam_reg": "R575786",
+      "breeders": [
+        "F BAKER"
+      ],
+      "owners": [
+        "D WORKMAN"
+      ]
+    },
+    {
+      "reg_number": "RA522577",
+      "name": "BAMBY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-3-78",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "EUNICE'S KOJAK",
+      "sire_reg": "RA216326",
+      "dam_name": "YOLANDER TENARIAN",
+      "dam_reg": "RA279685",
+      "breeders": [
+        "MRS W HALL"
+      ],
+      "owners": [
+        "E VIAN"
+      ]
+    },
+    {
+      "reg_number": "RA502101",
+      "name": "BONNIE'S SAMANTHA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-15-78",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "EUNICE'S KOJAK",
+      "sire_reg": "RA216326",
+      "dam_name": "EUNICE'S LOLLIE",
+      "dam_reg": "RA204157",
+      "breeders": [
+        "E GRAYBILL"
+      ],
+      "owners": [
+        "B WYNN"
+      ]
+    },
+    {
+      "reg_number": "RA520291",
+      "name": "EURIPIDES",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-14-78",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "CH ROBINETTE'S ARFULL ARNY",
+      "sire_reg": "RA332767",
+      "dam_name": "BUXTON'S MUFFIN",
+      "dam_reg": "RA033889",
+      "breeders": [
+        "D & K BUXTON"
+      ],
+      "owners": [
+        "V WORKMAN"
+      ]
+    },
+    {
+      "reg_number": "RA428271",
+      "name": "GOLDENPOST'S LADY AMITY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-16-77",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "MAIALA TREVOR TOO",
+      "sire_reg": "RA060218",
+      "dam_name": "THORNOAKS COBAR",
+      "dam_reg": "R929115",
+      "breeders": [
+        "W GOLDSBERRY"
+      ],
+      "owners": [
+        "E DILLER"
+      ]
+    },
+    {
+      "reg_number": "RA519209",
+      "name": "LANDEAU'S OUTBACK EXPLORER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-13-74",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "CH SPRITE LEA KING ARFER CD",
+      "sire_reg": "R732658",
+      "dam_name": "SPRITE LEA DARCEY OF LANDEAU CD",
+      "dam_reg": "R847598",
+      "breeders": [
+        "W BROECKER"
+      ],
+      "owners": [
+        "S & B SYME"
+      ]
+    },
+    {
+      "reg_number": "RA333361",
+      "name": "MARCWIND EXECUTRICKS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-14-75",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "CH SPRITE LEA CHARLES",
+      "sire_reg": "R792164",
+      "dam_name": "CH SPRITE LEA DREAM BOAT",
+      "dam_reg": "R860633",
+      "breeders": [
+        "P & D STANSLOSKI"
+      ],
+      "owners": [
+        "L SCHILLING"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,847 @@
+{
+  "breed": "Welsh Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R49649",
+      "name": "LANTA OF TWIN BIRCHES (CAN.)",
+      "titles": null,
+      "sex": "U",
+      "birth_date": "8-14-48",
+      "color_code": "Dark brown brindle, white marking",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ruffian Napoleon",
+      "sire_reg": null,
+      "dam_name": "Mudflat Liz of Twin Birches",
+      "dam_reg": null,
+      "breeders": [
+        "Byron P. Richardson"
+      ],
+      "owners": [
+        "Mrs. Marjorie R. Lowe"
+      ]
+    },
+    {
+      "reg_number": "R49324",
+      "name": "RUFF OF HAR-WIN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-16-48",
+      "color_code": "Dark brindle and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Headlight Hal",
+      "sire_reg": "A586841",
+      "dam_name": "Harper's Big Girl",
+      "dam_reg": "A702365",
+      "breeders": [
+        "Clarence Harris"
+      ],
+      "owners": [
+        "Mrs. W. D. Harper"
+      ]
+    },
+    {
+      "reg_number": "R49397",
+      "name": "ANDY'S BEANIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-20-47",
+      "color_code": "Black and red",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Right Robin of Wallcrest",
+      "sire_reg": "23604",
+      "dam_name": "Monona's Maureen Adair",
+      "dam_reg": "A786902",
+      "breeders": [
+        "Irving R. Anderson"
+      ],
+      "owners": [
+        "Marion J. Shelmandine"
+      ]
+    },
+    {
+      "reg_number": "R49505",
+      "name": "BALL'S CORKY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-2-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Margaret's Tiny Tim",
+      "sire_reg": "R19767",
+      "dam_name": "Patsy",
+      "dam_reg": "R34181",
+      "breeders": [
+        "William H. Ball"
+      ],
+      "owners": [
+        "Linus E. Parker"
+      ]
+    },
+    {
+      "reg_number": "R49761",
+      "name": "BEG-AN OF PETER PAN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-18-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Peter Pan's Adventurer",
+      "sire_reg": "A402188",
+      "dam_name": "Towie Tapestry",
+      "dam_reg": "A605153",
+      "breeders": [
+        "Carlos W. Starr"
+      ],
+      "owners": [
+        "Mr. & Mrs. R. L. Scaggs"
+      ]
+    },
+    {
+      "reg_number": "R49381",
+      "name": "BONNIE FLORNELLA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-7-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Winalesby Tregennis",
+      "sire_reg": null,
+      "dam_name": "Gwynedd Tregennis",
+      "dam_reg": "R45531",
+      "breeders": [
+        "Anne B. Darvin"
+      ],
+      "owners": [
+        "Robert W. Davis"
+      ]
+    },
+    {
+      "reg_number": "R49750",
+      "name": "BREHM'S BRASS BELL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-27-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Marlu Magnificent Again",
+      "sire_reg": "A879246",
+      "dam_name": "Brehm's Sintella",
+      "dam_reg": "R28347",
+      "breeders": [
+        "Mr. & Mrs. Ralph H. Brehm"
+      ],
+      "owners": [
+        "Mr. & Mrs. Ralph H. Brehm"
+      ]
+    },
+    {
+      "reg_number": "R49733",
+      "name": "BREHM'S FONDEST HOPE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-26-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Marlu Magnificent Again",
+      "sire_reg": "A879246",
+      "dam_name": "Brehm's Dot o' Dash",
+      "dam_reg": "R28348",
+      "breeders": [
+        "Mr. & Mrs. Ralph H. Brehm"
+      ],
+      "owners": [
+        "Mr. & Mrs. Ralph H. Brehm"
+      ]
+    },
+    {
+      "reg_number": "R49751",
+      "name": "BREHM'S NATURAL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-17-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Marlu Magnificent Again",
+      "sire_reg": "A879246",
+      "dam_name": "Brehm's Dot o' Dash",
+      "dam_reg": "R28348",
+      "breeders": [
+        "Mr. & Mrs. Ralph H. Brehm"
+      ],
+      "owners": [
+        "Mr. & Mrs. Ralph H. Brehm"
+      ]
+    },
+    {
+      "reg_number": "R49358",
+      "name": "BRENIKIN OF BOSCOBEL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-7-47",
+      "color_code": "Black and brown",
+      "breed": "Welsh Terrier",
+      "sire_name": "Select Man of Mor-Kelvin",
+      "sire_reg": "A798622",
+      "dam_name": "Monona's Dolwyddelen",
+      "dam_reg": "A694616",
+      "breeders": [
+        "Cynthia W. Taylor"
+      ],
+      "owners": [
+        "Marion H. Bowman"
+      ]
+    },
+    {
+      "reg_number": "R50319",
+      "name": "CAROL OF WILLOWEL FARM",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-25-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Kip of Willowel Farm",
+      "sire_reg": "R5458",
+      "dam_name": "Wyn of Willowel Farm",
+      "dam_reg": "R33893",
+      "breeders": [
+        "Willowel Kennels"
+      ],
+      "owners": [
+        "Willowel Kennels"
+      ]
+    },
+    {
+      "reg_number": "R50129",
+      "name": "CLAIREDALE TEMPTER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-9-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Strathglass Bingo's Rex",
+      "sire_reg": "A691771",
+      "dam_name": "Raybrook's Harriet Fox",
+      "dam_reg": "A740781",
+      "breeders": [
+        "Clairedale Kennels"
+      ],
+      "owners": [
+        "Bodie Kennels"
+      ]
+    },
+    {
+      "reg_number": "R50130",
+      "name": "CLAIREDALE TEMPTRESS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-9-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Strathglass Bingo's Rex",
+      "sire_reg": "A691771",
+      "dam_name": "Raybrook's Harriet Fox",
+      "dam_reg": "A740781",
+      "breeders": [
+        "Clairedale Kennels"
+      ],
+      "owners": [
+        "Bodie Kennels"
+      ]
+    },
+    {
+      "reg_number": "R49482",
+      "name": "CLIFFDALE'S GENERAL HOUSTON",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-7-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Cliffdale Farewell To Arms",
+      "sire_reg": "R18644",
+      "dam_name": "Cliffdale War Nurse",
+      "dam_reg": "R37020",
+      "breeders": [
+        "J. A. Howard"
+      ],
+      "owners": [
+        "Dr. Charles L. Hatcher"
+      ]
+    },
+    {
+      "reg_number": "R49503",
+      "name": "CLIFFDALE GUARDSMAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-13-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Marlu Beacon",
+      "sire_reg": "R699",
+      "dam_name": "Anderson's Honey",
+      "dam_reg": "R26118",
+      "breeders": [
+        "Dr. Charles L. Hatcher"
+      ],
+      "owners": [
+        "Mrs. Edna A. H. Anderson"
+      ]
+    },
+    {
+      "reg_number": "R49502",
+      "name": "CLIFFDALE GUARDSMAN'S LASSIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-13-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Marlu Beacon",
+      "sire_reg": "R699",
+      "dam_name": "Anderson's Honey",
+      "dam_reg": "R26118",
+      "breeders": [
+        "Dr. Charles L. Hatcher"
+      ],
+      "owners": [
+        "Mrs. Edna A. H. Anderson"
+      ]
+    },
+    {
+      "reg_number": "R49999",
+      "name": "CORBSCOT C.B.",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-16-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Corbscot Sunny",
+      "sire_reg": "R4829",
+      "dam_name": "Corbscot Fanny",
+      "dam_reg": "R45002",
+      "breeders": [
+        "Alvin M. Williams"
+      ],
+      "owners": [
+        "Verna E. Corby"
+      ]
+    },
+    {
+      "reg_number": "R49585",
+      "name": "CORBSCOT DARKIE'S FARMERETTE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-18-46",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Corbscot Sunny",
+      "sire_reg": "R4829",
+      "dam_name": "Corbscot Darkie",
+      "dam_reg": "A763964",
+      "breeders": [
+        "Verna E. Corby"
+      ],
+      "owners": [
+        "Verna E. Corby"
+      ]
+    },
+    {
+      "reg_number": "R49586",
+      "name": "CORBSCOT JENIFER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-10-45",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Corbscot Eben",
+      "sire_reg": "A899517",
+      "dam_name": "Corbscot Boopy",
+      "dam_reg": "R1806",
+      "breeders": [
+        "Verna E. Corby"
+      ],
+      "owners": [
+        "Verna E. Corby"
+      ]
+    },
+    {
+      "reg_number": "R49850",
+      "name": "CORKY COFFEEBEAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-26-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Bodie's Teetotaler",
+      "sire_reg": "R20561",
+      "dam_name": "Corbscot Wydget",
+      "dam_reg": "R17956",
+      "breeders": [
+        "Paul C. Roche"
+      ],
+      "owners": [
+        "Verna E. Corby"
+      ]
+    },
+    {
+      "reg_number": "R50183",
+      "name": "COUNTRY GENTLEMAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-5-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Strathglass Bingo's Venture",
+      "sire_reg": "A587909",
+      "dam_name": "Jean of Pembroke",
+      "dam_reg": "A697286",
+      "breeders": [
+        "Margaret Finley"
+      ],
+      "owners": [
+        "Patrick McGarry"
+      ]
+    },
+    {
+      "reg_number": "R49798",
+      "name": "DANIEL OF RUMSTICK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-20-49",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Windermere Whiskers",
+      "sire_reg": "A701609",
+      "dam_name": "Myvonia of Saltaire",
+      "dam_reg": "R21902",
+      "breeders": [
+        "Foster B. Davis, Jr."
+      ],
+      "owners": [
+        "Mrs. Harold C. Covell"
+      ]
+    },
+    {
+      "reg_number": "R49485",
+      "name": "DENBIGH OF RIDGECOURT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-15-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Flatbush Jayke",
+      "sire_reg": "A864814",
+      "dam_name": "Sallie of Drummondale",
+      "dam_reg": "R13827",
+      "breeders": [
+        "Marian E. Staff"
+      ],
+      "owners": [
+        "Patrick McGarry"
+      ]
+    },
+    {
+      "reg_number": "R49406",
+      "name": "DOBI OF PEMBROKE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-5-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Flatbush Jayke",
+      "sire_reg": "A864820",
+      "dam_name": "Jean of Pembroke",
+      "dam_reg": "A697286",
+      "breeders": [
+        "Elissa M. VanRosen"
+      ],
+      "owners": [
+        "Patrick McGarry"
+      ]
+    },
+    {
+      "reg_number": "R49448",
+      "name": "DOWIMMEL SNUFFY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-25-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Kokosing Reckoner",
+      "sire_reg": "A817561",
+      "dam_name": "Kokosing Loverage",
+      "dam_reg": "A924035",
+      "breeders": [
+        "A. E. Immel"
+      ],
+      "owners": [
+        "C. R. Jackson"
+      ]
+    },
+    {
+      "reg_number": "R50253",
+      "name": "DUKE OF WALES",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-31-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Windy Hill's Billy Boy",
+      "sire_reg": "R23564",
+      "dam_name": "Windy Hill's Peggy",
+      "dam_reg": "R33463",
+      "breeders": [
+        "James Worthington"
+      ],
+      "owners": [
+        "James H. Burns",
+        "Irma V. Conway"
+      ]
+    },
+    {
+      "reg_number": "R49728",
+      "name": "DUTY TREASURE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-15-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Dorset G. I. Joe",
+      "sire_reg": "R38553",
+      "dam_name": "Beau's Delight of Wyncote",
+      "dam_reg": "A960257",
+      "breeders": [
+        "Carleton Kelsey"
+      ],
+      "owners": [
+        "Edw. J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R50131",
+      "name": "FALLEN LADY OF FALLEN LEAF",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-6-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Del-Vila Hotspur",
+      "sire_reg": "A622463",
+      "dam_name": "Walescroft Delight",
+      "dam_reg": "R33781",
+      "breeders": [
+        "Henry S. P. Howard"
+      ],
+      "owners": [
+        "Walescroft Kennels"
+      ]
+    },
+    {
+      "reg_number": "R49899",
+      "name": "FANCY LADY OF WILLOW CREEK",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-11-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Milford Even of Millvale",
+      "sire_reg": "R16974",
+      "dam_name": "Millvale's Mitzie",
+      "dam_reg": "R13038",
+      "breeders": [
+        "John N. Hehn",
+        "Nadine Hehn"
+      ],
+      "owners": [
+        "James R. Miller",
+        "Meredith Miller"
+      ]
+    },
+    {
+      "reg_number": "R49590",
+      "name": "FORWARD BLACK MAGIC",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-2-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Forward Magic Spell",
+      "sire_reg": "R32379",
+      "dam_name": "Forward Deep Thought",
+      "dam_reg": "A962116",
+      "breeders": [
+        "Deanne B. Adler"
+      ],
+      "owners": [
+        "Edgar Frowd"
+      ]
+    },
+    {
+      "reg_number": "R50117",
+      "name": "JOE AYCOCK'S MISCHA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-13-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Marlu Beacon",
+      "sire_reg": "R699",
+      "dam_name": "Anderson's Honey",
+      "dam_reg": "R26118",
+      "breeders": [
+        "Joe M. Aycock"
+      ],
+      "owners": [
+        "Mrs. Edna A. H. Anderson"
+      ]
+    },
+    {
+      "reg_number": "R49861",
+      "name": "JUDY LEE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-8-49",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Trefor of Walescroft",
+      "sire_reg": "A322171",
+      "dam_name": "Pearl Short",
+      "dam_reg": "R24907",
+      "breeders": [
+        "Bernard Brink",
+        "Zola Brink"
+      ],
+      "owners": [
+        "Chester T. Bryan"
+      ]
+    },
+    {
+      "reg_number": "R49691",
+      "name": "LARKSPUR SKERRIE GLENOWEN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-19-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Twin Ponds Broker",
+      "sire_reg": "R19139",
+      "dam_name": "Twin Ponds Larkspur",
+      "dam_reg": "A846433",
+      "breeders": [
+        "Carol Winston Berry"
+      ],
+      "owners": [
+        "Thomas G. Larsen"
+      ]
+    },
+    {
+      "reg_number": "R49640",
+      "name": "LITTLE SASSY LU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-4-49",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Rusty Dan",
+      "sire_reg": "R34672",
+      "dam_name": "Little Maid Bridget",
+      "dam_reg": "R20144",
+      "breeders": [
+        "Jack Kennedy"
+      ],
+      "owners": [
+        "Jack Kennedy"
+      ]
+    },
+    {
+      "reg_number": "R50086",
+      "name": "MERRY GIRL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-19-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Twin Ponds Broker",
+      "sire_reg": "R19139",
+      "dam_name": "Twin Ponds Larkspur",
+      "dam_reg": "A846433",
+      "breeders": [
+        "Winifred S. Webster"
+      ],
+      "owners": [
+        "Thomas G. Larsen"
+      ]
+    },
+    {
+      "reg_number": "R49400",
+      "name": "MICHAEL'S TOPPER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-28-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Dan-de Boy of Graylock",
+      "sire_reg": "R18765",
+      "dam_name": "Mimi Taffy",
+      "dam_reg": "R1489",
+      "breeders": [
+        "Frank Guermonprez"
+      ],
+      "owners": [
+        "Miss Michael Wheeler"
+      ]
+    },
+    {
+      "reg_number": "R50320",
+      "name": "NOEL OF WILLOWEL FARM",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-25-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Kip of Willowel Farm",
+      "sire_reg": "R5458",
+      "dam_name": "Wyn of Willowel Farm",
+      "dam_reg": "R33893",
+      "breeders": [
+        "Willowel Kennels"
+      ],
+      "owners": [
+        "Willowel Kennels"
+      ]
+    },
+    {
+      "reg_number": "R50185",
+      "name": "PELHAMWOOD MAESTRO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-19-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Twin Ponds Broker",
+      "sire_reg": "R19139",
+      "dam_name": "Twin Ponds Larkspur",
+      "dam_reg": "A846433",
+      "breeders": [
+        "John Freese"
+      ],
+      "owners": [
+        "Thomas G. Larsen"
+      ]
+    },
+    {
+      "reg_number": "R50355",
+      "name": "PENZANCE HOLIDAY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-25-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Aman High Flyer",
+      "sire_reg": "R11201",
+      "dam_name": "Strathglass Venture's Nun",
+      "dam_reg": "A761671",
+      "breeders": [
+        "Nell B. Hudson"
+      ],
+      "owners": [
+        "Hugh J. Chisholm"
+      ]
+    },
+    {
+      "reg_number": "R50356",
+      "name": "PENZANCE NOEL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-25-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Aman High Flyer",
+      "sire_reg": "R11201",
+      "dam_name": "Strathglass Venture's Nun",
+      "dam_reg": "A761671",
+      "breeders": [
+        "Harriet A. Hyatt"
+      ],
+      "owners": [
+        "Hugh J. Chisholm"
+      ]
+    },
+    {
+      "reg_number": "R50354",
+      "name": "PENZANCE WEE NUN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-25-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Aman High Flyer",
+      "sire_reg": "R11201",
+      "dam_name": "Strathglass Venture's Nun",
+      "dam_reg": "A761671",
+      "breeders": [
+        "Nell B. Hudson"
+      ],
+      "owners": [
+        "Hugh J. Chisholm"
+      ]
+    },
+    {
+      "reg_number": "R50122",
+      "name": "PEPPER MAC",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-20-49",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Wolfe's Peter Pan",
+      "sire_reg": "R31360",
+      "dam_name": "Lady Asta",
+      "dam_reg": "R31731",
+      "breeders": [
+        "James P. McClintock"
+      ],
+      "owners": [
+        "Dolores J. Klotz",
+        "Carl W. Klotz"
+      ]
+    },
+    {
+      "reg_number": "R49651",
+      "name": "PEPPER OF LLAN GALLAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-2-47",
+      "color_code": "Grizzle and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Buccaneer of Gallian",
+      "sire_reg": "A923972",
+      "dam_name": "Lady Prima Donna",
+      "dam_reg": "R14345",
+      "breeders": [
+        "William Veckenstedt"
+      ],
+      "owners": [
+        "Leland R. Keys"
+      ]
+    },
+    {
+      "reg_number": "R49373",
+      "name": "PETERKIN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-20-46",
+      "color_code": "Black and brown",
+      "breed": "Welsh Terrier",
+      "sire_name": "Gremlin's Boy of Highgate",
+      "sire_reg": "R3297",
+      "dam_name": "Cookie of Ireton",
+      "dam_reg": "A665303",
+      "breeders": [
+        "Courtney B. Womack"
+      ],
+      "owners": [
+        "Ireton Kennels"
+      ]
+    }
+  ]
+}

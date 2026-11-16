@@ -1,0 +1,234 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "August 1, 1936",
+  "dogs": [
+    {
+      "reg_number": "A87561",
+      "name": "FARMER'S SNUGGLES UP",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-18-34",
+      "color_code": "Rd, wh mkgs",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farmer's Jerry",
+      "sire_reg": null,
+      "dam_name": "Bellwood Lassie",
+      "dam_reg": null,
+      "breeders": [
+        "W. P. Farmer"
+      ],
+      "owners": [
+        "Wilfred T. Brandon"
+      ]
+    },
+    {
+      "reg_number": "A86070",
+      "name": "IOWA PEGGY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-26-30",
+      "color_code": "Brdl & wh",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Whalen's Master",
+      "sire_reg": null,
+      "dam_name": "Highland Sis",
+      "dam_reg": null,
+      "breeders": [
+        "Robert Ackerman"
+      ],
+      "owners": [
+        "Rev. John H. Schwacke"
+      ]
+    },
+    {
+      "reg_number": "A88778",
+      "name": "KIRBY OF INDIANA",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-2-35",
+      "color_code": "Brdl, wh on chest",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Gregory's Young Captain",
+      "sire_reg": null,
+      "dam_name": "Palmer's Lady Peggy II",
+      "dam_reg": null,
+      "breeders": [
+        "T. Ainslie Barnard"
+      ],
+      "owners": [
+        "T. Ainslie Barnard"
+      ]
+    },
+    {
+      "reg_number": "A87560",
+      "name": "MONTE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-19-28",
+      "color_code": "Wh, brdl mkgs on hd",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Hot Spur",
+      "sire_reg": null,
+      "dam_name": "Princess Pat",
+      "dam_reg": null,
+      "breeders": [
+        "Joe Laurent"
+      ],
+      "owners": [
+        "E. H. Nobbe"
+      ]
+    },
+    {
+      "reg_number": "A86069",
+      "name": "MUGGER OF LILAC FARM",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-28-29",
+      "color_code": "Brdl, wh spt on chest",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Limbeck's Black Tip",
+      "sire_reg": null,
+      "dam_name": "Norton's Judy",
+      "dam_reg": null,
+      "breeders": [
+        "A. J. Norton"
+      ],
+      "owners": [
+        "Lourene Bratt Wishart"
+      ]
+    },
+    {
+      "reg_number": "A86071",
+      "name": "NEAL'S BROWNIE II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-26-31",
+      "color_code": "Mhgy brdl",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Neal's Tiger",
+      "sire_reg": null,
+      "dam_name": "Neal's Queenie",
+      "dam_reg": null,
+      "breeders": [
+        "S. Pierce Neal"
+      ],
+      "owners": [
+        "S. Pierce Neal"
+      ]
+    },
+    {
+      "reg_number": "A88953",
+      "name": "POTTERY PRUDENCE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-18-36",
+      "color_code": "Blk, wh mkgs",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Tudor's Big Chief",
+      "sire_reg": null,
+      "dam_name": "Osage Brindle",
+      "dam_reg": null,
+      "breeders": [
+        "W. E. Hamler"
+      ],
+      "owners": [
+        "A. Lynn Booth"
+      ]
+    },
+    {
+      "reg_number": "A86068",
+      "name": "TABASCO DAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-8-28",
+      "color_code": "Br brdl, wh breast & toes",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Duffy Did",
+      "sire_reg": null,
+      "dam_name": "Little Beauty",
+      "dam_reg": null,
+      "breeders": [
+        "D. Landram"
+      ],
+      "owners": [
+        "G. B. Claycomb"
+      ]
+    },
+    {
+      "reg_number": "A86067",
+      "name": "TABASCO FANCY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-15-30",
+      "color_code": "Dk brdl, wh mkgs",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Heise's Hodge's Midnight",
+      "sire_reg": null,
+      "dam_name": "Maguire's Cricket",
+      "dam_reg": null,
+      "breeders": [
+        "Willis LeBlanc"
+      ],
+      "owners": [
+        "G. B. Claycomb"
+      ]
+    },
+    {
+      "reg_number": "A88954",
+      "name": "TABASCO JERRY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-10-32",
+      "color_code": "Ylw brdl, wh mkgs",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Trahan's Hobo Joe Jr.",
+      "sire_reg": null,
+      "dam_name": "Trahans Hobo Queen",
+      "dam_reg": null,
+      "breeders": [
+        "G. A. Trahan"
+      ],
+      "owners": [
+        "G. B. Claycomb"
+      ]
+    },
+    {
+      "reg_number": "A86066",
+      "name": "WHEELER'S BLACK DINAH",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-30-31",
+      "color_code": "Blk",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Garm D",
+      "sire_reg": null,
+      "dam_name": "Topsy W",
+      "dam_reg": null,
+      "breeders": [
+        "Mrs. Edna Flickinger"
+      ],
+      "owners": [
+        "J. Maurice Wheeler"
+      ]
+    },
+    {
+      "reg_number": "A88301",
+      "name": "X-PERT BLACK SHINE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-28-35",
+      "color_code": "Blk, wh mkgs",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Black Jack",
+      "sire_reg": null,
+      "dam_name": "X-Pert Little Princess",
+      "dam_reg": null,
+      "breeders": [
+        "Clifford A. Ormsby"
+      ],
+      "owners": [
+        "Clifford A. Ormsby"
+      ]
+    }
+  ]
+}

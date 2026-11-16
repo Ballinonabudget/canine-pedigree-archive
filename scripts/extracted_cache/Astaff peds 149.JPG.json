@@ -1,0 +1,405 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "January 1950",
+  "dogs": [
+    {
+      "reg_number": "R60023",
+      "name": "BEDERMANN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-23-49",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Young Joe Braddock",
+      "sire_reg": "A533880",
+      "dam_name": "Corvino's Sparetime",
+      "dam_reg": "R27957",
+      "breeders": [
+        "Arnold D. Downs, Jr."
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R59362",
+      "name": "BIG FRANK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-11-49",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farris' Dandy",
+      "sire_reg": "R33388",
+      "dam_name": "Steeles Memory",
+      "dam_reg": "R13540",
+      "breeders": [
+        "Sam W. Farris"
+      ],
+      "owners": [
+        "Sam W. Farris"
+      ]
+    },
+    {
+      "reg_number": "R59363",
+      "name": "BLONDY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-11-49",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farris' Dandy",
+      "sire_reg": "R33388",
+      "dam_name": "Steeles Memory",
+      "dam_reg": "R13540",
+      "breeders": [
+        "Sam W. Farris"
+      ],
+      "owners": [
+        "Sam W. Farris"
+      ]
+    },
+    {
+      "reg_number": "R59629",
+      "name": "BOXELL'S TACOMA TOBY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-30-47",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dandy",
+      "sire_reg": "R8716",
+      "dam_name": "Top-O-Mich Brown Betty",
+      "dam_reg": "R6226",
+      "breeders": [
+        "Wm. H. Boxell"
+      ],
+      "owners": [
+        "Wm. H. Boxell"
+      ]
+    },
+    {
+      "reg_number": "R59031",
+      "name": "CALAMITY JANE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-29-49",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ruffian Walkaway",
+      "sire_reg": "A638596",
+      "dam_name": "Puddinpie Pepper Duster",
+      "dam_reg": "R23102",
+      "breeders": [
+        "R. F. McCreary"
+      ],
+      "owners": [
+        "William M. Whitaker"
+      ]
+    },
+    {
+      "reg_number": "R59799",
+      "name": "CHITA'S BALDY II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-27-47",
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Edward's Pancho Villa",
+      "sire_reg": "A247019",
+      "dam_name": "Chita",
+      "dam_reg": "A321803",
+      "breeders": [
+        "Marvin L. Hartshorn"
+      ],
+      "owners": [
+        "Mrs. L. L. Wakefield"
+      ]
+    },
+    {
+      "reg_number": "R58837",
+      "name": "CHITA DODIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-13-49",
+      "color_code": "Fawn and black",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Pat Murphy of H.Q.",
+      "sire_reg": "A639020",
+      "dam_name": "Chita",
+      "dam_reg": "A321803",
+      "breeders": [
+        "Mrs. James A. Tyrer"
+      ],
+      "owners": [
+        "Mrs. L. L. Wakefield"
+      ]
+    },
+    {
+      "reg_number": "R60130",
+      "name": "EM'S SAM BASS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-15-49",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Williams Paddy Boy",
+      "sire_reg": "A840803",
+      "dam_name": "Hopper's Miss Taffy Tan",
+      "dam_reg": "R19567",
+      "breeders": [
+        "Catherine Emily Pattridge"
+      ],
+      "owners": [
+        "Eugene H. Hopper"
+      ]
+    },
+    {
+      "reg_number": "R59503",
+      "name": "ENGLISH PATSY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-25-39",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Corvino's Jerry*",
+      "sire_reg": null,
+      "dam_name": "Corvino's Dollie*",
+      "dam_reg": null,
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R58997",
+      "name": "GALLANT STORMY OF HAR-WYN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-10-49",
+      "color_code": "Golden brindle, white chest",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Pugnacious de Navarro",
+      "sire_reg": "R28725",
+      "dam_name": "Ruggian Mischief Maker",
+      "dam_reg": "A727557",
+      "breeders": [
+        "Edwin C. Ringold"
+      ],
+      "owners": [
+        "Mrs. W. D. Peggy Harper"
+      ]
+    },
+    {
+      "reg_number": "R59504",
+      "name": "KRYSINSKI'S GENTLEMAN JIM",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-14-43",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Corvino's Kelly",
+      "sire_reg": "A656069",
+      "dam_name": "English Patsy",
+      "dam_reg": "R59503",
+      "breeders": [
+        "Dr. Theodore T. Krysinski"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R58848",
+      "name": "MAJOR TACOMA KANE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-18-48",
+      "color_code": "Red fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Kane's Tacoma Parnell",
+      "sire_reg": "R43398",
+      "dam_name": "Tacoma Rose",
+      "dam_reg": "R44987",
+      "breeders": [
+        "Jesse W. Fleckenstein"
+      ],
+      "owners": [
+        "James P. Kane"
+      ]
+    },
+    {
+      "reg_number": "R58882",
+      "name": "PILLION'S ANDY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-11-49",
+      "color_code": "Fawn and black",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Sansonetti's Yankee",
+      "sire_reg": "R29301",
+      "dam_name": "Doctor T. T. Krysinski's Sugar",
+      "dam_reg": "R48412",
+      "breeders": [
+        "George J. Pillion"
+      ],
+      "owners": [
+        "Dr. Theodore T. Krysinski"
+      ]
+    },
+    {
+      "reg_number": "R60069",
+      "name": "RUFFIAN WRIGHT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-29-49",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ruffian Walkaway",
+      "sire_reg": "A638596",
+      "dam_name": "Puddinpie Pepper Duster",
+      "dam_reg": "R23102",
+      "breeders": [
+        "William T. Wright"
+      ],
+      "owners": [
+        "William M. Whitaker"
+      ]
+    },
+    {
+      "reg_number": "R59230",
+      "name": "RUTH'S YANKEE PENNY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-11-49",
+      "color_code": "Seal brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Sansonetti's Yankee",
+      "sire_reg": "R29301",
+      "dam_name": "Doctor T. T. Krysinski's Sugar",
+      "dam_reg": "R48412",
+      "breeders": [
+        "Frank L. Ruth"
+      ],
+      "owners": [
+        "Dr. Theodore T. Krysinski"
+      ]
+    },
+    {
+      "reg_number": "R58831",
+      "name": "SHAREVALPAD STARDUST",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-15-49",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Williams Paddy Boy",
+      "sire_reg": "A840803",
+      "dam_name": "Hopper's Miss Taffy Tan",
+      "dam_reg": "R19567",
+      "breeders": [
+        "Albert C. Williams"
+      ],
+      "owners": [
+        "Eugene H. Hopper"
+      ]
+    },
+    {
+      "reg_number": "R59631",
+      "name": "SHELTON'S TACOMA PATSY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-30-47",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dandy",
+      "sire_reg": "R8716",
+      "dam_name": "Top-O-Mich Brown Betty",
+      "dam_reg": "R6226",
+      "breeders": [
+        "Carl Milroy Shelton"
+      ],
+      "owners": [
+        "Wm. H. Boxell"
+      ]
+    },
+    {
+      "reg_number": "R59361",
+      "name": "SHORT STUFF",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-11-49",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farris' Dandy",
+      "sire_reg": "R33388",
+      "dam_name": "Steeles Memory",
+      "dam_reg": "R13540",
+      "breeders": [
+        "Sam W. Farris"
+      ],
+      "owners": [
+        "Sam W. Farris"
+      ]
+    },
+    {
+      "reg_number": "R59365",
+      "name": "SUGAR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-11-49",
+      "color_code": "Light brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farris' Dandy",
+      "sire_reg": "R33388",
+      "dam_name": "Steeles Memory",
+      "dam_reg": "R13540",
+      "breeders": [
+        "Sam W. Farris"
+      ],
+      "owners": [
+        "Sam W. Farris"
+      ]
+    },
+    {
+      "reg_number": "R59364",
+      "name": "TAR BABY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-11-49",
+      "color_code": "Dark brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farris' Dandy",
+      "sire_reg": "R33388",
+      "dam_name": "Steeles Memory",
+      "dam_reg": "R13540",
+      "breeders": [
+        "Sam W. Farris"
+      ],
+      "owners": [
+        "Sam W. Farris"
+      ]
+    },
+    {
+      "reg_number": "R59630",
+      "name": "WAMPLER'S TACOMA TORR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-30-47",
+      "color_code": "Fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dandy",
+      "sire_reg": "R8716",
+      "dam_name": "Top-O-Mich Brown Betty",
+      "dam_reg": "R6226",
+      "breeders": [
+        "Wm. J. Wampler"
+      ],
+      "owners": [
+        "Wm. H. Boxell"
+      ]
+    }
+  ]
+}

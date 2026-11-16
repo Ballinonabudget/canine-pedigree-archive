@@ -1,0 +1,158 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "OCT. 8",
+  "dogs": [
+    {
+      "reg_number": "R55972",
+      "name": "CHIPS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-16-48",
+      "color_code": "Golden brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Tacoma Tableau",
+      "sire_reg": "R-43000",
+      "dam_name": "Friel's Lady Fantara",
+      "dam_reg": "R-22802",
+      "breeders": [
+        "A. W. Cooper"
+      ],
+      "owners": [
+        "Hugh D. Friel"
+      ]
+    },
+    {
+      "reg_number": "R56000",
+      "name": "CHITA'S JUDIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-13-49",
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Pat Murphy of H.Q.",
+      "sire_reg": "A-639020",
+      "dam_name": "Ch. Chita",
+      "dam_reg": "A-321803",
+      "breeders": [
+        "Mrs. L. L. Wakefield"
+      ],
+      "owners": [
+        "Mrs. L. L. Wakefield"
+      ]
+    },
+    {
+      "reg_number": "R55721",
+      "name": "FARLSDALE'S CHICA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-16-48",
+      "color_code": "Red, black mask",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Inky Joe of Farlsdale",
+      "sire_reg": "A-768276",
+      "dam_name": "Queenie's Dottie Dimple",
+      "dam_reg": "R-23347",
+      "breeders": [
+        "Joe J. Paz"
+      ],
+      "owners": [
+        "J. B. Hacker, Jr."
+      ]
+    },
+    {
+      "reg_number": "R56074",
+      "name": "HORNER'S LUGER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-3-48",
+      "color_code": "Fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Colby's Trim",
+      "sire_reg": "A-641508",
+      "dam_name": "Colby's Becky",
+      "dam_reg": "R-27583",
+      "breeders": [
+        "Gerald F. Horner"
+      ],
+      "owners": [
+        "Louis B. Colby"
+      ]
+    },
+    {
+      "reg_number": "R55530",
+      "name": "KING'S CORK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-16-49",
+      "color_code": "Dark red brindle, white on chest",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farris' Dandy",
+      "sire_reg": "R-33388",
+      "dam_name": "Bonnie Golden Pride",
+      "dam_reg": "R-16868",
+      "breeders": [
+        "Dr. Wm. D. King"
+      ],
+      "owners": [
+        "Adelaide M. Holsten"
+      ]
+    },
+    {
+      "reg_number": "R55980",
+      "name": "LADY LEROY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-17-48",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dandy",
+      "sire_reg": "R-8716",
+      "dam_name": "Doyle's Connie",
+      "dam_reg": "R-4264",
+      "breeders": [
+        "Dominick L. Shaw"
+      ],
+      "owners": [
+        "Charles J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R55899",
+      "name": "RUFFIAN SIRROCCO OF HAR-WYN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-14-49",
+      "color_code": "Black brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Headlight Hal",
+      "sire_reg": "A-586841",
+      "dam_name": "Ch. Bonnie Lou of Ed-Mar",
+      "dam_reg": "A-980866",
+      "breeders": [
+        "Mrs. W. D. Harper"
+      ],
+      "owners": [
+        "Mrs. W. D. Harper"
+      ]
+    },
+    {
+      "reg_number": "R55900",
+      "name": "RUFFIAN TONY OF HAR-WYN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-14-49",
+      "color_code": "Dark blue brindle, white marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Headlight Hal",
+      "sire_reg": "A-586841",
+      "dam_name": "Ch. Bonnie Lou of Ed-Mar",
+      "dam_reg": "A-980866",
+      "breeders": [
+        "Mrs. W. D. Harper"
+      ],
+      "owners": [
+        "Mrs. W. D. Harper"
+      ]
+    }
+  ]
+}

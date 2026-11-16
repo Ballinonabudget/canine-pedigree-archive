@@ -1,0 +1,215 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R50382",
+      "name": "ANCHOR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-12-41",
+      "color_code": "Red and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Jones' Holdon Grip",
+      "sire_reg": "A497680",
+      "dam_name": "Best in West",
+      "dam_reg": "A493367",
+      "breeders": [
+        "George Baylacq"
+      ],
+      "owners": [
+        "Noel P. Jones"
+      ]
+    },
+    {
+      "reg_number": "R50523",
+      "name": "COLONEL SPOMAR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-18-48",
+      "color_code": "Red fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Kane's Tacoma Parnell",
+      "sire_reg": "R43398",
+      "dam_name": "Tacoma Rose",
+      "dam_reg": "R44987",
+      "breeders": [
+        "Marvin R. Spomar"
+      ],
+      "owners": [
+        "James P. Kane"
+      ]
+    },
+    {
+      "reg_number": "R51334",
+      "name": "JOLLY SCAMPERPUSS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-10-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Walkaway",
+      "sire_reg": "A6385",
+      "dam_name": "Puddinpie Blue Smoke",
+      "dam_reg": "R23103",
+      "breeders": [
+        "William M. Whitaker"
+      ],
+      "owners": [
+        "William M. Whitaker"
+      ]
+    },
+    {
+      "reg_number": "R51409",
+      "name": "LOU GERTIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-20-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Colby's Pat",
+      "sire_reg": "R40580",
+      "dam_name": "Dan's Rebel",
+      "dam_reg": "R26698",
+      "breeders": [
+        "John F. Lucas"
+      ],
+      "owners": [
+        "Dan Copps"
+      ]
+    },
+    {
+      "reg_number": "R50522",
+      "name": "MAJOR SPOMAR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-18-48",
+      "color_code": "Red fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Kane's Tacoma Parnell",
+      "sire_reg": "R43398",
+      "dam_name": "Tacoma Rose",
+      "dam_reg": "R44987",
+      "breeders": [
+        "Marvin R. Spomar"
+      ],
+      "owners": [
+        "James P. Kane"
+      ]
+    },
+    {
+      "reg_number": "R50565",
+      "name": "MICKEY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-29-48",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Brown Bomber II",
+      "sire_reg": "A964705",
+      "dam_name": "Vicky Ed-Mar",
+      "dam_reg": "A799677",
+      "breeders": [
+        "J. T. Branson"
+      ],
+      "owners": [
+        "John J. Odom"
+      ]
+    },
+    {
+      "reg_number": "R51008",
+      "name": "OUR SHORTY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-19-48",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Bad Buster",
+      "sire_reg": "R200",
+      "dam_name": "Kilander's Ebony",
+      "dam_reg": "R3547",
+      "breeders": [
+        "Leona Kilander"
+      ],
+      "owners": [
+        "Lawrence W. Keller"
+      ]
+    },
+    {
+      "reg_number": "R50909",
+      "name": "SHERWALL KANDU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-24-48",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Captain Shon of Sherwall",
+      "sire_reg": "A400893",
+      "dam_name": "Galatea of Sherwall",
+      "dam_reg": "R36875",
+      "breeders": [
+        "Sherwall Kennels"
+      ],
+      "owners": [
+        "Sherwall Kennels"
+      ]
+    },
+    {
+      "reg_number": "R50816",
+      "name": "SHOZZELLE'S BACKER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-15-48",
+      "color_code": "Tan, black marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Williams Paddy Boy",
+      "sire_reg": "A840803",
+      "dam_name": "Kurtz' Lupe Lucero",
+      "dam_reg": "A843688",
+      "breeders": [
+        "Mrs. Ann G. Shockley"
+      ],
+      "owners": [
+        "John C. Kurtz"
+      ]
+    },
+    {
+      "reg_number": "R51406",
+      "name": "TACOMA QUEEDOE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-17-48",
+      "color_code": "Fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dandy",
+      "sire_reg": "R1",
+      "dam_name": "Doyle's Connie",
+      "dam_reg": "R4264",
+      "breeders": [
+        "Glen B. Kluth"
+      ],
+      "owners": [
+        "Chas. J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R50719",
+      "name": "TACOMA RUSTY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-18-48",
+      "color_code": "Red fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Kane's Tacoma Parnell",
+      "sire_reg": "R43398",
+      "dam_name": "Tacoma Rose",
+      "dam_reg": "R44987",
+      "breeders": [
+        "John B. Hastings"
+      ],
+      "owners": [
+        "James P. Kane"
+      ]
+    }
+  ]
+}

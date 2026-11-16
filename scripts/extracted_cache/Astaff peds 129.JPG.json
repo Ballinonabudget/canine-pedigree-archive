@@ -1,0 +1,63 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "1949",
+  "dogs": [
+    {
+      "reg_number": "R49903",
+      "name": "BRITTON'S BINGO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-2-47",
+      "color_code": "White",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Keene's Smokey",
+      "sire_reg": "A516837",
+      "dam_name": "San's Pinkie",
+      "dam_reg": "A674956",
+      "breeders": [
+        "Thomas N. Britton"
+      ],
+      "owners": [
+        "Mrs. L. M. Sans"
+      ]
+    },
+    {
+      "reg_number": "R49730",
+      "name": "GALLANT SUKEY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-23-44",
+      "color_code": "Black",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Leonard's Creepy Boy",
+      "sire_reg": "R31635",
+      "dam_name": "Corvino's Biddie",
+      "dam_reg": "A656067",
+      "breeders": [
+        "John Gundry"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R49578",
+      "name": "JUDY II",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-5-48",
+      "color_code": "Red brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Tiger",
+      "sire_reg": "A713599",
+      "dam_name": "Bonnie",
+      "dam_reg": "A527563",
+      "breeders": [
+        "Edward F. DeFord"
+      ],
+      "owners": [
+        "Edward F. DeFord"
+      ]
+    }
+  ]
+}

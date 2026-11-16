@@ -1,0 +1,101 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "SEPT.",
+  "dogs": [
+    {
+      "reg_number": "R-54177",
+      "name": "CHERIE OF SHERWALL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-20-49",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Huck of Sherwall",
+      "sire_reg": "R-37967",
+      "dam_name": "Abbyar of Sherwall",
+      "dam_reg": "R-41700",
+      "breeders": [
+        "Winifred Huggins"
+      ],
+      "owners": [
+        "Sherwall Kennels"
+      ]
+    },
+    {
+      "reg_number": "R-54400",
+      "name": "CHITA'S WAKIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-13-49",
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Pat Murphy of H.Q.",
+      "sire_reg": "A-639020",
+      "dam_name": "Ch. Chita",
+      "dam_reg": "A-321803",
+      "breeders": [
+        "Mrs. Grace Van Ginkel"
+      ],
+      "owners": [
+        "Mrs. L. L. Wakefield"
+      ]
+    },
+    {
+      "reg_number": "R-54460",
+      "name": "GALLANT RUFF",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-29-49",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Walkaway",
+      "sire_reg": "A-638596",
+      "dam_name": "Puddinpie Pepper Duster",
+      "dam_reg": "R-23102",
+      "breeders": [
+        "Edwin C. Ringold"
+      ],
+      "owners": [
+        "William M. Whitaker"
+      ]
+    },
+    {
+      "reg_number": "R-54457",
+      "name": "MR. MUGS MC GINTY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-26-49",
+      "color_code": "Fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Butch U.D.",
+      "sire_reg": "R-7719",
+      "dam_name": "Sunn Bonnett Sue",
+      "dam_reg": "R-44543",
+      "breeders": [
+        "William K. Marr"
+      ],
+      "owners": [
+        "Katherine E. Erwin"
+      ]
+    },
+    {
+      "reg_number": "R-54061",
+      "name": "SHAREVALPAD BLACK-EYED PEGGY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-10-48",
+      "color_code": "Fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Williams Paddy Boy",
+      "sire_reg": "A-840803",
+      "dam_name": "Hadley's Goldie",
+      "dam_reg": "A-753128",
+      "breeders": [
+        "Sharon L. Williams"
+      ],
+      "owners": [
+        "Howard M. Hadley"
+      ]
+    }
+  ]
+}

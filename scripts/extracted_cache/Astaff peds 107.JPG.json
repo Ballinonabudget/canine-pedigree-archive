@@ -1,0 +1,378 @@
+{
+  "breed": "Sealyham Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R32304",
+      "name": "RINKY BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-14-47",
+      "color_code": "White, badger head markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Robin Hill Corsair",
+      "sire_reg": "A-788540",
+      "dam_name": "Duchess of Fall Brook",
+      "dam_reg": "A-732352",
+      "breeders": [
+        "Mrs. G. W. Sohr"
+      ],
+      "owners": [
+        "Mrs. Chester R. Tschirgi"
+      ]
+    },
+    {
+      "reg_number": "R32083",
+      "name": "TIMOTHY MEATBALL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-1-47",
+      "color_code": "Tan, badger on head",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Carvaun Citation",
+      "sire_reg": "A-888735",
+      "dam_name": "Robin Hill Ribbon",
+      "dam_reg": "A-551346",
+      "breeders": [
+        "Martin C. Cassett"
+      ],
+      "owners": [
+        "Russell C. Thompson"
+      ]
+    },
+    {
+      "reg_number": "R32168",
+      "name": "WALGIL WONDER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-24-47",
+      "color_code": "White, tan head markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Walgil Question Mark",
+      "sire_reg": "A-796455",
+      "dam_name": "Croglin Charmer",
+      "dam_reg": "A-492279",
+      "breeders": [
+        "Walter D. Gilmore"
+      ],
+      "owners": [
+        "Walter D. Gilmore"
+      ]
+    },
+    {
+      "reg_number": "R32348",
+      "name": "WEE-MAC'S BOMBARDIER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-18-47",
+      "color_code": "White, badger markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Hampton Hill Bomber",
+      "sire_reg": "A-489542",
+      "dam_name": "Wee-Mac's My Gal Sal",
+      "dam_reg": "R-5879",
+      "breeders": [
+        "Wee-Mac Kennels"
+      ],
+      "owners": [
+        "Wee-Mac Kennels"
+      ]
+    },
+    {
+      "reg_number": "R32350",
+      "name": "WEE-MAC'S DREAM GIRL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-18-47",
+      "color_code": "White, badger markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Hampton Hill Bomber",
+      "sire_reg": "A-489542",
+      "dam_name": "Wee-Mac's My Gal Sal",
+      "dam_reg": "R-5879",
+      "breeders": [
+        "Wee-Mac Kennels"
+      ],
+      "owners": [
+        "Wee-Mac Kennels"
+      ]
+    },
+    {
+      "reg_number": "R32349",
+      "name": "WEE-MAC'S MAGNIFICENT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-18-47",
+      "color_code": "White, badger markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Hampton Hill Bomber",
+      "sire_reg": "A-489542",
+      "dam_name": "Wee-Mac's My Gal Sal",
+      "dam_reg": "R-5879",
+      "breeders": [
+        "Wee-Mac Kennels"
+      ],
+      "owners": [
+        "Wee-Mac Kennels"
+      ]
+    },
+    {
+      "reg_number": "R32347",
+      "name": "WEE-MAC'S MAN OF DISTINCTION",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-18-47",
+      "color_code": "White, badger markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Hampton Hill Bomber",
+      "sire_reg": "A-489542",
+      "dam_name": "Wee-Mac's My Gal Sal",
+      "dam_reg": "R-5879",
+      "breeders": [
+        "Wee-Mac Kennels"
+      ],
+      "owners": [
+        "Wee-Mac Kennels"
+      ]
+    },
+    {
+      "reg_number": "R32787",
+      "name": "BONNYLEIGH'S MOON MAID",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-20-47",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Chummie's Fortune of Talisker",
+      "sire_reg": "A-686378",
+      "dam_name": "Bonnyleigh's Nuit Noel",
+      "dam_reg": "A-904617",
+      "breeders": [
+        "Bonnyleigh Kennels"
+      ],
+      "owners": [
+        "Bonnyleigh Kennels"
+      ]
+    },
+    {
+      "reg_number": "R32164",
+      "name": "FIFI LA NATE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-30-47",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Captain Butch of Don Karin",
+      "sire_reg": "R-8087",
+      "dam_name": "Princess Mimi",
+      "dam_reg": "R-12021",
+      "breeders": [
+        "Nathaniel Sanders"
+      ],
+      "owners": [
+        "Barbara J. Carpenter"
+      ]
+    },
+    {
+      "reg_number": "R32165",
+      "name": "GAY VICKIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-30-47",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Captain Butch of Don Karin",
+      "sire_reg": "R-8087",
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R32137",
+      "name": "LADY VICTORY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-18-48",
+      "color_code": "Brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Brunton's Perfect Pal",
+      "sire_reg": "A-705866",
+      "dam_name": "Ace's White Duchess",
+      "dam_reg": "A-750171",
+      "breeders": [
+        "Henry W. Manney"
+      ],
+      "owners": [
+        "Henry W. Manney"
+      ]
+    },
+    {
+      "reg_number": "R32135",
+      "name": "MANNEY'S KING",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-18-48",
+      "color_code": "Buckskin",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Brunton's Perfect Pal",
+      "sire_reg": "A-705866",
+      "dam_name": "Ace's White Duchess",
+      "dam_reg": "A-750171",
+      "breeders": [
+        "Henry W. Manney"
+      ],
+      "owners": [
+        "Henry W. Manney"
+      ]
+    },
+    {
+      "reg_number": "R32760",
+      "name": "RIML'S COPPER FLAME",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-22-45",
+      "color_code": "Fawn, black mask, white marking",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Doyle's Red Shot",
+      "sire_reg": "A-819562",
+      "dam_name": "Doyle's Cricket",
+      "dam_reg": "A-643418",
+      "breeders": [
+        "Joseph G. Riml"
+      ],
+      "owners": [
+        "Charles J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R32136",
+      "name": "SONY BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-18-48",
+      "color_code": "Brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Brunton's Perfect Pal",
+      "sire_reg": "A-705866",
+      "dam_name": "Ace's White Duchess",
+      "dam_reg": "A-750171",
+      "breeders": [
+        "Henry W. Manney"
+      ],
+      "owners": [
+        "Henry W. Manney"
+      ]
+    },
+    {
+      "reg_number": "R31953",
+      "name": "SPIKE OF SHERWALL II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-6-47",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Sandy of Sherwall",
+      "sire_reg": "A-696345",
+      "dam_name": "Helsinki of Sherwall",
+      "dam_reg": "A-562075",
+      "breeders": [
+        "Anthony S. Paxton"
+      ],
+      "owners": [
+        "Sherwall Kennels"
+      ]
+    },
+    {
+      "reg_number": "R32657",
+      "name": "ADMIRAL KIM",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-29-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Kokosing Reckoner",
+      "sire_reg": "A-874756",
+      "dam_name": "Kosing Charlot",
+      "dam_reg": "A-684547",
+      "breeders": [
+        "Wm. M. Holtzclaw"
+      ],
+      "owners": [
+        "C. A. Jackson"
+      ]
+    },
+    {
+      "reg_number": "R32597",
+      "name": "BANNER OF THE GILA RIVER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-23-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Peter Pan's Advent",
+      "sire_reg": "A-402188",
+      "dam_name": "Nice Lady of Ruffcote",
+      "dam_reg": "A-764633",
+      "breeders": [
+        "Andrew W. Hodge"
+      ],
+      "owners": [
+        "Mr. & Mrs. R. L. Scaggs"
+      ]
+    },
+    {
+      "reg_number": "R31813",
+      "name": "BINGO'S SHERRY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-10-46",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Strathglass Bingo's Venture",
+      "sire_reg": "A-587909",
+      "dam_name": "Monona's Myfanwy",
+      "dam_reg": "A-694617",
+      "breeders": [
+        "Vaughn R. Sylvester"
+      ],
+      "owners": [
+        "Mr. & Mrs. Alex V. Boisseau"
+      ]
+    },
+    {
+      "reg_number": "R32195",
+      "name": "BRIDGET OF WINTONBURY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-3-47",
+      "color_code": "Black and brown",
+      "breed": "Welsh Terrier",
+      "sire_name": "Dan-de Boy of Graylin",
+      "sire_reg": "R-18765",
+      "dam_name": "Linda of Harwinton",
+      "dam_reg": "A-919726",
+      "breeders": [
+        "E. F. Smart"
+      ],
+      "owners": [
+        "Mildred R. & Donald K. Bentley"
+      ]
+    },
+    {
+      "reg_number": "R32281",
+      "name": "CADDO REBEL GIRL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-22-46",
+      "color_code": "Rust and bl",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Right Robin of Well...",
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R36269",
+      "name": "CHAMPER BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-24-47",
+      "color_code": "Fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Black Duke II",
+      "sire_reg": "R18688",
+      "dam_name": "Springville Patsy",
+      "dam_reg": "R18690",
+      "breeders": [
+        "Gerald J. Blankenberg"
+      ],
+      "owners": [
+        "Mrs. Ralph Schweickert"
+      ]
+    },
+    {
+      "reg_number": "R36881",
+      "name": "DEBORAH WRIGHT",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-4-47",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Black Duke II",
+      "sire_reg": "R18688",
+      "dam_name": "Dixie de Navarro",
+      "dam_reg": "R14045",
+      "breeders": [
+        "Jessie Louise Wright"
+      ],
+      "owners": [
+        "Jarrell Garonzik"
+      ]
+    },
+    {
+      "reg_number": "R36274",
+      "name": "EXPERT BUSTER DUKE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-8-48",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Bozo Expert O'Neil",
+      "sire_reg": "R14332",
+      "dam_name": "X'pert Brindle Vixon",
+      "dam_reg": "R22791",
+      "breeders": [
+        "Mrs. Robert J. Lassiter"
+      ],
+      "owners": [
+        "Byron P. Richardson"
+      ]
+    },
+    {
+      "reg_number": "R36875",
+      "name": "GALATEA OF SHERWALL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-28-47",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Sandy of Sherwall",
+      "sire_reg": "A696395",
+      "dam_name": "Tanya of Sherwall",
+      "dam_reg": "A696394",
+      "breeders": [
+        "Sherwall Kennels"
+      ],
+      "owners": [
+        "Sherwall Kennels"
+      ]
+    },
+    {
+      "reg_number": "R35782",
+      "name": "GEIMER'S JIGGS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-15-47",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Lamb's Whisker's",
+      "sire_reg": "A747554",
+      "dam_name": "Fuller's Maggie McGee",
+      "dam_reg": "R3296",
+      "breeders": [
+        "Henry J. Geimer"
+      ],
+      "owners": [
+        "Charles R. Fuller"
+      ]
+    },
+    {
+      "reg_number": "R35780",
+      "name": "JOSEPH OF RESTIGOUCHE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-24-47",
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Black Duke II",
+      "sire_reg": "R18688",
+      "dam_name": "Springville Patsy",
+      "dam_reg": "R18690",
+      "breeders": [
+        "D. W. Currie"
+      ],
+      "owners": [
+        "Mrs. Ralph Schweickert"
+      ]
+    },
+    {
+      "reg_number": "R36873",
+      "name": "LADY OF SHERWALL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-28-47",
+      "color_code": "Fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Sandy of Sherwall",
+      "sire_reg": "A696395",
+      "dam_name": "Tanya of Sherwall",
+      "dam_reg": "A696394",
+      "breeders": [
+        "Sherwall Kennels"
+      ],
+      "owners": [
+        "Sherwall Kennels"
+      ]
+    },
+    {
+      "reg_number": "R36323",
+      "name": "POLLARD'S FAWN ROSE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-13-47",
+      "color_code": "Fawn, white feet",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Sansonetti's Yankee",
+      "sire_reg": "R29301",
+      "dam_name": "Sansonetti's Dark Hazard",
+      "dam_reg": "A20914",
+      "breeders": [
+        "Amos H. Pollard"
+      ],
+      "owners": [
+        "Wm. J. Sonsonetti"
+      ]
+    },
+    {
+      "reg_number": "R35672",
+      "name": "REX",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-13-47",
+      "color_code": "Brindle, white marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Sansonetti's Yankee",
+      "sire_reg": "R29301",
+      "dam_name": "Sansonetti's Dark Hazard",
+      "dam_reg": "R20914",
+      "breeders": [
+        "Joseph F. Wojciechowski"
+      ],
+      "owners": [
+        "Wm. J. Sansonetti"
+      ]
+    },
+    {
+      "reg_number": "R36038",
+      "name": "SLUGGER CASEY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-30-47",
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Babe's Lone Survivor",
+      "sire_reg": "A426121",
+      "dam_name": "LoBo's Babe",
+      "dam_reg": "A580389",
+      "breeders": [
+        "Casey Whitney"
+      ],
+      "owners": [
+        "Mrs. A. Casey Whitney"
+      ]
+    },
+    {
+      "reg_number": "R36668",
+      "name": "STELLA'S BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-20-47",
+      "color_code": "Red and white, dark muzzle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Corvino's Heiny",
+      "sire_reg": "R27945",
+      "dam_name": "Corvino's Biddie",
+      "dam_reg": "A656067",
+      "breeders": [
+        "Peter J. Stella"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R36870",
+      "name": "TAFFY OF SHERWALL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-22-46",
+      "color_code": "Light fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Sandy of Sherwall",
+      "sire_reg": "A696395",
+      "dam_name": "Ch. Patrice of Sherwall",
+      "dam_reg": "A252555",
+      "breeders": [
+        "Sherwall Kennels"
+      ],
+      "owners": [
+        "Sherwall Kennels"
+      ]
+    },
+    {
+      "reg_number": "R36053",
+      "name": "TAWNY II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-24-47",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Leonard's Creepy Boy",
+      "sire_reg": "A31635",
+      "dam_name": "Leonard's Black Flame",
+      "dam_reg": "R31636",
+      "breeders": [
+        "Mrs. L. M. Beck"
+      ],
+      "owners": [
+        "Patrick E. Leonard"
+      ]
+    },
+    {
+      "reg_number": "R36122",
+      "name": "TERRY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-13-47",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Sansonetti's Yankee",
+      "sire_reg": "R29301",
+      "dam_name": "Sansonetti's Dark Hazard",
+      "dam_reg": "R20914",
+      "breeders": [
+        "Arthur A. La Tour"
+      ],
+      "owners": [
+        "Wm. J. Sonsonetti"
+      ]
+    },
+    {
+      "reg_number": "R36578",
+      "name": "ALTUNA OF GRAYLOCK",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-26-47",
+      "color_code": "Black and brown",
+      "breed": "Welsh Terrier",
+      "sire_name": "Brewster Boy of Graylock",
+      "sire_reg": "A695759",
+      "dam_name": "Harribit of Graylock",
+      "dam_reg": "A692275",
+      "breeders": [
+        "Ella C. Grady"
+      ],
+      "owners": [
+        "Ella C. Grady",
+        "Lester C. Grady"
+      ]
+    },
+    {
+      "reg_number": "R36110",
+      "name": "BARCAROLLE BETTER BEA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-10-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Kokosing Reckoner",
+      "sire_reg": "A874756",
+      "dam_name": "Kokosing Super",
+      "dam_reg": "A684551",
+      "breeders": [
+        "Philip H. Coons",
+        "Harry M. Coons"
+      ],
+      "owners": [
+        "C. R. Jackson"
+      ]
+    },
+    {
+      "reg_number": "R36418",
+      "name": "BARON BONZO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-12-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Marlu Magnificent Again",
+      "sire_reg": "A879246",
+      "dam_name": "Galen Clipperette",
+      "dam_reg": "R9209",
+      "breeders": [
+        "J. R. Williams"
+      ],
+      "owners": [
+        "W. F. Paulish"
+      ]
+    },
+    {
+      "reg_number": "R36865",
+      "name": "BIT OF WELSH",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-5-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Strathglass Bingo's Venture",
+      "sire_reg": "A587909",
+      "dam_name": "Jean of Pembroke",
+      "dam_reg": "A697286",
+      "breeders": [
+        "John Kelly"
+      ],
+      "owners": [
+        "Patrick McGarry"
+      ]
+    },
+    {
+      "reg_number": "R36893",
+      "name": "BITSY OF GLAMORGAN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-2-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Windermere Bitsy",
+      "sire_reg": "A769851",
+      "dam_name": "Penny of Glamorgan",
+      "dam_reg": "R23014",
+      "breeders": [
+        "Joseph H. McFarland"
+      ],
+      "owners": [
+        "John W. Collins"
+      ]
+    },
+    {
+      "reg_number": "R36793",
+      "name": "BOGHEID ZOMBIE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-24-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Twin Ponds Black-Out",
+      "sire_reg": "A911085",
+      "dam_name": "Raybrook's Steppin Jayne",
+      "dam_reg": "A688438",
+      "breeders": [
+        "Helen Porter Pryibil"
+      ],
+      "owners": [
+        "Twin Ponds Kennels"
+      ]
+    }
+  ]
+}

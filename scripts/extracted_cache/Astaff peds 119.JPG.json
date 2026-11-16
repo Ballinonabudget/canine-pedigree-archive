@@ -1,0 +1,158 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "1948",
+  "dogs": [
+    {
+      "reg_number": "R41700",
+      "name": "ABBYAR OF SHERWALL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-6-47",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Sandy of Sherwall",
+      "sire_reg": "A-696395",
+      "dam_name": "Helsinki of Sherwall",
+      "dam_reg": "A-562075",
+      "breeders": [
+        "Sherwall Kennels"
+      ],
+      "owners": [
+        "Sherwall Kennels"
+      ]
+    },
+    {
+      "reg_number": "R40861",
+      "name": "BUFFALO MOLLY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-9-45",
+      "color_code": "Tan brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Red Rascal",
+      "sire_reg": "A-853967",
+      "dam_name": "Boots",
+      "dam_reg": "A-853966",
+      "breeders": [
+        "William J. Houfley"
+      ],
+      "owners": [
+        "Mrs. Ralph E. Schweickert"
+      ]
+    },
+    {
+      "reg_number": "R41706",
+      "name": "CORVINO'S BOMBER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-19-47",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Black Prince",
+      "sire_reg": "A-613642",
+      "dam_name": "Corvino's Beauty",
+      "dam_reg": "A-613640",
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R41707",
+      "name": "CORVINO'S LUSTER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-19-47",
+      "color_code": "Gray",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Black Prince",
+      "sire_reg": "A-613642",
+      "dam_name": "Corvino's Beauty",
+      "dam_reg": "A-613640",
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R41708",
+      "name": "CORVINO'S PECK",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-19-47",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Black Prince",
+      "sire_reg": "A-613642",
+      "dam_name": "Corvino's Beauty",
+      "dam_reg": "A-613640",
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R40928",
+      "name": "KING GUARD BRINDLE BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-22-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Top-O-Mich Boston Tar Baby",
+      "sire_reg": "R-6225",
+      "dam_name": "X-Pert Duchess II",
+      "dam_reg": "R-603",
+      "breeders": [
+        "John Zipay"
+      ],
+      "owners": [
+        "Lloyd M. Gibbons"
+      ]
+    },
+    {
+      "reg_number": "R41384",
+      "name": "SALLY K",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-8-48",
+      "color_code": "Light brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Bozo Expert O'Neil",
+      "sire_reg": "R-14332",
+      "dam_name": "X-Pert Brindle Vixon",
+      "dam_reg": "R-22791",
+      "breeders": [
+        "Lehron Ard"
+      ],
+      "owners": [
+        "Byron P. Richardson"
+      ]
+    },
+    {
+      "reg_number": "R41191",
+      "name": "TOPSY'S GHOST",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-2-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R-6446",
+      "dam_name": "X-Pert Kentucky Kate",
+      "dam_reg": "R-23661",
+      "breeders": [
+        "Carroll A. Roll"
+      ],
+      "owners": [
+        "Clifford A. Ormsby"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "UNKNOWN",
+      "name": "William Crusader",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-8-85",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH. R+D Rosco Bear",
+      "sire_reg": "RA591700",
+      "dam_name": "Atta Girl Salpiglossis",
+      "dam_reg": "RA887289",
+      "breeders": [
+        "Reginald Evans"
+      ],
+      "owners": [
+        "Michael Jean"
+      ]
+    },
+    {
+      "reg_number": "UNKNOWN",
+      "name": "CH R&D Miss Bold Buffy",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Hyde's Tiger Tiger",
+      "sire_reg": null,
+      "dam_name": "Tex-Rock Ms. Blue",
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Michael Jean"
+      ]
+    }
+  ]
+}

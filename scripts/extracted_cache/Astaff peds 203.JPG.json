@@ -1,0 +1,45 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "UNKNOWN",
+      "name": "CH X-PERT MINOLA OF SLIGO",
+      "titles": "CH",
+      "sex": "U",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH X-Pert Sligo's King Kong",
+      "sire_reg": null,
+      "dam_name": "CH X-Pert Zelda Mae",
+      "dam_reg": null,
+      "breeders": [
+        "Daniel E. Luther",
+        "A. D. Amisano"
+      ],
+      "owners": [
+        "Ray & Deb Wilson"
+      ]
+    },
+    {
+      "reg_number": "UNKNOWN",
+      "name": "CH SOLDAT'S SANDAHL OF CAR-MEL",
+      "titles": "CH",
+      "sex": "U",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH Roll's Watchem",
+      "sire_reg": null,
+      "dam_name": "CH Car-Mel's Chicky of Fraja CD",
+      "dam_reg": null,
+      "breeders": [
+        "Patricia J. Leidy"
+      ],
+      "owners": [
+        "Lonnie R. Carroll, Jr."
+      ]
+    }
+  ]
+}

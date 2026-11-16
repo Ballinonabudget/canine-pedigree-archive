@@ -1,0 +1,42 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "UNKNOWN",
+      "name": "UNKNOWN",
+      "titles": null,
+      "sex": "U",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Sertoma's Sun Devil",
+      "sire_reg": null,
+      "dam_name": "CH X-Pert Miss Ellie",
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Julie A. Sandson"
+      ]
+    },
+    {
+      "reg_number": "UNKNOWN",
+      "name": "CH INDIAN RAID'S ANIMAL, C.D., T.T.",
+      "titles": "CH, C.D., T.T.",
+      "sex": "D",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Indian Raid's Snoppy McGoo",
+      "sire_reg": null,
+      "dam_name": "Indian Raid's Kiss My Grits",
+      "dam_reg": null,
+      "breeders": [
+        "Richard Castellane"
+      ],
+      "owners": [
+        "Jeannette R. Durand"
+      ]
+    }
+  ]
+}

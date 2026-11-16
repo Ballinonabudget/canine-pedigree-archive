@@ -1,0 +1,405 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R28528",
+      "name": "AUSTIN'S LITTLE CHIP",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-16-47",
+      "color_code": "Light fawn, black markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Mister Chips C.D.X.",
+      "sire_reg": "A503601",
+      "dam_name": "Harris' Reina de Chatsworth",
+      "dam_reg": "R1263",
+      "breeders": [
+        "Mr. & Mrs. Louie Vogt"
+      ],
+      "owners": [
+        "Boyd E. Chambers"
+      ]
+    },
+    {
+      "reg_number": "R28529",
+      "name": "AUSTIN'S MR. TREASURE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-16-47",
+      "color_code": "Red fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Mister Chips C.D.X.",
+      "sire_reg": "A503601",
+      "dam_name": "Harris' Reina de Chatsworth",
+      "dam_reg": "R1263",
+      "breeders": [
+        "Aldon Avery Shepherd"
+      ],
+      "owners": [
+        "Boyd E. Chambers"
+      ]
+    },
+    {
+      "reg_number": "R28530",
+      "name": "AUSTIN'S OUT CAST",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-16-47",
+      "color_code": "Silver, black markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Mister Chips C.D.X.",
+      "sire_reg": "A503601",
+      "dam_name": "Harris' Reina de Chatsworth",
+      "dam_reg": "R1263",
+      "breeders": [
+        "Boyd E. Chambers"
+      ],
+      "owners": [
+        "Boyd E. Chambers"
+      ]
+    },
+    {
+      "reg_number": "R28166",
+      "name": "BALDY BILL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-15-47",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Lamb's Whiskers",
+      "sire_reg": "A747554",
+      "dam_name": "Fuller's Maggie McGee",
+      "dam_reg": "R3296",
+      "breeders": [
+        "Frank Mathewson"
+      ],
+      "owners": [
+        "Charles R. Fuller"
+      ]
+    },
+    {
+      "reg_number": "R28201",
+      "name": "BRADBROOK'S SAILOR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-1-47",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Corvino's Iron Will",
+      "sire_reg": "A759791",
+      "dam_name": "Corvino's Biddie",
+      "dam_reg": "A656067",
+      "breeders": [
+        "Kelso Bradbrook"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R28742",
+      "name": "BRINDLE CINDY OF ED-MAR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-31-47",
+      "color_code": "Brindle, white chest",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Martin's Tramp",
+      "sire_reg": "A358272",
+      "dam_name": "Golden Patricia of Ed Mar",
+      "dam_reg": "R8175",
+      "breeders": [
+        "Ed-Mar Kennels"
+      ],
+      "owners": [
+        "Ed-Mar Kennels"
+      ]
+    },
+    {
+      "reg_number": "R27956",
+      "name": "CORVINO'S GOODWILL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-24-45",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Hadley's Muggins",
+      "sire_reg": "A637461",
+      "dam_name": "Corvino's Judy",
+      "dam_reg": "A656070",
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R27945",
+      "name": "CORVINO'S HEINY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-20-46",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Corvino's Iron Will",
+      "sire_reg": "A759791",
+      "dam_name": "Bonnie",
+      "dam_reg": "A527563",
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R27954",
+      "name": "CORVINO'S JOKER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-24-45",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Hadley's Muggins",
+      "sire_reg": "A637461",
+      "dam_name": "Corvino's Judy",
+      "dam_reg": "A656070",
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R27955",
+      "name": "CORVINO'S LA VIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-24-45",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Hadley's Muggins",
+      "sire_reg": "A637461",
+      "dam_name": "Corvino's Judy",
+      "dam_reg": "A656070",
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R28548",
+      "name": "CORVINO'S RAYOR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-19-47",
+      "color_code": "Red",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Black Prince",
+      "sire_reg": "A613642",
+      "dam_name": "Corvino's Beauty",
+      "dam_reg": "A613640",
+      "breeders": [
+        "Thomas John Gundry"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R27957",
+      "name": "CORVINO'S SPARETIME",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-24-45",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Hadley's Muggins",
+      "sire_reg": "A637461",
+      "dam_name": "Corvino's Judy",
+      "dam_reg": "A656070",
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R27925",
+      "name": "CORVINO'S TWANG",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-20-46",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Corvino's Iron Will",
+      "sire_reg": "A759791",
+      "dam_name": "Bonnie",
+      "dam_reg": "A527563",
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R28739",
+      "name": "DUGAN OF ED-MAR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-31-47",
+      "color_code": "Brindle, white chest",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Martin's Tramp",
+      "sire_reg": "A358272",
+      "dam_name": "Golden Patricia of Ed Mar",
+      "dam_reg": "R8175",
+      "breeders": [
+        "Ed Mar Kennels"
+      ],
+      "owners": [
+        "Ed Mar Kennels"
+      ]
+    },
+    {
+      "reg_number": "R29114",
+      "name": "DUKE II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-15-47",
+      "color_code": "Buff and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Lamb's Whiskers",
+      "sire_reg": "A747554",
+      "dam_name": "Fuller's Maggie McGee",
+      "dam_reg": "R3296",
+      "breeders": [
+        "Mrs. Ida French"
+      ],
+      "owners": [
+        "Charles R. Fuller"
+      ]
+    },
+    {
+      "reg_number": "R28712",
+      "name": "GOLDEN BULLET",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-4-46",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Joe Murphy of H. Q.",
+      "sire_reg": "A652692",
+      "dam_name": "Saucy Sally of H. Q.",
+      "dam_reg": "A852422",
+      "breeders": [
+        "Guy Harlan Pilj"
+      ],
+      "owners": [
+        "Henry O. Houtrow"
+      ]
+    },
+    {
+      "reg_number": "R29252",
+      "name": "HARRIS' BOSCO DE CHATSWORTH",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-22-47",
+      "color_code": "Fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Duke of Felton",
+      "sire_reg": "A407102",
+      "dam_name": "Carmelita de Chatsworth",
+      "dam_reg": "A909092",
+      "breeders": [
+        "Ray E. & Ina E. Shafer Harris"
+      ],
+      "owners": [
+        "Ray E. & Ina E. Shafer Harris"
+      ]
+    },
+    {
+      "reg_number": "R29256",
+      "name": "HARRIS' CHATA DE CHATSWORTH",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-22-47",
+      "color_code": "Fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Duke of Felton",
+      "sire_reg": "A407102",
+      "dam_name": "Carmelita de Chatsworth",
+      "dam_reg": "A909092",
+      "breeders": [
+        "Ray E. & Ina E. Shafer Harris"
+      ],
+      "owners": [
+        "Ray E. & Ina E. Shafer Harris"
+      ]
+    },
+    {
+      "reg_number": "R29253",
+      "name": "HARRIS' DULCE DE CHATSWORTH",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-22-47",
+      "color_code": "Fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Duke of Felton",
+      "sire_reg": "A407102",
+      "dam_name": "Carmelita de Chatsworth",
+      "dam_reg": "A909092",
+      "breeders": [
+        "Mr. & Mrs. Richardson Hewitt"
+      ],
+      "owners": [
+        "Ray E. & Ina E. Shafer Harris"
+      ]
+    },
+    {
+      "reg_number": "R29255",
+      "name": "HARRIS' JUANITA DE CHATSWORTH",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-22-47",
+      "color_code": "Fawn, black mask",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Duke of Felton",
+      "sire_reg": "A407102",
+      "dam_name": "Carmelita de Chatsworth",
+      "dam_reg": "A909092",
+      "breeders": [
+        "Ray E. & Ina E. Shafer Harris"
+      ],
+      "owners": [
+        "Ray E. & Ina E. Shafer Harris"
+      ]
+    },
+    {
+      "reg_number": "R29254",
+      "name": "HARRIS' LOMA DE CHATSWORTH",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-22-47",
+      "color_code": "Fawn, black mask",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Duke of Felton",
+      "sire_reg": "A407102",
+      "dam_name": "Carmelita de Chatsworth",
+      "dam_reg": "A909092",
+      "breeders": [
+        "Mr. & Mrs. Richardson Hewitt"
+      ],
+      "owners": [
+        "Ray E. & Ina E. Shafer Harris"
+      ]
+    }
+  ]
+}

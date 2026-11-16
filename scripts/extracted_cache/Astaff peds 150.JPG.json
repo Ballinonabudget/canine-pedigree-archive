@@ -1,0 +1,870 @@
+{
+  "breed": "Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R58878",
+      "name": "NI OF KAMEHAMEHA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-9-49",
+      "color_code": "White",
+      "breed": "Bull Terrier",
+      "sire_name": "Kent's Confucious",
+      "sire_reg": "R25535",
+      "dam_name": "Gussie of Kamehameha",
+      "dam_reg": "R51733",
+      "breeders": [
+        "Samuel A. Stayton"
+      ],
+      "owners": [
+        "Mr. & Mrs. Norval A. Friese"
+      ]
+    },
+    {
+      "reg_number": "R59010",
+      "name": "NDY OF BERKELEY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-16-49",
+      "color_code": "White, black on ear",
+      "breed": "Bull Terrier",
+      "sire_name": "Felbourne Flying Ace",
+      "sire_reg": "A773046",
+      "dam_name": "Queen of Hearts",
+      "dam_reg": "R117",
+      "breeders": [
+        "Charles M. Wilcox",
+        "Elvira M. Wilcox"
+      ],
+      "owners": [
+        "Charles M. Wilcox",
+        "Elvira M. Wilcox"
+      ]
+    },
+    {
+      "reg_number": "R59011",
+      "name": "BIN OF BERKELEY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-16-49",
+      "color_code": "White, black head marking",
+      "breed": "Bull Terrier",
+      "sire_name": "Felbourne Flying Ace",
+      "sire_reg": "A773046",
+      "dam_name": "Queen of Hearts",
+      "dam_reg": "R117",
+      "breeders": [
+        "Charles M. Wilcox",
+        "Elvira M. Wilcox"
+      ],
+      "owners": [
+        "Charles M. Wilcox",
+        "Elvira M. Wilcox"
+      ]
+    },
+    {
+      "reg_number": "R60061",
+      "name": "S PETITE FOLLIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-2-49",
+      "color_code": "White, tan on eye",
+      "breed": "Bull Terrier",
+      "sire_name": "Ch. Rinklestone Radar",
+      "sire_reg": "A883223",
+      "dam_name": "Bubbles",
+      "dam_reg": "R11633",
+      "breeders": [
+        "Mrs. Betty R. Kinsey"
+      ],
+      "owners": [
+        "Mrs. Violette M. Welsh"
+      ]
+    },
+    {
+      "reg_number": "R59999",
+      "name": "UZZBUTTON'S PRIDE AND JOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-7-48",
+      "color_code": "White, tan head marking",
+      "breed": "Bull Terrier",
+      "sire_name": "Rhapsody's Retort of Walgil",
+      "sire_reg": "R29165",
+      "dam_name": "Lady Fuzzbutton of Oharsee",
+      "dam_reg": "R32288",
+      "breeders": [
+        "Wesley C. Diesing"
+      ],
+      "owners": [
+        "Roy W. Seebeck"
+      ]
+    },
+    {
+      "reg_number": "R58858",
+      "name": "CTORIA SERENE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-18-48",
+      "color_code": "White, badger on eye",
+      "breed": "Bull Terrier",
+      "sire_name": "Etherden's Martin",
+      "sire_reg": "A879237",
+      "dam_name": "Peggy Etherden Serene",
+      "dam_reg": "A883792",
+      "breeders": [
+        "Marjorie Goldberg"
+      ],
+      "owners": [
+        "Toini A. Walden"
+      ]
+    },
+    {
+      "reg_number": "R58786",
+      "name": "ON'S BEAU BRASH",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-1-49",
+      "color_code": "White",
+      "breed": "Bull Terrier",
+      "sire_name": "Ch. Etherden's Shindy Serene",
+      "sire_reg": "A813787",
+      "dam_name": "Wee-Mac's Delight",
+      "dam_reg": "R22461",
+      "breeders": [
+        "Sharon Kay Spangler"
+      ],
+      "owners": [
+        "Richard Herschleder"
+      ]
+    },
+    {
+      "reg_number": "R59829",
+      "name": "LADY CINDY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-24-49",
+      "color_code": "White, black on eye",
+      "breed": "Bull Terrier",
+      "sire_name": "Overhill Anthony",
+      "sire_reg": "R8869",
+      "dam_name": "Overhill Oh Dear III",
+      "dam_reg": "R30007",
+      "breeders": [
+        "Frank V. Schriner"
+      ],
+      "owners": [
+        "Mose T. Craven"
+      ]
+    },
+    {
+      "reg_number": "R59757",
+      "name": "ET LLEWELLYN BUSYBODY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-9-49",
+      "color_code": "White",
+      "breed": "Bull Terrier",
+      "sire_name": "Blackpool Boysy",
+      "sire_reg": "A605920",
+      "dam_name": "Llewellyn Fashion Queen",
+      "dam_reg": "R20710",
+      "breeders": [
+        "Albert B. Marks"
+      ],
+      "owners": [
+        "Lloyd G. Hanley"
+      ]
+    },
+    {
+      "reg_number": "R59984",
+      "name": "L MAY FLOWER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-13-48",
+      "color_code": "White, badger markings",
+      "breed": "Bull Terrier",
+      "sire_name": "Welsh's Windy Weather",
+      "sire_reg": null,
+      "dam_name": "Bergman's Susann",
+      "dam_reg": "A731237",
+      "breeders": [
+        "Mrs. Guilford H. Priesmeyer"
+      ],
+      "owners": [
+        "Mrs. C. A. Bergman"
+      ]
+    },
+    {
+      "reg_number": "R59012",
+      "name": "SS BONNIE OF BERKELEY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-16-49",
+      "color_code": "White, black markings",
+      "breed": "Bull Terrier",
+      "sire_name": "Felbourne Flying Ace",
+      "sire_reg": "A773046",
+      "dam_name": "Queen of Hearts",
+      "dam_reg": "R117",
+      "breeders": [
+        "Charles M. Wilcox",
+        "Elvira M. Wilcox"
+      ],
+      "owners": [
+        "Charles M. Wilcox",
+        "Elvira M. Wilcox"
+      ]
+    },
+    {
+      "reg_number": "R59013",
+      "name": "S WENDY OF BERKELEY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-16-49",
+      "color_code": "White, black head markings",
+      "breed": "Bull Terrier",
+      "sire_name": "Felbourne Flying Ace",
+      "sire_reg": "A773046",
+      "dam_name": "Queen of Hearts",
+      "dam_reg": "R117",
+      "breeders": [
+        "Charles M. Wilcox",
+        "Elvira M. Wilcox"
+      ],
+      "owners": [
+        "Charles M. Wilcox",
+        "Elvira M. Wilcox"
+      ]
+    },
+    {
+      "reg_number": "R59112",
+      "name": "UNKNOWN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-2-49",
+      "color_code": "White, badger head markings",
+      "breed": "Bull Terrier",
+      "sire_name": "Rhapsody's Retort of Walgil",
+      "sire_reg": "R29165",
+      "dam_name": "Leto",
+      "dam_reg": "A904430",
+      "breeders": [
+        "Mrs. H. S. Shaffer, Jr."
+      ],
+      "owners": [
+        "Ethel M. Brown"
+      ]
+    },
+    {
+      "reg_number": "R59004",
+      "name": "CR'S CHUM",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-22-49",
+      "color_code": "White, badger on eye",
+      "breed": "Bull Terrier",
+      "sire_name": "Walgil Grit",
+      "sire_reg": "A981785",
+      "dam_name": "Shenden Sorceress (Eng.)",
+      "dam_reg": "R40753",
+      "breeders": [
+        "Thomas H. Wason"
+      ],
+      "owners": [
+        "Thomas H. Wason"
+      ]
+    },
+    {
+      "reg_number": "R59006",
+      "name": "CR'S JINGLE BELL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-22-49",
+      "color_code": "White, badger on eye",
+      "breed": "Bull Terrier",
+      "sire_name": "Walgil Grit",
+      "sire_reg": "A981785",
+      "dam_name": "Shenden Sorceress (Eng.)",
+      "dam_reg": "R40753",
+      "breeders": [
+        "Thomas H. Wason"
+      ],
+      "owners": [
+        "Thomas H. Wason"
+      ]
+    },
+    {
+      "reg_number": "R59005",
+      "name": "CR'S STORMY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-22-49",
+      "color_code": "White, badger on eye",
+      "breed": "Bull Terrier",
+      "sire_name": "Walgil Grit",
+      "sire_reg": "A981785",
+      "dam_name": "Shenden Sorceress (Eng.)",
+      "dam_reg": "R40753",
+      "breeders": [
+        "Thomas H. Wason"
+      ],
+      "owners": [
+        "Thomas H. Wason"
+      ]
+    },
+    {
+      "reg_number": "R58784",
+      "name": "S DELIGHT",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-1-49",
+      "color_code": "White, badger head markings",
+      "breed": "Bull Terrier",
+      "sire_name": "Ch. Etherden's Shindy Serene",
+      "sire_reg": "A813787",
+      "dam_name": "Wee-Mac's Delight",
+      "dam_reg": "R22461",
+      "breeders": [
+        "Richard Herschleder"
+      ],
+      "owners": [
+        "Richard Herschleder"
+      ]
+    },
+    {
+      "reg_number": "R58920",
+      "name": "IAS Q MAC INTOSH",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-1-48",
+      "color_code": "White, black head markings",
+      "breed": "Bull Terrier",
+      "sire_name": "Rhapsody's Retort of Walgil",
+      "sire_reg": "R29165",
+      "dam_name": "Tillie the Toiler",
+      "dam_reg": "R22449",
+      "breeders": [
+        "Frances A. Ebel"
+      ],
+      "owners": [
+        "Ethel M. Brown"
+      ]
+    },
+    {
+      "reg_number": "R59635",
+      "name": "PRETTY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-29-48",
+      "color_code": "White, badger head markings",
+      "breed": "Bull Terrier",
+      "sire_name": "Reklaw Ickie",
+      "sire_reg": "R17019",
+      "dam_name": "Diana",
+      "dam_reg": "A779853",
+      "breeders": [
+        "Mr. & Mrs. Hamilton Harlow"
+      ],
+      "owners": [
+        "Annie W. Govone"
+      ]
+    },
+    {
+      "reg_number": "R59474",
+      "name": "CKET",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-8-49",
+      "color_code": "White, black marking",
+      "breed": "Bull Terrier",
+      "sire_name": "Overhill Sky Pilot",
+      "sire_reg": "R154",
+      "dam_name": "Cannonball Maggie",
+      "dam_reg": null,
+      "breeders": [
+        "Keith Russell, Jr."
+      ],
+      "owners": [
+        "C. D. Richardson"
+      ]
+    },
+    {
+      "reg_number": "R59685",
+      "name": "REA'S AIR MARSHALL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-25-49",
+      "color_code": "White",
+      "breed": "Bull Terrier",
+      "sire_name": "Ch. Van Winkle Voyager",
+      "sire_reg": "R11187",
+      "dam_name": "Lana Magnificent",
+      "dam_reg": "R23182",
+      "breeders": [
+        "Ivin M. Wise",
+        "Paula E. Wise"
+      ],
+      "owners": [
+        "Marguerite C. Beiser"
+      ]
+    },
+    {
+      "reg_number": "R59998",
+      "name": "ZZBUTTON OF OHARSEE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-7-48",
+      "color_code": "White, badger on eye",
+      "breed": "Bull Terrier",
+      "sire_name": "Rhapsody's Retort of Walgil",
+      "sire_reg": "R29165",
+      "dam_name": "Lady Fuzzbutton of Oharsee",
+      "dam_reg": "R32288",
+      "breeders": [
+        "Olive Harmon Seebeck"
+      ],
+      "owners": [
+        "Roy W. Seebeck"
+      ]
+    },
+    {
+      "reg_number": "R59826",
+      "name": "MICHAEL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-24-49",
+      "color_code": "White, brown on eye",
+      "breed": "Bull Terrier",
+      "sire_name": "Overhill Anthony",
+      "sire_reg": "R8869",
+      "dam_name": "Overhill Oh Dear II",
+      "dam_reg": "R30007",
+      "breeders": [
+        "Mose T. Craven"
+      ],
+      "owners": [
+        "Mose T. Craven"
+      ]
+    },
+    {
+      "reg_number": "R58924",
+      "name": "ND BLARNEY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-26-49",
+      "color_code": "White, black markings",
+      "breed": "Bull Terrier",
+      "sire_name": "Swergl Boy",
+      "sire_reg": "R38341",
+      "dam_name": "Woodland",
+      "dam_reg": "A811949",
+      "breeders": [
+        "Mrs. Maurine Harmon"
+      ],
+      "owners": [
+        "Mrs. John F. Evans"
+      ]
+    },
+    {
+      "reg_number": "R60023",
+      "name": "IANN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-23-49",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Young Joe Braddock",
+      "sire_reg": "A533880",
+      "dam_name": "Corvino's Flame",
+      "dam_reg": "R27957",
+      "breeders": [
+        "Arnold D. Downs, Jr."
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R59362",
+      "name": "NK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-11-49",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farris' Dandy",
+      "sire_reg": "R33388",
+      "dam_name": "Steeles Memory",
+      "dam_reg": "R13540",
+      "breeders": [
+        "Sam W. Farris"
+      ],
+      "owners": [
+        "Sam W. Farris"
+      ]
+    },
+    {
+      "reg_number": "R59363",
+      "name": "UNKNOWN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-11-49",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farris' Dandy",
+      "sire_reg": "R33388",
+      "dam_name": "Steeles Memory",
+      "dam_reg": "R13540",
+      "breeders": [
+        "Sam W. Farris"
+      ],
+      "owners": [
+        "Sam W. Farris"
+      ]
+    },
+    {
+      "reg_number": "R59629",
+      "name": "S TACOMA TOBY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-30-47",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dandy",
+      "sire_reg": null,
+      "dam_name": "Top-O-Mich Brown Betty",
+      "dam_reg": "R6226",
+      "breeders": [
+        "Wm. H. Boxell"
+      ],
+      "owners": [
+        "Wm. H. Boxell"
+      ]
+    },
+    {
+      "reg_number": "R59031",
+      "name": "TY JANE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-29-49",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Walkaway",
+      "sire_reg": "A638596",
+      "dam_name": "Bonnie Pepper Duster",
+      "dam_reg": "R23102",
+      "breeders": [
+        "R. F. McCreary"
+      ],
+      "owners": [
+        "William M. Whitaker"
+      ]
+    },
+    {
+      "reg_number": "R59799",
+      "name": "BALDY II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-27-47",
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Edward's Pancho Villa",
+      "sire_reg": "A247019",
+      "dam_name": "Bonita",
+      "dam_reg": "A321803",
+      "breeders": [
+        "Marvin L. Hartshorn"
+      ],
+      "owners": [
+        "Mrs. L. L. Wakefield"
+      ]
+    },
+    {
+      "reg_number": "R58837",
+      "name": "ODIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-13-49",
+      "color_code": "Fawn and black",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Pat Murphy of H.Q.",
+      "sire_reg": "A639020",
+      "dam_name": "Ch. Chita",
+      "dam_reg": null,
+      "breeders": [
+        "Mrs. James A. Tyrer"
+      ],
+      "owners": [
+        "Mrs. L. L. Wakefield"
+      ]
+    },
+    {
+      "reg_number": "R60130",
+      "name": "M BASS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-15-49",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Williams Paddy Boy",
+      "sire_reg": "A840803",
+      "dam_name": "Hopper's Taffy Tan",
+      "dam_reg": "R19567",
+      "breeders": [
+        "Catherine Emily Pattridge"
+      ],
+      "owners": [
+        "Eugene H. Hopper"
+      ]
+    },
+    {
+      "reg_number": "R59503",
+      "name": "PATSY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-25-39",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Corvino's Jerry",
+      "sire_reg": null,
+      "dam_name": "Corvino's Dollie",
+      "dam_reg": null,
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R58997",
+      "name": "T STORMY OF HAR-WYN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-10-49",
+      "color_code": "Golden brindle, white chest",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Pugnacious de Harper",
+      "sire_reg": "R28725",
+      "dam_name": "Ruggian Mischief Maker",
+      "dam_reg": "A727557",
+      "breeders": [
+        "Edwin C. Ringold"
+      ],
+      "owners": [
+        "Mrs. W. D. Peggy Harper"
+      ]
+    },
+    {
+      "reg_number": "R59504",
+      "name": "KI'S GENTLEMAN JIM",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-14-43",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Corvino's Kelly",
+      "sire_reg": "A656069",
+      "dam_name": "Patsy",
+      "dam_reg": "R59503",
+      "breeders": [
+        "Dr. Theodore T. Krysinski"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R58848",
+      "name": "TACOMA KANE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-18-48",
+      "color_code": "Red fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Kane's Tacoma Parnell",
+      "sire_reg": "R43398",
+      "dam_name": "Rose",
+      "dam_reg": "R44987",
+      "breeders": [
+        "Jesse W. Fleckenstein"
+      ],
+      "owners": [
+        "James P. Kane"
+      ]
+    },
+    {
+      "reg_number": "R58882",
+      "name": "S ANDY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-11-49",
+      "color_code": "Fawn and black",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Sansonetti's Yankee",
+      "sire_reg": "R29301",
+      "dam_name": "Doctor Krysinski's Sugar",
+      "dam_reg": "R48412",
+      "breeders": [
+        "George J. Pillion"
+      ],
+      "owners": [
+        "Dr. Theodore T. Krysinski"
+      ]
+    },
+    {
+      "reg_number": "R60069",
+      "name": "N WRIGHT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-29-49",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Walkaway",
+      "sire_reg": "A638596",
+      "dam_name": "Bonnie Pepper Duster",
+      "dam_reg": "R23102",
+      "breeders": [
+        "William T. Wright"
+      ],
+      "owners": [
+        "William M. Whitaker"
+      ]
+    },
+    {
+      "reg_number": "R59230",
+      "name": "YANKEE PENNY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-11-49",
+      "color_code": "Seal brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Sansonetti's Yankee",
+      "sire_reg": "R29301",
+      "dam_name": "Doctor T. T. Krysinski's Sugar",
+      "dam_reg": "R48412",
+      "breeders": [
+        "Frank L. Ruth"
+      ],
+      "owners": [
+        "Dr. Theodore T. Krysinski"
+      ]
+    },
+    {
+      "reg_number": "R58831",
+      "name": "ALPAD STARDUST",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-15-49",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Williams Paddy Boy",
+      "sire_reg": "A840803",
+      "dam_name": "Williams Miss Taffy Tan",
+      "dam_reg": "R19567",
+      "breeders": [
+        "Albert C. Williams"
+      ],
+      "owners": [
+        "Eugene H. Hopper"
+      ]
+    },
+    {
+      "reg_number": "R59631",
+      "name": "N'S TACOMA PATSY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-30-47",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dandy",
+      "sire_reg": "R8716",
+      "dam_name": "Top-O-Mich Brown Betty",
+      "dam_reg": "R6226",
+      "breeders": [
+        "Carl Milroy Shelton"
+      ],
+      "owners": [
+        "Wm. H. Boxell"
+      ]
+    },
+    {
+      "reg_number": "R59361",
+      "name": "TUFF",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-11-49",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farris' Dandy",
+      "sire_reg": "R33388",
+      "dam_name": "Steeles Memory",
+      "dam_reg": "R13540",
+      "breeders": [
+        "Sam W. Farris"
+      ],
+      "owners": [
+        "Sam W. Farris"
+      ]
+    },
+    {
+      "reg_number": "R59365",
+      "name": "UNKNOWN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-11-49",
+      "color_code": "Light brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farris' Dandy",
+      "sire_reg": "R33388",
+      "dam_name": "Steeles Memory",
+      "dam_reg": "R13540",
+      "breeders": [
+        "Sam W. Farris"
+      ],
+      "owners": [
+        "Sam W. Farris"
+      ]
+    },
+    {
+      "reg_number": "R59364",
+      "name": "BY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-11-49",
+      "color_code": "Dark brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farris' Dandy",
+      "sire_reg": "R33388",
+      "dam_name": "Steeles Memory",
+      "dam_reg": "R13540",
+      "breeders": [
+        "Sam W. Farris"
+      ],
+      "owners": [
+        "Sam W. Farris"
+      ]
+    },
+    {
+      "reg_number": "R59630",
+      "name": "ER'S TACOMA TORR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-30-47",
+      "color_code": "Fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dandy",
+      "sire_reg": "R8716",
+      "dam_name": "Top-O-Mich Brown Betty",
+      "dam_reg": "R6226",
+      "breeders": [
+        "Wm. J. Wampler"
+      ],
+      "owners": [
+        "Wm. H. Boxell"
+      ]
+    }
+  ]
+}

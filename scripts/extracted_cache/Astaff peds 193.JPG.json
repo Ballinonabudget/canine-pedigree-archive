@@ -1,0 +1,60 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "1987",
+  "dogs": [
+    {
+      "reg_number": "UNKNOWN-1",
+      "name": "PARAGON LUCRE'S NIGHTLORD",
+      "titles": "CH, C.D.",
+      "sex": "D",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH Paragon Lucre of Chegra",
+      "sire_reg": null,
+      "dam_name": "Paragon Tibbs Niobe",
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "UNKNOWN-2",
+      "name": "NIGHTLORD'S COMET",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH Paragon Lucre's Nightlord CD",
+      "sire_reg": null,
+      "dam_name": "Paragon Lucre's Corsair Jet",
+      "dam_reg": null,
+      "breeders": [
+        "Kimberly A. Davis"
+      ],
+      "owners": [
+        "Tom Cooper",
+        "Linda Cooper"
+      ]
+    },
+    {
+      "reg_number": "UNKNOWN-3",
+      "name": "NIGHTLORD'S DONNER",
+      "titles": "CD",
+      "sex": "D",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH Paragon Lucre's Nightlord CD",
+      "sire_reg": null,
+      "dam_name": "Paragon Lucre's Corsair Jet",
+      "dam_reg": null,
+      "breeders": [
+        "Kimberly A. Davis"
+      ],
+      "owners": [
+        "Lydia Duarte"
+      ]
+    }
+  ]
+}

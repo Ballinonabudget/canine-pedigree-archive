@@ -1,0 +1,310 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R43863",
+      "name": "DOYLE'S TACOMA SUE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-2-46",
+      "color_code": "White, brindle markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Jack II",
+      "sire_reg": "A697997",
+      "dam_name": "Doyle's Susie",
+      "dam_reg": "R16223",
+      "breeders": [
+        "Charles Roll"
+      ],
+      "owners": [
+        "Charles J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R44126",
+      "name": "GENERAL OF TWIN BIRCHES",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-14-46",
+      "color_code": "Fawn brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Napoleon",
+      "sire_reg": null,
+      "dam_name": "Mudflat Liz of Twin Birches",
+      "dam_reg": null,
+      "breeders": [
+        "J. Rice"
+      ],
+      "owners": [
+        "Marjorie R. Lowes"
+      ]
+    },
+    {
+      "reg_number": "R44281",
+      "name": "KANE'S TACOMA DRUM MAJOR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-22-47",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Jack II",
+      "sire_reg": "A697997",
+      "dam_name": "Doyle's Connie",
+      "dam_reg": "R4264",
+      "breeders": [
+        "Charles Kane"
+      ],
+      "owners": [
+        "Charles J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R44282",
+      "name": "KANE'S TACOMA PARNELL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-30-46",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Kane's Tado",
+      "sire_reg": "A553601",
+      "dam_name": "Doyle's Connie",
+      "dam_reg": "R4264",
+      "breeders": [
+        "Charles Kane"
+      ],
+      "owners": [
+        "Charles J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R44237",
+      "name": "KASTENS' KITTY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-20-48",
+      "color_code": "Brown brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Corvino's Iron Will",
+      "sire_reg": "A795431",
+      "dam_name": "Corvino's Sparetime",
+      "dam_reg": "R27957",
+      "breeders": [
+        "Earl Corvino"
+      ],
+      "owners": [
+        "Earl Corvino"
+      ]
+    },
+    {
+      "reg_number": "R44236",
+      "name": "LARRY'S NICK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-20-48",
+      "color_code": "Black & tan",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Corvino's Iron Will",
+      "sire_reg": "A795431",
+      "dam_name": "Corvino's Sparetime",
+      "dam_reg": "R27957",
+      "breeders": [
+        "Lawrence Stein"
+      ],
+      "owners": [
+        "Louis Corvino"
+      ]
+    },
+    {
+      "reg_number": "R43862",
+      "name": "MAGGIE'S DIAMOND",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-24-48",
+      "color_code": "Black, with white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Blaze",
+      "sire_reg": "A776601",
+      "dam_name": "Maggie",
+      "dam_reg": "R21248",
+      "breeders": [
+        "J. Winter"
+      ],
+      "owners": [
+        "J. Winter"
+      ]
+    },
+    {
+      "reg_number": "R43559",
+      "name": "MISSY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Red fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farris' Dandy",
+      "sire_reg": "R33388",
+      "dam_name": "Steeles Memory",
+      "dam_reg": null,
+      "breeders": [
+        "Garland Jones"
+      ],
+      "owners": [
+        "Sam W. Farris"
+      ]
+    },
+    {
+      "reg_number": "R439",
+      "name": "ROCK OF SHERWALL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-19-48",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Captain Shon of Sherwall",
+      "sire_reg": null,
+      "dam_name": "Lady of Sherwall",
+      "dam_reg": "R36873",
+      "breeders": [
+        "Vernon B. Sherwin"
+      ],
+      "owners": [
+        "Sherwall Kennels"
+      ]
+    },
+    {
+      "reg_number": "R43721",
+      "name": "SKIPPER'S PAL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-30-47",
+      "color_code": "Brindle & white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Dazzler",
+      "sire_reg": "A624021",
+      "dam_name": "Ruffian Bobby Socks Pudge",
+      "dam_reg": "A852174",
+      "breeders": [
+        "Walter J. Standish"
+      ],
+      "owners": [
+        "Charles L. Flinker"
+      ]
+    },
+    {
+      "reg_number": "R44543",
+      "name": "SUNN BONNETT SUE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-15-47",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Lamb's Whiskers",
+      "sire_reg": "A895995",
+      "dam_name": "Fowler's Maggie McGee",
+      "dam_reg": "R3296",
+      "breeders": [
+        "Kathleen M. Sunn"
+      ],
+      "owners": [
+        "Charles R. Fuller"
+      ]
+    },
+    {
+      "reg_number": "R44706",
+      "name": "TACOMA BLAZETTE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-4-48",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Doyle's Tacoma Blaze",
+      "sire_reg": "A776601",
+      "dam_name": "Ch. Tacoma Jack's Susie",
+      "dam_reg": "A720419",
+      "breeders": [
+        "Chas. J. Doyle"
+      ],
+      "owners": [
+        "Chas. J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R44283",
+      "name": "TACOMA SKY ROCKET",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-4-48",
+      "color_code": "White",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Kane's Tado",
+      "sire_reg": "A553601",
+      "dam_name": "Ch. Doyle's Tacoma Debra",
+      "dam_reg": "A884877",
+      "breeders": [
+        "C. S. Jackson"
+      ],
+      "owners": [
+        "Charles J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R44707",
+      "name": "TACOMA SUSETTE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-4-48",
+      "color_code": "Black, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Doyle's Tacoma Blaze",
+      "sire_reg": "A776601",
+      "dam_name": "Ch. Tacoma Jack's Susie",
+      "dam_reg": "A720419",
+      "breeders": [
+        "Chas. J. Doyle"
+      ],
+      "owners": [
+        "Chas. J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R43558",
+      "name": "TORNADO II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-8-48",
+      "color_code": "Fawn & white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farris' Dandy",
+      "sire_reg": "R33388",
+      "dam_name": "Steeles Memory",
+      "dam_reg": "R13540",
+      "breeders": [
+        "Garland Jones"
+      ],
+      "owners": [
+        "Sam W. Farris"
+      ]
+    },
+    {
+      "reg_number": "R44280",
+      "name": "X-PERT KING NERO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-2-47",
+      "color_code": "Brindle & white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "A787478",
+      "dam_name": "X-Pert Red Susie",
+      "dam_reg": "A835062",
+      "breeders": [
+        "Clifford & Alexander McKnight"
+      ],
+      "owners": [
+        "Clifford & Alexander McKnight"
+      ]
+    }
+  ]
+}

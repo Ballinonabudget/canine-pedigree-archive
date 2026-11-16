@@ -1,0 +1,481 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "FEBRUARY 27",
+  "dogs": [
+    {
+      "reg_number": "RA509041",
+      "name": "ANGUS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-2-77",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CURRY'S DYNAMITE DAN",
+      "sire_reg": "RA195390",
+      "dam_name": "ROB DA LANES CRYSTAL BLUE",
+      "dam_reg": "RA276194",
+      "breeders": [
+        "D SMITH"
+      ],
+      "owners": [
+        "S & J GRISWOLD"
+      ]
+    },
+    {
+      "reg_number": "RA259364",
+      "name": "BEAU RINGO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-26-76",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH BEAU RINGO UD",
+      "sire_reg": "RA025620",
+      "dam_name": "SOONER'S MERRY MAGDALENE",
+      "dam_reg": "RA290078",
+      "breeders": [
+        "C CHRISTMAS"
+      ],
+      "owners": [
+        "J VERONIE"
+      ]
+    },
+    {
+      "reg_number": "RA306413",
+      "name": "BLUE BOY BRINDLE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-24-76",
+      "color_code": "BL BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH RUFFIAN HARPER OF HAR-WYN",
+      "sire_reg": "R831547",
+      "dam_name": "CONCHO'S BLUE ANGEL",
+      "dam_reg": "RA151614",
+      "breeders": [
+        "E & E ROBINSON"
+      ],
+      "owners": [
+        "MRS O HILL"
+      ]
+    },
+    {
+      "reg_number": "RA453095",
+      "name": "BRADS GALLANT STRIDER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-2-77",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CURRY'S DYNAMITE DAN",
+      "sire_reg": "RA195390",
+      "dam_name": "ROB DA LANES CRYSTAL BLUE",
+      "dam_reg": "RA276194",
+      "breeders": [
+        "B HAMM"
+      ],
+      "owners": [
+        "S & J GRISWOLD"
+      ]
+    },
+    {
+      "reg_number": "RA318409",
+      "name": "CHARBERTS BETTY BOOP",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-11-76",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "SERTOMA'S BLACK JACK",
+      "sire_reg": "RA073253",
+      "dam_name": "CHARBERT'S TACOMA",
+      "dam_reg": "R848676",
+      "breeders": [
+        "P KNAPP"
+      ],
+      "owners": [
+        "B HAHN"
+      ]
+    },
+    {
+      "reg_number": "RA367491",
+      "name": "CONCHO'S BRINDLE BLUE MIST",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-13-77",
+      "color_code": "BL BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CHICO BILL",
+      "sire_reg": "RA216821",
+      "dam_name": "CONCHO'S MIDNIGHT SPECIAL",
+      "dam_reg": "RA151617",
+      "breeders": [
+        "J & MRS J ROSE"
+      ],
+      "owners": [
+        "MRS O HILL"
+      ]
+    },
+    {
+      "reg_number": "RA477497",
+      "name": "FLINT'S LAVENDER BLUE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-6-78",
+      "color_code": "BL BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "FLINT'S SPIKE JONES",
+      "sire_reg": "RA310324",
+      "dam_name": "FLINT'S LUCY BROWN",
+      "dam_reg": "RA425768",
+      "breeders": [
+        "B FLINT"
+      ],
+      "owners": [
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RA366645",
+      "name": "GENERAL JOSHUA JONES",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-13-76",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH CORPORAL KCDI BOTTALA",
+      "sire_reg": "RA085726",
+      "dam_name": "BLUEY LOWIE'S LUV",
+      "dam_reg": "RA340441",
+      "breeders": [
+        "S & D BEDNARZ"
+      ],
+      "owners": [
+        "S WHYTE"
+      ]
+    },
+    {
+      "reg_number": "RA477601",
+      "name": "GOODWIN'S MAGNUM TIGER MAC",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-10-78",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "MUGSIE II",
+      "sire_reg": "RA455307",
+      "dam_name": "TERRYTOWNS TARA OF SERTOMA",
+      "dam_reg": "RA269720",
+      "breeders": [
+        "G GOODWIN"
+      ],
+      "owners": [
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RA502805",
+      "name": "HR'S SONNY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-27-78",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH HARPER'S PATTON",
+      "sire_reg": "RA333829",
+      "dam_name": "RUFFIAN HAPPY GO GO GIRL",
+      "dam_reg": "RA350149",
+      "breeders": [
+        "E ROBINSON"
+      ],
+      "owners": [
+        "MRS R WADDELL"
+      ]
+    },
+    {
+      "reg_number": "RA431611",
+      "name": "LAURALEE'S STREAK",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-14-78",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH HARPER'S PATTON",
+      "sire_reg": "RA333829",
+      "dam_name": "LAURALEE'S LITTLE BIT",
+      "dam_reg": "RA260714",
+      "breeders": [
+        "E ROBINSON"
+      ],
+      "owners": [
+        "C MARTIN"
+      ]
+    },
+    {
+      "reg_number": "RA459325",
+      "name": "LIBERTY'S GALLANT BLUE VELVET",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-10-78",
+      "color_code": "BL & BRDL",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH ROCKY",
+      "sire_reg": "RA976910",
+      "dam_name": "DOUBLE J'S LADY LIBERTY",
+      "dam_reg": "RA353852",
+      "breeders": [
+        "S JOHNSON"
+      ],
+      "owners": [
+        "S & J GRISWOLD"
+      ]
+    },
+    {
+      "reg_number": "RA323038",
+      "name": "LUMS MUA",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-24-76",
+      "color_code": "RD & WH BLK MSK",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH MARI-DON MISTER BEAU JANGLES CDX",
+      "sire_reg": "RA105953",
+      "dam_name": "CH FRAJA'S BLACK MARIA CD",
+      "dam_reg": "RA220906",
+      "breeders": [
+        "H KAMOKU"
+      ],
+      "owners": [
+        "J FRASER"
+      ]
+    },
+    {
+      "reg_number": "RA392599",
+      "name": "MISS KENTUCKY SUNSHINE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-18-76",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SIR JOLLY ROGER",
+      "sire_reg": "R952132",
+      "dam_name": "SPUNKY",
+      "dam_reg": "RA276231",
+      "breeders": [
+        "D BAYENS"
+      ],
+      "owners": [
+        "M CUNNINGHAM"
+      ]
+    },
+    {
+      "reg_number": "RA472001",
+      "name": "MISS TERRI OF LONE STAR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-5-78",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "WHITE ROCK REBEL",
+      "sire_reg": "RA365609",
+      "dam_name": "DEBBIE'S WHITE ROCK FLASH",
+      "dam_reg": "RA067511",
+      "breeders": [
+        "G STARRY"
+      ],
+      "owners": [
+        "H PASCOE"
+      ]
+    },
+    {
+      "reg_number": "RA353996",
+      "name": "MORRIS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-8-76",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH GALLANT TIGER OF LXL",
+      "sire_reg": "RA156854",
+      "dam_name": "ARINGTON'S RHODA FAY",
+      "dam_reg": "RA237524",
+      "breeders": [
+        "J FISHER"
+      ],
+      "owners": [
+        "J ARINGTON"
+      ]
+    },
+    {
+      "reg_number": "RA385188",
+      "name": "NALO'S LOKI",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-1-77",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "TONKAWA CANNON BALL",
+      "sire_reg": "RA109593",
+      "dam_name": "MOPA'S TEXAS RUFF STREAK",
+      "dam_reg": "RA199398",
+      "breeders": [
+        "R SMITH"
+      ],
+      "owners": [
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RA432401",
+      "name": "PAT'S FANCY CINNAMON",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-13-78",
+      "color_code": "RD & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH PATTON'S RED ROCK SKILLET",
+      "sire_reg": "RA247707",
+      "dam_name": "HAPPY GINGER SNAP",
+      "dam_reg": "RA379791",
+      "breeders": [
+        "P KING"
+      ],
+      "owners": [
+        "G LAKINS & A BUCCELLATO"
+      ]
+    },
+    {
+      "reg_number": "RA301765",
+      "name": "CH PATTON'S WHITE ROCK QUEEN",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "6-4-76",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SOONER'S RANGER EL CAJON",
+      "sire_reg": "RA091937",
+      "dam_name": "CH PATTON'S AMANDA BELLE",
+      "dam_reg": "RA184721",
+      "breeders": [
+        "H PASCOE"
+      ],
+      "owners": [
+        "W PATTON JR"
+      ]
+    },
+    {
+      "reg_number": "RA463202",
+      "name": "QUEEN GRETEL OF JAC-SAN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-1-77",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH GALLANT BUCK-A-ROO",
+      "sire_reg": "RA228456",
+      "dam_name": "RUTLEDGE'S CINDERELLA BLUE",
+      "dam_reg": "RA202283",
+      "breeders": [
+        "J & S PAYNE"
+      ],
+      "owners": [
+        "S JENKINS"
+      ]
+    },
+    {
+      "reg_number": "RA490042",
+      "name": "ROMONA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-9-78",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SERTOMA'S LITTLE CHIEF",
+      "sire_reg": "RA078227",
+      "dam_name": "ARINGTON'S COCO",
+      "dam_reg": "RA316299",
+      "breeders": [
+        "J FISHER"
+      ],
+      "owners": [
+        "B COLLINS"
+      ]
+    },
+    {
+      "reg_number": "RA381717",
+      "name": "SABENS BUEFORD",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-5-77",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH STAFFORD'S SABEN ROSE",
+      "sire_reg": "RA058306",
+      "dam_name": "FARSLADE'S MOLLY MAGUIRE",
+      "dam_reg": "RA238387",
+      "breeders": [
+        "C & P KING"
+      ],
+      "owners": [
+        "C & S ROSE"
+      ]
+    },
+    {
+      "reg_number": "RA466893",
+      "name": "SIR RUDROW OF LONE STAR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-17-78",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH RUFFIAN BUCKINGHAM OF TONKAWA",
+      "sire_reg": "RA186182",
+      "dam_name": "WHITE ROCK FAN",
+      "dam_reg": "RA255967",
+      "breeders": [
+        "G STARRY"
+      ],
+      "owners": [
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RA486966",
+      "name": "SOONER'S ARMENTO'S LADY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-18-78",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "SOONER'S RED RUFUS",
+      "sire_reg": "RA244223",
+      "dam_name": "ARMENTOS SARAH JANE",
+      "dam_reg": "RA409910",
+      "breeders": [
+        "P & K BARNETT"
+      ],
+      "owners": [
+        "MRS V HOLSTED"
+      ]
+    },
+    {
+      "reg_number": "RA466938",
+      "name": "TAYLOR'S EASY'S MAJOR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-27-78",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "SOONER'S CAPTAIN EASY",
+      "sire_reg": "RA228781",
+      "dam_name": "HUNTER'S JOEZETT",
+      "dam_reg": "RA318835",
+      "breeders": [
+        "A TAYLOR JR & T TAYLOR"
+      ],
+      "owners": [
+        "R & G HUNTER"
+      ]
+    }
+  ]
+}

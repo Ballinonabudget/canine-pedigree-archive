@@ -1,0 +1,880 @@
+{
+  "breed": "Welsh Terrier",
+  "date_header": "April 1949",
+  "dogs": [
+    {
+      "reg_number": "R48412",
+      "name": "DOCTOR T.T. KRYSINSKI'S SUGAR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-13-47",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Sansonetti's Yankee",
+      "sire_reg": "R29301",
+      "dam_name": "Sansonetti's Dark Hazard",
+      "dam_reg": "R20914",
+      "breeders": [
+        "Dr. Theodore T. Krysinski"
+      ],
+      "owners": [
+        "Wm. J. Sansonetti"
+      ]
+    },
+    {
+      "reg_number": "R47791",
+      "name": "HOPKINS' RED DEVIL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-8-48",
+      "color_code": "Fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Bozo Expert O'Neil",
+      "sire_reg": "R14332",
+      "dam_name": "X-Pert Brindle Vixon",
+      "dam_reg": "R22791",
+      "breeders": [
+        "Pascal B. Hopkins"
+      ],
+      "owners": [
+        "Byron P. Richardson"
+      ]
+    },
+    {
+      "reg_number": "R47668",
+      "name": "KRIENER'S PEG'S JILL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-16-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Butch C.D.X.",
+      "sire_reg": "R7719",
+      "dam_name": "Peg-O-San Diego",
+      "dam_reg": "R8559",
+      "breeders": [
+        "Ruth F. Kriener"
+      ],
+      "owners": [
+        "Harold R. Robinson"
+      ]
+    },
+    {
+      "reg_number": "R48629",
+      "name": "KURTZ' ADA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-15-48",
+      "color_code": "Tan, black mask",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Williams Paddy Boy",
+      "sire_reg": "A840803",
+      "dam_name": "Kurtz' Lupe Lucero",
+      "dam_reg": "A843688",
+      "breeders": [
+        "C. H. Satterlee"
+      ],
+      "owners": [
+        "John C. Kurtz"
+      ]
+    },
+    {
+      "reg_number": "R48628",
+      "name": "KURTZ' BESSIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-15-48",
+      "color_code": "White tan spots",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Williams Paddy Boy",
+      "sire_reg": "A840803",
+      "dam_name": "Kurtz' Lupe Lucero",
+      "dam_reg": "A843688",
+      "breeders": [
+        "C. H. Satterlee"
+      ],
+      "owners": [
+        "John C. Kurtz"
+      ]
+    },
+    {
+      "reg_number": "R48630",
+      "name": "KURTZ' LINDA MUJER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-15-48",
+      "color_code": "Tan, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Williams Paddy Boy",
+      "sire_reg": "A840803",
+      "dam_name": "Kurtz' Lupe Lucero",
+      "dam_reg": "A843688",
+      "breeders": [
+        "John C. Kurtz"
+      ],
+      "owners": [
+        "John C. Kurtz"
+      ]
+    },
+    {
+      "reg_number": "R48778",
+      "name": "TACOMA BLAZE AGAIN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-15-48",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Kane's Tacoma Blaze",
+      "sire_reg": "A776601",
+      "dam_name": "Doyle's Connie",
+      "dam_reg": "R4264",
+      "breeders": [
+        "James P. Kane"
+      ],
+      "owners": [
+        "Charles J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R48693",
+      "name": "X-PERT BUDDY OF LOUISVILLE II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-23-48",
+      "color_code": "Dark brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Buddy of Louisville",
+      "sire_reg": "R6440",
+      "dam_name": "X-Pert Red Susie",
+      "dam_reg": "A835062",
+      "breeders": [
+        "Richard Kellogg"
+      ],
+      "owners": [
+        "Alexander McKnight"
+      ]
+    },
+    {
+      "reg_number": "R49230",
+      "name": "BARGANA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-20-48",
+      "color_code": "Tan and black",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Jetter's Select Man",
+      "sire_reg": "A219954",
+      "dam_name": "Lady Cinders of Reliez",
+      "dam_reg": "R19428",
+      "breeders": [
+        "Mary Elizabeth Clos"
+      ],
+      "owners": [
+        "Marion K. Ford"
+      ]
+    },
+    {
+      "reg_number": "R48770",
+      "name": "BONNIE DUNDEE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-20-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Aman Dandy Boy",
+      "sire_reg": "R21003",
+      "dam_name": "Scotbourne Serena",
+      "dam_reg": "R1133",
+      "breeders": [
+        "Mae S. McKenna"
+      ],
+      "owners": [
+        "Mine Brook Kennels"
+      ]
+    },
+    {
+      "reg_number": "R48405",
+      "name": "BONNY'S PERSONALITY GIRL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-7-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Buccaneer of Galliard",
+      "sire_reg": "A923972",
+      "dam_name": "Cal's Peg Top Hat",
+      "dam_reg": "R11034",
+      "breeders": [
+        "Harriett R. Bonicatto"
+      ],
+      "owners": [
+        "Chris C. Calsen"
+      ]
+    },
+    {
+      "reg_number": "R48664",
+      "name": "BRIAR HOT POT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-10-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Briar Rarebit",
+      "sire_reg": "A805351",
+      "dam_name": "Kamir from Briar",
+      "dam_reg": "R6193",
+      "breeders": [
+        "Henriette M. Frank"
+      ],
+      "owners": [
+        "Barbara H. Humbert"
+      ]
+    },
+    {
+      "reg_number": "R48556",
+      "name": "CAMBRIAN BRIAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-20-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Flornell Playboy (Eng.)",
+      "sire_reg": "R42279",
+      "dam_name": "Strathglass Venture's Nettle",
+      "dam_reg": "R24727",
+      "breeders": [
+        "Alfred P. Hobbs"
+      ],
+      "owners": [
+        "Alfred P. Hobbs"
+      ]
+    },
+    {
+      "reg_number": "R48553",
+      "name": "CAMBRIAN MYFANWY VYCHAN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-20-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Flornell Playboy (Eng.)",
+      "sire_reg": "R42279",
+      "dam_name": "Strathglass Venture's Nettle",
+      "dam_reg": "R24727",
+      "breeders": [
+        "Alfred P. Hobbs"
+      ],
+      "owners": [
+        "Alfred P. Hobbs"
+      ]
+    },
+    {
+      "reg_number": "R48552",
+      "name": "CAMBRIAN MYFI",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-20-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Flornell Playboy (Eng.)",
+      "sire_reg": "R42279",
+      "dam_name": "Strathglass Venture's Nettle",
+      "dam_reg": "R24727",
+      "breeders": [
+        "Alfred P. Hobbs"
+      ],
+      "owners": [
+        "Alfred P. Hobbs"
+      ]
+    },
+    {
+      "reg_number": "R48554",
+      "name": "CAMBRIAN OLWEN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-20-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Flornell Playboy (Eng.)",
+      "sire_reg": "R42279",
+      "dam_name": "Strathglass Venture's Nettle",
+      "dam_reg": "R24727",
+      "breeders": [
+        "Alfred P. Hobbs"
+      ],
+      "owners": [
+        "Alfred P. Hobbs"
+      ]
+    },
+    {
+      "reg_number": "R48555",
+      "name": "CAMBRIAN TWM",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-20-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Flornell Playboy (Eng.)",
+      "sire_reg": "R42279",
+      "dam_name": "Strathglass Venture's Nettle",
+      "dam_reg": "R24727",
+      "breeders": [
+        "Alfred P. Hobbs"
+      ],
+      "owners": [
+        "Alfred P. Hobbs"
+      ]
+    },
+    {
+      "reg_number": "R48967",
+      "name": "CAN'T MEIS OF WYNCOTE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-29-46",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Marlu Top Sawyer",
+      "sire_reg": "A591350",
+      "dam_name": "Scotshome Rouge et Noir",
+      "dam_reg": "A583380",
+      "breeders": [
+        "Edw. J. Doyle"
+      ],
+      "owners": [
+        "Mrs. Gertrude Hankinson"
+      ]
+    },
+    {
+      "reg_number": "R48931",
+      "name": "CLAIREDALE DINKY DAI",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-4-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Strathglass Venture's Taffy",
+      "sire_reg": "R24726",
+      "dam_name": "Ch. Raybrook's Steppin Anna II",
+      "dam_reg": "A866249",
+      "breeders": [
+        "Sheila Lyster"
+      ],
+      "owners": [
+        "Clairedale Kennels"
+      ]
+    },
+    {
+      "reg_number": "R48932",
+      "name": "CLAIREDALE JOLLY ROGER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-4-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Strathglass Venture's Taffy",
+      "sire_reg": "R24726",
+      "dam_name": "Ch. Raybrook's Steppin Anna II",
+      "dam_reg": "A866249",
+      "breeders": [
+        "Clairedale Kennels"
+      ],
+      "owners": [
+        "Clairedale Kennels"
+      ]
+    },
+    {
+      "reg_number": "R48934",
+      "name": "CLAIREDALE'S LONE ONE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-5-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Strathglass Bingo's Venture",
+      "sire_reg": "A587909",
+      "dam_name": "Lassie Angharad",
+      "dam_reg": "A803677",
+      "breeders": [
+        "Clairedale Kennels"
+      ],
+      "owners": [
+        "Clairedale Kennels"
+      ]
+    },
+    {
+      "reg_number": "R48935",
+      "name": "CLAIREDALE TWINKLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-2-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Bodie's Top Man",
+      "sire_reg": "R24463",
+      "dam_name": "Ch. Fashionette of Clairedale",
+      "dam_reg": "R11331",
+      "breeders": [
+        "Clairedale Kennels"
+      ],
+      "owners": [
+        "Clairedale Kennels"
+      ]
+    },
+    {
+      "reg_number": "R48933",
+      "name": "CLAIREDALE WALLFLOWER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-4-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Strathglass Venture's Taffy",
+      "sire_reg": "R24726",
+      "dam_name": "Ch. Raybrook's Steppin Anna II",
+      "dam_reg": "A866249",
+      "breeders": [
+        "Clairedale Kennels"
+      ],
+      "owners": [
+        "Clairedale Kennels"
+      ]
+    },
+    {
+      "reg_number": "R48408",
+      "name": "CUDGEL KNOLL CANDY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-15-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Windermere Bombardier",
+      "sire_reg": "A788066",
+      "dam_name": "Windermere Gwynedd",
+      "dam_reg": "R2656",
+      "breeders": [
+        "Mary H. McCurdy"
+      ],
+      "owners": [
+        "Mary H. McCurdy"
+      ]
+    },
+    {
+      "reg_number": "R48407",
+      "name": "CUDGEL KNOLL JAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-15-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Windermere Bombardier",
+      "sire_reg": "A788066",
+      "dam_name": "Windermere Gwynedd",
+      "dam_reg": "R2656",
+      "breeders": [
+        "Mary H. McCurdy"
+      ],
+      "owners": [
+        "Mary H. McCurdy"
+      ]
+    },
+    {
+      "reg_number": "R48665",
+      "name": "CYMRIC",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-17-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Strathglass Trump",
+      "sire_reg": "A805444",
+      "dam_name": "Del-Vila Duchess",
+      "dam_reg": "A554512",
+      "breeders": [
+        "Mrs. T. Campbell Thompson"
+      ],
+      "owners": [
+        "Cymric Kennels"
+      ]
+    },
+    {
+      "reg_number": "R48663",
+      "name": "DAISY MAZIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-15-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Better Yet of Birchwood",
+      "sire_reg": "R17502",
+      "dam_name": "Ch. Fortune Miss Wendy",
+      "dam_reg": "R30624",
+      "breeders": [
+        "Mrs. Ida M. Miller"
+      ],
+      "owners": [
+        "Jean G. Hinkle"
+      ]
+    },
+    {
+      "reg_number": "R48064",
+      "name": "DANDY II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-4-48",
+      "color_code": "Black and brown",
+      "breed": "Welsh Terrier",
+      "sire_name": "Dan-de Boy of Graylock",
+      "sire_reg": "R18765",
+      "dam_name": "Dixie Mickie",
+      "dam_reg": "R6385",
+      "breeders": [
+        "Therese Schreiber"
+      ],
+      "owners": [
+        "Florence Abrahams"
+      ]
+    },
+    {
+      "reg_number": "R48403",
+      "name": "DEVE'S TALLY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-16-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Deve of Hereford",
+      "sire_reg": "A606584",
+      "dam_name": "Cliffdale's Maiden Flight",
+      "dam_reg": "R36580",
+      "breeders": [
+        "Virginia Claire Fawcett"
+      ],
+      "owners": [
+        "Virginia Claire Fawcett"
+      ]
+    },
+    {
+      "reg_number": "R47671",
+      "name": "DOBB'S LADY PAMELA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-13-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "G.I. Joe of Glenhirst",
+      "sire_reg": "A843881",
+      "dam_name": "Dobb's Lady Cathie",
+      "dam_reg": "R14323",
+      "breeders": [
+        "Betty Dobbs"
+      ],
+      "owners": [
+        "Betty Dobbs"
+      ]
+    },
+    {
+      "reg_number": "R48807",
+      "name": "DUKE OF BACHGEN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-29-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Cyrnol's Bachgen",
+      "sire_reg": "R24545",
+      "dam_name": "Staffeeta",
+      "dam_reg": "R20590",
+      "breeders": [
+        "Mrs. Bessie E. Ballingall"
+      ],
+      "owners": [
+        "William E. & Elinor A. Moody"
+      ]
+    },
+    {
+      "reg_number": "R48666",
+      "name": "GEORGE ROYAL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-27-46",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Marlu Navigator",
+      "sire_reg": "A897760",
+      "dam_name": "Penny Royal",
+      "dam_reg": "A898443",
+      "breeders": [
+        "Harry H. Hall"
+      ],
+      "owners": [
+        "Harry H. Hall"
+      ]
+    },
+    {
+      "reg_number": "R48769",
+      "name": "HIGH ADVENTURE OF PETER PAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-18-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Peter Pan's Answer",
+      "sire_reg": "A402188",
+      "dam_name": "Fencliff Nance",
+      "dam_reg": "A496525",
+      "breeders": [
+        "M. M. Eastman"
+      ],
+      "owners": [
+        "Mr. & Mrs. R. L. Scaggs"
+      ]
+    },
+    {
+      "reg_number": "R48401",
+      "name": "HU GADAWN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-10-48",
+      "color_code": "Black and red",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Buccaneer of Galliard",
+      "sire_reg": "A923972",
+      "dam_name": "Del-mont Cookie",
+      "dam_reg": "A879192",
+      "breeders": [
+        "Mr. & Mrs. Robert J. Cesare"
+      ],
+      "owners": [
+        "Mrs. Albert J. Wilson"
+      ]
+    },
+    {
+      "reg_number": "R47660",
+      "name": "KAY'S WELSH CHARM",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-3-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Tymwyn Twyman",
+      "sire_reg": "R21474",
+      "dam_name": "Galen Clipperette",
+      "dam_reg": "R9209",
+      "breeders": [
+        "Felix Rojeske"
+      ],
+      "owners": [
+        "Dr. J. R. Paulish"
+      ]
+    },
+    {
+      "reg_number": "R47904",
+      "name": "KENTUCKY JIGGS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-5-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Flatbush Jayke",
+      "sire_reg": "A864820",
+      "dam_name": "Dixie Pembroke",
+      "dam_reg": "A697286",
+      "breeders": [
+        "Vincent B. Downing"
+      ],
+      "owners": [
+        "Patrick McGarry"
+      ]
+    },
+    {
+      "reg_number": "R48930",
+      "name": "KERRYWELL'S INAUGURATION",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-25-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Cholly Knickerbocker",
+      "sire_reg": "R2287",
+      "dam_name": "Pindi of Peter Pan",
+      "dam_reg": "R25266",
+      "breeders": [
+        "Gladys H. Tenseith"
+      ],
+      "owners": [
+        "Gladys H. Tenseith"
+      ]
+    },
+    {
+      "reg_number": "R47764",
+      "name": "KERRYWELL'S PRIDE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-25-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Cholly Knickerbocker",
+      "sire_reg": "R2287",
+      "dam_name": "Pindi of Peter Pan",
+      "dam_reg": "R25266",
+      "breeders": [
+        "Erwin Howard Devron"
+      ],
+      "owners": [
+        "Gladys H. Tenseith"
+      ]
+    },
+    {
+      "reg_number": "R47648",
+      "name": "KRIS KRINGLE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-12-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Carlano Cock Robin",
+      "sire_reg": "R16723",
+      "dam_name": "Comanche Wanda",
+      "dam_reg": "R40937",
+      "breeders": [
+        "Harold E. Kelsey"
+      ],
+      "owners": [
+        "Charles Kelsey"
+      ]
+    },
+    {
+      "reg_number": "R49071",
+      "name": "KYMRIC'S BONNIE LASSIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-25-48",
+      "color_code": "Tan and black",
+      "breed": "Welsh Terrier",
+      "sire_name": "Kymric of Grayloch C.D.",
+      "sire_reg": "A862038",
+      "dam_name": "Lassie",
+      "dam_reg": "R1545",
+      "breeders": [
+        "Robert W. Barnes"
+      ],
+      "owners": [
+        "Germain W. Wooden"
+      ]
+    },
+    {
+      "reg_number": "R49069",
+      "name": "KYMSON",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-19-48",
+      "color_code": "Brown and black",
+      "breed": "Welsh Terrier",
+      "sire_name": "Kymric of Grayloch C.D.",
+      "sire_reg": "A862038",
+      "dam_name": "Colleen's Donna",
+      "dam_reg": "R31253",
+      "breeders": [
+        "Robert W. Barnes"
+      ],
+      "owners": [
+        "Germain W. Wooden"
+      ]
+    },
+    {
+      "reg_number": "R48400",
+      "name": "LADY CARDIFF",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-10-48",
+      "color_code": "Black and red",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Buccaneer of Galliard",
+      "sire_reg": "A923972",
+      "dam_name": "Claremont Cookie",
+      "dam_reg": "A879192",
+      "breeders": [
+        "William T. Edwards"
+      ],
+      "owners": [
+        "Mrs. Albert J. Wilson"
+      ]
+    },
+    {
+      "reg_number": "R47704",
+      "name": "LADY MYFANWY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-29-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Ern-Bet Night Cap",
+      "sire_reg": "A721200",
+      "dam_name": "Welsh Abbey of Glen Oak",
+      "dam_reg": "R11719",
+      "breeders": [
+        "Mrs. Alma Greene"
+      ],
+      "owners": [
+        "Timothy D. Lally"
+      ]
+    },
+    {
+      "reg_number": "R48667",
+      "name": "LITTLE MISTER MURDOCH O'PINE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-23-48",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Handyman of Strathglass",
+      "sire_reg": "R13819",
+      "dam_name": "Licken Run's Martini",
+      "dam_reg": "R26463",
+      "breeders": [
+        "Josephine Nathanson"
+      ],
+      "owners": [
+        "Wilbert H. Etter"
+      ]
+    },
+    {
+      "reg_number": "R48177",
+      "name": "LONGLAST EASTER BUNNY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-18-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Oakmar's Rebel Ranger",
+      "sire_reg": "R29702",
+      "dam_name": "Oakmar's Golden Lady",
+      "dam_reg": "A843138",
+      "breeders": [
+        "Dr. Leon Pierson"
+      ],
+      "owners": [
+        "M. A. Ross"
+      ]
+    },
+    {
+      "reg_number": "R48162",
+      "name": "LOUARE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-30-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Warlaine Topper",
+      "sire_reg": "A705528",
+      "dam_name": "Lady Lou-Are",
+      "dam_reg": "R870",
+      "breeders": [
+        "Dorothy V. Holden"
+      ],
+      "owners": [
+        "Mary Cohen"
+      ]
+    }
+  ]
+}

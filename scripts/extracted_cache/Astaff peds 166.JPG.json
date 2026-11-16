@@ -1,0 +1,101 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "SEPT.",
+  "dogs": [
+    {
+      "reg_number": "R70094",
+      "name": "CORVINO'S GINGER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-5-49",
+      "color_code": "Fawn, dark markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Hadley's Booger Red",
+      "sire_reg": "R67431",
+      "dam_name": "Hadley's Red Flash",
+      "dam_reg": "R67428",
+      "breeders": [
+        "Howard M. Hadley"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R70616",
+      "name": "DUKE III",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-12-49",
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Sir Tim",
+      "sire_reg": "R46309",
+      "dam_name": "Kriener's Peg's Jill",
+      "dam_reg": "R47668",
+      "breeders": [
+        "Ruth F. Kriener"
+      ],
+      "owners": [
+        "Lyle B. White"
+      ]
+    },
+    {
+      "reg_number": "R70073",
+      "name": "HADLEY'S SUSAN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-26-49",
+      "color_code": "Golden fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Hadley's Booger Red",
+      "sire_reg": "R67431",
+      "dam_name": "Hadley's Goldie",
+      "dam_reg": "A753128",
+      "breeders": [
+        "Howard M. Hadley"
+      ],
+      "owners": [
+        "Howard M. Hadley"
+      ]
+    },
+    {
+      "reg_number": "R70074",
+      "name": "MARRONE'S PRINCE FANG",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-26-49",
+      "color_code": "Red fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Hadley's Booger Red",
+      "sire_reg": "R67431",
+      "dam_name": "Hadley's Goldie",
+      "dam_reg": "A753128",
+      "breeders": [
+        "Howard M. Hadley"
+      ],
+      "owners": [
+        "Mrs. V. R. Marrone"
+      ]
+    },
+    {
+      "reg_number": "R70587",
+      "name": "ROBERTO FRIDAY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-21-50",
+      "color_code": "Dark brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ruffian Blue Magic",
+      "sire_reg": "R53256",
+      "dam_name": "Ruffian Troubles of Har-Wyn",
+      "dam_reg": "R60813",
+      "breeders": [
+        "Roy A. Velinder"
+      ],
+      "owners": [
+        "Julio Veiga"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "breed": "Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R-34768",
+      "name": "ALLBRITTON'S GREAT GUY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-9-46",
+      "color_code": "Dark brindle, white chest",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Chita's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Yerzy's Lady Mary Alice",
+      "dam_reg": "A-883374",
+      "breeders": [
+        "Raymond L. Allbritton"
+      ],
+      "owners": [
+        "Mr. & Mrs. Irvan Sowash"
+      ]
+    },
+    {
+      "reg_number": "R-35400",
+      "name": "BUTCH KENT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-13-47",
+      "color_code": "Brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Sansonetti's Yankee",
+      "sire_reg": "R-29301",
+      "dam_name": "Sansonetti's Dark Hazard",
+      "dam_reg": "R-20914",
+      "breeders": [
+        "William Kent"
+      ],
+      "owners": [
+        "Wm. J. Sansonetti"
+      ]
+    },
+    {
+      "reg_number": "R-35243",
+      "name": "CALEDONIAN LOKI",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-30-47",
+      "color_code": "Fawn",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Black Duke II",
+      "sire_reg": "R-18688",
+      "dam_name": "Sandy Ann",
+      "dam_reg": "A-853968",
+      "breeders": [
+        "Malcolm MacDonald"
+      ],
+      "owners": [
+        "Mrs. Ralph Schweickert"
+      ]
+    },
+    {
+      "reg_number": "R-35433",
+      "name": "CHARMHURST'S AGAWAM",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-18-45",
+      "color_code": "Fawn, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Charmhurst Minute Man",
+      "sire_reg": "A-538150",
+      "dam_name": "Lady Patsy",
+      "dam_reg": "A-317255",
+      "breeders": [
+        "Matthew J. Cahill"
+      ],
+      "owners": [
+        "Robert P. Vickers"
+      ]
+    },
+    {
+      "reg_number": "R-35434",
+      "name": "CHARMHURST'S OVERTURE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-22-46",
+      "color_code": "White, fawn markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Charmhurst's Minute Man",
+      "sire_reg": "A-538150",
+      "dam_name": "Charmhurst's April Shower",
+      "dam_reg": "A-653253",
+      "breeders": [
+        "Fred W. Fiore"
+      ],
+      "owners": [
+        "Robert P. Vickers"
+      ]
+    },
+    {
+      "reg_number": "R-34271",
+      "name": "GEER'S MOLLY McGEE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-15-47",
+      "color_code": "Buff and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Lamb's Whiskers",
+      "sire_reg": "A-747554",
+      "dam_name": "Fuller's Maggie McGee",
+      "dam_reg": "R-3296",
+      "breeders": [
+        "Leonard P. Geer"
+      ],
+      "owners": [
+        "Charles R. Fuller"
+      ]
+    },
+    {
+      "reg_number": "R-34281",
+      "name": "RASCAL RAIDER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-20-47",
+      "color_code": "Black, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Top-O'-Mich Blue Buccaneer",
+      "sire_reg": "R-6224",
+      "dam_name": "Top-O'-Mich Double Trouble",
+      "dam_reg": "R-6227",
+      "breeders": [
+        "Mrs. Katherine Studdard"
+      ],
+      "owners": [
+        "Hugh M. Ferguson"
+      ]
+    },
+    {
+      "reg_number": "R-34855",
+      "name": "TARGET OF MAPLECREEK",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-23-47",
+      "color_code": "Black, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Duke of Maplecreek",
+      "sire_reg": "R-13868",
+      "dam_name": "Annie Oakley of Maplecreek",
+      "dam_reg": "R-17351",
+      "breeders": [
+        "John R. Shepley"
+      ],
+      "owners": [
+        "John R. Shepley"
+      ]
+    },
+    {
+      "reg_number": "R-34614",
+      "name": "ASHBY'S GELLERT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-24-47",
+      "color_code": "Tan and black",
+      "breed": "Welsh Terrier",
+      "sire_name": "Bachgen Drwg",
+      "sire_reg": "R-33040",
+      "dam_name": "Rusty Rogue",
+      "dam_reg": "R-33039",
+      "breeders": [
+        "Francis L. Ashby"
+      ],
+      "owners": [
+        "Frances Wollochow"
+      ]
+    },
+    {
+      "reg_number": "R-34545",
+      "name": "BELLOTA CLOVER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-12-45",
+      "color_code": "Tan and black",
+      "breed": "Welsh Terrier",
+      "sire_name": "Mine Brook Gillian",
+      "sire_reg": "A-761674",
+      "dam_name": "Strathglass Maid",
+      "dam_reg": "A-696077",
+      "breeders": [
+        "Josephine Reyn Spalding"
+      ],
+      "owners": [
+        "James V. Robinson"
+      ]
+    },
+    {
+      "reg_number": "R-35072",
+      "name": "BIFF GREEN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-11-46",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Bartons Rusty Tim",
+      "sire_reg": "A-822581",
+      "dam_name": "Sunnysheath Clipper",
+      "dam_reg": "A-959907",
+      "breeders": [
+        "Harry E. Railsback"
+      ],
+      "owners": [
+        "Ethel M. Johnson"
+      ]
+    },
+    {
+      "reg_number": "R-35125",
+      "name": "BLACKTHORNE TAFFETA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-28-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Blackthorn Blackjack",
+      "sire_reg": "R-22657",
+      "dam_name": "Blackthorn Blackscrap",
+      "dam_reg": "R-3278",
+      "breeders": [
+        "Mrs. A. H. Carver"
+      ],
+      "owners": [
+        "R. W. Bemis"
+      ]
+    },
+    {
+      "reg_number": "R-34243",
+      "name": "CAPTAIN RONNIE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-31-46",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Merryday Symbol",
+      "sire_reg": "R-3681",
+      "dam_name": "Skyhigh Bonnie",
+      "dam_reg": "R-12532",
+      "breeders": [
+        "Al Moran"
+      ],
+      "owners": [
+        "Leo Matuszak"
+      ]
+    },
+    {
+      "reg_number": "R-35208",
+      "name": "CINDERS II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-10-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Halcyon Masterpiece",
+      "sire_reg": "A-943088",
+      "dam_name": "Tynwyin Tansyanne",
+      "dam_reg": "R-6031",
+      "breeders": [
+        "Hilda C. Hennemuth"
+      ],
+      "owners": [
+        "Mrs. Arthur J. Gyer"
+      ]
+    },
+    {
+      "reg_number": "R-34665",
+      "name": "COLTAN MEG",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-5-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Strathglass Bingo's Venture",
+      "sire_reg": "A-587909",
+      "dam_name": "Nutmeg",
+      "dam_reg": "A-393274",
+      "breeders": [
+        "Lucy Gair Gill"
+      ],
+      "owners": [
+        "Mr. & Mrs. S. Sloan Colt"
+      ]
+    },
+    {
+      "reg_number": "R-35126",
+      "name": "COLTAN TWILIGHT",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-12-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Flornell Rare-Bit of Twin Ponds",
+      "sire_reg": "A-462974",
+      "dam_name": "Coltan Dawn",
+      "dam_reg": "A-958794",
+      "breeders": [
+        "Mr. & Mrs. S. Sloan Colt"
+      ],
+      "owners": [
+        "Mr. & Mrs. S. Sloan Colt"
+      ]
+    },
+    {
+      "reg_number": "R-35453",
+      "name": "CORBSCOT A DARE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-8-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Mine Brook Gillian",
+      "sire_reg": "A-761674",
+      "dam_name": "Corbscot Blondie",
+      "dam_reg": "R-17103",
+      "breeders": [
+        "Verna E. Corby"
+      ],
+      "owners": [
+        "Verna E. Corby"
+      ]
+    },
+    {
+      "reg_number": "R-35264",
+      "name": "FUZZY WUZZY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-16-47",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Twin Ponds Vanguard",
+      "sire_reg": "A-747123",
+      "dam_name": "Make Believe",
+      "dam_reg": "R-5555",
+      "breeders": [
+        "Alexis Obolensky"
+      ],
+      "owners": [
+        "Leonard Brumby, Jr."
+      ]
+    }
+  ]
+}

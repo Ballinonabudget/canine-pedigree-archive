@@ -1,0 +1,27 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "UNKNOWN",
+      "name": "CH EVERGREEN'S PEACHES N CREAM",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH Tryarr Diamondback Redbolt",
+      "sire_reg": null,
+      "dam_name": "Wheezer's Shady Lady",
+      "dam_reg": null,
+      "breeders": [
+        "Jim Brown",
+        "Carolyn Brown"
+      ],
+      "owners": [
+        "Holly Floberg",
+        "Carolyn Brown"
+      ]
+    }
+  ]
+}

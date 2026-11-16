@@ -1,0 +1,804 @@
+{
+  "breed": "Staffordshire Terrier",
+  "date_header": "November, 1950",
+  "dogs": [
+    {
+      "reg_number": "R72465",
+      "name": "LADY CHRISTEEN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-12-49",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Cisco",
+      "sire_reg": "R-20148",
+      "dam_name": "Lupe",
+      "dam_reg": "R-25983",
+      "breeders": [
+        "Mrs. H. O. Lind"
+      ],
+      "owners": [
+        "Rose V. Buncke"
+      ]
+    },
+    {
+      "reg_number": "R72481",
+      "name": "MAC DUFF McGREGOR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-24-50",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Bonhomme's Jock",
+      "sire_reg": "R-46240",
+      "dam_name": "Amity of Town's-End",
+      "dam_reg": "A-821430",
+      "breeders": [
+        "Victor E. & Louise M. Krakehl"
+      ],
+      "owners": [
+        "Mrs. A. L. Bonhomme"
+      ]
+    },
+    {
+      "reg_number": "R73068",
+      "name": "MAG'S MATILDA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-29-46",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Etherden's Shindy Serene",
+      "sire_reg": "A-813787",
+      "dam_name": "Samphire Scamp's Vampire",
+      "dam_reg": "R-383",
+      "breeders": [
+        "Marjorie E. & William W. Harvey"
+      ],
+      "owners": [
+        "Sarah Clar"
+      ]
+    },
+    {
+      "reg_number": "R71944",
+      "name": "RINKLESTONE RAPACIOUS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-2-49",
+      "color_code": "White, tan marking",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Rinklestone Radar",
+      "sire_reg": "A-883223",
+      "dam_name": "Bergman's Bubbles",
+      "dam_reg": "R-11633",
+      "breeders": [
+        "Lois S. Gibson"
+      ],
+      "owners": [
+        "Mrs. Violett M. Welsh"
+      ]
+    },
+    {
+      "reg_number": "R72609",
+      "name": "SAL JR.",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-1-50",
+      "color_code": "White, badger head markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Walgil Grit",
+      "sire_reg": "A-981785",
+      "dam_name": "Sal",
+      "dam_reg": "R-37700",
+      "breeders": [
+        "Thos. B. Hoover"
+      ],
+      "owners": [
+        "Thos. B. Hoover"
+      ]
+    },
+    {
+      "reg_number": "R73207",
+      "name": "VAGABOND OF TOWN'S-END",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-20-50",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Hot Spur of Town's-End",
+      "sire_reg": "R-10301",
+      "dam_name": "Havoc of Town's-End",
+      "dam_reg": "R-10305",
+      "breeders": [
+        "Wm. Dixon Townsend"
+      ],
+      "owners": [
+        "Wm. Dixon Townsend"
+      ]
+    },
+    {
+      "reg_number": "R73208",
+      "name": "VALIANT OF TOWN'S-END",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-20-50",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Hot Spur of Town's-End",
+      "sire_reg": "R-10301",
+      "dam_name": "Havoc of Town's-End",
+      "dam_reg": "R-10305",
+      "breeders": [
+        "Wm. Dixon Townsend"
+      ],
+      "owners": [
+        "Wm. Dixon Townsend"
+      ]
+    },
+    {
+      "reg_number": "R73211",
+      "name": "VARLET OF TOWN'S-END",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-20-50",
+      "color_code": "White, badger head markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Hot Spur of Town's-End",
+      "sire_reg": "R-10301",
+      "dam_name": "Havoc of Town's-End",
+      "dam_reg": "R-10305",
+      "breeders": [
+        "Wm. Dixon Townsend"
+      ],
+      "owners": [
+        "Wm. Dixon Townsend"
+      ]
+    },
+    {
+      "reg_number": "R73209",
+      "name": "VENTURE OF TOWN'S-END",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-20-50",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Hot Spur of Town's-End",
+      "sire_reg": "R-10301",
+      "dam_name": "Havoc of Town's-End",
+      "dam_reg": "R-10305",
+      "breeders": [
+        "Wm. Dixon Townsend"
+      ],
+      "owners": [
+        "Wm. Dixon Townsend"
+      ]
+    },
+    {
+      "reg_number": "R73210",
+      "name": "VERITY OF TOWN'S-END",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-20-50",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Hot Spur of Town's-End",
+      "sire_reg": "R-10301",
+      "dam_name": "Havoc of Town's-End",
+      "dam_reg": "R-10305",
+      "breeders": [
+        "Wm. Dixon Townsend"
+      ],
+      "owners": [
+        "Wm. Dixon Townsend"
+      ]
+    },
+    {
+      "reg_number": "R73212",
+      "name": "VERVE OF TOWN'S-END",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-20-50",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Hot Spur of Town's-End",
+      "sire_reg": "R-10301",
+      "dam_name": "Havoc of Town's-End",
+      "dam_reg": "R-10305",
+      "breeders": [
+        "Wm. Dixon Townsend"
+      ],
+      "owners": [
+        "Wm. Dixon Townsend"
+      ]
+    },
+    {
+      "reg_number": "R72365",
+      "name": "CELESTE OF ARRETON",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-5-50",
+      "color_code": "Silver",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. War Aims of Arreton",
+      "sire_reg": "A-526789",
+      "dam_name": "Ch. Du Bazizoo Celeste",
+      "dam_reg": "A-394961",
+      "breeders": [
+        "Mrs. Michael Stillman"
+      ],
+      "owners": [
+        "Mrs. Michael Stillman"
+      ]
+    },
+    {
+      "reg_number": "R72366",
+      "name": "CHLOE OF ARRETON",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-5-50",
+      "color_code": "Silver",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. War Aims of Arreton",
+      "sire_reg": "A-526789",
+      "dam_name": "Ch. Du Bazizoo Celeste",
+      "dam_reg": "A-394961",
+      "breeders": [
+        "Mrs. Michael Stillman"
+      ],
+      "owners": [
+        "Mrs. Michael Stillman"
+      ]
+    },
+    {
+      "reg_number": "R72566",
+      "name": "DONALBAIN MENSCH",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-9-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Swamie's Nipper",
+      "sire_reg": "R-34785",
+      "dam_name": "Ch. Ring Bearer of Letts-Dhu",
+      "dam_reg": "R-6717",
+      "breeders": [
+        "Howard M. Mensch"
+      ],
+      "owners": [
+        "Newell Schwamberger"
+      ]
+    },
+    {
+      "reg_number": "R72865",
+      "name": "HALONA OF STONEBRAE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-27-49",
+      "color_code": "Light silver",
+      "breed": "Skye Terrier",
+      "sire_name": "Charles of Letts-Dhu",
+      "sire_reg": "R-48937",
+      "dam_name": "Ch. Little Dorrit of Letts-Dhu",
+      "dam_reg": "R-19208",
+      "breeders": [
+        "Mr. & Mrs. Herbert Hudson"
+      ],
+      "owners": [
+        "Meta A. Tompkins"
+      ]
+    },
+    {
+      "reg_number": "R72539",
+      "name": "LORNA OF LETTS-DHU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-27-50",
+      "color_code": "Gray and fawn, black points",
+      "breed": "Skye Terrier",
+      "sire_name": "Ross of Letts-Dhu",
+      "sire_reg": "R-33991",
+      "dam_name": "Miss Muffet of Letts-Dhu",
+      "dam_reg": "R-55973",
+      "breeders": [
+        "Virginia F. Tompkins"
+      ],
+      "owners": [
+        "Anita & Allen Thomas"
+      ]
+    },
+    {
+      "reg_number": "R72258",
+      "name": "MERRYMOUNT CUTE OF IRADELL (ENGLAND)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-17-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Merrymount You'll Do*",
+      "sire_reg": null,
+      "dam_name": "Rebecca of Merrymount*",
+      "dam_reg": null,
+      "breeders": [
+        "Consuelo V. Smith"
+      ],
+      "owners": [
+        "Lady Marcia Miles"
+      ]
+    },
+    {
+      "reg_number": "R72575",
+      "name": "MERRYMOUNT DESDEMONA OF IRADELL (ENGLAND)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-17-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Merrymount You'll Do*",
+      "sire_reg": null,
+      "dam_name": "Rebecca of Merrymount*",
+      "dam_reg": null,
+      "breeders": [
+        "Consuelo V. Smith"
+      ],
+      "owners": [
+        "Lady Marcia Miles"
+      ]
+    },
+    {
+      "reg_number": "R72570",
+      "name": "SWAMIE'S PRINCES PEGGIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-9-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Swamie's Nipper",
+      "sire_reg": "R-34785",
+      "dam_name": "Ch. Ring Bearer of Letts-Dhu",
+      "dam_reg": "R-6717",
+      "breeders": [
+        "Newell Schwamberger"
+      ],
+      "owners": [
+        "Newell Schwamberger"
+      ]
+    },
+    {
+      "reg_number": "R72568",
+      "name": "SWAMIE'S RAGGATIE ANDY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-9-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Swamie's Nipper",
+      "sire_reg": "R-34785",
+      "dam_name": "Ch. Ring Bearer of Letts-Dhu",
+      "dam_reg": "R-6717",
+      "breeders": [
+        "Newell Schwamberger"
+      ],
+      "owners": [
+        "Newell Schwamberger"
+      ]
+    },
+    {
+      "reg_number": "R72567",
+      "name": "SWAMIE'S RAG MOP",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-9-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Swamie's Nipper",
+      "sire_reg": "R-34785",
+      "dam_name": "Ch. Ring Bearer of Letts-Dhu",
+      "dam_reg": "R-6717",
+      "breeders": [
+        "Newell Schwamberger"
+      ],
+      "owners": [
+        "Newell Schwamberger"
+      ]
+    },
+    {
+      "reg_number": "R72572",
+      "name": "SWAMIE'S ZEDA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-9-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Swamie's Nipper",
+      "sire_reg": "R-34785",
+      "dam_name": "Ch. Ring Bearer of Letts-Dhu",
+      "dam_reg": "R-6717",
+      "breeders": [
+        "Newell Schwamberger"
+      ],
+      "owners": [
+        "Newell Schwamberger"
+      ]
+    },
+    {
+      "reg_number": "R72571",
+      "name": "SWAMIE'S ZELDA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-9-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Swamie's Nipper",
+      "sire_reg": "R-34785",
+      "dam_name": "Ch. Ring Bearer of Letts-Dhu",
+      "dam_reg": "R-6717",
+      "breeders": [
+        "Newell Schwamberger"
+      ],
+      "owners": [
+        "Newell Schwamberger"
+      ]
+    },
+    {
+      "reg_number": "R72569",
+      "name": "SWAMIE'S ZOLA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-9-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Ch. Swamie's Nipper",
+      "sire_reg": "R-34785",
+      "dam_name": "Ch. Ring Bearer of Letts-Dhu",
+      "dam_reg": "R-6717",
+      "breeders": [
+        "Newell Schwamberger"
+      ],
+      "owners": [
+        "Newell Schwamberger"
+      ]
+    },
+    {
+      "reg_number": "R72421",
+      "name": "TALISKER'S CINDERS (CANADA)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-29-50",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Kirkby Longago of Talisker*",
+      "sire_reg": null,
+      "dam_name": "Talisker's Shining Star*",
+      "dam_reg": null,
+      "breeders": [
+        "Ralph R. George"
+      ],
+      "owners": [
+        "Mrs. R. Percy Adams"
+      ]
+    },
+    {
+      "reg_number": "R73038",
+      "name": "ABLE'S TACOMA TUFFY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-10-49",
+      "color_code": "Brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Kane's Tacoma Blaze",
+      "sire_reg": "A-776601",
+      "dam_name": "X-Pert Lutie Jane",
+      "dam_reg": "R-41658",
+      "breeders": [
+        "Mrs. Frank Able"
+      ],
+      "owners": [
+        "James P. Kane"
+      ]
+    },
+    {
+      "reg_number": "R72450",
+      "name": "ALLIE'S BOOTSIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-9-48",
+      "color_code": "Brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Anne's Mike",
+      "sire_reg": "R-32849",
+      "dam_name": "Bobby Sox",
+      "dam_reg": "A-986772",
+      "breeders": [
+        "Moses Bowden"
+      ],
+      "owners": [
+        "H. M. Lawhorne"
+      ]
+    },
+    {
+      "reg_number": "R72634",
+      "name": "BUSTER BOY II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-24-49",
+      "color_code": "Brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ben's Dan",
+      "sire_reg": "A-930148",
+      "dam_name": "Ben's Sue",
+      "dam_reg": "A-930149",
+      "breeders": [
+        "E. B. Eubanks"
+      ],
+      "owners": [
+        "Homer S. Thompson"
+      ]
+    },
+    {
+      "reg_number": "R72060",
+      "name": "DUSTY THE WATCH MAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-10-49",
+      "color_code": "Light fawn, black muzzle",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Pugnacious de Navarro",
+      "sire_reg": "R-28725",
+      "dam_name": "Ruffian Mischief Maker",
+      "dam_reg": "A-727557",
+      "breeders": [
+        "J. B. McDaniel"
+      ],
+      "owners": [
+        "Mrs. W. D. Harper"
+      ]
+    },
+    {
+      "reg_number": "R72364",
+      "name": "FARLSDALE'S BARON'S BELLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-13-50",
+      "color_code": "Black, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Farlsdale's Tint o' Tan",
+      "dam_reg": "R-65919",
+      "breeders": [
+        "Owen E. Jones"
+      ],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R72357",
+      "name": "FARLSDALE'S BLACK PRINCE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-13-50",
+      "color_code": "Black",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Farlsdale's Tint o' Tan",
+      "dam_reg": "R-65919",
+      "breeders": [
+        "Marguerite Farley"
+      ],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R72359",
+      "name": "FARLSDALE'S BRINDLE BILL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-13-50",
+      "color_code": "Brindle",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Farlsdale's Tint o' Tan",
+      "dam_reg": "R-65919",
+      "breeders": [
+        "Owen E. Jones"
+      ],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R72358",
+      "name": "FARLSDALE'S KING OF CLUBS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-13-50",
+      "color_code": "Black",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Farlsdale's Tint o' Tan",
+      "dam_reg": "R-65919",
+      "breeders": [
+        "Marguerite Farley"
+      ],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R72361",
+      "name": "FARLSDALE'S KOKO BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-13-50",
+      "color_code": "Brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Farlsdale's Tint o' Tan",
+      "dam_reg": "R-65919",
+      "breeders": [
+        "Owen E. Jones"
+      ],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R72362",
+      "name": "FARLSDALE'S MISS PRISS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-13-50",
+      "color_code": "Black, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Farlsdale's Tint o' Tan",
+      "dam_reg": "R-65919",
+      "breeders": [
+        "Owen E. Jones"
+      ],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R73189",
+      "name": "GALLANT FLASH OF RIVERS BEND",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-1-49",
+      "color_code": "Brindle, white on chest",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Kim",
+      "sire_reg": "A-727555",
+      "dam_name": "Sherry of Sherwall",
+      "dam_reg": "R-11724",
+      "breeders": [
+        "Margaret Joanne Leech"
+      ],
+      "owners": [
+        "Dr. Linwood Morris"
+      ]
+    },
+    {
+      "reg_number": "R73201",
+      "name": "GREER'S STAR MARK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-16-50",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Greer's Duke",
+      "sire_reg": "R-69276",
+      "dam_name": "Ch. X-Pert Greer's Princess",
+      "dam_reg": "R-41185",
+      "breeders": [
+        "Samuel Humphrey"
+      ],
+      "owners": [
+        "Eugene E. Greer"
+      ]
+    },
+    {
+      "reg_number": "R72363",
+      "name": "LADY MISCHIEF OF FARLSDALE'S",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-13-50",
+      "color_code": "Black, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Farlsdale's Tint o' Tan",
+      "dam_reg": "R-65919",
+      "breeders": [
+        "Owen E. Jones"
+      ],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R72250",
+      "name": "MAJOR X-PERT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-11-50",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. X-Pert Bold Skipper",
+      "sire_reg": "R-23654",
+      "dam_name": "Sideview Bell",
+      "dam_reg": "R-20379",
+      "breeders": [
+        "Tom B. Henry"
+      ],
+      "owners": [
+        "Charles R. Henry"
+      ]
+    },
+    {
+      "reg_number": "R72350",
+      "name": "MIKE III",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-17-50",
+      "color_code": "Gray brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Mike II",
+      "sire_reg": "R-22913",
+      "dam_name": "DeVault's Dolly Vee",
+      "dam_reg": "R-61099",
+      "breeders": [
+        "W. Thelbert Rippetoe"
+      ],
+      "owners": [
+        "A. B. DeVault"
+      ]
+    },
+    {
+      "reg_number": "R72135",
+      "name": "PHILSTAF'S DIAMOND DAISY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-29-50",
+      "color_code": "Light brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "General of Twin Birches",
+      "sire_reg": "R-44126",
+      "dam_name": "Maggie's Diamond",
+      "dam_reg": "R-43862",
+      "breeders": [
+        "Clements J. Philipski"
+      ],
+      "owners": [
+        "Mr. & Mrs. C. J. Philipski"
+      ]
+    },
+    {
+      "reg_number": "R72133",
+      "name": "PHILSTAF'S DIAMOND DOLLY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-29-50",
+      "color_code": "Light brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "General of Twin Birches",
+      "sire_reg": "R-44126",
+      "dam_name": "Maggie's Diamond",
+      "dam_reg": "R-43862",
+      "breeders": [
+        "Clements J. Philipski"
+      ],
+      "owners": [
+        "Mr. & Mrs. C. J. Philipski"
+      ]
+    }
+  ]
+}

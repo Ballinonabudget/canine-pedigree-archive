@@ -1,0 +1,481 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R23207",
+      "name": "BEAU",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-28-46",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Scalawag",
+      "sire_reg": "A422376",
+      "dam_name": "Douglass' Lady In Red",
+      "dam_reg": "A904018",
+      "breeders": [
+        "Carl E. Krantz"
+      ],
+      "owners": [
+        "Paul W. Douglass"
+      ]
+    },
+    {
+      "reg_number": "R24592",
+      "name": "BETTY'S SKEEZEX",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-3-45",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Red Rascal",
+      "sire_reg": "A853967",
+      "dam_name": "Sandy Ann",
+      "dam_reg": "A853968",
+      "breeders": [
+        "H. J. Sayres"
+      ],
+      "owners": [
+        "Mrs. Ralph Schweickert"
+      ]
+    },
+    {
+      "reg_number": "R23345",
+      "name": "BUCKEYE BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-6-47",
+      "color_code": "Fawn, white marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farlsdale's Honey Boy",
+      "sire_reg": "R9164",
+      "dam_name": "Brindle Queen",
+      "dam_reg": "A939054",
+      "breeders": [
+        "William A. Beyerle"
+      ],
+      "owners": [
+        "Florence E. Beyerle"
+      ]
+    },
+    {
+      "reg_number": "R24559",
+      "name": "DAZZLER HY CHUM",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-30-47",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Dazzler",
+      "sire_reg": "A422377",
+      "dam_name": "Ruffian Bobby Socks Pudge",
+      "dam_reg": "A852772",
+      "breeders": [
+        "Martin C. Middaugh"
+      ],
+      "owners": [
+        "Charles L. Flinker"
+      ]
+    },
+    {
+      "reg_number": "R23344",
+      "name": "DEE'S MASKED ROGUE II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-6-47",
+      "color_code": "Fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farlsdale's Honey Boy",
+      "sire_reg": "R9164",
+      "dam_name": "Brindle Queen",
+      "dam_reg": "A939054",
+      "breeders": [
+        "James E. Dee"
+      ],
+      "owners": [
+        "Florence E. Beyerle"
+      ]
+    },
+    {
+      "reg_number": "R24096",
+      "name": "DOYLE'S TACOMA DEBUTANTE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-4-45",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dispatcher",
+      "sire_reg": "A819563",
+      "dam_name": "Doyle's Honey",
+      "dam_reg": "A643420",
+      "breeders": [
+        "Chas. J. Doyle"
+      ],
+      "owners": [
+        "Lawrence M. Sans"
+      ]
+    },
+    {
+      "reg_number": "R23348",
+      "name": "FARLSDALE'S FIRE FLY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-6-47",
+      "color_code": "Fawn, white marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farlsdale's Honey Boy",
+      "sire_reg": "R9164",
+      "dam_name": "Brindle Queen",
+      "dam_reg": "A939054",
+      "breeders": [
+        "Marguerite Farley"
+      ],
+      "owners": [
+        "Florence E. Beyerle"
+      ]
+    },
+    {
+      "reg_number": "R24214",
+      "name": "HAPPY PAT",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-31-46",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Rhone's Tioga Tige",
+      "sire_reg": "A845646",
+      "dam_name": "Springville Patsy",
+      "dam_reg": "R18690",
+      "breeders": [
+        "Trevor Evans"
+      ],
+      "owners": [
+        "Mrs. Ralph E. Schweickert"
+      ]
+    },
+    {
+      "reg_number": "R23107",
+      "name": "MISS BELLE COSE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-21-46",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Rhone's Tioga Tige",
+      "sire_reg": "A845646",
+      "dam_name": "Sandy Ann",
+      "dam_reg": "A853968",
+      "breeders": [
+        "Chas. W. Entwisle"
+      ],
+      "owners": [
+        "Mrs. Ralph Schweickert"
+      ]
+    },
+    {
+      "reg_number": "R23206",
+      "name": "MISS MOE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-9-46",
+      "color_code": "White, black marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Keene's Smokey",
+      "sire_reg": "A516837",
+      "dam_name": "Sans' Pinkie",
+      "dam_reg": "A674956",
+      "breeders": [
+        "Mrs. George Wiedemer"
+      ],
+      "owners": [
+        "Mrs. Lawrence M. Sans"
+      ]
+    },
+    {
+      "reg_number": "R23103",
+      "name": "PUDDINPIE BLUE SMOKE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-7-47",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ruffian Headlight Hal",
+      "sire_reg": "A586841",
+      "dam_name": "Ruffian Dreadnaught",
+      "dam_reg": "A908534",
+      "breeders": [
+        "William M. Whitaker"
+      ],
+      "owners": [
+        "Winnie Doris Harper"
+      ]
+    },
+    {
+      "reg_number": "R23102",
+      "name": "PUDDINPIE PEPPER DUSTER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-7-47",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ruffian Headlight Hal",
+      "sire_reg": "A586841",
+      "dam_name": "Ruffian Dreadnaught",
+      "dam_reg": "A908534",
+      "breeders": [
+        "William M. Whitaker"
+      ],
+      "owners": [
+        "Winnie Doris Harper"
+      ]
+    },
+    {
+      "reg_number": "R23343",
+      "name": "QUEEN'S APACHE CHIEF",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-6-47",
+      "color_code": "Brindle, white marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farlsdale's Honey Boy",
+      "sire_reg": "R9164",
+      "dam_name": "Brindle Queen",
+      "dam_reg": "A939054",
+      "breeders": [
+        "Florence E. Beyerle"
+      ],
+      "owners": [
+        "Florence E. Beyerle"
+      ]
+    },
+    {
+      "reg_number": "R23342",
+      "name": "QUEEN'S DOMINO JACK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-6-47",
+      "color_code": "Fawn, white marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farlsdale's Honey Boy",
+      "sire_reg": "R9164",
+      "dam_name": "Brindle Queen",
+      "dam_reg": "A939054",
+      "breeders": [
+        "Florence E. Beyerle"
+      ],
+      "owners": [
+        "Florence E. Beyerle"
+      ]
+    },
+    {
+      "reg_number": "R23347",
+      "name": "QUEENIE'S DOTTIE DIMPLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-6-47",
+      "color_code": "Fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farlsdale's Honey Boy",
+      "sire_reg": "R9164",
+      "dam_name": "Brindle Queen",
+      "dam_reg": "A939054",
+      "breeders": [
+        "Florence E. Beyerle"
+      ],
+      "owners": [
+        "Florence E. Beyerle"
+      ]
+    },
+    {
+      "reg_number": "R23346",
+      "name": "QUEEN'S SAUCY SUE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-6-47",
+      "color_code": "Brindle, white marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farlsdale's Honey Boy",
+      "sire_reg": "R9164",
+      "dam_name": "Brindle Queen",
+      "dam_reg": "A939054",
+      "breeders": [
+        "Florence E. Beyerle"
+      ],
+      "owners": [
+        "Florence E. Beyerle"
+      ]
+    },
+    {
+      "reg_number": "R23341",
+      "name": "QUEEN'S YANKEE KID",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-6-47",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Farlsdale's Honey Boy",
+      "sire_reg": "R9164",
+      "dam_name": "Brindle Queen",
+      "dam_reg": "A939054",
+      "breeders": [
+        "Florence E. Beyerle"
+      ],
+      "owners": [
+        "Florence E. Beyerle"
+      ]
+    },
+    {
+      "reg_number": "R24180",
+      "name": "SCRAPS II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-11-47",
+      "color_code": "Fawn, black mask, white chest",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Rhone's Tioga Tige",
+      "sire_reg": "A845646",
+      "dam_name": "Muggin's Ginger Belle",
+      "dam_reg": "R4530",
+      "breeders": [
+        "Eugene P. Aldredge"
+      ],
+      "owners": [
+        "Thea Mann"
+      ]
+    },
+    {
+      "reg_number": "R23624",
+      "name": "TUSCA GINGER GIRL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-21-46",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Rhone's Tioga Tige",
+      "sire_reg": "A845646",
+      "dam_name": "Sandy Ann",
+      "dam_reg": "A853968",
+      "breeders": [
+        "Edward F. Stewart"
+      ],
+      "owners": [
+        "Mrs. Ralph Schweickert"
+      ]
+    },
+    {
+      "reg_number": "R23691",
+      "name": "VICKY VI",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-9-46",
+      "color_code": "Dark brindle, white chest",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A683434",
+      "dam_name": "Yerzy's Lady Mary Alice",
+      "dam_reg": "A883374",
+      "breeders": [
+        "Mr. & Mrs. I. R. Sowash"
+      ],
+      "owners": [
+        "Mr. & Mrs. I. R. Sowash"
+      ]
+    },
+    {
+      "reg_number": "R23663",
+      "name": "X-PERT BLOSSOM QUEEN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-16-47",
+      "color_code": "Dark brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Shiek",
+      "sire_reg": "A610478",
+      "dam_name": "X-Pert Gallant Betty",
+      "dam_reg": "A822281",
+      "breeders": [
+        "Henry Schuhmann"
+      ],
+      "owners": [
+        "Henry Schuhmann"
+      ]
+    },
+    {
+      "reg_number": "R23654",
+      "name": "X-PERT BOLD SKIPPER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-16-47",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Shiek",
+      "sire_reg": "A610478",
+      "dam_name": "X-Pert Gallant Betty",
+      "dam_reg": "A822281",
+      "breeders": [
+        "H. J. Kiefer"
+      ],
+      "owners": [
+        "Henry Schuhmann"
+      ]
+    },
+    {
+      "reg_number": "R24209",
+      "name": "X-PERT BRINDLE TRAVELER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-2-47",
+      "color_code": "Red brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Sheik",
+      "sire_reg": "A610478",
+      "dam_name": "X-Pert Red Susie",
+      "dam_reg": "A835062",
+      "breeders": [
+        "Francis H. Reinema"
+      ],
+      "owners": [
+        "Alexander L. McKnight"
+      ]
+    },
+    {
+      "reg_number": "R24210",
+      "name": "X-PERT DIAMOND RED DUKE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-2-47",
+      "color_code": "Red, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Sheik",
+      "sire_reg": "A610478",
+      "dam_name": "X-Pert Red Susie",
+      "dam_reg": "A835062",
+      "breeders": [
+        "Clifford B. Dounce, Jr."
+      ],
+      "owners": [
+        "Alexander L. McKnight"
+      ]
+    },
+    {
+      "reg_number": "R23662",
+      "name": "X-PERT GYPSY ROSE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-16-47",
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Shiek",
+      "sire_reg": "A610478",
+      "dam_name": "X-Pert Gallant Betty",
+      "dam_reg": "A822281",
+      "breeders": [
+        "M. J. McDonald"
+      ],
+      "owners": [
+        "Henry Schuhmann"
+      ]
+    }
+  ]
+}
