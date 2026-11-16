@@ -1,0 +1,362 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R7050",
+      "name": "BARBAR'S BEAU",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-1-46",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "The Tiger of Cleveland",
+      "sire_reg": "A613804",
+      "dam_name": "Doyle's Penelope",
+      "dam_reg": "A907875",
+      "breeders": [],
+      "owners": [
+        "Eileen P. Books"
+      ]
+    },
+    {
+      "reg_number": "R7596",
+      "name": "CARDIFF'S FAWN WARRIOR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-11-46",
+      "color_code": "Fawn, white marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Scalawag",
+      "sire_reg": "A422376",
+      "dam_name": "Kyle's Golden Girl",
+      "dam_reg": "A776678",
+      "breeders": [
+        "Walter J. Cardiff"
+      ],
+      "owners": [
+        "Fred T. Kyle"
+      ]
+    },
+    {
+      "reg_number": "R7719",
+      "name": "CHITA'S BUTCH",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-14-45",
+      "color_code": "Red brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Hadley's Bullet",
+      "sire_reg": "A954851",
+      "dam_name": "Ch. Chita",
+      "dam_reg": "A321803",
+      "breeders": [
+        "Dorothy A. McKnight"
+      ],
+      "owners": [
+        "Mrs. L. L. Wakefield"
+      ]
+    },
+    {
+      "reg_number": "R6638",
+      "name": "CHITA'S NIKIE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Clarence R. Dykstra"
+      ]
+    },
+    {
+      "reg_number": "R7114",
+      "name": "CORNWELL'S BIG MIKE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-25-45",
+      "color_code": "Red brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Hadley's Bullet",
+      "sire_reg": "A954851",
+      "dam_name": "Hadley's Julie",
+      "dam_reg": "R2808",
+      "breeders": [
+        "William H. Cornwell"
+      ],
+      "owners": [
+        "Howard M. Hadley"
+      ]
+    },
+    {
+      "reg_number": "R7115",
+      "name": "HADLEY'S CRICKET",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Red, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Howard M. Hadley"
+      ]
+    },
+    {
+      "reg_number": "R7116",
+      "name": "HADLEY'S MISSIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Red",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Howard M. Hadley"
+      ]
+    },
+    {
+      "reg_number": "R6664",
+      "name": "JUNE'S BOSTON BABE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-24-43",
+      "color_code": "Brindle, white marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Scalawag",
+      "sire_reg": "A422376",
+      "dam_name": "Kyle's Golden Girl",
+      "dam_reg": "A776678",
+      "breeders": [
+        "Herman D. Knauff"
+      ],
+      "owners": [
+        "Fred T. Kyle"
+      ]
+    },
+    {
+      "reg_number": "R8013",
+      "name": "LEWIS' DUCHESS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-19-46",
+      "color_code": "Dark brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Tiger Crusader",
+      "sire_reg": "A583697",
+      "dam_name": "Ruffian Slide Rule",
+      "dam_reg": "A727560",
+      "breeders": [
+        "Mrs. Nesbit C. Clark"
+      ],
+      "owners": [
+        "William C. Lewis"
+      ]
+    },
+    {
+      "reg_number": "R7118",
+      "name": "LEWIS' FLORIDA RAIN STORM",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Light brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Adam C. Lewis"
+      ]
+    },
+    {
+      "reg_number": "R7119",
+      "name": "LEWIS' VAGABOND",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Light brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Charles C. Wilson"
+      ]
+    },
+    {
+      "reg_number": "R7051",
+      "name": "MR. MUGWUMP",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-1-46",
+      "color_code": "Red brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "The Tiger of Cleveland",
+      "sire_reg": "A613804",
+      "dam_name": "Doyle's Penelope",
+      "dam_reg": "A907875",
+      "breeders": [
+        "Wm. J. Books"
+      ],
+      "owners": [
+        "Eileen P. Books"
+      ]
+    },
+    {
+      "reg_number": "R6633",
+      "name": "SASSY'S BUTCH BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-22-45",
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Silver Sam",
+      "sire_reg": "A767334",
+      "dam_name": "Ch. Star Tavern Sassy Too",
+      "dam_reg": "A462329",
+      "breeders": [],
+      "owners": [
+        "Mr. & Mrs. Louis Plessner"
+      ]
+    },
+    {
+      "reg_number": "R7610",
+      "name": "TACOMA RED MAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-24-46",
+      "color_code": "Red fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dispatcher",
+      "sire_reg": "A819563",
+      "dam_name": "Doyle's Honey",
+      "dam_reg": "A643420",
+      "breeders": [
+        "C. N. Baganz"
+      ],
+      "owners": [
+        "Charles J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R7594",
+      "name": "WOOD'S CHIPS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-11-46",
+      "color_code": "Red brindle, white marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Scalawag",
+      "sire_reg": "A422376",
+      "dam_name": "Kyle's Golden Girl",
+      "dam_reg": "A776678",
+      "breeders": [
+        "Marion H. Wood"
+      ],
+      "owners": [
+        "Fred T. Kyle"
+      ]
+    },
+    {
+      "reg_number": "R7595",
+      "name": "WOOD'S SISSY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Dark brindle, white marking",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R7019",
+      "name": "X-PERT BRINDLE BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-27-46",
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Black Ace II",
+      "sire_reg": "A864878",
+      "dam_name": "X-Pert Red Susie",
+      "dam_reg": "A835062",
+      "breeders": [
+        "William R. Klees"
+      ],
+      "owners": [
+        "Alexander L. McKnight"
+      ]
+    },
+    {
+      "reg_number": "R7017",
+      "name": "X-PERT BRINDLE MUGGINS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Robert L. Schaunberg"
+      ]
+    },
+    {
+      "reg_number": "R7561",
+      "name": "X-PERT BRINDLE PEGGY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Dark brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Mrs. Marjorie E. Ringelberg"
+      ]
+    },
+    {
+      "reg_number": "R7018",
+      "name": "X-PERT BRINDLE TRICKS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Mable I. Nichols"
+      ]
+    }
+  ]
+}

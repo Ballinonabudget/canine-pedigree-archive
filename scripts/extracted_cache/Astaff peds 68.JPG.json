@@ -1,0 +1,215 @@
+{
+  "breed": "Staffordshire Terriers",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A-379,407",
+      "name": "JERRY II OF SHERWALL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-7-1939",
+      "color_code": "Brdl",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Jerry of Sherwall",
+      "sire_reg": "A-201,794",
+      "dam_name": "Patrice of Sherwall",
+      "dam_reg": "A-252,555",
+      "breeders": [
+        "Sherwall Kennels"
+      ],
+      "owners": [
+        "Sherwall Kennels"
+      ]
+    },
+    {
+      "reg_number": "A-385,011",
+      "name": "MISS ABERDEEN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-16-1935",
+      "color_code": "Br & wh",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Corvinos Pal",
+      "sire_reg": null,
+      "dam_name": "Corvinos Danger Girl",
+      "dam_reg": null,
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": [
+        "James F. Murphy"
+      ]
+    },
+    {
+      "reg_number": "A-382,289",
+      "name": "MOLLY O OF SHERWALL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-26-1938",
+      "color_code": "Brdl",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Mickey Do",
+      "sire_reg": "A-92,361",
+      "dam_name": "McCabe's Theda",
+      "dam_reg": "A-92,357",
+      "breeders": [
+        "Owners"
+      ],
+      "owners": [
+        "Mr. & Mrs. John B. McCabe"
+      ]
+    },
+    {
+      "reg_number": "A-384,581",
+      "name": "PAL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-14-1938",
+      "color_code": "Brdl",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Centennial Chum Mickey",
+      "sire_reg": null,
+      "dam_name": "Boots by Toby II",
+      "dam_reg": null,
+      "breeders": [
+        "Clyde Stephens"
+      ],
+      "owners": [
+        "Perry W. Page"
+      ]
+    },
+    {
+      "reg_number": "A-381,378",
+      "name": "PRINCE RUFFIAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-11-1939",
+      "color_code": "Blk, wh chest",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "The Ruffian",
+      "sire_reg": "A-301,675",
+      "dam_name": "Hart's Black Queen II",
+      "dam_reg": null,
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Clayton S. Harriman"
+      ]
+    },
+    {
+      "reg_number": "A-381,384",
+      "name": "SERENE LADY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-11-1939",
+      "color_code": "Brdl, wh mkgs",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "The Ruffian",
+      "sire_reg": "A-301,675",
+      "dam_name": "Hart's Black Queen II",
+      "dam_reg": null,
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Clayton S. Harriman"
+      ]
+    },
+    {
+      "reg_number": "A-379,406",
+      "name": "SIMBA OF SHERWALL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-7-1939",
+      "color_code": "Brdl",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Jerry of Sherwall",
+      "sire_reg": "A-201,794",
+      "dam_name": "Patrice of Sherwall",
+      "dam_reg": "A-252,555",
+      "breeders": [
+        "Sherwall Kennels"
+      ],
+      "owners": [
+        "Sherwall Kennels"
+      ]
+    },
+    {
+      "reg_number": "A-381,383",
+      "name": "TEMPESTUOUS GIRL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-11-1939",
+      "color_code": "Dk brdl",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "The Ruffian",
+      "sire_reg": "A-301,675",
+      "dam_name": "Hart's Black Queen II",
+      "dam_reg": null,
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Clayton S. Harriman"
+      ]
+    },
+    {
+      "reg_number": "A-381,379",
+      "name": "THE RUFFIAN'S DARK HAZARD",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-11-1939",
+      "color_code": "Blk, wh chest",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "The Ruffian",
+      "sire_reg": "A-301,675",
+      "dam_name": "Hart's Black Queen II",
+      "dam_reg": null,
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Clayton S. Harriman"
+      ]
+    },
+    {
+      "reg_number": "A-382,984",
+      "name": "X-PERT BLACK JANE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Blk & wh",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "X-Pert Bassett's Nigger",
+      "sire_reg": null,
+      "dam_name": "X-Pert Black Daisey",
+      "dam_reg": "A-210,232",
+      "breeders": [
+        "Col. Henry Schuhmann"
+      ],
+      "owners": [
+        "Luther Nicholson"
+      ]
+    },
+    {
+      "reg_number": "A-382,364",
+      "name": "X-PERT FOUNTAIN FERRY PRINCE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-25-1939",
+      "color_code": "Blk & wh",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "X-Pert Bassett's Nigger",
+      "sire_reg": null,
+      "dam_name": "X-Pert Black Daisey",
+      "dam_reg": "A-210,232",
+      "breeders": [
+        "Col. Henry Schuhmann"
+      ],
+      "owners": [
+        "Sgt. Joe Vogt"
+      ]
+    }
+  ]
+}

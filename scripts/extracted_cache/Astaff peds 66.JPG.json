@@ -1,0 +1,196 @@
+{
+  "breed": "Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A-379,722",
+      "name": "REX OF IRADELL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-28-39",
+      "color_code": "Wh",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Jerry of Merrymount",
+      "sire_reg": "936,532",
+      "dam_name": "Carol of the Mynd",
+      "dam_reg": "A-266,501",
+      "breeders": [
+        "Consuelo V. Davis"
+      ],
+      "owners": [
+        "Consuelo V. Davis"
+      ]
+    },
+    {
+      "reg_number": "A-380,083",
+      "name": "ROLAND OF MEEREND",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-14-1938",
+      "color_code": null,
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Jock of Cluny",
+      "sire_reg": null,
+      "dam_name": "Elizabeth of Meerend",
+      "dam_reg": null,
+      "breeders": [
+        "Mrs. C. Cuthbert, England"
+      ],
+      "owners": [
+        "Marjorie T. Adams"
+      ]
+    },
+    {
+      "reg_number": "A-379,719",
+      "name": "SANDY OF IRADELL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-15-1939",
+      "color_code": "Gr",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Bracadale Henry",
+      "sire_reg": "A-210,500",
+      "dam_name": "Jaunty of Arreton",
+      "dam_reg": "A-65,200",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Consuelo V. Davis"
+      ]
+    },
+    {
+      "reg_number": "A-379,720",
+      "name": "WEE MOUSIE OF IRADELL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-15-1939",
+      "color_code": "Slvr",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Bracadale Henry",
+      "sire_reg": "A-210,500",
+      "dam_name": "Jaunty of Arreton",
+      "dam_reg": "A-65,200",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Consuelo V. Davis"
+      ]
+    },
+    {
+      "reg_number": "A-380,150",
+      "name": "BLACKTHORN NED",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-10-1939",
+      "color_code": "Blk, wh mkgs",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Junior King Hubberman",
+      "sire_reg": "A-338,332",
+      "dam_name": "Blackthorn Betsy",
+      "dam_reg": "A-253,182",
+      "breeders": [
+        "Johnson Reed Newell"
+      ],
+      "owners": [
+        "John N. Hoffmann"
+      ]
+    },
+    {
+      "reg_number": "A-381,382",
+      "name": "BUBBLING OVER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-11-1939",
+      "color_code": "Brdl, wh chest",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. The Ruffian",
+      "sire_reg": "A-301,675",
+      "dam_name": "Hart's Black Queen II",
+      "dam_reg": null,
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Clayton S. Harriman"
+      ]
+    },
+    {
+      "reg_number": "A-381,380",
+      "name": "DEED I DO",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-11-1939",
+      "color_code": "Dk brdl, wh on chest",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. The Ruffian",
+      "sire_reg": "A-301,675",
+      "dam_name": "Hart's Black Queen II",
+      "dam_reg": null,
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Clayton S. Harriman"
+      ]
+    },
+    {
+      "reg_number": "A-382,732",
+      "name": "DEFENDER GILMORE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-29-1939",
+      "color_code": "Blk, wh mkgs",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Metzger's Napolian",
+      "sire_reg": null,
+      "dam_name": "Defender Miss America",
+      "dam_reg": null,
+      "breeders": [
+        "Kenneth E. Gravatt"
+      ],
+      "owners": [
+        "Hugo Johnson"
+      ]
+    },
+    {
+      "reg_number": "A-381,385",
+      "name": "FAIR WARNING",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-11-1939",
+      "color_code": "Brdl, wh mkgs",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. The Ruffian",
+      "sire_reg": "A-301,675",
+      "dam_name": "Hart's Black Queen II",
+      "dam_reg": null,
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Clayton S. Harriman"
+      ]
+    },
+    {
+      "reg_number": "A-381,381",
+      "name": "FEVER HEAT",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-11-1939",
+      "color_code": "Brdl, wh mkgs",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. The Ruffian",
+      "sire_reg": "A-301,675",
+      "dam_name": "Hart's Black Queen II",
+      "dam_reg": null,
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Clayton S. Harriman"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,720 @@
+{
+  "breed": "Staffordshire Terriers",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R-25827",
+      "name": "KETURAH",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-19-47",
+      "color_code": "White, badger",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Overhill Fashionplate",
+      "sire_reg": "A-567009",
+      "dam_name": "Overhill Unison",
+      "dam_reg": "A-567009",
+      "breeders": [
+        "Mr. & Mrs. M. Kirby"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25829",
+      "name": "KILTIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-19-47",
+      "color_code": "White, badger head",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Overhill Fashionplate",
+      "sire_reg": "A-567009",
+      "dam_name": "Overhill Unison",
+      "dam_reg": "A-567009",
+      "breeders": [
+        "Mr. & Mrs. M. Kirby"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25826",
+      "name": "KIPP",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-19-47",
+      "color_code": "White, badger head",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Overhill Fashionplate",
+      "sire_reg": "A-946",
+      "dam_name": "Overhill Unison",
+      "dam_reg": "A-567009",
+      "breeders": [
+        "Mr. & Mrs. William"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25826",
+      "name": "APER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-4-47",
+      "color_code": "White, badger head",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Robin Hill Corsair",
+      "sire_reg": "A-788",
+      "dam_name": "Garvaun Caper",
+      "dam_reg": "A-659709",
+      "breeders": [
+        "Mrs. Don C. Smith: M Martin."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25629",
+      "name": "HILL BAGATELLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-4-47",
+      "color_code": "White, markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Robin Hill Grenadier",
+      "sire_reg": "A-673236",
+      "dam_name": "Ch. Robin Hill Ripple",
+      "dam_reg": "A-320",
+      "breeders": [
+        "Mrs. Robert B. Choate."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25630",
+      "name": "HILL DRAGOON",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-4-47",
+      "color_code": "White, badger",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Robin Hill Grenadier",
+      "sire_reg": "A-673236",
+      "dam_name": "Ch. Robin Hill Ripple",
+      "dam_reg": "A-320270",
+      "breeders": [
+        "Mrs. B. Choate."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25628",
+      "name": "HILL POPPET",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-4-47",
+      "color_code": "White, badger",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Robin Hill Grenadier",
+      "sire_reg": "A-673236",
+      "dam_name": "Ch. Robin Hill Ripple",
+      "dam_reg": "A-320270",
+      "breeders": [
+        "Mrs. B. Choate."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-26094",
+      "name": "E CHILI",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-6-47",
+      "color_code": "White and badger.",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Sanda-Lee's Dandy-Boy",
+      "sire_reg": "A-607",
+      "dam_name": "Sands Serne",
+      "dam_reg": "R-12385",
+      "breeders": [
+        "L. A. Hughes: Ralph Iman."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25366",
+      "name": "E PETER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-6-47",
+      "color_code": "White, badger markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Sanda-Lee's Dandy Boy",
+      "sire_reg": "A-52",
+      "dam_name": "Sands Serne",
+      "dam_reg": "R-12385",
+      "breeders": [
+        "Charles C. Catron: J. Friedman."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25063",
+      "name": "WHITE LADY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-5-47",
+      "color_code": "White",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Rinklestone Radar",
+      "sire_reg": "A-883223",
+      "dam_name": "Cedar Root Maid",
+      "dam_reg": "A-746323",
+      "breeders": [
+        "Dorothy M. Curtis."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25982",
+      "name": "LLE'S PRIDE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-2-1947",
+      "color_code": "White and black.",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Overhill on Top",
+      "sire_reg": "A-215970",
+      "dam_name": "Belle of Kuncrie Farm",
+      "dam_reg": "R-2649",
+      "breeders": [
+        "Edgar D. Rushton: Helen L. Baird."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25071",
+      "name": "LASS OF BEVILLHAM",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-4-1944",
+      "color_code": "White, head markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Van Winkle Vincent Lad",
+      "sire_reg": "A-552574",
+      "dam_name": "Lady Frost of Bevillham",
+      "dam_reg": "A-",
+      "breeders": [
+        "Dorothy Egan: Dorothy B. Champion."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25120",
+      "name": "E SNIFFER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-31-",
+      "color_code": "White",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Robinhill Supertax",
+      "sire_reg": "A-511345",
+      "dam_name": "Cresheim of Cresheim",
+      "dam_reg": "A-550831",
+      "breeders": [
+        "Dorothy May Shore: Im Kennels."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25732",
+      "name": "RE WILDFLOWER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-1-1942",
+      "color_code": "White, black markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Son of Dic",
+      "sire_reg": "A-361323",
+      "dam_name": "Pppy Sandra",
+      "dam_reg": "A-553413",
+      "breeders": [
+        "Mrs. Alberta L. Rob- inson: Deanna M. Evans."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25891",
+      "name": "LEIGH'S DROOPY DRAWERS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-10-1947",
+      "color_code": null,
+      "breed": "Skye Terriers",
+      "sire_name": "Ch. Chummie's Fortune of Merrymount",
+      "sire_reg": "A-686378",
+      "dam_name": "Ch. Merrybrac's Flora",
+      "dam_reg": "A-573430",
+      "breeders": [
+        "Leigh Kennels."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25553",
+      "name": "MIES WEE ROBIN OF TALISKER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-4-1947",
+      "color_code": null,
+      "breed": "Skye Terriers",
+      "sire_name": "Chummie's Heir of Merrymount",
+      "sire_reg": "X",
+      "dam_name": "Goldenglow of Talisker",
+      "dam_reg": null,
+      "breeders": [
+        "N. M. Chapman: Marjorie T. Adams."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-24699",
+      "name": "RELLA OF LETTS-DHU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-2-1946",
+      "color_code": "Light",
+      "breed": "Skye Terriers",
+      "sire_name": "Ch. Highland Thistle of What-Ho",
+      "sire_reg": "A-412379",
+      "dam_name": "Ch. Bracadale Marguerite",
+      "dam_reg": "A-233073",
+      "breeders": [
+        "Mrs. Herbert Hudson."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-24708",
+      "name": "ANGEL OF LETTS-DHU",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-20-1946",
+      "color_code": "Silver",
+      "breed": "Skye Terriers",
+      "sire_name": "Ch. Highland Thistle of What-Ho",
+      "sire_reg": "A-412379",
+      "dam_name": "Letts Dhu Reckless Angel",
+      "dam_reg": "A-644103",
+      "breeders": [
+        "Mr. & Mrs. Herbert Hudson."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25191",
+      "name": "S DHU GOOD BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1946",
+      "color_code": null,
+      "breed": "Skye Terriers",
+      "sire_name": "Ch. Highland Thistle of What-Ho",
+      "sire_reg": "A-412",
+      "dam_name": "Letts-Dhu Reckless Angel",
+      "dam_reg": "A-644103",
+      "breeders": [
+        "Earl James Hudson III: Mr. & Mrs. Herbert Hudson."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25237",
+      "name": "CRUSADER'S IRRESTIBLE FLASH",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-9-1947",
+      "color_code": "Light brindle and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "King Kong",
+      "sire_reg": "A-601096",
+      "dam_name": "Brinda Lou",
+      "dam_reg": "R-25236",
+      "breeders": [
+        "Edwin C. Ringold: Mrs. Willie C. Widener."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25603",
+      "name": "DOYLE'S TACOMA FLAMBEAU",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-10-1946",
+      "color_code": "Tan, white markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Kane's Tacoma Blaze",
+      "sire_reg": "A-776601",
+      "dam_name": "Doyle's Connie",
+      "dam_reg": "R-4264",
+      "breeders": [
+        "Chas. J. Doyle."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-26292",
+      "name": "FARLSDALE'S HOWDY AGAIN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-21-1947",
+      "color_code": "Red, white markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Farlsdale's Rogue",
+      "sire_reg": "A-678679",
+      "dam_name": "Ch. Farlsdale's Tawny Midge",
+      "dam_reg": "A-954775",
+      "breeders": [
+        "Marguerite Farley."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-26291",
+      "name": "FARLSDALE'S MAHOGANY MASTER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-21-1947",
+      "color_code": "Brindle, white markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Farlsdale's Rogue",
+      "sire_reg": "A-678679",
+      "dam_name": "Ch. Farlsdale's Tawny Midge",
+      "dam_reg": "A-954775",
+      "breeders": [
+        "Mrs. Margaret Corkery: Marguerite Farley."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-26290",
+      "name": "FARLSDALE'S YEARLING JODY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-21-1947",
+      "color_code": "Brindle, white markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Farlsdale's Rogue",
+      "sire_reg": "A-678679",
+      "dam_name": "Ch. Farlsdale's Tawny Midge",
+      "dam_reg": "A-954775",
+      "breeders": [
+        "Marguerite Farley."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-26293",
+      "name": "FARLSDALE'S YEARLING JULIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-21-1947",
+      "color_code": "Brindle, white markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Farlsdale's Rogue",
+      "sire_reg": "A-678679",
+      "dam_name": "Ch. Farlsdale's Tawny Midge",
+      "dam_reg": "A-954775",
+      "breeders": [
+        "Marguerite Farley."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25518",
+      "name": "GALLANT PRINCE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-30-1947",
+      "color_code": "Brindle, white markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Ruffian Dazzler",
+      "sire_reg": "A-422377",
+      "dam_name": "Ruffian Bobby Socks Pudge",
+      "dam_reg": "A-852772",
+      "breeders": [
+        "Donald F. Ferguson: Charles L. Flinker."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25877",
+      "name": "HONEY BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-20-1946",
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Rhone's Tioga Tige",
+      "sire_reg": "A-845646",
+      "dam_name": "Springville Patsy",
+      "dam_reg": "R-18690",
+      "breeders": [
+        "Harwood L. Gerhard: Mrs. Ralph Schweickert."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25566",
+      "name": "LADY TAWNY DE TIA JUANY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-4-1947",
+      "color_code": "Black Duke Brindle, white markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Black Duke II",
+      "sire_reg": "R-18688",
+      "dam_name": "Dixie de Navarro",
+      "dam_reg": "R-14045",
+      "breeders": [
+        "Anne Wilson Sexton & Laura E. Wilson: Mrs. Ralph Schweickert."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25086",
+      "name": "MAGGIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-30-1946",
+      "color_code": "Brindle, white markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Kane's Tacoma Blaze",
+      "sire_reg": "A-776601",
+      "dam_name": "Doyle's Connie",
+      "dam_reg": "R-4264",
+      "breeders": [
+        "Gladys Winter: Charles J. Doyle."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25238",
+      "name": "RINGOLD'S TEMPTATION",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-9-1947",
+      "color_code": "Dark brindle, white marking",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "King Kong",
+      "sire_reg": "A-601096",
+      "dam_name": "Brinda Lou",
+      "dam_reg": "R-25236",
+      "breeders": [
+        "Edwin C. Ringold: Mrs. Willie C. Widener."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25899",
+      "name": "RUFCO SKIPPER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-16-1946",
+      "color_code": "Dark brindle, white marking",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Rufco Flip",
+      "sire_reg": "A-810941",
+      "dam_name": "Ruffian Satin Pants",
+      "dam_reg": "A-586844",
+      "breeders": [
+        "Carolyn Frances Jacoby: Malcolm W. Cocke."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-26135",
+      "name": "RUFF SWEETIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-16-1946",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Rufco Flip",
+      "sire_reg": "A-810941",
+      "dam_name": "Ruffian Satin Pants",
+      "dam_reg": "A-586844",
+      "breeders": [
+        "S. Arthur Bannister: Malcolm W. Cocke."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25445",
+      "name": "X-PERT BLACK TOPSEY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-24-1947",
+      "color_code": "Black and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R-5446",
+      "dam_name": "X-Pert Brindle Peggy",
+      "dam_reg": "R-7561",
+      "breeders": [
+        "Marjorie Ringelberg."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25447",
+      "name": "X-PERT BRINDLE LETTIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-24-1947",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R-6446",
+      "dam_name": "X-Pert Brindle Peggy",
+      "dam_reg": "R-7561",
+      "breeders": [
+        "Clifford A. Ormsby: Marjorie Ringelberg."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25446",
+      "name": "X-PERT PENNY PANTER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-24-1947",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "A-6446",
+      "dam_name": "X-Pert Brindle Peggy",
+      "dam_reg": "R-7561",
+      "breeders": [
+        "Marjorie Ringelberg."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-26131",
+      "name": "AGGIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-1-1947",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terriers",
+      "sire_name": "Halcyon High Life",
+      "sire_reg": "R-6679",
+      "dam_name": "Shalabanc Pwca",
+      "dam_reg": "R-15036",
+      "breeders": [
+        "Katherine T. Shear: Helen Garrett & Ruth Andrews."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-26118",
+      "name": "ANDERSON'S HONEY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-26-1946",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terriers",
+      "sire_name": "Ch. Thet Togo of Hacyon",
+      "sire_reg": "A-299063",
+      "dam_name": "Anderson's Missy A",
+      "dam_reg": "796741",
+      "breeders": [
+        "Mrs. Edna A. H. Anderson."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25860",
+      "name": "BALTIMORE JULIET",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-8-1946",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terriers",
+      "sire_name": "Halcyon Harriboy",
+      "sire_reg": "A-915434",
+      "dam_name": "Halcyon Circe II",
+      "dam_reg": "R-20601",
+      "breeders": [
+        "Edith M. Lomis: Halcyon Kennels."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-26321",
+      "name": "BERT'S BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-28-1946",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terriers",
+      "sire_name": "Briar Rarebit",
+      "sire_reg": "A-805351",
+      "dam_name": "All Clear of Briar",
+      "dam_reg": "A-737258",
+      "breeders": [
+        "Fred Edmunds, Jr.: Leonard Brumby."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25717",
+      "name": "BREHM'S WHAT TROUBLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-5-1942",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terriers",
+      "sire_name": "Mister Jones of Wedgewood",
+      "sire_reg": "A-325521",
+      "dam_name": "Ch. Aman Real Gem of Briar Croft",
+      "dam_reg": "A-9105.",
+      "breeders": [
+        "Mr. & Mrs. Ralph H. Brehm."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-25593",
+      "name": "BROWN SUGAR TARAVENTURE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-17-1946",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terriers",
+      "sire_name": "Strathglass Bingo's Venture",
+      "sire_reg": "A-587909",
+      "dam_name": "Ch. Twysog Ddu",
+      "dam_reg": "A-361971",
+      "breeders": [
+        "Mr. & Mrs. J. F. Harrington: Hugh J. Chisholm."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-26096",
+      "name": "CER-Y-GWELY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-3-1946",
+      "color_code": "Black and brown",
+      "breed": "Welsh Terriers",
+      "sire_name": "Ch. Sioseb Bach",
+      "sire_reg": "A-630664",
+      "dam_name": "Bambi A-661454",
+      "dam_reg": null,
+      "breeders": [
+        "John A. Russell: Rose O. Zinn."
+      ],
+      "owners": []
+    }
+  ]
+}

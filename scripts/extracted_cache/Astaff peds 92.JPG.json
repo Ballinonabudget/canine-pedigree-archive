@@ -1,0 +1,101 @@
+{
+  "breed": "Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R-20551",
+      "name": "BROWN'S MR. HOBBY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-5-47",
+      "color_code": "Black, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch Chita's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Eleanor's Queenie",
+      "dam_reg": "A-377144",
+      "breeders": [
+        "Harry S. Brown"
+      ],
+      "owners": [
+        "Mrs. Albert L. McCarty"
+      ]
+    },
+    {
+      "reg_number": "R-20377",
+      "name": "BUTTONS RICHEY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-12-47",
+      "color_code": "Black and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Keene's Smoky",
+      "sire_reg": "A-516837",
+      "dam_name": "X-Pert Rose Bud",
+      "dam_reg": "R-6447",
+      "breeders": [
+        "John F. Richey"
+      ],
+      "owners": [
+        "Sydney H. Anderson"
+      ]
+    },
+    {
+      "reg_number": "R-21304",
+      "name": "FALGAR OF WYNROUND",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-2-46",
+      "color_code": "Brindle",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Jabberwock of Roundcroft*",
+      "sire_reg": null,
+      "dam_name": "Margelle of Grange*",
+      "dam_reg": null,
+      "breeders": [
+        "Daniel G. Pardue"
+      ],
+      "owners": [
+        "W. R. Freeman"
+      ]
+    },
+    {
+      "reg_number": "R-20552",
+      "name": "FARLSDALE'S BLACK CHARM",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-5-47",
+      "color_code": "Black, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch Chita's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Eleanor's Queenie",
+      "dam_reg": "A-377144",
+      "breeders": [
+        "Marguerite Farley"
+      ],
+      "owners": [
+        "Mrs. Albert L. McCarty"
+      ]
+    },
+    {
+      "reg_number": "R-20553",
+      "name": "FARLSDALE'S SIR DANIEL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-5-47",
+      "color_code": "Dark brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch Chita's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Eleanor's Queenie",
+      "dam_reg": "A-377144",
+      "breeders": [
+        "Marguerite Farley"
+      ],
+      "owners": [
+        "Mrs. Albert L. McCarty"
+      ]
+    }
+  ]
+}

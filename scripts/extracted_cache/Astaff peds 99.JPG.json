@@ -1,0 +1,383 @@
+{
+  "breed": "Staffordshire Terriers",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R-28528",
+      "name": "AUSTIN'S LITTLE CHIP",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-16-47",
+      "color_code": "Light fawn, black markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Mister Chips A-503601 C.D.X.",
+      "sire_reg": "A-503601",
+      "dam_name": "Harris' Reina de Chatsworth",
+      "dam_reg": "R-1263",
+      "breeders": [
+        "Mr. & Mrs. Louie Vogt"
+      ],
+      "owners": [
+        "Boyd E. Chambers"
+      ]
+    },
+    {
+      "reg_number": "R-28529",
+      "name": "AUSTIN'S MR. TREASURE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-16-47",
+      "color_code": "Red fawn, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Mister Chips A-503601 C.D.X.",
+      "sire_reg": "A-503601",
+      "dam_name": "Harris' Reina de Chatsworth",
+      "dam_reg": "R-1263",
+      "breeders": [
+        "Aldon Avery"
+      ],
+      "owners": [
+        "Boyd E. Chambers"
+      ]
+    },
+    {
+      "reg_number": "R-28530",
+      "name": "AUSTIN'S OUT CAST",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-16-47",
+      "color_code": "Silver, black markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Mister Chips A-503601 C.D.X.",
+      "sire_reg": "A-503601",
+      "dam_name": "Harris' Reina de Chatsworth",
+      "dam_reg": "R-1263",
+      "breeders": [
+        "Boyd E. Chambers"
+      ],
+      "owners": [
+        "E. Chambers"
+      ]
+    },
+    {
+      "reg_number": "R-28166",
+      "name": "BALDY BILL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Lamb's Whiskers",
+      "sire_reg": "A-747554",
+      "dam_name": "Fuller's Maggie McGee",
+      "dam_reg": "R-3296",
+      "breeders": [
+        "Frank Mathewson"
+      ],
+      "owners": [
+        "Charles R. Fuller"
+      ]
+    },
+    {
+      "reg_number": "R-28201",
+      "name": "BRADBROOK'S SAILOR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-1-47",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Corvino's Iron Will",
+      "sire_reg": "A-759791",
+      "dam_name": "Corvino's Biddie",
+      "dam_reg": "A-656067",
+      "breeders": [
+        "Kelso Bradbrook"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R-28742",
+      "name": "BRINDLE CINDY OF ED-MAR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-31-47",
+      "color_code": "Brindle, white chest",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Martin's Tramp",
+      "sire_reg": "A-358272",
+      "dam_name": "Golden Patricia of Ed Mar",
+      "dam_reg": "R-8175",
+      "breeders": [
+        "Ed-Mar Kennels"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-27956",
+      "name": "CORVINO'S GOODWILL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-24-1945",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Hadley's Muggins",
+      "sire_reg": "A-637461",
+      "dam_name": "Corvino's Judy",
+      "dam_reg": "A-656070",
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-27945",
+      "name": "CORVINO'S HEINY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-20-1946",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Corvino's Iron Will",
+      "sire_reg": "A-759791",
+      "dam_name": "Bonnie",
+      "dam_reg": "A-527563",
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-27954",
+      "name": "CORVINO'S JOKER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-24-1945",
+      "color_code": "Fawn and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Hadley's Muggins",
+      "sire_reg": "A-637461",
+      "dam_name": "Corvino's Judy",
+      "dam_reg": "A-656070",
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-27955",
+      "name": "CORVINO'S LA VIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-24-1945",
+      "color_code": "Fawn and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Hadley's Muggins",
+      "sire_reg": "A-637461",
+      "dam_name": "Corvino's Judy",
+      "dam_reg": "A-656070",
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-28548",
+      "name": "CORVINO'S RAYOR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-19-1947",
+      "color_code": "Red",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Black Prince",
+      "sire_reg": "A-613642",
+      "dam_name": "Corvino's Beauty",
+      "dam_reg": "A-613640",
+      "breeders": [
+        "Thomas John Gundry"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R-27957",
+      "name": "CORVINO'S SPARETIME",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-24-1945",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Hadley's Muggins",
+      "sire_reg": "A-637461",
+      "dam_name": "Corvino's Judy",
+      "dam_reg": "A-656070",
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-27925",
+      "name": "CORVINO'S TWANG",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-20-1946",
+      "color_code": "Fawn and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Corvino's Iron Will",
+      "sire_reg": "A-759791",
+      "dam_name": "Bonnie",
+      "dam_reg": "A-527563",
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-28739",
+      "name": "DUGAN OF ED-MAR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-31-47",
+      "color_code": "Brindle, white chest",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Martin's Tramp",
+      "sire_reg": "A-358272",
+      "dam_name": "Golden Patricia of Ed Mar",
+      "dam_reg": "R-8175",
+      "breeders": [
+        "Ed Mar Kennels"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-29114",
+      "name": "DUKE II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-15-1947",
+      "color_code": "Buff and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Lamb's Whiskers",
+      "sire_reg": "A-747554",
+      "dam_name": "Fuller's Maggie McGee",
+      "dam_reg": "R-3296",
+      "breeders": [
+        "Mrs. Ida French"
+      ],
+      "owners": [
+        "Charles R. Fuller"
+      ]
+    },
+    {
+      "reg_number": "R-28712",
+      "name": "GOLDEN BULLET",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-4-1946",
+      "color_code": "Fawn and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Joe Murphy of II",
+      "sire_reg": "Q. A-652692",
+      "dam_name": "Saucy Sally",
+      "dam_reg": "H. Q. A-852422",
+      "breeders": [
+        "Guy Harlan Pilj"
+      ],
+      "owners": [
+        "Henry O. Houtrow"
+      ]
+    },
+    {
+      "reg_number": "R-29252",
+      "name": "HARRIS' BOSCO DE CHATSWORTH",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-22-1947",
+      "color_code": "Fawn, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Duke of Felton A-407102",
+      "sire_reg": "A-407102",
+      "dam_name": "Carmelita de Chatsworth",
+      "dam_reg": "A-909092",
+      "breeders": [
+        "Ray E. & Ina E. Shafer Harris"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-29256",
+      "name": "HARRIS' CHATA DE CHATSWORTH",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-22-1947",
+      "color_code": "Fawn, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Duke of Felton A-407102",
+      "sire_reg": "A-407102",
+      "dam_name": "Carmelita de Chatsworth",
+      "dam_reg": "A-909092",
+      "breeders": [
+        "Ray E. & Ina E. Shafer Harris"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-29253",
+      "name": "HARRIS' DULCE DE CHATSWORTH",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-22-1947",
+      "color_code": "Fawn, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Duke of Felton A-407102",
+      "sire_reg": "A-407102",
+      "dam_name": "Carmelita de Chatsworth",
+      "dam_reg": "A-909092",
+      "breeders": [
+        "Mr. & Mrs. Richardson Hewitt"
+      ],
+      "owners": [
+        "Ray E. & Ina E. Shafer Harris"
+      ]
+    },
+    {
+      "reg_number": "R-29255",
+      "name": "HARRIS' JUANITA DE CHATSWORTH",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-22-1947",
+      "color_code": "Fawn, black mask",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Duke of Felton A-407102",
+      "sire_reg": "A-407102",
+      "dam_name": "Carmelita de Chatsworth",
+      "dam_reg": "A-909092",
+      "breeders": [
+        "Ray E. & Ina E. Shafer Harris"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R-29254",
+      "name": "HARRIS' LOMA DE CHATSWORTH",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-22-1947",
+      "color_code": "Fawn, black mask",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Duke of Felton A-407102",
+      "sire_reg": "A-407102",
+      "dam_name": "Carmelita de Chatsworth",
+      "dam_reg": "A-909092",
+      "breeders": [
+        "Mr. & Mrs. Richardson Hewitt"
+      ],
+      "owners": [
+        "Ray E. & Ina E. Shafer Harris"
+      ]
+    }
+  ]
+}

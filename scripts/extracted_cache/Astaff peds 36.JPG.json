@@ -1,0 +1,402 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "April 2000",
+  "dogs": [
+    {
+      "reg_number": "RM251244/07",
+      "name": "OPS ROGUE OF CLOVERHILL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-9-98",
+      "color_code": "FN WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH CLOVERHILLS THE RAINDANCER",
+      "sire_reg": "RM184415/06",
+      "dam_name": "ORBANS TULA RUE OF HILLTOP",
+      "dam_reg": "RM187874/09",
+      "breeders": [
+        "K J NEGRON",
+        "M WELLS"
+      ],
+      "owners": [
+        "K J NEGRON"
+      ]
+    },
+    {
+      "reg_number": "RM251950/02",
+      "name": "PUMPKIN'S HEAVY BROWN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-2-98",
+      "color_code": "BR",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH KEEPSAKE'S RED MAN",
+      "sire_reg": "RM183377/03",
+      "dam_name": "KEEPSAKE'S BROWN SUGAR",
+      "dam_reg": "RM185499/04",
+      "breeders": [
+        "G BELAND"
+      ],
+      "owners": [
+        "G BELAND",
+        "D ZIMPFER"
+      ]
+    },
+    {
+      "reg_number": "RM236166/03",
+      "name": "JIMMAR'S IN BLACK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-3-95",
+      "color_code": "BLK WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-PERT BEERS SASHA",
+      "sire_reg": "RM145780/01",
+      "dam_name": "X-PERT BEERS SASHA",
+      "dam_reg": "RM145780/01",
+      "breeders": [
+        "K OWENS"
+      ],
+      "owners": [
+        "K OWENS"
+      ]
+    },
+    {
+      "reg_number": "RM163638/03",
+      "name": "KIMMAR'S SOUTHERN RUFFIAN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-3-95",
+      "color_code": "BLK WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "SAN-DI'S REBEL WITH A CAUSE",
+      "sire_reg": "RM145455/01",
+      "dam_name": "X-PERT BEERS SASHA",
+      "dam_reg": "RM145455/01",
+      "breeders": [
+        "K OWENS",
+        "T ANTHON"
+      ],
+      "owners": [
+        "K OWENS",
+        "T ANTHON"
+      ]
+    },
+    {
+      "reg_number": "RM224214/05",
+      "name": "KIMMAR'S SOIN IN MY REPUTATION",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-95",
+      "color_code": "BLK WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "SAN-DI'S REBEL WITH A CAUSE",
+      "sire_reg": "RM145455/01",
+      "dam_name": "X-PERT BEERS SASHA",
+      "dam_reg": "RM145455/01",
+      "breeders": [
+        "K OWENS",
+        "T ANTHON"
+      ],
+      "owners": [
+        "K OWENS",
+        "T ANTHON"
+      ]
+    },
+    {
+      "reg_number": "RM177540/03",
+      "name": "KIMMAR'S SUFFERIN SUCCOTAH",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-92",
+      "color_code": "BLK & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "KIMMAR'S C S INDIAN",
+      "sire_reg": "RM134304/03",
+      "dam_name": "WHITEPATH'S CHINA BLACK",
+      "dam_reg": "RM193255/82",
+      "breeders": [
+        "K OWENS",
+        "T ANTHON"
+      ],
+      "owners": [
+        "K OWENS",
+        "T ANTHON"
+      ]
+    },
+    {
+      "reg_number": "RM185547/06",
+      "name": "IMMACULATE JAZZ GIRL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-96",
+      "color_code": "BLK WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH WILLYNWOOD REDNECK",
+      "sire_reg": "RM142614/02",
+      "dam_name": "KIMMAR'S UNDOUBTED",
+      "dam_reg": "RM155452/01",
+      "breeders": [
+        "J WILSON",
+        "T KRATT"
+      ],
+      "owners": [
+        "J WILSON",
+        "T KRATT"
+      ]
+    },
+    {
+      "reg_number": "RM216105/01",
+      "name": "C I E'S REDNECK RASCAL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-97",
+      "color_code": "BLK & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH WILLYNWOOD REDNECK",
+      "sire_reg": "RM142614/02",
+      "dam_name": "ARKANSAS MAJESTIQUE",
+      "dam_reg": "RM189688/02",
+      "breeders": [
+        "R GOMEZ",
+        "B MICHL"
+      ],
+      "owners": [
+        "R GOMEZ",
+        "B MICHL",
+        "R & J PERATA"
+      ]
+    },
+    {
+      "reg_number": "RM122105/01",
+      "name": "E BLUE SASSY LOU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-98",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH WILLYNWOOD REDNECK",
+      "sire_reg": "RM142614/02",
+      "dam_name": "CH WILLYNWOOD MARYLOU MICHL",
+      "dam_reg": "RM191963/07",
+      "breeders": [
+        "B BROWN JR"
+      ],
+      "owners": [
+        "B BROWN JR",
+        "S NICHOLS"
+      ]
+    },
+    {
+      "reg_number": "RM161616/02",
+      "name": "E BLUE REDNECK RASCAL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-98",
+      "color_code": "RD BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH WILLYNWOOD REDNECK",
+      "sire_reg": "RM142614/02",
+      "dam_name": "CH WILLYNWOOD MARYLOU MICHL",
+      "dam_reg": "RM191963/07",
+      "breeders": [
+        "S NICHOLS"
+      ],
+      "owners": [
+        "S NICHOLS"
+      ]
+    },
+    {
+      "reg_number": "RM241777/03",
+      "name": "AVALON'S SASSY LOU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-98",
+      "color_code": "RD & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH NOBLE'S KASH MONEY",
+      "sire_reg": "RM131315/08",
+      "dam_name": "NICHOLS NOBEL KELSA",
+      "dam_reg": "RM075476/94",
+      "breeders": [
+        "E JORDAN",
+        "D WILSON"
+      ],
+      "owners": [
+        "E JORDAN",
+        "D WILSON",
+        "J HO_ WE & D WILSON"
+      ]
+    },
+    {
+      "reg_number": "RM198037/07",
+      "name": "AVALON'S DANGEROUS DANCE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-98",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH NOBLE'S KASH MONEY",
+      "sire_reg": "RM131315/08",
+      "dam_name": "NICHOLS NOBEL KELSA",
+      "dam_reg": "RM075476/94",
+      "breeders": [
+        "K C MONSKE"
+      ],
+      "owners": [
+        "K C MONSKE",
+        "R GRAY"
+      ]
+    },
+    {
+      "reg_number": "RM126328/10",
+      "name": "UNDERDECK'S POWERHOUSE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-98",
+      "color_code": "BLK & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "PERDEUS RAZORS EDGE DINERO",
+      "sire_reg": "RM218689/05",
+      "dam_name": "FF BRACKETT'S DANCING DANCER",
+      "dam_reg": "RM159336/02",
+      "breeders": [
+        "D VON BERGEN"
+      ],
+      "owners": [
+        "D VON BERGEN"
+      ]
+    },
+    {
+      "reg_number": "RM125221/07",
+      "name": "UNDERDECK'S LIZZIE BORDEN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-98",
+      "color_code": "BLK & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "PERDEUS RAZORS EDGE DINERO",
+      "sire_reg": "RM218689/05",
+      "dam_name": "FF BRACKETT'S DANCING DANCER",
+      "dam_reg": "RM159336/02",
+      "breeders": [
+        "P ROCK",
+        "M MARTIN"
+      ],
+      "owners": [
+        "P ROCK",
+        "M MARTIN",
+        "S ROUTH"
+      ]
+    },
+    {
+      "reg_number": "RM239462/02",
+      "name": "S MAY I OF DEB LAR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-99",
+      "color_code": "BRDL",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH ROUNER'S LITTLE JOHN",
+      "sire_reg": "RM108863/07",
+      "dam_name": "SILVERCHECK MISS BELLE STARR",
+      "dam_reg": "RM260461/02",
+      "breeders": [
+        "C STOWERS",
+        "JR J"
+      ],
+      "owners": [
+        "C STOWERS",
+        "JR J",
+        "R TEETER"
+      ]
+    },
+    {
+      "reg_number": "RM218689/05",
+      "name": "SILVERCHECK'S TANGERINE DREAM",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-99",
+      "color_code": "BLK & BR",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH ROUNER'S LITTLE JOHN",
+      "sire_reg": "RM108863/07",
+      "dam_name": "SILVERCHECK'S TANGERINE DREAM",
+      "dam_reg": "RM260461/02",
+      "breeders": [
+        "C STOWERS",
+        "JR J"
+      ],
+      "owners": [
+        "C STOWERS",
+        "JR J",
+        "R TEETER"
+      ]
+    },
+    {
+      "reg_number": "RM212893/07",
+      "name": "SILVERCHECK LIZZIE BORDEN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-97",
+      "color_code": "BLK & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "SILVERCHECK MACHINEGUN KELLY",
+      "sire_reg": "RM135061/01",
+      "dam_name": "SILVERCHECK MISS BELLE STARR",
+      "dam_reg": "RM260461/02",
+      "breeders": [
+        "C STOWERS",
+        "JR J"
+      ],
+      "owners": [
+        "C STOWERS",
+        "JR J",
+        "HERDON"
+      ]
+    },
+    {
+      "reg_number": "RM212893/07",
+      "name": "SILVERCHECK'S LITTLE JOHN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-97",
+      "color_code": "BLK & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "SILVERCHECK MACHINEGUN KELLY",
+      "sire_reg": "RM135061/01",
+      "dam_name": "SILVERCHECK'S TANGERINE DREAM",
+      "dam_reg": "RM260461/02",
+      "breeders": [
+        "G MILLER",
+        "L RAY"
+      ],
+      "owners": [
+        "G MILLER",
+        "L RAY"
+      ]
+    },
+    {
+      "reg_number": "RM212893/07",
+      "name": "SILVERCHECK'S STORYTIME IS OGRE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-95",
+      "color_code": "BLK & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH STORYTIME SONG AND DANCE M",
+      "sire_reg": "RM208941/03",
+      "dam_name": "CH STORYTIME BLONDE RUMOR",
+      "dam_reg": "RM198108/02",
+      "breeders": [
+        "M BECKNER",
+        "W FORREST"
+      ],
+      "owners": [
+        "M BECKNER",
+        "W FORREST",
+        "SR"
+      ]
+    }
+  ]
+}

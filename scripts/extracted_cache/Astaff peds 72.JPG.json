@@ -1,0 +1,133 @@
+{
+  "breed": "Skye Terriers",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A-394,546",
+      "name": "ANTINEA V REGENTENHOF",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "Apr. 27, 1939",
+      "color_code": "Brdl, wh mkgs",
+      "breed": "Skye Terriers",
+      "sire_name": "Bruce's Mahan Mug",
+      "sire_reg": "A-108,579",
+      "dam_name": "Scott's Frisco Phoebe",
+      "dam_reg": "Vol. 53",
+      "breeders": [
+        "Mrs. Brigitte Kunheim, Germany"
+      ],
+      "owners": [
+        "Ellen Metzmacher"
+      ]
+    },
+    {
+      "reg_number": "A-394,547",
+      "name": "BEBSY V CONSTANZERECK",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "Mar. 30, 1939",
+      "color_code": "Gr & blk",
+      "breed": "Skye Terriers",
+      "sire_name": "Arno v Regentenhof",
+      "sire_reg": "A-394,546",
+      "dam_name": "Arno v Regentenhof",
+      "dam_reg": "Vol. 57",
+      "breeders": [
+        "Memphis, Tenn."
+      ],
+      "owners": [
+        "Owner"
+      ]
+    },
+    {
+      "reg_number": "A-394,988",
+      "name": "CARLO V D FELDMANNSBURG",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "Apr. 20, 1936",
+      "color_code": "Wh",
+      "breed": "Skye Terriers",
+      "sire_name": "Moritz v Apenborg",
+      "sire_reg": "Hilli v d Pfalzburg",
+      "dam_name": "Dingo v Schloss Bork",
+      "dam_reg": "Dem O'Craigmore",
+      "breeders": [
+        "A. C. Wedemeyer, Kammerer, Germany"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "A-394,425",
+      "name": "JOE PALOOKA",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "Apr. 27, 1939",
+      "color_code": "Brdl, wh mkgs",
+      "breed": "Skye Terriers",
+      "sire_name": "Bruce's Mahan Mug",
+      "sire_reg": "A-108,579",
+      "dam_name": "Scott's Frisco Phoebe",
+      "dam_reg": "Vol. 53",
+      "breeders": [
+        "Robert N. Scott, Pacoima, Calif."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "A-396,637",
+      "name": "LUCKY SPOT ABNER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "Apr. 27, 1939",
+      "color_code": "Brdl, wh mkgs",
+      "breed": "Skye Terriers",
+      "sire_name": "Bruce's Mahan Mug",
+      "sire_reg": "A-108,579",
+      "dam_name": "Scott's Frisco Phoebe",
+      "dam_reg": "Vol. 53",
+      "breeders": [
+        "Robert N. Scott, Pacoima, Calif."
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "A-398,697",
+      "name": "PEG",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "Sept. 20, 1938",
+      "color_code": "Brdl & wh",
+      "breed": "Skye Terriers",
+      "sire_name": "John P. Colby's Primo",
+      "sire_reg": "A-280,014",
+      "dam_name": "Colby's Primo",
+      "dam_reg": "Vol. 55",
+      "breeders": [
+        "Rupert W. Metzner"
+      ],
+      "owners": [
+        "John P. Colby, Newburyport, Mass."
+      ]
+    },
+    {
+      "reg_number": "A-397,289",
+      "name": "PETE OF SHERWALL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "Oct. 6, 1939",
+      "color_code": "Blk wh",
+      "breed": "Skye Terriers",
+      "sire_name": "Siam of Sherwall",
+      "sire_reg": "A-276,791",
+      "dam_name": "Wendy of Sherwall",
+      "dam_reg": "A-276,784",
+      "breeders": [
+        "Sherwall Kennels, Wallkill, N. Y."
+      ],
+      "owners": [
+        "Mrs. Thos. M. Murray"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "FEBRUARY 2000",
+  "dogs": [
+    {
+      "reg_number": "RM230778",
+      "name": "SIERRA'S ROMANCING THE STONE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-6-97",
+      "color_code": "BL FN",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SIERRA-GAFF TITANIUM TANK",
+      "sire_reg": "RM142449",
+      "dam_name": "CH SIERRA-GAFF SWEET SPOT",
+      "dam_reg": "RM152222",
+      "breeders": [
+        "R & S FOX",
+        "L WILSON"
+      ],
+      "owners": [
+        "R & S FOX",
+        "L WILSON"
+      ]
+    },
+    {
+      "reg_number": "RM241153",
+      "name": "SMOKEY II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-11-97",
+      "color_code": "BRDL",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "BLITZ III",
+      "sire_reg": "RM171178",
+      "dam_name": "BEAUTY III",
+      "dam_reg": "RM192256",
+      "breeders": [
+        "L & C SCALES",
+        "D BEST"
+      ],
+      "owners": [
+        "L & C SCALES",
+        "D BEST"
+      ]
+    },
+    {
+      "reg_number": "RM195679",
+      "name": "STORYTIME DIAMONDS \"R\" FOREVER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-7-97",
+      "color_code": "BL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH STORYTIME BLUE LEAF CLOVER",
+      "sire_reg": "RM085022",
+      "dam_name": "CH STORYTIME'S TOYS IN THE AT",
+      "dam_reg": "RM094217",
+      "breeders": [
+        "M MARTIN",
+        "R TEETER",
+        "F ETER"
+      ],
+      "owners": [
+        "M MARTIN",
+        "R TEETER",
+        "F ETER"
+      ]
+    },
+    {
+      "reg_number": "RM134557",
+      "name": "CH STORYTIME SEEING'S BELIEVING",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "2-17-97",
+      "color_code": "BL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH STORYTIME'S BELIEVE IT ORN",
+      "sire_reg": "RM141548",
+      "dam_name": "STORYTIME'S UNDERCOVER BLUES",
+      "dam_reg": "RM154644",
+      "breeders": [
+        "R TEETER",
+        "M MARTIN"
+      ],
+      "owners": [
+        "R TEETER",
+        "M MARTIN"
+      ]
+    },
+    {
+      "reg_number": "RM216154",
+      "name": "SULTAN'S D.R. MOLLY BELLE Q",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-28-97",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH FRAJASE EC THUNDER CLOUD",
+      "sire_reg": "RM137684",
+      "dam_name": "CH KEYSTONE'S SCARLET GEM",
+      "dam_reg": "RM078683",
+      "breeders": [
+        "RTIN",
+        "R REEE"
+      ],
+      "owners": [
+        "RTIN",
+        "R REEE"
+      ]
+    },
+    {
+      "reg_number": "RM205536",
+      "name": "TEJAS' GOLDEN MOON BEAU",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-19-97",
+      "color_code": "FN WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "TEJAS' MR MOON",
+      "sire_reg": "RM695049",
+      "dam_name": "TEJAS' GOLDEN MOON DOGGIE",
+      "dam_reg": "RM116830",
+      "breeders": [
+        "D JONES",
+        "M SAGULLOC"
+      ],
+      "owners": [
+        "D JONES",
+        "M SAGULLOC"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,953 @@
+{
+  "breed": "Scottish Terriers",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R249111",
+      "name": "Whitaker's Lad o' Moor",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-24-56",
+      "color_code": "Blk",
+      "breed": "Scottish Terriers",
+      "sire_name": "Ch. Shieling's Stylecraft",
+      "sire_reg": "R80428",
+      "dam_name": "Whitaker's Jezebel",
+      "dam_reg": "R249110",
+      "breeders": [
+        "Mr. & Mrs. Donald S. [Patterson]"
+      ],
+      "owners": [
+        "John H. Whitaker"
+      ]
+    },
+    {
+      "reg_number": "R243603",
+      "name": "Wonder Lad",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-6-57",
+      "color_code": "Blk",
+      "breed": "Scottish Terriers",
+      "sire_name": "Falla XIV",
+      "sire_reg": "R153968",
+      "dam_name": "Lady Dodd",
+      "dam_reg": "R120678",
+      "breeders": [],
+      "owners": [
+        "Ruth Bugher [Babisch]"
+      ]
+    },
+    {
+      "reg_number": "R237867",
+      "name": "Yankee Pride Miss",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-7-58",
+      "color_code": "Blk",
+      "breed": "Scottish Terriers",
+      "sire_name": "Yankee Pride Captain Hook",
+      "sire_reg": "R198207",
+      "dam_name": "Multi-Lakes Mee-Nee",
+      "dam_reg": "R225345",
+      "breeders": [],
+      "owners": [
+        "Peter R. & Sophie T."
+      ]
+    },
+    {
+      "reg_number": "R141666",
+      "name": "Lady Zouheyra of Aboukir",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-14-54",
+      "color_code": "WhBlkKonHd",
+      "breed": "Sealyham Terriers",
+      "sire_name": "Eligible of Oxclose",
+      "sire_reg": "R126955",
+      "dam_name": "Ch. Shenden Pianissima",
+      "dam_reg": "R107545",
+      "breeders": [
+        "Emina Toussoun"
+      ],
+      "owners": [
+        "Mrs. John T. Gibson"
+      ]
+    },
+    {
+      "reg_number": "R174569",
+      "name": "Van Winkle Bittersweet",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-29-55",
+      "color_code": "Wh",
+      "breed": "Sealyham Terriers",
+      "sire_name": "Ch. Robin Hill Brigade",
+      "sire_reg": "R108352",
+      "dam_name": "Ch. Van Winkle Bit-O-Snow",
+      "dam_reg": "R97204",
+      "breeders": [
+        "Meyer"
+      ],
+      "owners": [
+        "Esther S. & E. Pennington"
+      ]
+    },
+    {
+      "reg_number": "R230550",
+      "name": "Lady Luck",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-18-57",
+      "color_code": "CrBlkPts",
+      "breed": "Skye Terriers",
+      "sire_name": "Alford of Iradell",
+      "sire_reg": "R147506",
+      "dam_name": "Silver Sue of Carvel Hall",
+      "dam_reg": "R145942",
+      "breeders": [
+        "Cooketch Etzberger"
+      ],
+      "owners": [
+        "Janet V. W. Squiers"
+      ]
+    },
+    {
+      "reg_number": "R231328",
+      "name": "Raborns Lady Lux of Tacoma",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-7-58",
+      "color_code": "BlkWh",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Tacoma Taboo",
+      "sire_reg": "R197450",
+      "dam_name": "Tacoma Susett III",
+      "dam_reg": "R203336",
+      "breeders": [
+        "Clifton L. Boyd"
+      ],
+      "owners": [
+        "Theo S. Raborn"
+      ]
+    },
+    {
+      "reg_number": "R197380",
+      "name": "Ruffian Bonnie of Har-Wyn",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-25-57",
+      "color_code": "RdFnWh",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Gallant Ruff",
+      "sire_reg": "R54460",
+      "dam_name": "Ruffian Corvette of Har-Wyn",
+      "dam_reg": "R71636",
+      "breeders": [
+        "Edwin C. Ringold"
+      ],
+      "owners": [
+        "Mrs. W. D. Harper"
+      ]
+    },
+    {
+      "reg_number": "R169195",
+      "name": "Ruffian Red Gold of Har-Wyn",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-15-54",
+      "color_code": "GldnFn",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Strathglass Admiral",
+      "sire_reg": "R62422",
+      "dam_name": "Miss Minkie of Har-Wyn",
+      "dam_reg": "R110768",
+      "breeders": [
+        "Hazel M. Schaefer"
+      ],
+      "owners": [
+        "Mrs. Peggy Harper"
+      ]
+    },
+    {
+      "reg_number": "R184182",
+      "name": "Beachcomber Juno",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-15-56",
+      "color_code": "BlkTN",
+      "breed": "Welsh Terriers",
+      "sire_name": "Ch. Beachcomber Sandy",
+      "sire_reg": "R147830",
+      "dam_name": "Rea-Rwyn's Perky Gwen",
+      "dam_reg": "R147234",
+      "breeders": [
+        "Glen S. Harding"
+      ],
+      "owners": [
+        "John S. Marsh [Metcalfe]"
+      ]
+    },
+    {
+      "reg_number": "R229481",
+      "name": "Bernedell Little Inch",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-15-58",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Ch. Colwyn Welsh Rave",
+      "sire_reg": "R127829",
+      "dam_name": "Mistrix of Shoreland",
+      "dam_reg": "R66895",
+      "breeders": [
+        "Elwood M. Taussig, Jr."
+      ],
+      "owners": [
+        "Edw. K. & Bernice"
+      ]
+    },
+    {
+      "reg_number": "R249006",
+      "name": "Bingo's Bold Venture",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-9-58",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Loving Bingo of El-Kay",
+      "sire_reg": "R161861",
+      "dam_name": "Pool Forge Cruiser",
+      "dam_reg": "R145179",
+      "breeders": [
+        "Edward E. Boas"
+      ],
+      "owners": [
+        "Leon D. Hartranft, Sr."
+      ]
+    },
+    {
+      "reg_number": "R215830",
+      "name": "Bingo's Lucky Lad",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-28-58",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Bingo's Magnificent Star",
+      "sire_reg": "R118562",
+      "dam_name": "Tate's Top Notch Cleo",
+      "dam_reg": "R188643",
+      "breeders": [
+        "Maxine Tate"
+      ],
+      "owners": [
+        "Lois L. Riess"
+      ]
+    },
+    {
+      "reg_number": "R248189",
+      "name": "Binkie Franklin",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-1-55",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Ch. Strathglass Venture's Oliver",
+      "sire_reg": null,
+      "dam_name": "Ch. Laughing Girl of Galliard",
+      "dam_reg": "R72333",
+      "breeders": [
+        "Mrs. Chas. J. Lizdas"
+      ],
+      "owners": [
+        "James F. & Margaret F."
+      ]
+    },
+    {
+      "reg_number": "R245462",
+      "name": "Brialla Bridget",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-7-58",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Rush's Buddy of Licken Run",
+      "sire_reg": "R168082",
+      "dam_name": "Minford Glynis",
+      "dam_reg": "R200987",
+      "breeders": [
+        "Joan C. & Ralph H."
+      ],
+      "owners": [
+        "Frances B. Shepherd"
+      ]
+    },
+    {
+      "reg_number": "R180054",
+      "name": "Brown Betty of Birchwood",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-19-56",
+      "color_code": "BlkTn[Tn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Ch. Port Fortune Venturous",
+      "sire_reg": "R74163",
+      "dam_name": "Beware of Birchwood",
+      "dam_reg": "R71270",
+      "breeders": [
+        "Dorothy Hardcastle"
+      ],
+      "owners": [
+        "Mary D. Taylor [T. Martin"
+      ]
+    },
+    {
+      "reg_number": "R213825",
+      "name": "Chortonville Cachet (England)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-29-54",
+      "color_code": "Blk",
+      "breed": "Welsh Terriers",
+      "sire_name": "Felstead Famous",
+      "sire_reg": null,
+      "dam_name": "Gwyneths Pride",
+      "dam_reg": null,
+      "breeders": [
+        "Miss M. George"
+      ],
+      "owners": [
+        "Lt. Col. Chester L. & F."
+      ]
+    },
+    {
+      "reg_number": "R161314",
+      "name": "Claverach's Charcoal (C. D.)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-4-55",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Claverach Mighty Temptation",
+      "sire_reg": "R58591",
+      "dam_name": "Ralmar's Lovesong",
+      "dam_reg": "R115672",
+      "breeders": [
+        "Eve B. McRoberts"
+      ],
+      "owners": [
+        "Jocelyn M. Eastland"
+      ]
+    },
+    {
+      "reg_number": "R195392",
+      "name": "Claverach's Rear Admiral",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-3-57",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Ch. Strathglass Admiral",
+      "sire_reg": "R62422",
+      "dam_name": "Ch. Ralmar's Lovesong",
+      "dam_reg": "R115672 C.D.",
+      "breeders": [
+        "Eve B. McRoberts"
+      ],
+      "owners": [
+        "Mrs. Stanley R. Spencer"
+      ]
+    },
+    {
+      "reg_number": "R252110",
+      "name": "Coblyn Sli",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-30-57",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Ch. Twin Ponds Dusty",
+      "sire_reg": "R156584",
+      "dam_name": "Barcaroll Topsy",
+      "dam_reg": "R77698",
+      "breeders": [
+        "Ed F. Ioerger"
+      ],
+      "owners": [
+        "Julius Edwards"
+      ]
+    },
+    {
+      "reg_number": "R234239",
+      "name": "Coltan Checkers",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-30-58",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Felstead Revelation",
+      "sire_reg": "R191895",
+      "dam_name": "Coltan Diane",
+      "dam_reg": "R178844",
+      "breeders": [
+        "Mr. & Mrs. S. Sloan Colt"
+      ],
+      "owners": [
+        "Mr. & Mrs. S. Sloan Colt"
+      ]
+    },
+    {
+      "reg_number": "R219871",
+      "name": "Druidel Bobby Brimstone",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-5-58",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Ch. Quayside Bobby Bingo of Twin",
+      "sire_reg": null,
+      "dam_name": "Monona's Miss Nicky",
+      "dam_reg": "R139820",
+      "breeders": [
+        "James C. & Elizabeth D."
+      ],
+      "owners": [
+        "Mrs. Grace Stover Watts"
+      ]
+    },
+    {
+      "reg_number": "R222650",
+      "name": "Fredrieka",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-19-58",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Pondus",
+      "sire_reg": "R183173",
+      "dam_name": "Syl-Von Fashun",
+      "dam_reg": "R69210",
+      "breeders": [
+        "Jack T. & Phyllis I.",
+        "[Fryman"
+      ],
+      "owners": [
+        "Mrs. Grace Stover Watts"
+      ]
+    },
+    {
+      "reg_number": "R210506",
+      "name": "Fuzzy of Windy Hill Acres",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-24-57",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Phyl'njax Hi David",
+      "sire_reg": "R158582",
+      "dam_name": "Syl-Von Fashun",
+      "dam_reg": "R69210",
+      "breeders": [
+        "Adolph Lange"
+      ],
+      "owners": [
+        "Katherine Vande Logt"
+      ]
+    },
+    {
+      "reg_number": "R215695",
+      "name": "Jo-Chan Royal Girl of Foxboro",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-19-58",
+      "color_code": "Blk",
+      "breed": "Welsh Terriers",
+      "sire_name": "Ivor of An-Crest",
+      "sire_reg": "R171848",
+      "dam_name": "Miss Kristi of Brimaur",
+      "dam_reg": "R112930",
+      "breeders": [
+        "H. Bruce Peters"
+      ],
+      "owners": [
+        "Robert B. Homel"
+      ]
+    },
+    {
+      "reg_number": "R236355",
+      "name": "Kristi's Curley Boy",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-5-53",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Phyl'njax Hi David",
+      "sire_reg": "R158582",
+      "dam_name": "Claverach Camouflage",
+      "dam_reg": "R144931",
+      "breeders": [
+        "Toni N. Martin"
+      ],
+      "owners": [
+        "Robert R. Wolff"
+      ]
+    },
+    {
+      "reg_number": "R183400",
+      "name": "Lady Ginger of Valley View",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-9-56",
+      "color_code": "BlkRst",
+      "breed": "Welsh Terriers",
+      "sire_name": "Ch. Strathglass Venture's Oliver",
+      "sire_reg": null,
+      "dam_name": "Scotia Tinker Bell",
+      "dam_reg": "R189540",
+      "breeders": [
+        "Carl L. Battaglia"
+      ],
+      "owners": [
+        "George C. Hatchard"
+      ]
+    },
+    {
+      "reg_number": "R236354",
+      "name": "Lady Wendy of Tinkerbell",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-22-58",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Meyer Manor Dan",
+      "sire_reg": "R96597",
+      "dam_name": "Starlight Acres Stellita",
+      "dam_reg": "R188671",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Robert R. Wolff"
+      ]
+    },
+    {
+      "reg_number": "R239709",
+      "name": "Lange's Pru",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-28-58",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Lord Geoffry of Dowlais",
+      "sire_reg": "R89026",
+      "dam_name": "Okie of Tuloak",
+      "dam_reg": "R196808",
+      "breeders": [
+        "Mrs. L. A. Duckworth"
+      ],
+      "owners": [
+        "Shirley D. Stevens"
+      ]
+    },
+    {
+      "reg_number": "R227475",
+      "name": "My Fair Lady",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-23-58",
+      "color_code": "BrBlk",
+      "breed": "Welsh Terriers",
+      "sire_name": "Ch. Jayness Pepperpot",
+      "sire_reg": "R54178",
+      "dam_name": "Syl-Von's Serene",
+      "dam_reg": "R119083",
+      "breeders": [
+        "Jean G. Hinkle"
+      ],
+      "owners": [
+        "Marion B. Smith"
+      ]
+    },
+    {
+      "reg_number": "R180278",
+      "name": "Port Fortune Sea Patrol",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-12-56",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Mister Tweed of Tuloak II",
+      "sire_reg": "R196807",
+      "dam_name": "Bow Ox Holiday",
+      "dam_reg": "R123290",
+      "breeders": [
+        "Elsie Lang"
+      ],
+      "owners": [
+        "Dorothy Garrison"
+      ]
+    },
+    {
+      "reg_number": "R248394",
+      "name": "Taro Royal-Boy of Foxboro",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-19-58",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Ch. Port Fortune Patriot",
+      "sire_reg": "R96224",
+      "dam_name": "Dundare Janice",
+      "dam_reg": "R198151",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Joe Alpert"
+      ]
+    },
+    {
+      "reg_number": "R221253",
+      "name": "Spiritwood Dante",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-13-57",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Tubac's Grattan",
+      "sire_reg": "R116487",
+      "dam_name": "Dundare Dividend",
+      "dam_reg": "R192046",
+      "breeders": [
+        "Janna & David Jolly"
+      ],
+      "owners": [
+        "Shirley D. Stevens"
+      ]
+    },
+    {
+      "reg_number": "R246276",
+      "name": "Stevens' Territweed",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-10-58",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Mister Tweed of Tuloak",
+      "sire_reg": "R93212",
+      "dam_name": "Lady Tweed of Tuloak",
+      "dam_reg": "R203313",
+      "breeders": [
+        "Edna C. Williamson"
+      ],
+      "owners": [
+        "Robert B. Homel"
+      ]
+    },
+    {
+      "reg_number": "R206788",
+      "name": "Taro Royal-Boy of Foxboro",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-13-57",
+      "color_code": "BlkBr",
+      "breed": "Welsh Terriers",
+      "sire_name": "Beachcomber Proud Boy",
+      "sire_reg": "R199805",
+      "dam_name": "Lady Bridget of Veivpoint",
+      "dam_reg": "R163871",
+      "breeders": [
+        "Ed. F. Ioerger"
+      ],
+      "owners": [
+        "Robert M. & Charles F."
+      ]
+    },
+    {
+      "reg_number": "R202945",
+      "name": "Teg Dufon",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-15-57",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Ch. Twin Ponds Dusty",
+      "sire_reg": "R156584",
+      "dam_name": "Judy Pepperpot",
+      "dam_reg": "R21002",
+      "breeders": [
+        "[Adler, Jr."
+      ],
+      "owners": [
+        "Robert M. & Charles F."
+      ]
+    },
+    {
+      "reg_number": "R250901",
+      "name": "Triebie's Tippie Sweet",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-5-58",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": "Triebie's Dixie Crim",
+      "dam_reg": "R195101",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Robert Triebswetter"
+      ]
+    },
+    {
+      "reg_number": "R116485",
+      "name": "Tubac's Gareth",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-14-53",
+      "color_code": "BlkTn",
+      "breed": "Welsh Terriers",
+      "sire_name": "Ivor of An-Crest",
+      "sire_reg": "R171848",
+      "dam_name": "Smith's Katydid",
+      "dam_reg": "R52971",
+      "breeders": [
+        "Mrs. Neville R. Stephens"
+      ],
+      "owners": [
+        "Chester L. & Faye Turner"
+      ]
+    },
+    {
+      "reg_number": "R192824",
+      "name": "Barr's Thistle MacLeod",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-16-57",
+      "color_code": "WhBlkPts",
+      "breed": "West Highland White Terriers",
+      "sire_name": "Ch. Humby's Canis Major",
+      "sire_reg": "R94464",
+      "dam_name": "Barr's Carmack MacLeod",
+      "dam_reg": "R108777",
+      "breeders": [
+        "[Martin"
+      ],
+      "owners": [
+        "Margaret C. Barr"
+      ]
+    },
+    {
+      "reg_number": "R202087",
+      "name": "Gottard's White Sugar",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-20-57",
+      "color_code": "Wh",
+      "breed": "West Highland White Terriers",
+      "sire_name": "Sir Snooks",
+      "sire_reg": "R141327",
+      "dam_name": "Gottard's Tweedie II",
+      "dam_reg": "R175762",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mrs. Don Fertig"
+      ]
+    },
+    {
+      "reg_number": "R245291",
+      "name": "Iain McKirk",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-7-58",
+      "color_code": "Wh",
+      "breed": "West Highland White Terriers",
+      "sire_name": "Duncan Winterset",
+      "sire_reg": "R198707",
+      "dam_name": "Joy's Tishe",
+      "dam_reg": "R148129",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Lydia M. Simpson"
+      ]
+    },
+    {
+      "reg_number": "R242766",
+      "name": "Mac o' Clyff Pypard",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-20-58",
+      "color_code": "Wh",
+      "breed": "West Highland White Terriers",
+      "sire_name": "Mi Highland Silver Heels",
+      "sire_reg": "R209189",
+      "dam_name": "Mi Carla Too",
+      "dam_reg": "R133382",
+      "breeders": [
+        "Albert A. Barnes"
+      ],
+      "owners": [
+        "Ralph D. Moore"
+      ]
+    },
+    {
+      "reg_number": "R151857",
+      "name": "Ch. McTwiddles Highland Tryste",
+      "titles": "Ch.",
+      "sex": "B",
+      "birth_date": "2-25-55",
+      "color_code": "Wh",
+      "breed": "West Highland White Terriers",
+      "sire_name": "Ch. Highland Mercury",
+      "sire_reg": "A997175",
+      "dam_name": "Ch. Moonbeam Heather McTwiddles",
+      "dam_reg": "R189018",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Dorothy M. Pubols"
+      ]
+    },
+    {
+      "reg_number": "R221455",
+      "name": "McTwiddles Toddy",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-8-58",
+      "color_code": "Wh",
+      "breed": "West Highland White Terriers",
+      "sire_name": "Maxwelton Johnnycake",
+      "sire_reg": "R189322",
+      "dam_name": "McTwiddles Highland Tryste",
+      "dam_reg": "R151857",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Emil H. Pubols"
+      ]
+    },
+    {
+      "reg_number": "R214147",
+      "name": "Mt. Nora's Highland Lassie",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-28-58",
+      "color_code": "Wh",
+      "breed": "West Highland White Terriers",
+      "sire_name": "Bonnie Piper's Mr. McNulty",
+      "sire_reg": "R201250",
+      "dam_name": "Heatherbelle Twinkle Toes",
+      "dam_reg": "R193056",
+      "breeders": [
+        "Mr. & Mrs. E. H. Gunther"
+      ],
+      "owners": [
+        "Joberta F. Rose"
+      ]
+    },
+    {
+      "reg_number": "R214146",
+      "name": "Mt. Nora's Shasta",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-28-58",
+      "color_code": "Wh",
+      "breed": "West Highland White Terriers",
+      "sire_name": "Bonnie Piper's Mr. McNulty",
+      "sire_reg": "R201250",
+      "dam_name": "Heatherbelle Twinkle Toes",
+      "dam_reg": "R193056",
+      "breeders": [
+        "Mr. & Mrs. E. H. Gunther"
+      ],
+      "owners": [
+        "Virginia Stephens"
+      ]
+    },
+    {
+      "reg_number": "R222202",
+      "name": "Oser's Colleen Coquette",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-19-58",
+      "color_code": "Wh",
+      "breed": "West Highland White Terriers",
+      "sire_name": "Oser's Andy McDougal",
+      "sire_reg": "R182100",
+      "dam_name": "Klintilloch Marzipan",
+      "dam_reg": "R166735",
+      "breeders": [
+        "Mr. & Mrs. Lewis Oser"
+      ],
+      "owners": [
+        "Ellen Maury & Dorothy"
+      ]
+    },
+    {
+      "reg_number": "R247332",
+      "name": "Pixie Jamie",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-10-58",
+      "color_code": "Wh",
+      "breed": "West Highland White Terriers",
+      "sire_name": "Pixie Mackenzie",
+      "sire_reg": "R193702",
+      "dam_name": "Cherie Camille",
+      "dam_reg": "R139572",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Elfriede F. Greenleaf"
+      ]
+    },
+    {
+      "reg_number": "R244898",
+      "name": "Pretty Patricia (England)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-4-58",
+      "color_code": "Wh",
+      "breed": "West Highland White Terriers",
+      "sire_name": "Symmetra Skirmish",
+      "sire_reg": null,
+      "dam_name": "Easttown Sheilagh",
+      "dam_reg": null,
+      "breeders": [
+        "Mrs. M. Pettigrew"
+      ],
+      "owners": [
+        "Edward F. & Donna J."
+      ]
+    },
+    {
+      "reg_number": "R225853",
+      "name": "Shipmate's Enterprize",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-17-58",
+      "color_code": "Wh",
+      "breed": "West Highland White Terriers",
+      "sire_name": "Ch. Roseneath White Knight",
+      "sire_reg": "R189424",
+      "dam_name": "Shipmate's Confection",
+      "dam_reg": null,
+      "breeders": [
+        "Shipmates Kennels"
+      ],
+      "owners": [
+        "Seaward Kennels [Rafferty"
+      ]
+    }
+  ]
+}

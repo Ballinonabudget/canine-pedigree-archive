@@ -1,0 +1,281 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "RA216704",
+      "name": "CH SOONER'S TRUE GRIT OF RHOD\nY",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "9-77",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "STAFF O'KIRLEY'S FANCY BUL",
+      "sire_reg": "RA215834",
+      "dam_name": "BELLE OF LONE STAR",
+      "dam_reg": "RA012988",
+      "breeders": [
+        "N GOMEZ",
+        "O SHARPE"
+      ],
+      "owners": [
+        "N GOMEZ",
+        "O SHARPE"
+      ]
+    },
+    {
+      "reg_number": "R906705",
+      "name": "CH SOONER'S RANGER EL CAJOHN",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "12-74",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "STAFFORD'S BRINDLE QUEEN",
+      "sire_reg": "R953328",
+      "dam_name": "TOP STAFFORD'S LITTLE CHIEF",
+      "dam_reg": "RA078227",
+      "breeders": [
+        "P ROBERTSON",
+        "A J FERNANDEZ"
+      ],
+      "owners": [
+        "P ROBERTSON",
+        "A J FERNANDEZ"
+      ]
+    },
+    {
+      "reg_number": "R929095",
+      "name": "THUNDERBOLT OF MAGNUM FORCE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-75",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "STAR BELLA",
+      "sire_reg": "RA34716",
+      "dam_name": "WOODSIA DIXIE BELL",
+      "dam_reg": "RA292280",
+      "breeders": [
+        "W ADAMS",
+        "M BOOTH",
+        "T RABORN"
+      ],
+      "owners": [
+        "W ADAMS",
+        "M BOOTH",
+        "T RABORN"
+      ]
+    },
+    {
+      "reg_number": "RA355503",
+      "name": "STAR BELLA'S DONA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "FLOP FLOP FIZZ FIZZ",
+      "sire_reg": "RA459003",
+      "dam_name": "WURSTS JAZZY DEE",
+      "dam_reg": "RA345220",
+      "breeders": [
+        "D HILLMER",
+        "J BAJUK",
+        "J RUSSELL"
+      ],
+      "owners": [
+        "D HILLMER",
+        "J BAJUK",
+        "J RUSSELL"
+      ]
+    },
+    {
+      "reg_number": "RA565876",
+      "name": "WURST'S HAPPY HOWDY FELLOW",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-24-79",
+      "color_code": "RD BRDL",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH. WHITE ROCK SASSY",
+      "sire_reg": "RA121391",
+      "dam_name": "WILLWOOD MATILDA",
+      "dam_reg": "RA424597",
+      "breeders": [
+        "W PETERSON JR",
+        "H LONGWORTH"
+      ],
+      "owners": [
+        "W PETERSON JR",
+        "H LONGWORTH"
+      ]
+    },
+    {
+      "reg_number": "RA565910",
+      "name": "TOUCH O'CLASS GENTLEMAN JIM",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-7-80",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH. WHITE ROCK JET BOMBER",
+      "sire_reg": "RA121389",
+      "dam_name": "WILLWOOD BENGAL BETTY",
+      "dam_reg": "RA305987",
+      "breeders": [
+        "C JENNINGS",
+        "S COULTER",
+        "J REBELLO"
+      ],
+      "owners": [
+        "K G LIPSIUS",
+        "D PASCOE"
+      ]
+    },
+    {
+      "reg_number": "RA260695",
+      "name": "CH. ASHBAR'S DUKE THE DANDY",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "8-75",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "BENDIGO BELL BUGGER",
+      "sire_reg": "RA330093",
+      "dam_name": "DEGEE'S RUBY BELL",
+      "dam_reg": "RA242510",
+      "breeders": [
+        "G POMFRET",
+        "C MACDOUGALL"
+      ],
+      "owners": [
+        "A HALL",
+        "M ANDERSON"
+      ]
+    },
+    {
+      "reg_number": "RA461052",
+      "name": "BROWN'S ALFIE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "BROWN'S AMBER",
+      "sire_reg": "RA442527",
+      "dam_name": "BROWN'S AMY",
+      "dam_reg": "RA445204",
+      "breeders": [
+        "V STEVENSON"
+      ],
+      "owners": [
+        "V STEVENSON"
+      ]
+    },
+    {
+      "reg_number": "RA442527",
+      "name": "BROWN'S AMBER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "KAPLAN'S ALFIE",
+      "sire_reg": "RA605392",
+      "dam_name": "BROWN'S AMY",
+      "dam_reg": "RA445204",
+      "breeders": [
+        "S KAPLAN",
+        "V STEVENSON"
+      ],
+      "owners": [
+        "V STEVENSON"
+      ]
+    },
+    {
+      "reg_number": "RA092017",
+      "name": "CH MATCH POINT DULSE",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "6-78",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "COTTONWOODS NICKODEMUS",
+      "sire_reg": "RA117314",
+      "dam_name": "MARY'S SCAMPI JO",
+      "dam_reg": "RA396153",
+      "breeders": [
+        "J B WARD"
+      ],
+      "owners": [
+        "J B WARD",
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RA567197",
+      "name": "TAMKIKIN'S BLUE TOPPER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-19-79",
+      "color_code": "RD",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "LOWERK'S BLINKUM",
+      "sire_reg": "RA101111",
+      "dam_name": "CH SPRITE LEA LAUGHTON",
+      "dam_reg": "RA460615",
+      "breeders": [
+        "H M SCHWARZKOPF",
+        "J TCHTZKE"
+      ],
+      "owners": [
+        "G DORR",
+        "E CLARK"
+      ]
+    },
+    {
+      "reg_number": "RA139113",
+      "name": "CH SPRITE LEA GUINEVERE",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "10-76",
+      "color_code": "BL & TN",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "SPRITE LEA SAMANTHA",
+      "sire_reg": "RA460615",
+      "dam_name": "TODORA DOMINIQUE LATEIR",
+      "dam_reg": "RA462373",
+      "breeders": [
+        "A HALE",
+        "K BARNES"
+      ],
+      "owners": [
+        "A HALE",
+        "K BARNES"
+      ]
+    },
+    {
+      "reg_number": "RA445258",
+      "name": "BROWN'S AMY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-79",
+      "color_code": "BL & TN",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "BROWN'S AMBER",
+      "sire_reg": "RA442527",
+      "dam_name": "BROWN'S AMY",
+      "dam_reg": "RA445204",
+      "breeders": [
+        "DR E BARNES",
+        "A HALE",
+        "E BARNES"
+      ],
+      "owners": [
+        "M LUKENS",
+        "V STEVENSON"
+      ]
+    }
+  ]
+}

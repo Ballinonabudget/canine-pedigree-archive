@@ -1,0 +1,1049 @@
+{
+  "breed": "Staffordshire Terriers",
+  "dogs": [
+    {
+      "reg_number": "R9091",
+      "name": "BARBARA'S BINGO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-1-46",
+      "color_code": "Fawn and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Doyle's Penelope",
+      "sire_reg": "A613804",
+      "dam_name": "Baron's Gypsy of Farsdale",
+      "dam_reg": "R8865",
+      "breeders": [
+        "Eileen P. Books"
+      ],
+      "owners": [
+        "Eileen P. Books"
+      ]
+    },
+    {
+      "reg_number": "R8832",
+      "name": "FELSTEAD SELECTION OF HARHAM",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-16-43",
+      "color_code": "Black and tan",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ronvale Penhill Patriot",
+      "sire_reg": "Penhill Primrose",
+      "dam_name": "Harold M. Florsheim",
+      "dam_reg": null,
+      "breeders": [
+        "A. E. Harris"
+      ],
+      "owners": [
+        "Messrs. A. H. Symonds & H. Snow"
+      ]
+    },
+    {
+      "reg_number": "R8831",
+      "name": "FELSTEAD PLAYBOY OF HARHAM",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-16-44",
+      "color_code": "Black and tan",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Aman Supreme",
+      "sire_reg": "Penhill Primrose",
+      "dam_name": "Harold M. Florsheim",
+      "dam_reg": null,
+      "breeders": [
+        "Messrs. A. H. Symonds & H. Snow"
+      ],
+      "owners": [
+        "Messrs. A. H. Symonds & H. Snow"
+      ]
+    },
+    {
+      "reg_number": "A931735",
+      "name": "CH. TPNOPATCHER",
+      "titles": "CH.",
+      "sex": "X",
+      "birth_date": "5-22-44",
+      "color_code": "Graylock",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Chummie's War Cloud of Talisker",
+      "sire_reg": "A605967",
+      "dam_name": "Adorable Lady of Talisker",
+      "dam_reg": "A907279",
+      "breeders": [
+        "Clara Lindland"
+      ],
+      "owners": [
+        "Donald K. Bentley"
+      ]
+    },
+    {
+      "reg_number": "R9106",
+      "name": "HIGH TIME CHUMMIE'S TASK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-43",
+      "color_code": "Gray",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "R8432 Gray",
+      "sire_reg": null,
+      "dam_name": "Suzanbe of Don-Karin",
+      "dam_reg": "R89105",
+      "breeders": [
+        "Marian K. Hersey"
+      ],
+      "owners": [
+        "Marian K. Hersey"
+      ]
+    },
+    {
+      "reg_number": "R9105",
+      "name": "HIGH TIME CHUMMIE'S OWN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-25-46",
+      "color_code": "Gray",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Chummie's Task",
+      "sire_reg": "R9106",
+      "dam_name": "First Shot of Delwin",
+      "dam_reg": "A554576",
+      "breeders": [
+        "Marian K. Hersey"
+      ],
+      "owners": [
+        "Marian K. Hersey"
+      ]
+    },
+    {
+      "reg_number": "R9108",
+      "name": "HIGH TIME CHUMMIE'S MIST",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-6-46",
+      "color_code": "Black and tan",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Twin Ponds Sun-tan",
+      "sire_reg": "A558610",
+      "dam_name": "First Shot of Delwin",
+      "dam_reg": "A554576",
+      "breeders": [
+        "Connie K. Hersey"
+      ],
+      "owners": [
+        "Connie K. Hersey"
+      ]
+    },
+    {
+      "reg_number": "R9107",
+      "name": "HIGH TIME CHUMMIE'S HOPE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-6-46",
+      "color_code": "Black and tan",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Twin Ponds Sun-tan",
+      "sire_reg": "A558610",
+      "dam_name": "First Shot of Delwin",
+      "dam_reg": "A554576",
+      "breeders": [
+        "Connie K. Hersey"
+      ],
+      "owners": [
+        "Connie K. Hersey"
+      ]
+    },
+    {
+      "reg_number": "R9192",
+      "name": "DOUBLE SHOT OF KITCHEN LANE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "Arlene A. Warburton"
+      ],
+      "owners": [
+        "Lass A496705"
+      ]
+    },
+    {
+      "reg_number": "R8205",
+      "name": "COPPER SENSATION",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-17-45",
+      "color_code": "Black and tan",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Redberry Cymraeg",
+      "sire_reg": "Copper Talisker",
+      "dam_name": "A744524",
+      "dam_reg": "Talisker Marcella A312503",
+      "breeders": [
+        "Mr. & Mrs. John G. Bovey"
+      ],
+      "owners": [
+        "Charlotte M. Sullivan"
+      ]
+    },
+    {
+      "reg_number": "A255154",
+      "name": "CHARLOTTE'S FAVORITE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-22-46",
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Chs. Chummie's Warman of Talisker",
+      "sire_reg": "A744524",
+      "dam_name": "Talisker Marcella",
+      "dam_reg": "A312503",
+      "breeders": [
+        "Charles S. Dewey Jr."
+      ],
+      "owners": [
+        "Charles S. Dewey Jr."
+      ]
+    },
+    {
+      "reg_number": "R8512",
+      "name": "GWYNNETH OF BREADALBANE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-24-44",
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Merry Chum of Tradell",
+      "sire_reg": "A422175",
+      "dam_name": "Herber's Chummie's Burleigh",
+      "dam_reg": "A856104",
+      "breeders": [
+        "Little Minch of Tradell"
+      ],
+      "owners": [
+        "Maxine Louise Jones"
+      ]
+    },
+    {
+      "reg_number": "R8962",
+      "name": "CARDIFF GINGER OF BOVISTA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-9-1939",
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Cardiff Fresh Lad O'Ba-Mac",
+      "sire_reg": "A87783",
+      "dam_name": "Bovista Royal Maiden",
+      "dam_reg": "A255154",
+      "breeders": [
+        "Mrs. Albert Brown"
+      ],
+      "owners": [
+        "Monte Rusty 901112"
+      ]
+    },
+    {
+      "reg_number": "992780",
+      "name": "CH. MARLU OBIE OF OFICLYDE",
+      "titles": "CH.",
+      "sex": "D",
+      "birth_date": "2-19-1936",
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Del Monte Rusty",
+      "sire_reg": "901112",
+      "dam_name": "Ch. Del Calebid",
+      "dam_reg": "R8811",
+      "breeders": [
+        "Paul & Hilda Hoernicke"
+      ],
+      "owners": [
+        "Wales-croft"
+      ]
+    },
+    {
+      "reg_number": "A622463",
+      "name": "BAYLEY'S BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-22-1946",
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Del-Vila Hotspur",
+      "sire_reg": "A222463",
+      "dam_name": "Walescroft Kenicia",
+      "dam_reg": "A745154",
+      "breeders": [
+        "Paul & Hilda Hoernicke"
+      ],
+      "owners": [
+        "Howard D. Rodocker"
+      ]
+    },
+    {
+      "reg_number": "A587003",
+      "name": "BACHAND JOWL O' BENTRE CARBOND",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-22-1946",
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Right Robin of Wallcrest",
+      "sire_reg": "A236604",
+      "dam_name": "High Skipper Parade",
+      "dam_reg": "A587003",
+      "breeders": [
+        "Rexford M. Bell"
+      ],
+      "owners": [
+        "Marion J. Shelmandine"
+      ]
+    },
+    {
+      "reg_number": "R8187",
+      "name": "WEE BIANCA AMEBEL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "January 13, 1945",
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Van Winkle Faster Parade",
+      "sire_reg": "A705167",
+      "dam_name": "Bonnie of Bancroft",
+      "dam_reg": "A768404",
+      "breeders": [
+        "Maxine Louise Jones"
+      ],
+      "owners": [
+        "Howard D. Rodocker"
+      ]
+    },
+    {
+      "reg_number": "A452693",
+      "name": "HAMPTOR HILL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-1945",
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Efreda of Orclose",
+      "sire_reg": "A346496",
+      "dam_name": "Walter D. Gilmore",
+      "dam_reg": null,
+      "breeders": [
+        "Mr. & Mrs. R. L. Scages"
+      ],
+      "owners": [
+        "Mr. & Mrs. R. L. Scages"
+      ]
+    },
+    {
+      "reg_number": "A899535",
+      "name": "WALGEL WESTERNER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-1945",
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ceinwen of Peter Pan",
+      "sire_reg": "R8466",
+      "dam_name": "Premier 961895",
+      "dam_reg": null,
+      "breeders": [
+        "Mr. & Mrs. H. Hannah"
+      ],
+      "owners": [
+        "Ch. Fencliff Bertha Smith McCullough"
+      ]
+    },
+    {
+      "reg_number": "R8170",
+      "name": "ANOTHER PLAYBOY OF PETER PAN II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-20-1944",
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Fencliff Premier 961895",
+      "sire_reg": null,
+      "dam_name": "Ceinwen of Peter Pan",
+      "dam_reg": "R8466",
+      "breeders": [
+        "Mr. & Mrs. W. J. Abogh9095"
+      ],
+      "owners": [
+        "Mrs. Hannah Wade"
+      ]
+    },
+    {
+      "reg_number": "A794155",
+      "name": "QUESTION MARK",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-15-1946",
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Cedar Root Cookie Jar A809095",
+      "sire_reg": null,
+      "dam_name": "Aireline Cubby",
+      "dam_reg": "A503275",
+      "breeders": [
+        "Charles H. Walgil",
+        "Ch. Walgil"
+      ],
+      "owners": [
+        "F. McDonnell"
+      ]
+    },
+    {
+      "reg_number": "R9125",
+      "name": "WALESHIRE'S ORNETSIE LILY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-10-1946",
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Strathglass Bingo's Venture",
+      "sire_reg": "A587909",
+      "dam_name": "Aireline Adventures",
+      "dam_reg": "B8710",
+      "breeders": [
+        "Mrs. Ben L. West"
+      ],
+      "owners": [
+        "F. Adventures"
+      ]
+    },
+    {
+      "reg_number": "R8498",
+      "name": "TIMOTHY'S ASTONISHMENT",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-30-1945",
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Sir Timothy II",
+      "sire_reg": "A757579",
+      "dam_name": "White Moth of Amity",
+      "dam_reg": "A446973",
+      "breeders": [
+        "Elizabeth F. McDonnell"
+      ],
+      "owners": [
+        "Elizabeth F. McDonnell"
+      ]
+    },
+    {
+      "reg_number": "R9008",
+      "name": "ROBIN HILL WHITE BRIGADE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R9011",
+      "name": "ROBIN HILL TOKEN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": [
+        "Anthony J. Brankin"
+      ]
+    },
+    {
+      "reg_number": "R9007",
+      "name": "ROBIN HILL MINUTEMAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-20-1946",
+      "color_code": "Fawn, white markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Corvino's Iron Will",
+      "sire_reg": "A759791",
+      "dam_name": "Bonnie A527563",
+      "dam_reg": null,
+      "breeders": [
+        "Joe Corvino"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R9010",
+      "name": "ROBIN HILL MAYPOLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "Robert B. Choate"
+      ],
+      "owners": [
+        "Robert B. Choate"
+      ]
+    },
+    {
+      "reg_number": "R8559",
+      "name": "PEG-O-SAN DIEGO",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-6-1946",
+      "color_code": "Brindle, white markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Robin Hill Memoir",
+      "sire_reg": "A324574",
+      "dam_name": "Miss Wyndham Bay",
+      "dam_reg": "R8560",
+      "breeders": [
+        "Robert B. Choate"
+      ],
+      "owners": [
+        "Robert B. Choate"
+      ]
+    },
+    {
+      "reg_number": "R9009",
+      "name": "ROBIN HILL LANCER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R8558",
+      "name": "MAJOR-DOMO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Brindle, white marking",
+      "breed": "Staffordshire Terriers",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R9084",
+      "name": "ROBIN HILL SYMPHONETTE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R8557",
+      "name": "ROBIN HILL SONATA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Brindle, white marking",
+      "breed": "Staffordshire Terriers",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R9086",
+      "name": "ROBIN HILL GRENADE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Brindle, white marking",
+      "breed": "Staffordshire Terriers",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "Robert B. Choate"
+      ],
+      "owners": [
+        "Herman D. Knauff"
+      ]
+    },
+    {
+      "reg_number": "A223776",
+      "name": "KNAUFF'S OPENING BID",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-3-1946",
+      "color_code": "Brindle, white marking",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Ruffian Scalawag",
+      "sire_reg": "A223776",
+      "dam_name": "Babe",
+      "dam_reg": "A333333",
+      "breeders": [
+        "Mrs. Robert B. Choate"
+      ],
+      "owners": [
+        "Herman D. Knauff"
+      ]
+    },
+    {
+      "reg_number": "R9087",
+      "name": "ROBIN HILL FUSILEER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-9-1946",
+      "color_code": "Gray, white marking",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Robin Hill Grenadier",
+      "sire_reg": "A673236",
+      "dam_name": "Robin Hill Symphony",
+      "dam_reg": "A833333",
+      "breeders": [
+        "Mrs. Robert B. Choate"
+      ],
+      "owners": [
+        "Mrs. Robert B. Choate"
+      ]
+    },
+    {
+      "reg_number": "R8528",
+      "name": "ROBIN HILL POLKA DOT",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-16-1938",
+      "color_code": "White, white markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Klump's Deuce",
+      "sire_reg": "A799672",
+      "dam_name": "Ed-Mar Kennels",
+      "dam_reg": null,
+      "breeders": [
+        "Ed. Mar Kennels"
+      ],
+      "owners": [
+        "Ed. Mar Kennels"
+      ]
+    },
+    {
+      "reg_number": "R8527",
+      "name": "ROBIN HILL DIMITY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "Thomas S. Job"
+      ],
+      "owners": [
+        "Thomas S. Job"
+      ]
+    },
+    {
+      "reg_number": "D9163",
+      "name": "GOLDEN PATRICIA OF ED MAR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-16-1938",
+      "color_code": "Fawn, white markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Klump's Deuce",
+      "sire_reg": "A799672",
+      "dam_name": "Ed-Mar Kennels",
+      "dam_reg": null,
+      "breeders": [
+        "Ed-Mar Kennels"
+      ],
+      "owners": [
+        "Ed-Mar Kennels"
+      ]
+    },
+    {
+      "reg_number": "A673236",
+      "name": "FARISDALE MIKE MULDOON",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-5-1946",
+      "color_code": null,
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Robin Hill Grenadier",
+      "sire_reg": "A441896",
+      "dam_name": "Hill Batiste",
+      "dam_reg": null,
+      "breeders": [
+        "Florence E. Beyerle"
+      ],
+      "owners": [
+        "Florence E. Beyerle"
+      ]
+    },
+    {
+      "reg_number": "R9164",
+      "name": "FARISDALE'S HONEY BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Fawn, white markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R9083",
+      "name": "ROBIN HILL LOVE SONG",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "White",
+      "breed": "Staffordshire Terriers",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R9078",
+      "name": "ROBIN HILL FANTASY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "White, badger markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "Marguerite Farley"
+      ],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R9165",
+      "name": "FARISDALE GOLDEN DUENA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-24-1946",
+      "color_code": "Fawn, white markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A604960",
+      "dam_name": "Lolita",
+      "dam_reg": null,
+      "breeders": [
+        "Marguerite Farley"
+      ],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R9079",
+      "name": "ROBIN HILL FANFARE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-1945",
+      "color_code": "White, badger markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Doyle's Tacoma Dispatched",
+      "sire_reg": "A819563",
+      "dam_name": "Hill Jonquil",
+      "dam_reg": "A856461",
+      "breeders": [
+        "Charles J. Doyle"
+      ],
+      "owners": [
+        "Charles J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R8716",
+      "name": "DOYLE'S TACOMA DANDY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "July 2, 1946",
+      "color_code": "Brindle, white markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Robin Hill Ballad",
+      "sire_reg": "A907875",
+      "dam_name": "Fred H. Klein",
+      "dam_reg": null,
+      "breeders": [
+        "Eileen P. Books"
+      ],
+      "owners": [
+        "Eileen P. Books"
+      ]
+    },
+    {
+      "reg_number": "A585044",
+      "name": "ROBIN HILL BALLAD",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "July 2, 1946",
+      "color_code": "Brindle, head marking",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Robin Hill Ballad",
+      "sire_reg": "A907875",
+      "dam_name": "Fred H. Klein",
+      "dam_reg": null,
+      "breeders": [
+        "Eileen P. Books"
+      ],
+      "owners": [
+        "Eileen P. Books"
+      ]
+    },
+    {
+      "reg_number": "A907875",
+      "name": "BARBARA'S BINGO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "April 1, 1946",
+      "color_code": "Fawn and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Doyle's Penelope",
+      "sire_reg": "A613804",
+      "dam_name": "Baron's Gypsy of Farsdale",
+      "dam_reg": "R8865",
+      "breeders": [
+        "Eileen P. Books"
+      ],
+      "owners": [
+        "Eileen P. Books"
+      ]
+    },
+    {
+      "reg_number": "A613804",
+      "name": "DOYLE'S PENELOPE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "September 16, 1943",
+      "color_code": "Black and tan",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ronvale Penhill Patriot",
+      "sire_reg": "Penhill Primrose",
+      "dam_name": "Harold M. Florsheim",
+      "dam_reg": null,
+      "breeders": [
+        "A. E. Harris"
+      ],
+      "owners": [
+        "A. E. Harris"
+      ]
+    },
+    {
+      "reg_number": "R8403",
+      "name": "FLASH OF RENAMOR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "February 15, 1946",
+      "color_code": "Black and tan",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Marlu Top Sawyer",
+      "sire_reg": "A591350",
+      "dam_name": "Ch. Nutmeg",
+      "dam_reg": "A393274",
+      "breeders": [
+        "Mrs. George S. Amory"
+      ],
+      "owners": [
+        "Mr. & Mrs. S. Sloan Colt"
+      ]
+    },
+    {
+      "reg_number": "A377144",
+      "name": "CHARLESTON GIRL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "June 16, 1946",
+      "color_code": "Brindle, white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Ruffian Scalawag",
+      "sire_reg": "A422376",
+      "dam_name": "June's Boston Babe",
+      "dam_reg": "R6664",
+      "breeders": [
+        "Herman D. Knauff"
+      ],
+      "owners": [
+        "Herman D. Knauff"
+      ]
+    },
+    {
+      "reg_number": "A521216",
+      "name": "STRATHGLASS FI",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "June 16, 1946",
+      "color_code": "Black and tan",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Trefor of Walescroft",
+      "sire_reg": "A322171",
+      "dam_name": "Marlu Top Belle",
+      "dam_reg": "A854795",
+      "breeders": [
+        "Harry M. Powell"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R9012",
+      "name": "GARHOME FO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Black and tan",
+      "breed": "Staffordshire Terriers",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R9013",
+      "name": "GARHOME OXWICH",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Black and tan",
+      "breed": "Staffordshire Terriers",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R9014",
+      "name": "GARHOME VAGUS SUE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Black and tan",
+      "breed": "Staffordshire Terriers",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R9016",
+      "name": "GARHOME GALARAP",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "June 10, 1946",
+      "color_code": "Black and tan",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Trefor of Walescroft",
+      "sire_reg": "A322171",
+      "dam_name": "Marlu Top Belle",
+      "dam_reg": "A854795",
+      "breeders": [
+        "Harry M. Powell"
+      ],
+      "owners": [
+        "Harry M. Powell"
+      ]
+    },
+    {
+      "reg_number": "A527563",
+      "name": "CORVINO'S IRON WILL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "May 20, 1946",
+      "color_code": "Fawn and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A604960",
+      "dam_name": "August 2, 1946",
+      "dam_reg": null,
+      "breeders": [
+        "Oscar M. Owen"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "A613804",
+      "name": "DOYLE'S BROWN BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "April 1, 1946",
+      "color_code": "Fawn and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "The Tiger of Cleveland",
+      "sire_reg": "A613804",
+      "dam_name": "Doyle's Penelope",
+      "dam_reg": "A613804",
+      "breeders": [
+        "Eileen P. Books"
+      ],
+      "owners": [
+        "Eileen P. Books"
+      ]
+    }
+  ]
+}

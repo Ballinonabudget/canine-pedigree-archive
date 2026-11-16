@@ -1,0 +1,372 @@
+{
+  "breed": "Skye Terriers",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A-946881",
+      "name": "OVERHILL FASHIONPLATE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "June 19, 1947",
+      "color_code": null,
+      "breed": "Skye Terriers",
+      "sire_name": "Overhill Fashionplate",
+      "sire_reg": "A-567009",
+      "dam_name": "Mrs. & Mrs. William M. Kirby",
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Mrs. & Mrs. William M. Kirby"
+      ]
+    },
+    {
+      "reg_number": "R-25829",
+      "name": "OVERHILL KILTIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "June 19, 1947",
+      "color_code": "badger head markings",
+      "breed": "Skye Terriers",
+      "sire_name": "Overhill Fashionplate",
+      "sire_reg": "A-946881",
+      "dam_name": "Overhill Unison A-567009",
+      "dam_reg": "A-567009",
+      "breeders": [],
+      "owners": [
+        "Mr. & Mrs. William M. Kirby"
+      ]
+    },
+    {
+      "reg_number": "R-25826",
+      "name": "OVERHILL KIPP",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "June 19, 1947",
+      "color_code": "badger head markings",
+      "breed": "Skye Terriers",
+      "sire_name": "Overhill Fashionplate",
+      "sire_reg": "A-946",
+      "dam_name": "Overhill Unison",
+      "dam_reg": "A-567009",
+      "breeders": [],
+      "owners": [
+        "Mr. & Mrs. William M. Kirby"
+      ]
+    },
+    {
+      "reg_number": "R-25286",
+      "name": "ROBIN CAPER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "May 4, 1947",
+      "color_code": "badger head markings",
+      "breed": "Skye Terriers",
+      "sire_name": "Robin Hill Corsair",
+      "sire_reg": "A-788",
+      "dam_name": "Carvaun Caper",
+      "dam_reg": "A-659709",
+      "breeders": [],
+      "owners": [
+        "Mrs. Don C. Smith",
+        "Mrs. Tom Martin"
+      ]
+    },
+    {
+      "reg_number": "R-25629",
+      "name": "ROBIN HILL BAGATELLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "May 4, 1947",
+      "color_code": "badger head markings",
+      "breed": "Skye Terriers",
+      "sire_name": "Robin Hill Grenadier",
+      "sire_reg": "A-673236",
+      "dam_name": "Robin Hill Ripple",
+      "dam_reg": "A-320",
+      "breeders": [],
+      "owners": [
+        "Mrs. Robert B. Choate"
+      ]
+    },
+    {
+      "reg_number": "R-25630",
+      "name": "ROBIN HILL DRAGOON",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "May 4, 1947",
+      "color_code": "badger head markings",
+      "breed": "Skye Terriers",
+      "sire_name": "Robin Hill Grenadier",
+      "sire_reg": "A-673236",
+      "dam_name": "Robin Hill Ripple",
+      "dam_reg": "A-320270",
+      "breeders": [],
+      "owners": [
+        "Mrs. Robert B. Choate"
+      ]
+    },
+    {
+      "reg_number": "R-25628",
+      "name": "ROBIN HILL POPPET",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "May 4, 1947",
+      "color_code": "badger head on eyes",
+      "breed": "Skye Terriers",
+      "sire_name": "Robin Hill Grenadier",
+      "sire_reg": "A-673236",
+      "dam_name": "Robin Hill Ripple",
+      "dam_reg": "A-320270",
+      "breeders": [],
+      "owners": [
+        "Mrs. Robert B. Choate"
+      ]
+    },
+    {
+      "reg_number": "R-26094",
+      "name": "SANTA FE CHILI",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "January 6, 1947",
+      "color_code": "white and badger",
+      "breed": "Skye Terriers",
+      "sire_name": "Sanda-Lee's Dandy-Boy",
+      "sire_reg": "A-607",
+      "dam_name": "Sands Serne",
+      "dam_reg": "R-12385",
+      "breeders": [],
+      "owners": [
+        "L. A. Hughes",
+        "Ralph J. Friedman"
+      ]
+    },
+    {
+      "reg_number": "R-25366",
+      "name": "SANTA FE PETER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "January 6, 1947",
+      "color_code": "badger markings",
+      "breed": "Skye Terriers",
+      "sire_name": "Sanda-Lee's Dandy Boy",
+      "sire_reg": "A-607162",
+      "dam_name": "Sands Serne",
+      "dam_reg": "R-12385",
+      "breeders": [],
+      "owners": [
+        "Charles C. Catron",
+        "Ralph J. Friedman"
+      ]
+    },
+    {
+      "reg_number": "R-25063",
+      "name": "SNOW WHITE LADY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "May 5, 1947",
+      "color_code": "white",
+      "breed": "Skye Terriers",
+      "sire_name": "Rinklestone Radar",
+      "sire_reg": "A-883223",
+      "dam_name": "Cedar Root Cotton Maid",
+      "dam_reg": "A-746323",
+      "breeders": [],
+      "owners": [
+        "Dorothy M. Curtis"
+      ]
+    },
+    {
+      "reg_number": "R-25982",
+      "name": "SUSIEBELLE'S PRIDE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "May 22, 1947",
+      "color_code": "white and black",
+      "breed": "Skye Terriers",
+      "sire_name": "Overhill",
+      "sire_reg": "Top",
+      "dam_name": "Susiebelle of Kuncrie Farm",
+      "dam_reg": "R-2649",
+      "breeders": [],
+      "owners": [
+        "Edgar D. Russell",
+        "Helen L. Baird"
+      ]
+    },
+    {
+      "reg_number": "R-25071",
+      "name": "SWEET LASS OF BEVILLHAM",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "July 4, 1944",
+      "color_code": "silver head markings",
+      "breed": "Skye Terriers",
+      "sire_name": "Van Winkle Magnificent Lad",
+      "sire_reg": "A-552574",
+      "dam_name": "Lady Frost of Bevillham",
+      "dam_reg": "R-9664",
+      "breeders": [],
+      "owners": [
+        "Dorothy E. Champion",
+        "Dorothy G. Egan"
+      ]
+    },
+    {
+      "reg_number": "R-25120",
+      "name": "THISTLE SNIFFER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "March 31, 1946",
+      "color_code": null,
+      "breed": "Skye Terriers",
+      "sire_name": "Robinhill Supertax",
+      "sire_reg": "A-511345",
+      "dam_name": "Cresheim Maid of Cresheimia",
+      "dam_reg": "A-550831",
+      "breeders": [],
+      "owners": [
+        "Dorothy May Shore",
+        "Cresheim Kennels"
+      ]
+    },
+    {
+      "reg_number": "R-25732",
+      "name": "WINSHIRE WILDFLOWER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "July 1, 1942",
+      "color_code": "white and black head markings",
+      "breed": "Skye Terriers",
+      "sire_name": "Son of Dic",
+      "sire_reg": "A-361323",
+      "dam_name": "Snappy Sandra A",
+      "dam_reg": "A-553413",
+      "breeders": [],
+      "owners": [
+        "Mrs. Alberta L. Roberts",
+        "Deanna M. Evans"
+      ]
+    },
+    {
+      "reg_number": "R-25891",
+      "name": "BONNYLEIGH'S DROOPY DRAWERS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "April 10, 1947",
+      "color_code": "gray",
+      "breed": "Skye Terriers",
+      "sire_name": "Chummie's Fortune of Talisker",
+      "sire_reg": "A-686378",
+      "dam_name": "Merrybrac's Flora",
+      "dam_reg": "A-573430",
+      "breeders": [],
+      "owners": [
+        "Bonnyleigh Kennels"
+      ]
+    },
+    {
+      "reg_number": "R-25553",
+      "name": "CHUMMIES WEE ROBIN OF TALISKER (CAN.)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "May 4, 1947",
+      "color_code": "gray",
+      "breed": "Skye Terriers",
+      "sire_name": "Chummie's Heir of Merrymount",
+      "sire_reg": "X",
+      "dam_name": "Goldenglow of Talisker",
+      "dam_reg": "N. M. Kuhlman",
+      "breeders": [],
+      "owners": [
+        "Marjorie J. Adams"
+      ]
+    },
+    {
+      "reg_number": "R-24699",
+      "name": "CINDERELLA OF LETTS-DHU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "April 2, 1946",
+      "color_code": "light blue",
+      "breed": "Skye Terriers",
+      "sire_name": "Highland Thistle of What-Ho",
+      "sire_reg": "A-412379",
+      "dam_name": "Bracadale Marguerita",
+      "dam_reg": "A-233073",
+      "breeders": [],
+      "owners": [
+        "Mr. & Mrs. Herbert Hudson"
+      ]
+    },
+    {
+      "reg_number": "R-24708",
+      "name": "GAY ANGEL OF LETTS-DHU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "March 20, 1946",
+      "color_code": "silver",
+      "breed": "Skye Terriers",
+      "sire_name": "Highland Thistle of What-Ho",
+      "sire_reg": "A-412379",
+      "dam_name": "Letts Dhu Reckless Angel",
+      "dam_reg": "A-644103",
+      "breeders": [],
+      "owners": [
+        "Mr. & Mrs. Herbert Hudson"
+      ]
+    },
+    {
+      "reg_number": "R-25191",
+      "name": "LETTS DHU GOOD BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "May 20, 1946",
+      "color_code": "silver",
+      "breed": "Skye Terriers",
+      "sire_name": "Highland Thistle of What-Ho",
+      "sire_reg": "A-412",
+      "dam_name": "Letts-Dhu Reckless Angel",
+      "dam_reg": "A-644103",
+      "breeders": [],
+      "owners": [
+        "Earl James Wills III",
+        "Mr. & Mrs. Herbert Hudson"
+      ]
+    },
+    {
+      "reg_number": "H-24879",
+      "name": "TALISKER LITTLE MISS CHEE-CHEE (CAN.)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "June 1, 1945",
+      "color_code": null,
+      "breed": "Skye Terriers",
+      "sire_name": "Chummie's Heir of Merrymount",
+      "sire_reg": "X",
+      "dam_name": "Goldenglow of Talisker",
+      "dam_reg": "Mrs. Virginia Lorenzen",
+      "breeders": [],
+      "owners": [
+        "Mrs. Percy Adams"
+      ]
+    },
+    {
+      "reg_number": "R-25236",
+      "name": "BRINDA LOU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "May 31, 1946",
+      "color_code": "dark brindle",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Tiger Crusader",
+      "sire_reg": "A-583697",
+      "dam_name": "Ringold's Sassy Sue",
+      "dam_reg": "A-753031",
+      "breeders": [],
+      "owners": [
+        "Mrs. Willie C. Widener",
+        "Edwin C. Ringold"
+      ]
+    }
+  ]
+}

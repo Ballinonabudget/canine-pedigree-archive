@@ -34,7 +34,7 @@ TARGET_DIR = "/Users/daplug/Library/CloudStorage/Box-Box/Pedigrees.co/American S
 def check_quota(client: genai.Client) -> bool:
     try:
         res = client.models.generate_content(
-            model="gemini-3.8-flash",
+            model="gemini-3.5-flash-lite",
             contents="ping"
         )
         return True

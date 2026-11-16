@@ -1,0 +1,415 @@
+{
+  "breed": "Airedale Terriers",
+  "date_header": "FEBRUARY 1990",
+  "dogs": [
+    {
+      "reg_number": "RB217003",
+      "name": "TOBY MAX VON MEYER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-15-88",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "MAXIMILLION VIII",
+      "sire_reg": "RA984599",
+      "dam_name": "MOLLIE IV",
+      "dam_reg": "RB082563",
+      "breeders": [
+        "S LEIGHTON-MEYER & K MEYER",
+        "D HARRISON"
+      ],
+      "owners": [
+        "S LEIGHTON-MEYER & K MEYER"
+      ]
+    },
+    {
+      "reg_number": "RB141639",
+      "name": "TRUEHEART WHIMSICAL POET",
+      "titles": "CD",
+      "sex": "D",
+      "birth_date": "9-87",
+      "color_code": "BLK & BR",
+      "breed": "Airedale Terrier",
+      "sire_name": "GAYLE'S SATSUMA CHEWBACCA",
+      "sire_reg": "RA824066",
+      "dam_name": "BROWN'S TENNESSEE JOY",
+      "dam_reg": "RA826696",
+      "breeders": [
+        "T BLANKENSHIP",
+        "M BROWN"
+      ],
+      "owners": [
+        "K WILSON"
+      ]
+    },
+    {
+      "reg_number": "RA814963",
+      "name": "TURKOMAN THE BEAR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-9-82",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "BLACKJACK'S RAMPANT RUMOR",
+      "sire_reg": "RA539781",
+      "dam_name": "TENNESSEE WHISTLE STOP",
+      "dam_reg": "RA583287",
+      "breeders": [
+        "K WILSON"
+      ],
+      "owners": [
+        "M COLBY",
+        "G GOODWIN"
+      ]
+    },
+    {
+      "reg_number": "RB298492",
+      "name": "WHIRLWIND FRUMPIE DOLL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-8-82",
+      "color_code": "BR & BLK",
+      "breed": "Airedale Terrier",
+      "sire_name": "NASTY SAM",
+      "sire_reg": "RA610037",
+      "dam_name": "DIRTY SUE THE GYPSY QUEEN",
+      "dam_reg": "RA610036",
+      "breeders": [
+        "M COLBY",
+        "G GOODWIN"
+      ],
+      "owners": [
+        "R WILEY",
+        "E YOST"
+      ]
+    },
+    {
+      "reg_number": "RB185488",
+      "name": "WHIRLWIND FRUMPIE DOLL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-6-86",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "SIR ZIG ZAG",
+      "sire_reg": "RA693424",
+      "dam_name": "SUN-DOLL MEGAN",
+      "dam_reg": "RB050118",
+      "breeders": [
+        "R WILEY",
+        "E YOST"
+      ],
+      "owners": [
+        "R WILEY",
+        "E YOST"
+      ]
+    },
+    {
+      "reg_number": "RA957374",
+      "name": "BLACK MT BULL RAMBO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-10-85",
+      "color_code": "BRL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "METCALF'S DERBYTOWN ACE",
+      "sire_reg": "RA793361",
+      "dam_name": "BESTAFF'S FLIGHT OF FANCY",
+      "dam_reg": "RA824081",
+      "breeders": [
+        "V DIXON",
+        "F LEE"
+      ],
+      "owners": [
+        "V DIXON",
+        "F LEE"
+      ]
+    },
+    {
+      "reg_number": "RB13083",
+      "name": "DEVIL DIAMOND GOLDEN DELIGHT",
+      "titles": "CDX",
+      "sex": "B",
+      "birth_date": "1-2-86",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH TRYARR ROOSTER COGBURN",
+      "sire_reg": "RA792934",
+      "dam_name": "CH SIERRA'S GOLD RUSH CENTERF",
+      "dam_reg": "RA774255",
+      "breeders": [
+        "M CLAROSE",
+        "P OKOUCHI"
+      ],
+      "owners": [
+        "M CLAROSE",
+        "P OKOUCHI"
+      ]
+    },
+    {
+      "reg_number": "RA994231",
+      "name": "CH GOLD RUSH TRUE GRIT",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "7-3-85",
+      "color_code": "RD & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "KOA-HAWAII'S GOLDEN WARRIOR",
+      "sire_reg": "RA792934",
+      "dam_name": "C DEVIL DIAMOND MAILE",
+      "dam_reg": "RA787954",
+      "breeders": [
+        "D & A DEL RIO"
+      ],
+      "owners": [
+        "D & A DEL RIO"
+      ]
+    },
+    {
+      "reg_number": "RB165110",
+      "name": "CH MAGNOLIA'S HOT ROCKIN RODNEY",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "11-7-87",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH WADE'S STORMY HARBOR",
+      "sire_reg": "RA942714",
+      "dam_name": "CH MAGNOLIA'S LADY SOPHIA OF",
+      "dam_reg": "RA920946",
+      "breeders": [
+        "J & M HINMAN"
+      ],
+      "owners": [
+        "J & M HINMAN"
+      ]
+    },
+    {
+      "reg_number": "RB067233",
+      "name": "CH NIGHTLORD'S COMET",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "12-25-85",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH PARAGON LUCRE'S NIGHTLORD",
+      "sire_reg": "RA809041",
+      "dam_name": "PARAGON LUCRE'S CORSAIR JET",
+      "dam_reg": "RA880993",
+      "breeders": [
+        "T & L COOPER",
+        "K DAVIS"
+      ],
+      "owners": [
+        "T & L COOPER",
+        "K DAVIS"
+      ]
+    },
+    {
+      "reg_number": "RB10887",
+      "name": "POHINA'S WIDE BODY EXPRESS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-17-85",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SINDELAR'S BOY BANDIT",
+      "sire_reg": "RA820448",
+      "dam_name": "CH SINDELAR'S MISS SPARKY",
+      "dam_reg": "RA840444",
+      "breeders": [
+        "D POHINA III",
+        "C POHINA",
+        "C LEE"
+      ],
+      "owners": [
+        "D POHINA III",
+        "C POHINA",
+        "C LEE"
+      ]
+    },
+    {
+      "reg_number": "RB160019",
+      "name": "SIERRA MEGGAN MASSIVE BEAUTY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-16-87",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH LIL SIERRA PERCY PENNY PAC",
+      "sire_reg": "RA742610",
+      "dam_name": "CH SIERRA'S MY MEGGIE MAE",
+      "dam_reg": "RA820448",
+      "breeders": [
+        "W HATTON",
+        "S DEAN"
+      ],
+      "owners": [
+        "W HATTON",
+        "S DEAN"
+      ]
+    },
+    {
+      "reg_number": "RA91457",
+      "name": "CH WHITE ROCK EBONY DOLL",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "12-24-83",
+      "color_code": "BLK WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH LOGUES WHITE ROCK OX BOMBE",
+      "sire_reg": "RA936526",
+      "dam_name": "WHITE ROCK JET FLASH",
+      "dam_reg": "RA778242",
+      "breeders": [
+        "H PASCOE"
+      ],
+      "owners": [
+        "H PASCOE"
+      ]
+    },
+    {
+      "reg_number": "RB110740",
+      "name": "CH WHITE ROCK PERRY THE FRIDGE",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "12-19-85",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH WHITE ROCK JET BOMBER",
+      "sire_reg": "RA151369",
+      "dam_name": "CH PATTON'S WHITE ROCK PENNY",
+      "dam_reg": "RA399448",
+      "breeders": [
+        "H PASCOE"
+      ],
+      "owners": [
+        "H PASCOE"
+      ]
+    },
+    {
+      "reg_number": "RB180020",
+      "name": "WOODS DIAMONDBACK DOTTY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-1-86",
+      "color_code": "BLK & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "WOODS BULL OF THE WOODS",
+      "sire_reg": "RA928831",
+      "dam_name": "ASHRAE HUNKA REDBOLT",
+      "dam_reg": "RA677338",
+      "breeders": [
+        "M WOOD",
+        "M WOOD",
+        "J CUMMINGS"
+      ],
+      "owners": [
+        "M WOOD",
+        "M WOOD",
+        "J CUMMINGS"
+      ]
+    },
+    {
+      "reg_number": "RB117154",
+      "name": "BONDI'S FLEETWOOD LIZZIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-3-86",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "MAC'S PRINCE WOBBLER",
+      "sire_reg": "RA840757",
+      "dam_name": "PLEZANTPASTURES BONDI ROO",
+      "dam_reg": "RA728600",
+      "breeders": [
+        "MRS Y MCCORMICK"
+      ],
+      "owners": [
+        "MRS Y MCCORMICK"
+      ]
+    },
+    {
+      "reg_number": "RB253812",
+      "name": "DESTEDO'S SWEET DULCIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-28-87",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "ROCKY PUDDLEBY",
+      "sire_reg": "RA766727",
+      "dam_name": "YIDDLE BIT O SYDNEY",
+      "dam_reg": "RB054516",
+      "breeders": [
+        "S & D DOLLIVER",
+        "S & B SHEA"
+      ],
+      "owners": [
+        "S & D DOLLIVER",
+        "S & B SHEA"
+      ]
+    },
+    {
+      "reg_number": "RB212095",
+      "name": "DUKE OF PISGAH",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-11-88",
+      "color_code": "RD",
+      "breed": "Australian Terrier",
+      "sire_name": "RED-KELP SISSIE OF BALTON",
+      "sire_reg": "RA850142",
+      "dam_name": "MISS SISSIE TILTON",
+      "dam_reg": "RB061429",
+      "breeders": [
+        "C LAWRENCE",
+        "S TILTON"
+      ],
+      "owners": [
+        "C LAWRENCE",
+        "S TILTON"
+      ]
+    },
+    {
+      "reg_number": "RB297756",
+      "name": "JOKER'S CLARIBEL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-11-88",
+      "color_code": "RD",
+      "breed": "Australian Terrier",
+      "sire_name": "TEANN'S FLAMING HAWK",
+      "sire_reg": "RB128151",
+      "dam_name": "JOKER'S IMOGENE",
+      "dam_reg": "RB061423",
+      "breeders": [
+        "V STEVENSON"
+      ],
+      "owners": [
+        "V STEVENSON"
+      ]
+    },
+    {
+      "reg_number": "RB009615",
+      "name": "KELLY II",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-26-85",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "BROWN'S ARNOLD",
+      "sire_reg": "RA461051",
+      "dam_name": "JOKER'S REDDY",
+      "dam_reg": "RA507020",
+      "breeders": [
+        "J CRICK & J CRICK JR",
+        "V STEVE-"
+      ],
+      "owners": [
+        "J CRICK & J CRICK JR",
+        "V STEVE-"
+      ]
+    }
+  ]
+}

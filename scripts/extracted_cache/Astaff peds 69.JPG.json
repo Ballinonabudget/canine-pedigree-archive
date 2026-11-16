@@ -1,0 +1,99 @@
+{
+  "breed": "Staffordshire Terriers",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A-388,317",
+      "name": "BETTS' CLINT FRANK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-12-1938",
+      "color_code": "Blk, wh mkgs",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Phipps Snowball",
+      "sire_reg": null,
+      "dam_name": "Donovans Silver",
+      "dam_reg": null,
+      "breeders": [
+        "John H. Phipps"
+      ],
+      "owners": [
+        "Alan W. Betts"
+      ]
+    },
+    {
+      "reg_number": "A-387,482",
+      "name": "CAMP'S DUKE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-16-1938",
+      "color_code": "Wh, brdl spts",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Klump's Deuce",
+      "sire_reg": null,
+      "dam_name": "Martin's Gypsy Rose",
+      "dam_reg": null,
+      "breeders": [
+        "Ed. C. Martin"
+      ],
+      "owners": [
+        "Fred Camp"
+      ]
+    },
+    {
+      "reg_number": "A-391,818",
+      "name": "FRANK'S DUCHESS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-11-1936",
+      "color_code": "Brdl",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Wicked H",
+      "sire_reg": null,
+      "dam_name": "Carvimo's Lulu",
+      "dam_reg": null,
+      "breeders": [
+        "Eugene A. Harris"
+      ],
+      "owners": [
+        "Frank Porstner"
+      ]
+    },
+    {
+      "reg_number": "A-390,431",
+      "name": "LUCKY BALDWINN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-5-1938",
+      "color_code": "Wh, dk brdl mkgs",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Frisko Jerry",
+      "sire_reg": null,
+      "dam_name": "Metzger's Misery",
+      "dam_reg": null,
+      "breeders": [
+        "Claude L. Metzger"
+      ],
+      "owners": [
+        "E. F. Parker"
+      ]
+    },
+    {
+      "reg_number": "A-386,590",
+      "name": "X-PERT GOLDIE GIRL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "Clifford A. Ormsby"
+      ],
+      "owners": []
+    }
+  ]
+}

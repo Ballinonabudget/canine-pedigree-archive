@@ -1,0 +1,1374 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "JULY 2000",
+  "dogs": [
+    {
+      "reg_number": "RM248076",
+      "name": "CH SIERRA'S BLUE HAWAIIAN LILIKOI",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "3-21-98",
+      "color_code": "FB",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SIERRA-GAFF DEMPSEY TRIPLE",
+      "sire_reg": "RM151071",
+      "dam_name": "CH SIERRA-GAFF POISON IVY",
+      "dam_reg": "RM161071",
+      "breeders": [
+        "J IBARRA",
+        "L WILSON"
+      ],
+      "owners": [
+        "L WILSON",
+        "L POQUETTE"
+      ]
+    },
+    {
+      "reg_number": "RM208906",
+      "name": "CH SIERRA'S GONE WITH THE WIND",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "2-17-97",
+      "color_code": "RD BLK MSK",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH LIL SIERRA PERCY PENNY PAC",
+      "sire_reg": "RA936526",
+      "dam_name": "CH O THE TOWNS MAGNIFICENT",
+      "dam_reg": "RM143971",
+      "breeders": [
+        "T BURNETT",
+        "M MARTIN",
+        "R TEETER"
+      ],
+      "owners": [
+        "M MARTIN",
+        "R TEETER",
+        "W NUCKLES"
+      ]
+    },
+    {
+      "reg_number": "RM211254",
+      "name": "STORYTIME PLAY MONEY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-9-97",
+      "color_code": "BLK & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH YORK'S WHALIN' WILLIE",
+      "sire_reg": "RM120394",
+      "dam_name": "STORYTIME MIDNIGHT MADNESS",
+      "dam_reg": "RM110395",
+      "breeders": [
+        "C CUETO",
+        "A GARCIA"
+      ],
+      "owners": [
+        "C CUETO",
+        "A GARCIA"
+      ]
+    },
+    {
+      "reg_number": "RM298860",
+      "name": "CH TRUANS BLACK TIDE",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "9-15-99",
+      "color_code": "BLK MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "WHITE ROCK CHASKRAS EL DIEGO",
+      "sire_reg": "RM850426",
+      "dam_name": "WHITE ROCK CHASKRAS KIKI DEE",
+      "dam_reg": "RM085873",
+      "breeders": [
+        "C BRANCH",
+        "S REESE"
+      ],
+      "owners": [
+        "C BRANCH",
+        "S REESE"
+      ]
+    },
+    {
+      "reg_number": "RM239418",
+      "name": "WILLY'S STORM OF THE SEA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-7-98",
+      "color_code": "WH BLK MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "WILLY'S SECOND SHOT TANGO",
+      "sire_reg": "RM196173",
+      "dam_name": "REESE'S PRINCESS ZENA OF E Z WOOD",
+      "dam_reg": "RM189529",
+      "breeders": [
+        "G PRINGLE",
+        "L ROBINSON"
+      ],
+      "owners": [
+        "G PRINGLE",
+        "L ROBINSON"
+      ]
+    },
+    {
+      "reg_number": "RM233105",
+      "name": "YVONNE'S GYPSY PRINCESS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-12-98",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "YVONNE'S WALKAWAY SAMPSON",
+      "sire_reg": "RM124574",
+      "dam_name": "STRYKERS PORKY",
+      "dam_reg": "RL995656",
+      "breeders": [
+        "OWNER"
+      ],
+      "owners": [
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM212273",
+      "name": "CH AKA INU'S IMAGINE",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "5-27-97",
+      "color_code": "RD",
+      "breed": "Australian Terrier",
+      "sire_name": "CH TINEETOWN MR SANDMAN",
+      "sire_reg": "RM046480",
+      "dam_name": "CH ELARDY SUSAN'S CHOICE",
+      "dam_reg": "RM054770",
+      "breeders": [
+        "K OCCHIUTI"
+      ],
+      "owners": [
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM272164",
+      "name": "CH ARUBY'S STARBURST",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "3-14-99",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "CH BENAYR BEYOND A DOUBT",
+      "sire_reg": "RM280411",
+      "dam_name": "CH BENAYR DIVINE NINE",
+      "dam_reg": "RM163013",
+      "breeders": [
+        "S BENTLEY"
+      ],
+      "owners": [
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM182727",
+      "name": "HAAG'S HAPPY HEATHER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-8-96",
+      "color_code": "SNDY",
+      "breed": "Australian Terrier",
+      "sire_name": "HAAG'S WALKABOUT WILLIE",
+      "sire_reg": "AM145685",
+      "dam_name": "HAAG'S ROYAL KATELYN",
+      "dam_reg": "AM086910",
+      "breeders": [
+        "C HAVENS",
+        "P HAAG"
+      ],
+      "owners": [
+        "C HAVENS",
+        "P HAAG"
+      ]
+    },
+    {
+      "reg_number": "RM254727",
+      "name": "JAYJAE'S SPARKLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-5-98",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "BLENCAR SAHUARO JACK JASPER",
+      "sire_reg": "AM127857",
+      "dam_name": "BRIGANCE'S JAVA QUEEN",
+      "dam_reg": "RM195304",
+      "breeders": [
+        "T & S BROCK",
+        "P BRIGANCE"
+      ],
+      "owners": [
+        "T & S BROCK",
+        "P BRIGANCE"
+      ]
+    },
+    {
+      "reg_number": "RM258742",
+      "name": "BAMBOO'S FLASH",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-10-98",
+      "color_code": "AD",
+      "breed": "Australian Terrier",
+      "sire_name": "DUNCAN MCCLOUD",
+      "sire_reg": "AM155937",
+      "dam_name": "TEANN PENNY RED",
+      "dam_reg": "AM117021",
+      "breeders": [
+        "C SMELCER",
+        "L PATE"
+      ],
+      "owners": [
+        "C SMELCER",
+        "L PATE"
+      ]
+    },
+    {
+      "reg_number": "RM264577",
+      "name": "MY DEVILISH JEZEBEL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-14-98",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "MOORE'S HERCULES",
+      "sire_reg": "RM059217",
+      "dam_name": "MOORE'S GLORIA",
+      "dam_reg": "RM109628",
+      "breeders": [
+        "C SMELCER",
+        "M MOORE"
+      ],
+      "owners": [
+        "C SMELCER",
+        "M MOORE"
+      ]
+    },
+    {
+      "reg_number": "RM004854",
+      "name": "CH GREENWICH STANDARD",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "12-9-89",
+      "color_code": "RD",
+      "breed": "Australian Terrier",
+      "sire_name": "CH REGENCY'S LONDON TIMES",
+      "sire_reg": "RA645312",
+      "dam_name": "CH GREENWICH SALACIOUS",
+      "dam_reg": "RA675410",
+      "breeders": [
+        "I WEINSTOCK",
+        "A WIGHT",
+        "A WIGHT",
+        "I WEINSTOCK"
+      ],
+      "owners": [
+        "D HEMPSTEAD",
+        "B SMITH",
+        "D HEMPSTEAD"
+      ]
+    },
+    {
+      "reg_number": "RM206978",
+      "name": "TEKOAH'S CORROBOREE AT ULURU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-7-97",
+      "color_code": "BL & TN",
+      "breed": "Australian Terrier",
+      "sire_name": "CH TOORIGHT STEPPING IN TIME",
+      "sire_reg": "RM019158",
+      "dam_name": "CH BEARSTEPS ULURU ROCKA TEKO",
+      "dam_reg": "RM101064",
+      "breeders": [
+        "D HEMPSTEAD"
+      ],
+      "owners": [
+        "D HEMPSTEAD"
+      ]
+    },
+    {
+      "reg_number": "RM116230",
+      "name": "CH CAPSTONE ONE UNDER PAR",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "3-31-94",
+      "color_code": "BL",
+      "breed": "Bedlington Terrier",
+      "sire_name": "CH CARILLON BEN SHLOMO",
+      "sire_reg": "RM001146",
+      "dam_name": "CH KHAUDRA ALABAMA'S MISS MUR",
+      "dam_reg": "RM293103",
+      "breeders": [
+        "M SANDERS",
+        "L HEYMAN",
+        "M SANDERS"
+      ],
+      "owners": [
+        "M SANDERS",
+        "L HEYMAN",
+        "M SANDERS"
+      ]
+    },
+    {
+      "reg_number": "RM262179",
+      "name": "CH PATMORE'S SILVER",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "9-21-98",
+      "color_code": "BL & TN",
+      "breed": "Bedlington Terrier",
+      "sire_name": "CH PATMORE'S BURNISHED COPPER",
+      "sire_reg": "RM122458",
+      "dam_name": "PATMORE'S KRISTOL NACHT",
+      "dam_reg": "RM096545",
+      "breeders": [
+        "P RHEIN",
+        "S HARRISON",
+        "P RHEIN"
+      ],
+      "owners": [
+        "P RHEIN",
+        "S HARRISON",
+        "HEIN"
+      ]
+    },
+    {
+      "reg_number": "RM115859",
+      "name": "CH TOPSEED CARILLON CONNORS",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "11-18-98",
+      "color_code": "BL",
+      "breed": "Bedlington Terrier",
+      "sire_name": "CH CARILLON ONE UNDER PAR",
+      "sire_reg": "RM116230",
+      "dam_name": "FUZZI-LOGIC MICRO SOFTOUCH",
+      "dam_reg": "RM130484",
+      "breeders": [
+        "D HURLEY",
+        "L HEYMAN",
+        "S HEYMAN"
+      ],
+      "owners": [
+        "D HURLEY",
+        "L HEYMAN",
+        "S HEYMAN"
+      ]
+    },
+    {
+      "reg_number": "RM214881",
+      "name": "CH BRADCLIFFE PENELOPE PD",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "7-17-97",
+      "color_code": "RD",
+      "breed": "Border Terrier",
+      "sire_name": "CH BRADCLIFFE NACAHUIL'S DEST",
+      "sire_reg": "RM033858",
+      "dam_name": "CH BRADCLIFFE CASANDRA NACAHU",
+      "dam_reg": "RL993453",
+      "breeders": [
+        "J & T EDGE",
+        "M BRADLEY"
+      ],
+      "owners": [
+        "J & T EDGE",
+        "M BRADLEY"
+      ]
+    },
+    {
+      "reg_number": "RM265972",
+      "name": "CH DRAGONRIDGE SARAH'S TENTH WOOFS",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "5-5-96",
+      "color_code": "TN",
+      "breed": "Border Terrier",
+      "sire_name": "CH BARON VON HASSELWICK",
+      "sire_reg": "AM093642",
+      "dam_name": "CH STANDISH'S STEAL A FANCY K",
+      "dam_reg": "RM045486",
+      "breeders": [
+        "S SAUCY",
+        "S HEILBRONN",
+        "B SAUCY",
+        "J S HEILBRONN"
+      ],
+      "owners": [
+        "S SAUCY",
+        "S HEILBRONN",
+        "B SAUCY",
+        "J S HEILBRONN"
+      ]
+    },
+    {
+      "reg_number": "RM264005",
+      "name": "GRINDSTONES SWEET PERRY",
+      "titles": null,
+      "sex": "F",
+      "birth_date": "9-19-98",
+      "color_code": "GRZL",
+      "breed": "Border Terrier",
+      "sire_name": "GRINDSTONES BRIDGEMAN",
+      "sire_reg": "RM232433",
+      "dam_name": "TERRAS FIT AS A FIDDLE",
+      "dam_reg": "RM232433",
+      "breeders": [
+        "C SOWDERS",
+        "A FARGO",
+        "A FARGO",
+        "A LUGOSI",
+        "C SOWDERS",
+        "A FARGO",
+        "C SOWDERSERS"
+      ],
+      "owners": [
+        "C SOWDERS",
+        "A FARGO",
+        "A LUGOSI",
+        "C SOWDERS",
+        "A FARGO",
+        "C SOWDERSERS"
+      ]
+    },
+    {
+      "reg_number": "RM226249",
+      "name": "KETKA'S AUTUMN GOLD",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-11-97",
+      "color_code": "GRZL & TN",
+      "breed": "Border Terrier",
+      "sire_name": "CH OTLEY-KAKARA IDLE TALK",
+      "sire_reg": "RB336248",
+      "dam_name": "BRINDLEOAK BOUNTYFULL",
+      "dam_reg": "RM224313",
+      "breeders": [
+        "J & S MARSHALL",
+        "F CLARK"
+      ],
+      "owners": [
+        "J & S MARSHALL",
+        "F CLARK"
+      ]
+    },
+    {
+      "reg_number": "RM268609",
+      "name": "CH KETKA SHALL MCCRUM",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "11-11-99",
+      "color_code": "GRZL & TN",
+      "breed": "Border Terrier",
+      "sire_name": "JOES CREEK COCO OF BUTTONTOP",
+      "sire_reg": "RM211451",
+      "dam_name": "TUTTLES TORNADO BLUE LACE",
+      "dam_reg": "RM232433",
+      "breeders": [
+        "F CLARK",
+        "MRS D POWELL"
+      ],
+      "owners": [
+        "F CLARK",
+        "MRS D POWELL"
+      ]
+    },
+    {
+      "reg_number": "RM268610",
+      "name": "NOVAVON MILADY BROCKFOK",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-11-99",
+      "color_code": "GRZL & TN",
+      "breed": "Border Terrier",
+      "sire_name": "BROCKFOX BRACKEN",
+      "sire_reg": "RM268609",
+      "dam_name": "NOVAVON BRASS BELLE",
+      "dam_reg": "RM268610",
+      "breeders": [
+        "K FITZPATRICK",
+        "MR & MRS D WESTMORELAND"
+      ],
+      "owners": [
+        "K FITZPATRICK",
+        "MR & MRS D WESTMORELAND"
+      ]
+    },
+    {
+      "reg_number": "RM284039",
+      "name": "CH RAINSBARROW BRACKEN",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "11-17-98",
+      "color_code": "GRZL",
+      "breed": "Border Terrier",
+      "sire_name": "RAEBURNFOOT ROYAL MAIL",
+      "sire_reg": "RM284039",
+      "dam_name": "LAVENDER LOCKET",
+      "dam_reg": "RM284039",
+      "breeders": [
+        "F CLARK",
+        "MR M GODDEN"
+      ],
+      "owners": [
+        "F CLARK",
+        "MR M GODDEN"
+      ]
+    },
+    {
+      "reg_number": "RM255983",
+      "name": "CH TUIMUR TEXAS",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "6-12-97",
+      "color_code": "RO GRZL",
+      "breed": "Border Terrier",
+      "sire_name": "TUIMUR TEXAS",
+      "sire_reg": "RM255983",
+      "dam_name": "RUBY JEANE",
+      "dam_reg": "RM255983",
+      "breeders": [
+        "L LOOPER",
+        "G & P WOLF"
+      ],
+      "owners": [
+        "L LOOPER",
+        "G & P WOLF"
+      ]
+    },
+    {
+      "reg_number": "RM273873",
+      "name": "SKYLINE SPORTY SPICE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-19-98",
+      "color_code": "GRZL & TN",
+      "breed": "Border Terrier",
+      "sire_name": "CH DOUBLETAKE TORN CURTAIN",
+      "sire_reg": "RM127388",
+      "dam_name": "CH SKYLINE MISTY MORN",
+      "dam_reg": "RM110716",
+      "breeders": [
+        "S & B SAUCY",
+        "MR & MRS S TEWART"
+      ],
+      "owners": [
+        "S & B SAUCY",
+        "MR & MRS S TEWART"
+      ]
+    },
+    {
+      "reg_number": "RM274249",
+      "name": "TEASEL TIME",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-30-98",
+      "color_code": "GRZL",
+      "breed": "Border Terrier",
+      "sire_name": "GLENBUCKET LOCHNAGARY",
+      "sire_reg": "RM274249",
+      "dam_name": "PONTBECK MOUNTAIN DEW",
+      "dam_reg": "RM274249",
+      "breeders": [
+        "M MCINTYRE",
+        "OWNER"
+      ],
+      "owners": [
+        "M MCINTYRE",
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM235201",
+      "name": "TERRIERSARAH SCONE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-9-98",
+      "color_code": "GRZL & TN",
+      "breed": "Border Terrier",
+      "sire_name": "CH HOLCOMBE SPECIAL DELIVERY",
+      "sire_reg": "RM187521",
+      "dam_name": "CH TENPENNY LADYHAWKE",
+      "dam_reg": "RM103457",
+      "breeders": [
+        "L LOOPER",
+        "M MCINTYRE"
+      ],
+      "owners": [
+        "L LOOPER",
+        "M MCINTYRE"
+      ]
+    },
+    {
+      "reg_number": "RM187521",
+      "name": "CH TENPENNYS DILL OF HIDEAWAY",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "6-1-96",
+      "color_code": "GRZL & TN",
+      "breed": "Border Terrier",
+      "sire_name": "CH HOLCOMBE SPECIAL DELIVERY",
+      "sire_reg": "RM187521",
+      "dam_name": "CH TENPENNY LADYHAWKE",
+      "dam_reg": "RM103457",
+      "breeders": [
+        "M MCINTYRE",
+        "D KLINE",
+        "M MCINTYRE",
+        "D KLINE"
+      ],
+      "owners": [
+        "M MCINTYRE",
+        "D KLINE",
+        "M MCINTYRE",
+        "D KLINE"
+      ]
+    },
+    {
+      "reg_number": "RM245992",
+      "name": "TODDFELT RIVER BEND LAD",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-28-98",
+      "color_code": "GRZL & TN",
+      "breed": "Border Terrier",
+      "sire_name": "CH TENPENNY TODDFIELD TRADEMAR",
+      "sire_reg": "RM112702",
+      "dam_name": "TORCHLIGHT FLIGHT WING CIRCUS",
+      "dam_reg": "RM158437",
+      "breeders": [
+        "J ODOM",
+        "L DOUGLAS",
+        "M DOUGLAS",
+        "PH-IPPIN"
+      ],
+      "owners": [
+        "J ODOM",
+        "L DOUGLAS",
+        "M DOUGLAS",
+        "PH-IPPIN"
+      ]
+    },
+    {
+      "reg_number": "RM243388",
+      "name": "TWIN PONDS COCO CHANEL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-19-98",
+      "color_code": "GRZL & TN",
+      "breed": "Border Terrier",
+      "sire_name": "CH KRISPIN TAILOR MADE JE",
+      "sire_reg": "RA343388",
+      "dam_name": "TWOPENCE CRICKET O'MY HEARTH",
+      "dam_reg": "RM045486",
+      "breeders": [
+        "F BEREZ",
+        "F BEREZ & I S-"
+      ],
+      "owners": [
+        "F BEREZ",
+        "F BEREZ & I S-"
+      ]
+    },
+    {
+      "reg_number": "RM128908",
+      "name": "TWIN PONDS JAZZAMATAZZ",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-20-94",
+      "color_code": "GRZL & TN",
+      "breed": "Border Terrier",
+      "sire_name": "CH MISTYMEADOW JAZZAMATAZZ",
+      "sire_reg": "RM128908",
+      "dam_name": "CH WILDWOOD MORNING GLORY JE",
+      "dam_reg": "RM086075",
+      "breeders": [
+        "K FITZPATRICK",
+        "A NEFF"
+      ],
+      "owners": [
+        "K FITZPATRICK",
+        "A NEFF"
+      ]
+    },
+    {
+      "reg_number": "RM218955",
+      "name": "CH WILDWOOD MEADOWLAKE MAGNOLIA JE",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "8-16-97",
+      "color_code": "GRZL & TN",
+      "breed": "Border Terrier",
+      "sire_name": "RM189715",
+      "sire_reg": "RM189715",
+      "dam_name": "RM086075",
+      "dam_reg": "RM086075",
+      "breeders": [
+        "K FITZPATRICK",
+        "A NEFF"
+      ],
+      "owners": [
+        "K FITZPATRICK",
+        "A NEFF"
+      ]
+    },
+    {
+      "reg_number": "RM165115",
+      "name": "CH ACTION FANCY FINISH",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "10-25-95",
+      "color_code": "BLK BRDL & WH",
+      "breed": "Bull Terrier",
+      "sire_name": "BULLYVIEW RYTHAM DANCER",
+      "sire_reg": "RM029012",
+      "dam_name": "CH ACTION CARBON COPY",
+      "dam_reg": "RB344861",
+      "breeders": [
+        "J DYKEMA",
+        "F BEREZ",
+        "F BER-"
+      ],
+      "owners": [
+        "EZ",
+        "MD & C CLEMMENSEN"
+      ]
+    },
+    {
+      "reg_number": "RM206941",
+      "name": "CH ACTION FANCY FREE",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "4-1-97",
+      "color_code": "BRDL & WH",
+      "breed": "Bull Terrier",
+      "sire_name": "ACTION WIZARD OF AAHS",
+      "sire_reg": "RM029012",
+      "dam_name": "ACTION DOMINO EFFECT",
+      "dam_reg": "RM029012",
+      "breeders": [
+        "P SHAFER",
+        "LOS",
+        "M CLEMMENSEN"
+      ],
+      "owners": [
+        "F BEREZ",
+        "C CLEMMENSEN"
+      ]
+    },
+    {
+      "reg_number": "RM260525",
+      "name": "CH ACTION MAKING COPIES",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "11-15-98",
+      "color_code": "WH & BRDL",
+      "breed": "Bull Terrier",
+      "sire_name": "CH BARKER'S STRIKING COLOR",
+      "sire_reg": "RM069359",
+      "dam_name": "CH ACTION COPY CAT",
+      "dam_reg": "RM061547",
+      "breeders": [
+        "G SNYDER",
+        "F BEREZ",
+        "I S-"
+      ],
+      "owners": [
+        "NYDER",
+        "C CLEMMENSEN",
+        "F BE",
+        "REZ"
+      ]
+    },
+    {
+      "reg_number": "RM181947",
+      "name": "CH ACTION SEASON PREMIERE",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "7-27-96",
+      "color_code": "WH & BRDL",
+      "breed": "Bull Terrier",
+      "sire_name": "CH WINSOR'S IN LIVING COLOR",
+      "sire_reg": "RM069359",
+      "dam_name": "CH ACTION CINEMA QUEEN",
+      "dam_reg": "RM051775",
+      "breeders": [
+        "T YOUNG",
+        "C CLEMMENSEN",
+        "F BEREZ",
+        "P PEAR-"
+      ],
+      "owners": [
+        "SON",
+        "C CLEMMENSEN"
+      ]
+    },
+    {
+      "reg_number": "RM137323",
+      "name": "ARBO'S ARIEL LIONHEART",
+      "titles": "ARBO'S",
+      "sex": "B",
+      "birth_date": "2-26-95",
+      "color_code": "WH & BRDL",
+      "breed": "Bull Terrier",
+      "sire_name": "CH CORSAIRE'S ETHAN ALLEN",
+      "sire_reg": "RM271285",
+      "dam_name": "SORCERER'S CANIS MINOR",
+      "dam_reg": "RM016651",
+      "breeders": [
+        "V CORSE",
+        "E HENNESSY",
+        "DVM",
+        "& K FOGG",
+        "SIMONE",
+        "R BY",
+        "CEK"
+      ],
+      "owners": [
+        "V CORSE",
+        "E HENNESSY",
+        "DVM",
+        "& K FOGG",
+        "SIMONE",
+        "R BY",
+        "CEK"
+      ]
+    },
+    {
+      "reg_number": "RM271285",
+      "name": "BUSTER BOY WANNAMAKER",
+      "titles": null,
+      "sex": "ID",
+      "birth_date": "1-27-99",
+      "color_code": "BRDL & WH",
+      "breed": "Bull Terrier",
+      "sire_name": "FELCOR PONY BOY MOSES",
+      "sire_reg": "RM038592",
+      "dam_name": "DIXIANA MCKENZIE BYRD",
+      "dam_reg": "RM165871",
+      "breeders": [
+        "S WANNAMAKER",
+        "OWNER"
+      ],
+      "owners": [
+        "S WANNAMAKER",
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM175901",
+      "name": "CH CALABAR'S GLENTOM BELLEFFLUR",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "5-29-96",
+      "color_code": "BRDL & WH",
+      "breed": "Bull Terrier",
+      "sire_name": "CH GLENTOMS BANBURY BELLWETHE",
+      "sire_reg": "RM040742",
+      "dam_name": "CH GLENTOM'S MAGNUM OF CAMELOT",
+      "dam_reg": "RM053154",
+      "breeders": [
+        "J NICHOLS",
+        "G WRIGHT",
+        "J M-"
+      ],
+      "owners": [
+        "EDLIN",
+        "J NICHOLS"
+      ]
+    },
+    {
+      "reg_number": "RM264005",
+      "name": "CH CORSAIRE WHERE THERE'S HOPE",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "12-14-98",
+      "color_code": "BRDL & WH",
+      "breed": "Bull Terrier",
+      "sire_name": "CH CAROUSEL'S RONIN SAMURAI",
+      "sire_reg": "RM115463",
+      "dam_name": "CH CORSAIRE CARTE BLANCHE",
+      "dam_reg": "RM0545486",
+      "breeders": [
+        "S CRABTREE",
+        "V CORSE"
+      ],
+      "owners": [
+        "S CRABTREE",
+        "V CORSE"
+      ]
+    },
+    {
+      "reg_number": "RM230649",
+      "name": "CH LIONHEART CAPTAINS FIRST MATE",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "12-12-97",
+      "color_code": "WHTN & WH",
+      "breed": "Bull Terrier",
+      "sire_name": "CH LIONHEART'S KING AND DELIVE",
+      "sire_reg": "RM194958",
+      "dam_name": "CH LIONHEART'S-BONNIE-BROWN",
+      "dam_reg": "RM119531",
+      "breeders": [
+        "K WILLIAMSON",
+        "J & S MIK-"
+      ],
+      "owners": [
+        "SHAFER",
+        "LOS",
+        "M MIKLOS"
+      ]
+    },
+    {
+      "reg_number": "RM242123",
+      "name": "CH LIONHEART'S MAGNOLIA",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "5-28-98",
+      "color_code": "WH & BRDL",
+      "breed": "Bull Terrier",
+      "sire_name": "CH LIONHEART'S LET'S ROCK 'N'",
+      "sire_reg": "RM111162",
+      "dam_name": "CH LIONHEART'S JAZZING LIONHEART",
+      "dam_reg": "RM111162",
+      "breeders": [
+        "J & M MIKLOS",
+        "T LECKI & J-"
+      ],
+      "owners": [
+        "MIKLOS"
+      ]
+    },
+    {
+      "reg_number": "RM206636",
+      "name": "LIONHEART'S SPICE 'N' MEGAN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-14-97",
+      "color_code": "WH",
+      "breed": "Bull Terrier",
+      "sire_name": "MARANATHA BE CALEB",
+      "sire_reg": "RM009982",
+      "dam_name": "SALTAIRS SEA CALIOPE",
+      "dam_reg": "RM096053",
+      "breeders": [
+        "J MIKLOS",
+        "G & S HIKOS",
+        "SPITTLE"
+      ],
+      "owners": [
+        "J MIKLOS",
+        "G & S HIKOS",
+        "SPITTLE"
+      ]
+    },
+    {
+      "reg_number": "RM153211",
+      "name": "LUCY OF BEAVERDAM",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-3-96",
+      "color_code": "RD & WH",
+      "breed": "Bull Terrier",
+      "sire_name": "MERIDIAN 2ND DUKE OF DOR",
+      "sire_reg": "RM153211",
+      "dam_name": "BULLYROOK BEES KNEES",
+      "dam_reg": "RM139884",
+      "breeders": [
+        "B SMITH",
+        "K LOCK",
+        "G LATOUR"
+      ],
+      "owners": [
+        "WHALEN"
+      ]
+    },
+    {
+      "reg_number": "RM249044",
+      "name": "MAJO'S MEMORY O'CRESTMONT",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-7-97",
+      "color_code": "WH BLK & TN",
+      "breed": "Bull Terrier",
+      "sire_name": "CH BANBURY BATMAN OF BEDROCK",
+      "sire_reg": "RM141940",
+      "dam_name": "HICKORY RIDGE MAGNOLIA OF BEDR",
+      "dam_reg": "RM121139",
+      "breeders": [
+        "T HUEY",
+        "H WARREN",
+        "H WARR-"
+      ],
+      "owners": [
+        "EN"
+      ]
+    },
+    {
+      "reg_number": "RM205878",
+      "name": "MAJO'S BODACIOUS PRICILLA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-8-97",
+      "color_code": "WH",
+      "breed": "Bull Terrier",
+      "sire_name": "BUD LIGHT SPECIAL",
+      "sire_reg": "RM141940",
+      "dam_name": "SPUDZIE WUDZIE",
+      "dam_reg": "RM236898",
+      "breeders": [
+        "W MASSIE",
+        "S MANUEL"
+      ],
+      "owners": [
+        "W MASSIE",
+        "S MANUEL"
+      ]
+    },
+    {
+      "reg_number": "RM264005",
+      "name": "MELARBRO VIPER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-7-96",
+      "color_code": "BRDL & WH",
+      "breed": "Bull Terrier",
+      "sire_name": "SAGEARAY COMIT A CRIME",
+      "sire_reg": "RM264005",
+      "dam_name": "WANELA STAR",
+      "dam_reg": "RM264005",
+      "breeders": [
+        "W HILL",
+        "MRS P WHINCOP"
+      ],
+      "owners": [
+        "W HILL",
+        "MRS P WHINCOP"
+      ]
+    },
+    {
+      "reg_number": "RM206994",
+      "name": "MISTY MORNING'S I'M ALL THAT",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-24-97",
+      "color_code": "WH",
+      "breed": "Bull Terrier",
+      "sire_name": "SINABAR'N HOT PURSUIT",
+      "sire_reg": "RM103723",
+      "dam_name": "FROSTYT'S MISTY MORNING SUZI'O",
+      "dam_reg": "RM103723",
+      "breeders": [
+        "G DE NEEN",
+        "OWNER"
+      ],
+      "owners": [
+        "G DE NEEN",
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM216709",
+      "name": "PISCES'S COCO CHANEL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-24-97",
+      "color_code": "BRDL & WH",
+      "breed": "Bull Terrier",
+      "sire_name": "HAMIGAN OF BLACK",
+      "sire_reg": "RM154401",
+      "dam_name": "PICKLEFORK'S THEDA BARA",
+      "dam_reg": "RM145459",
+      "breeders": [
+        "M ARMER",
+        "R & M KASLOW",
+        "M"
+      ],
+      "owners": [
+        "ASLOW",
+        "J & E. VAN CLEVE"
+      ]
+    },
+    {
+      "reg_number": "RM233329",
+      "name": "TNT'S LAST GREAT WHITE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-25-98",
+      "color_code": "TANGRO",
+      "breed": "Bull Terrier",
+      "sire_name": "CH JARROGUE'S RED ROVER",
+      "sire_reg": "RM154401",
+      "dam_name": "BELLISLES DEEP SLEEP",
+      "dam_reg": "RM094242",
+      "breeders": [
+        "S & M BROWN",
+        "L BELL"
+      ],
+      "owners": [
+        "S & M BROWN",
+        "L BELL"
+      ]
+    },
+    {
+      "reg_number": "RM243918",
+      "name": "TN'S LITTLE BASTARD",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-20-98",
+      "color_code": "WH & BRDL",
+      "breed": "Bull Terrier",
+      "sire_name": "ROD'S JUNIOR'S GUN",
+      "sire_reg": "RM203226",
+      "dam_name": "PERCYVALE'S TORI ON IMPULSE",
+      "dam_reg": "RM160433",
+      "breeders": [
+        "S BROWN",
+        "L HAAS"
+      ],
+      "owners": [
+        "S BROWN",
+        "L HAAS"
+      ]
+    },
+    {
+      "reg_number": "RM247052",
+      "name": "TNT'S LITTLE TERRA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-26-98",
+      "color_code": "BRDL & WH",
+      "breed": "Bull Terrier",
+      "sire_name": "ETENNA'S ICON OF CURLY",
+      "sire_reg": "RM109351",
+      "dam_name": "TNT'S LITTLE TERRA",
+      "dam_reg": "RM247052",
+      "breeders": [
+        "OWNER"
+      ],
+      "owners": [
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM255469",
+      "name": "AHH-KERS BISCUIT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-30-98",
+      "color_code": "WHTN",
+      "breed": "Cairn Terrier",
+      "sire_name": "MAPLE LANE JIMMY",
+      "sire_reg": "RM194573",
+      "dam_name": "MAPLE LANE PEPSI",
+      "dam_reg": "RM437367",
+      "breeders": [
+        "N OCKER",
+        "K WADEL"
+      ],
+      "owners": [
+        "N OCKER",
+        "K WADEL"
+      ]
+    },
+    {
+      "reg_number": "RM273673",
+      "name": "AHH-KERS TUFFY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-27-97",
+      "color_code": "GR",
+      "breed": "Cairn Terrier",
+      "sire_name": "AHH-KERS",
+      "sire_reg": "AB357700",
+      "dam_name": "NOSEY",
+      "dam_reg": "RB357701",
+      "breeders": [
+        "N OCKER",
+        "OWNER"
+      ],
+      "owners": [
+        "N OCKER",
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM259825",
+      "name": "ARUNDEL'S SILKY SABLE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-3-98",
+      "color_code": "BLK MKGS",
+      "breed": "Cairn Terrier",
+      "sire_name": "FERN'S HIGHLAND SCOTTIE",
+      "sire_reg": "RM124082",
+      "dam_name": "KAI-O-TA'S FIRE & TERRA",
+      "dam_reg": "RM149753",
+      "breeders": [
+        "R DUBOIS",
+        "F CLARK"
+      ],
+      "owners": [
+        "R DUBOIS",
+        "F CLARK"
+      ]
+    },
+    {
+      "reg_number": "RM100234",
+      "name": "BARBERI HEDGE ROSE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-20-97",
+      "color_code": "BLK MSK",
+      "breed": "Cairn Terrier",
+      "sire_name": "CH BARBERI HEDGE JOHNNY REBEL",
+      "sire_reg": "RM100234",
+      "dam_name": "CH DAYOEG BLACK ROSE OF WOLFB",
+      "dam_reg": "RM163354",
+      "breeders": [
+        "R & P MATTHEWS",
+        "L WIMMER & A HEFTY"
+      ],
+      "owners": [
+        "R & P MATTHEWS",
+        "L WIMMER & A HEFTY"
+      ]
+    },
+    {
+      "reg_number": "RM168121",
+      "name": "BEARABREBITS GINGER FROUPROU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-9-97",
+      "color_code": "CR",
+      "breed": "Cairn Terrier",
+      "sire_name": "MULLIGANS VICTORIAN",
+      "sire_reg": "RM168121",
+      "dam_name": "LITTLE CRICKET'S ABBY",
+      "dam_reg": "RM130661",
+      "breeders": [
+        "N TINGSTROM",
+        "C CROSS & L BUTLER"
+      ],
+      "owners": [
+        "N TINGSTROM",
+        "C CROSS & L BUTLER"
+      ]
+    },
+    {
+      "reg_number": "RM207751",
+      "name": "BONNIE'S BRANDY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-16-97",
+      "color_code": "WHTN",
+      "breed": "Cairn Terrier",
+      "sire_name": "TAYLORS ANNA RUSTY",
+      "sire_reg": "RM122898",
+      "dam_name": "HIGHLANDERS GOLDEN ABBIE",
+      "dam_reg": "RB349951",
+      "breeders": [
+        "J PANDY",
+        "T HIGGINS"
+      ],
+      "owners": [
+        "J PANDY",
+        "T HIGGINS"
+      ]
+    },
+    {
+      "reg_number": "RM244715",
+      "name": "BOO BIZ HURT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-26-98",
+      "color_code": "BLK BRDL",
+      "breed": "Cairn Terrier",
+      "sire_name": "RACKETS BOO BOO",
+      "sire_reg": "RM175098",
+      "dam_name": "JUST PLAIN ALICE",
+      "dam_reg": "RM166441",
+      "breeders": [
+        "V WILLIAMS",
+        "B GLASS"
+      ],
+      "owners": [
+        "V WILLIAMS",
+        "B GLASS"
+      ]
+    },
+    {
+      "reg_number": "RM248642",
+      "name": "BRIGADOON'S GRAYMOOR SWIZZLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-10-98",
+      "color_code": "RD BLK MSK",
+      "breed": "Cairn Terrier",
+      "sire_name": "BRIGADOON'S HOUDINI",
+      "sire_reg": "RM205929",
+      "dam_name": "BRIGADOON'S SNICKERDOODLES",
+      "dam_reg": "RM158870",
+      "breeders": [
+        "J GRAY",
+        "P HARDY",
+        "W GRA-"
+      ],
+      "owners": [
+        "J GRAY",
+        "P HARDY",
+        "W GRA-"
+      ]
+    },
+    {
+      "reg_number": "RM259764",
+      "name": "BRIGADOON'S LITTLE BIG MAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-14-98",
+      "color_code": "BRDL",
+      "breed": "Cairn Terrier",
+      "sire_name": "BRIGADOON'S HOUDINI",
+      "sire_reg": "RM205929",
+      "dam_name": "CH BRIGADOON'S GUM DROP",
+      "dam_reg": "RM981368",
+      "breeders": [
+        "MISS P HARDY",
+        "OWNER"
+      ],
+      "owners": [
+        "MISS P HARDY",
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM267228",
+      "name": "CH BUCCANEER'S OH SUSANNA",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "5-8-97",
+      "color_code": "BRDL BLK MSK",
+      "breed": "Cairn Terrier",
+      "sire_name": "CH TERRTWOOD'S BLACK TIE",
+      "sire_reg": "RM087856",
+      "dam_name": "CH STIRLING DIVINE MISS M SE",
+      "dam_reg": "AM099836",
+      "breeders": [
+        "G KREGOSKI",
+        "J & B ROSWURM"
+      ],
+      "owners": [
+        "G KREGOSKI",
+        "J & B ROSWURM"
+      ]
+    }
+  ]
+}

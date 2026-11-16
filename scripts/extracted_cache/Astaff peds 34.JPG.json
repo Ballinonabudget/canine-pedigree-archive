@@ -1,0 +1,156 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "DECEMBER 21",
+  "dogs": [
+    {
+      "reg_number": "RA353996",
+      "name": "ROMONA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-80",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "DRUMMER'S AZUL NOCHE",
+      "sire_reg": "RA50298",
+      "dam_name": "TRYARR SILVERY MOON",
+      "dam_reg": "RA285450",
+      "breeders": [
+        "J ARINGTON",
+        "J FISHER"
+      ],
+      "owners": [
+        "J UPSALL",
+        "V BARE"
+      ]
+    },
+    {
+      "reg_number": "RA50298",
+      "name": "BARKLEY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-78",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH GALLANT PISTOL PETE",
+      "sire_reg": "R917527",
+      "dam_name": "BLACK BRUTUS",
+      "dam_reg": "RA310045",
+      "breeders": [
+        "E HARRIS",
+        "M BLALOCK"
+      ],
+      "owners": [
+        "J MIER JR",
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RA310045",
+      "name": "BLITZKRIEG'S MAUGHTY RASCAL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-76",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH GALLANT PISTOL PETE",
+      "sire_reg": "R917527",
+      "dam_name": "JOHNSON'S BLITZKRIEG",
+      "dam_reg": "RA172995",
+      "breeders": [
+        "H BARNETT",
+        "F BARNETT"
+      ],
+      "owners": [
+        "H BARNETT",
+        "F BARNETT"
+      ]
+    },
+    {
+      "reg_number": "RA172995",
+      "name": "JOHNSON'S BLITZKRIEG",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-78",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH GALLANT PISTOL PETE",
+      "sire_reg": "R917527",
+      "dam_name": "CURRY'S DYNAMITE DAN",
+      "dam_reg": "RA195390",
+      "breeders": [
+        "J CHILTON",
+        "L LAYTON"
+      ],
+      "owners": [
+        "M FRICK",
+        "C CURRY JR"
+      ]
+    },
+    {
+      "reg_number": "RA195390",
+      "name": "CURRY'S DYNAMITE DAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-77",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH GALLANT PISTOL PETE",
+      "sire_reg": "R917527",
+      "dam_name": "SERTOMA'S SWEET MELISSA",
+      "dam_reg": "RA382968",
+      "breeders": [
+        "J E HOOPER",
+        "I SMITH"
+      ],
+      "owners": [
+        "M GEHRT",
+        "B WARE"
+      ]
+    },
+    {
+      "reg_number": "RA382968",
+      "name": "SERTOMA'S SWEET MELISSA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-25-77",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "DAN'S SADIE OF BRIARCLIFFE",
+      "sire_reg": "R465769",
+      "dam_name": "SERTOMA'S HONEY BUN",
+      "dam_reg": "R928431",
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R465769",
+      "name": "SERTOMA'S HONEY BUN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-72",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH GALLANT PISTOL PETE",
+      "sire_reg": "R917527",
+      "dam_name": "MAGNUM'S MIDNIGHT MARY",
+      "dam_reg": "RA428288",
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "RA428288",
+      "name": "MAGNUM'S MIDNIGHT MARY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-79",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "BLUMTHAL'S COUNTRY BUCK",
+      "sire_reg": "RA312861",
+      "dam_name": "M GEHRT",
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "dogs": [
+    {
+      "reg_number": "RM867294",
+      "name": "MYSTIKS HALLS LADY IN RED",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-97",
+      "color_code": "RD",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH BENMARS MYSTIK MISSING LIN",
+      "sire_reg": "RM148233",
+      "dam_name": "RIODALL'S TULA'S MISS MAGOULA",
+      "dam_reg": "RM192139",
+      "breeders": [
+        "E ULCH",
+        "D HALL"
+      ],
+      "owners": [
+        "E ULCH"
+      ]
+    },
+    {
+      "reg_number": "RM096655",
+      "name": "CH RANGELER'S WILD BELLE",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "10-96",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Cirkle C's One Shot Rambo S",
+      "sire_reg": "RM122019",
+      "dam_name": "Ch Savoy's Dawn Cascade",
+      "dam_reg": "RM091268",
+      "breeders": [
+        "B RIDALL"
+      ],
+      "owners": [
+        "B RIDALL"
+      ]
+    },
+    {
+      "reg_number": "RM161876",
+      "name": "RAZORS EDGE EVANS RED LADE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-98",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Kimmars Rooman To Razorseodge",
+      "sire_reg": "RM221641",
+      "dam_name": "Ch Keystones Redsky Of Fraja",
+      "dam_reg": "RM126303",
+      "breeders": [
+        "C & K NELSON",
+        "L CLEMENTS"
+      ],
+      "owners": [
+        "C & K NELSON"
+      ]
+    },
+    {
+      "reg_number": "RM126303",
+      "name": "CH BENMAR'S LUCK OF ROADHOUS",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "10-96",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Starr's Echo Like A Touch Of Sage",
+      "sire_reg": "RM131380",
+      "dam_name": "Razors Edge Evans Red Lade",
+      "dam_reg": "RM161876",
+      "breeders": [
+        "C GUIDA",
+        "J HOWE"
+      ],
+      "owners": [
+        "C GUIDA"
+      ]
+    },
+    {
+      "reg_number": "RM188085",
+      "name": "GAFFS TWISTER OF OAKHAVEN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-96",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Devil Dan's Alley Gator",
+      "sire_reg": "AL993275",
+      "dam_name": "Gaffs Twister Of Oakhaven",
+      "dam_reg": "RM188085",
+      "breeders": [
+        "T LOMBARDI",
+        "W WHITE",
+        "W B ROCK"
+      ],
+      "owners": [
+        "T LOMBARDI"
+      ]
+    },
+    {
+      "reg_number": "RM194286",
+      "name": "PERDUES COLD SHOT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-98",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Empire's Ain't No On Of Gmj",
+      "sire_reg": "RM073769",
+      "dam_name": "Kimmars Rooman To Razorsezge",
+      "dam_reg": "RM189801",
+      "breeders": [
+        "G MACALEGAL",
+        "G CAMPBELL"
+      ],
+      "owners": [
+        "G MACALEGAL"
+      ]
+    },
+    {
+      "reg_number": "RM189801",
+      "name": "KIMMARS ROOMAN TO RAZORSEDGE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-98",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Blue Moon's Love On Arriva",
+      "sire_reg": "RM221641",
+      "dam_name": "Ch Paskos Blue Thor Of Little",
+      "dam_reg": "RM162462",
+      "breeders": [
+        "MR S & C JOHNSON",
+        "MR S JINSON",
+        "S VIRGILIO"
+      ],
+      "owners": [
+        "MR S & C JOHNSON"
+      ]
+    },
+    {
+      "reg_number": "RM162462",
+      "name": "CH PASKOS BLUE THOR OF LITTLE",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "8-96",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch Sindelar's Bearfoot Count",
+      "sire_reg": "AL998385",
+      "dam_name": "Ch Sindelar's Gentleman Jim",
+      "dam_reg": "RM084627",
+      "breeders": [
+        "W SHAW",
+        "T BURNETT",
+        "G JACKSON"
+      ],
+      "owners": [
+        "W SHAW"
+      ]
+    },
+    {
+      "reg_number": "RM084627",
+      "name": "CH SINDELAR'S GENTLEMAN JIM",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "2-95",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Blue Ridge's Like A-Py",
+      "sire_reg": "RM221641",
+      "dam_name": "Ch Jacque's Valid Expectation",
+      "dam_reg": "RM152454",
+      "breeders": [
+        "D GUNTER JR",
+        "M SCHEIGERT"
+      ],
+      "owners": [
+        "D GUNTER JR"
+      ]
+    },
+    {
+      "reg_number": "RM152454",
+      "name": "CH JACQUE'S VALID EXPECTATION",
+      "titles": "CH",
+      "sex": "S",
+      "birth_date": "12-96",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Storytime Here Comes Trouble",
+      "sire_reg": "RM197304",
+      "dam_name": "Ch Storytime Once U'V Had Bla",
+      "dam_reg": "RM103379",
+      "breeders": [
+        "S WALK",
+        "L RYAN",
+        "F SINDELAR"
+      ],
+      "owners": [
+        "S WALK"
+      ]
+    },
+    {
+      "reg_number": "RM103379",
+      "name": "CH STORYTIME ONCE U'V HAD BLA",
+      "titles": "CH",
+      "sex": "CK",
+      "birth_date": "7-96",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch Storytime's Believe It Orn",
+      "sire_reg": "RM003235",
+      "dam_name": "Ch Storytime Here Comes Summe",
+      "dam_reg": "RM098357",
+      "breeders": [
+        "J OPPELT",
+        "D WILLIAMS"
+      ],
+      "owners": [
+        "J OPPELT"
+      ]
+    },
+    {
+      "reg_number": "RM098357",
+      "name": "CH STORYTIME'S BELIEVE IT ORN",
+      "titles": "CH",
+      "sex": "CK",
+      "birth_date": "7-96",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch Storytime's Believe It Ot",
+      "sire_reg": "RM141548",
+      "dam_name": "Storytime's Undercover Blues",
+      "dam_reg": "RM154644",
+      "breeders": [
+        "A COLANERO",
+        "M MARTIN",
+        "R TEETER",
+        "M MARTIN",
+        "R TEETER"
+      ],
+      "owners": [
+        "A COLANERO"
+      ]
+    },
+    {
+      "reg_number": "RM154644",
+      "name": "CH STORYTIME'S BELIEVE IT OT",
+      "titles": "CH",
+      "sex": "OT",
+      "birth_date": "10-97",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch Sultan's Polo Of Keystone",
+      "sire_reg": "RM233070",
+      "dam_name": "Sultan's Paloma",
+      "dam_reg": "RM233070",
+      "breeders": [
+        "R TEETER",
+        "M MARTIN",
+        "M MARTIN",
+        "R TEETER & R TEETER"
+      ],
+      "owners": [
+        "R TEETER"
+      ]
+    },
+    {
+      "reg_number": "RM233070",
+      "name": "CH SULTAN'S POLO OF KEYSTONE",
+      "titles": "CH",
+      "sex": "AN",
+      "birth_date": "7-99",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch Sultan's Polo Of Keystone",
+      "sire_reg": "RM215346",
+      "dam_name": "Sultan's Paloma",
+      "dam_reg": "RM233070",
+      "breeders": [
+        "T BURNETT",
+        "M MARTIN",
+        "R TEETER",
+        "M MARTIN",
+        "N FERRIS & R TEETER"
+      ],
+      "owners": [
+        "T BURNETT"
+      ]
+    },
+    {
+      "reg_number": "RM215346",
+      "name": "CH SULTAN'S POLO OF KEYSTONE",
+      "titles": "CH",
+      "sex": "AN",
+      "birth_date": "7-99",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch Benmars Sharp Shooter",
+      "sire_reg": "RM152422",
+      "dam_name": "Tara's Shady Chey-Anne",
+      "dam_reg": "RM155167",
+      "breeders": [
+        "R CARRANZA",
+        "M SAGULLO",
+        "A ROBLES"
+      ],
+      "owners": [
+        "R CARRANZA"
+      ]
+    },
+    {
+      "reg_number": "RM155167",
+      "name": "CH BENMAR'S SHARP SHOOTER",
+      "titles": "CH",
+      "sex": "ND",
+      "birth_date": "11-97",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch Sns Luckee Strikeup The Ba",
+      "sire_reg": "RM094272",
+      "dam_name": "S'Ns Mysterious 'N' Spooky",
+      "dam_reg": "RM048166",
+      "breeders": [
+        "R CARRANZA",
+        "M SAGULLO",
+        "A ROBLES"
+      ],
+      "owners": [
+        "R CARRANZA"
+      ]
+    },
+    {
+      "reg_number": "RM048166",
+      "name": "CH SNS LUCKEE STRIKEUP THE BA",
+      "titles": "CH",
+      "sex": "ND",
+      "birth_date": "5-94",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Don Carlos Kansas City Chief",
+      "sire_reg": "RM191086",
+      "dam_name": "Carnival's Fortune Teller",
+      "dam_reg": "RM067701",
+      "breeders": [
+        "P SPANGLER",
+        "L WALTERS",
+        "D JOHNSON"
+      ],
+      "owners": [
+        "P SPANGLER"
+      ]
+    },
+    {
+      "reg_number": "RM067701",
+      "name": "DON CARLOS KANSAS CITY CHIEF",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-96",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch Noble's Rojo Montana",
+      "sire_reg": "RM032931",
+      "dam_name": "Ch Krysalyn Let Freedom Ring",
+      "dam_reg": "RM006900",
+      "breeders": [
+        "L HANNA-O'NEILL",
+        "P BERNARDINO",
+        "L HANNA-O'NEILL",
+        "J DUNCAN"
+      ],
+      "owners": [
+        "L HANNA-O'NEILL"
+      ]
+    },
+    {
+      "reg_number": "RM006900",
+      "name": "CH NOBLE'S ROJO MONTANA",
+      "titles": "CH",
+      "sex": "0",
+      "birth_date": "10-94",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH",
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "W SMITH",
+        "S MANTON",
+        "K CARNAL"
+      ],
+      "owners": [
+        "W SMITH"
+      ]
+    },
+    {
+      "reg_number": "RA952383",
+      "name": "CH CRESTWOODS FAIR DINKUM DAN",
+      "titles": "CH",
+      "sex": "DY",
+      "birth_date": "8-86",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Crestwoods Class Act",
+      "sire_reg": "RM994665",
+      "dam_name": "Brigance's Java Queen",
+      "dam_reg": "RM195304",
+      "breeders": [
+        "M AGUILLARD",
+        "A TOQUINTO",
+        "M MCSORLEY"
+      ],
+      "owners": [
+        "M REIGNIER"
+      ]
+    },
+    {
+      "reg_number": "RM195304",
+      "name": "BLENCART'S JACKO JACK JASPER",
+      "titles": null,
+      "sex": "OT",
+      "birth_date": "11-96",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch Crestwood's Jack Jaspe",
+      "sire_reg": "RA952383",
+      "dam_name": "Bj's Pride To Rebel",
+      "dam_reg": "RM107296",
+      "breeders": [
+        "M REIGNIER"
+      ],
+      "owners": [
+        "P ROSS",
+        "P BRIGANCE"
+      ]
+    },
+    {
+      "reg_number": "RM107296",
+      "name": "BJ'S PRIDE TO REBEL",
+      "titles": null,
+      "sex": "N",
+      "birth_date": "6-95",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch Feathertop Noojee Chap",
+      "sire_reg": "RM198444",
+      "dam_name": "Dimonterr Mor N Mor Jazz",
+      "dam_reg": "RB235696",
+      "breeders": [
+        "R DILLI",
+        "B POWELL"
+      ],
+      "owners": [
+        "R DILLI"
+      ]
+    },
+    {
+      "reg_number": "RM198444",
+      "name": "CH FEATHERTOP NOOJEE CHAP",
+      "titles": "CH",
+      "sex": "S",
+      "birth_date": "6-92",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch Feathertop Flashpoint",
+      "sire_reg": "RM067169",
+      "dam_name": "Ch Feathertop Notorious",
+      "dam_reg": "RM067169",
+      "breeders": [
+        "I GIBSON"
+      ],
+      "owners": [
+        "I GIBSON"
+      ]
+    },
+    {
+      "reg_number": "RM067169",
+      "name": "CH FEATHERTOP FLASHPOINT",
+      "titles": "CH",
+      "sex": "89",
+      "birth_date": "7-97",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Al989336",
+      "sire_reg": null,
+      "dam_name": "Ce Dar Dancin Roun Creekside",
+      "dam_reg": "RM055853",
+      "breeders": [
+        "N & K GOESCH",
+        "N GOESCH"
+      ],
+      "owners": [
+        "N & K GOESCH"
+      ]
+    },
+    {
+      "reg_number": "RM055853",
+      "name": "JO'S KOJAK OF SUE",
+      "titles": null,
+      "sex": "N",
+      "birth_date": "9-93",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch Feathertop Flashpoint",
+      "sire_reg": "RM067169",
+      "dam_name": "Teann Penny Red",
+      "dam_reg": "RM130903",
+      "breeders": [
+        "S & R MEEKS",
+        "C TINSLEY"
+      ],
+      "owners": [
+        "S & R MEEKS"
+      ]
+    },
+    {
+      "reg_number": "RM130903",
+      "name": "DUNCAN MCCLOUD",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-96",
+      "color_code": "NA",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch The Farm's Trigger Happy C",
+      "sire_reg": "RM008748",
+      "dam_name": "The Farm's Talk Of The Tow",
+      "dam_reg": "RM130903",
+      "breeders": [
+        "R & S MEEKS",
+        "L PATE"
+      ],
+      "owners": [
+        "R & S MEEKS"
+      ]
+    },
+    {
+      "reg_number": "RM008748",
+      "name": "CH THE FARM'S TRIGGER HAPPY C",
+      "titles": "CH",
+      "sex": "N",
+      "birth_date": "9-92",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH",
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "E WILLIAMS",
+        "S DUNN"
+      ],
+      "owners": [
+        "E WILLIAMS"
+      ]
+    },
+    {
+      "reg_number": "RM104875",
+      "name": "CH VICTORIA-BCH BABY BLUE KU",
+      "titles": "CH",
+      "sex": "N",
+      "birth_date": "4-98",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Victoria You Are My Sunshine",
+      "sire_reg": "RM166296",
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "M BERMAN",
+        "C ANDERSON"
+      ],
+      "owners": [
+        "M BERMAN"
+      ]
+    }
+  ]
+}

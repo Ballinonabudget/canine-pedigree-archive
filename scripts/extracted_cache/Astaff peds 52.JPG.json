@@ -1,0 +1,973 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "JULY 33",
+  "dogs": [
+    {
+      "reg_number": "RA464834",
+      "name": "BRUISER BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "G & S AHRENS"
+      ],
+      "owners": [
+        "W & N PRATER"
+      ]
+    },
+    {
+      "reg_number": "RA486714",
+      "name": "NIKKI'S MISS JESSICA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "J COLLINS"
+      ],
+      "owners": [
+        "B COLLINS"
+      ]
+    },
+    {
+      "reg_number": "RA419789",
+      "name": "ARINGTON'S REMO RED",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "R GONZALES"
+      ],
+      "owners": [
+        "J WHEAT"
+      ]
+    },
+    {
+      "reg_number": "RA451063",
+      "name": "COLLINS SOPHIE BELLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "P RAMER"
+      ],
+      "owners": [
+        "A BRYAN"
+      ]
+    },
+    {
+      "reg_number": "RA423487",
+      "name": "CH TRYARR DIAMONDBACK REDBOLT",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "6-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "G CLAUNCH"
+      ],
+      "owners": [
+        "J BARNES"
+      ]
+    },
+    {
+      "reg_number": "RA470612",
+      "name": "MAGNUMS BRANDY LADY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-80",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "J NEHSER"
+      ],
+      "owners": [
+        "Z BEMIS"
+      ]
+    },
+    {
+      "reg_number": "RA274312",
+      "name": "RUFFIAN'S GALLANT BULLET",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "W GRAHAM JR",
+        "L GRAHAM"
+      ],
+      "owners": [
+        "B HAHN"
+      ]
+    },
+    {
+      "reg_number": "RA401951",
+      "name": "ROSIE'S RUFFIAN OF HAR-WYN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "H WHEELER"
+      ],
+      "owners": [
+        "B PACITTI"
+      ]
+    },
+    {
+      "reg_number": "RA144004",
+      "name": "MR THOR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-77",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "K & D STEFFENS"
+      ],
+      "owners": [
+        "K STEFFENS & S RODGERS"
+      ]
+    },
+    {
+      "reg_number": "RA198588",
+      "name": "JOHN'S BABIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-76",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "T HULL"
+      ],
+      "owners": [
+        "T & S SAMUEL"
+      ]
+    },
+    {
+      "reg_number": "RA153919",
+      "name": "CHAMBLEE'S MR PIKE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-75",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "LADY BEMIS"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "RA208316",
+      "name": "LADY BEMIS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-75",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "J HAGLER JR",
+        "A CUTCHIN & T HAYS"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "RA248658",
+      "name": "CASSIUS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-78",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "CHARBERT'S ONYX"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "RA303603",
+      "name": "CHARBERT'S ONYX",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "R & J DON CARLOS"
+      ],
+      "owners": [
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RA036502",
+      "name": "STORKLIND'S BUTCH BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-74",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "ALL AMERICAN TUFFY"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "RA410762",
+      "name": "ALL AMERICAN TUFFY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "D & R POSEY"
+      ],
+      "owners": [
+        "R GROVER"
+      ]
+    },
+    {
+      "reg_number": "R736247",
+      "name": "CH RUFFIAN SKY BOLT OF HAR-WY",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "2-73",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "CH TRYARR AM I A DEVIL"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "RA107057",
+      "name": "CH TRYARR AM I A DEVIL",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "1-76",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "P & D ELZA"
+      ],
+      "owners": [
+        "T JOHNSON"
+      ]
+    },
+    {
+      "reg_number": "RA337508",
+      "name": "REGAL-C MEGAN'S REGAN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "CH PARAGON STILL WATER'S OF S HILO"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "RA465938",
+      "name": "CH PARAGON STILL WATER'S OF S",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "8-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "D MORRIS",
+        "DR J KING"
+      ],
+      "owners": [
+        "J FRASER"
+      ]
+    },
+    {
+      "reg_number": "RA189803",
+      "name": "SALARES BLACK JACK OF HARWYN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-76",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "RUFFIAN FRECKLES OF HAR-WYN"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "RA246165",
+      "name": "RUFFIAN FRECKLES OF HAR-WYN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-76",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "D GREENE"
+      ],
+      "owners": [
+        "E RINGOLD"
+      ]
+    },
+    {
+      "reg_number": "RA152102",
+      "name": "CH SOONER'S BOOMER SOONER",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "6-75",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "CH CONCHO'S RUFFIAN SHADE OF BLU"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "RA329043",
+      "name": "CH CONCHO'S RUFFIAN SHADE OF",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "10-77",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "D GREENE"
+      ],
+      "owners": [
+        "G CLEVELAND"
+      ]
+    },
+    {
+      "reg_number": "RA204389",
+      "name": "JAZZABELL LULU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-75",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "CH BENCHMARK CRYTAL OF LXL"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "RA343265",
+      "name": "CH COUNTESS MAHOGONY COCOA",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "1-80",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "J CHAPIN"
+      ],
+      "owners": [
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RA025620",
+      "name": "CH BEAU RINGO UD",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "5-75",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "X-PERT IRONMANS ANGEL"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "RA331286",
+      "name": "CH FRAJA MARIA'S TIA MARIA",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "4-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "J CHAPIN"
+      ],
+      "owners": [
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RA209277",
+      "name": "CH SLIGO MCCARTHY",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "8-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "X-PERT IRONMANS ANGEL"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R917527",
+      "name": "CH GALLANT PISTOL PETE",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "10-73",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "C KOKES"
+      ],
+      "owners": [
+        "W PETERSON JR"
+      ]
+    },
+    {
+      "reg_number": "RA402267",
+      "name": "CH BENCHMARK CRYTAL OF LXL",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "6-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "WILLYNWOOD MAYBELLINE"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "RA424275",
+      "name": "X-PERT IRONMANS ANGEL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "C BARRERA"
+      ],
+      "owners": [
+        "K BARBER"
+      ]
+    },
+    {
+      "reg_number": "RA410343",
+      "name": "TANJOE SAMSON OF GJC",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "TIPPIE DANCER"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "RA424275",
+      "name": "X-PERT IRONMANS ANGEL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "J NEHSER"
+      ],
+      "owners": [
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RA422000",
+      "name": "IRONMAN'S K O",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "R939584"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R899963",
+      "name": "CH WILLYNWOOD PADLOCK",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "8-72",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "W GRAHAM JR",
+        "L GRAHAM"
+      ],
+      "owners": [
+        "P KNA-PP"
+      ]
+    },
+    {
+      "reg_number": "RA209277",
+      "name": "CH SLIGO MCCARTHY",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "8-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "CRUSADER'S LADY WEE LOVE"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R994935",
+      "name": "CH WILLYNWOOD OEDIPUS REX",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "4-76",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "J CROSBY"
+      ],
+      "owners": [
+        "J JAMES"
+      ]
+    },
+    {
+      "reg_number": "RA318902",
+      "name": "CRUSADER'S LADY WEE LOVE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-77",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "W KING",
+        "F STROOPE MD"
+      ],
+      "owners": [
+        "M STRO-OPE"
+      ]
+    },
+    {
+      "reg_number": "RA179628",
+      "name": "RUFFIAN MAGNUM MAX OF HAR-WYN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-77",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "CHARBERT'S BETTY BOOP"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "RA318409",
+      "name": "CHARBERT'S BETTY BOOP",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-80",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "B HULSEY"
+      ],
+      "owners": [
+        "C KINCHELOE"
+      ]
+    },
+    {
+      "reg_number": "RA443211",
+      "name": "CH TONKAWA JOKERS WILD",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "7-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "MIDNIGHT LACE"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "RA455265",
+      "name": "MIDNIGHT LACE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "J JAMES"
+      ],
+      "owners": [
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RA308863",
+      "name": "NORTHROCK JUSTIN TIME",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-78",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "CH NUGENT'S SPANKY OF OUR GAN G CD"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "RA320649",
+      "name": "CH NUGENT'S SPANKY OF OUR GAN",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "7-78",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "K RABALAIS"
+      ],
+      "owners": [
+        "B BALDWIN"
+      ]
+    },
+    {
+      "reg_number": "R949002",
+      "name": "CH CONCHO'S DIAMOND GLO",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "4-74",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "CH HARPER'S PATTON"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "RA353222",
+      "name": "CH HARPER'S PATTON",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "3-78",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "C HULSEY"
+      ],
+      "owners": [
+        "D HULSEY"
+      ]
+    },
+    {
+      "reg_number": "RA333829",
+      "name": "MIDNIGHT LACE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-78",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [
+        "FLOP FLOP FIZZ FIZZ"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "RA455265",
+      "name": "MIDNIGHT LACE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "RA308863",
+      "name": "NORTHROCK JUSTIN TIME",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-78",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "RA459003",
+      "name": "FLOP FLOP FIZZ FIZZ",
+      "titles": null,
+      "sex": "F",
+      "birth_date": "6-79",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "RA186753",
+      "name": "TEXAS AGGIE OF HICCUP HILL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-76",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "RA303036",
+      "name": "CONCHO'S LADY HULSEY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-77",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "RA216821",
+      "name": "CHICO BILL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-76",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    }
+  ]
+}

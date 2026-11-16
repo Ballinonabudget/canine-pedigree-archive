@@ -1,0 +1,524 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "NOVEMBER 1980",
+  "dogs": [
+    {
+      "reg_number": "RA486186",
+      "name": "BUCK'S IRON SPIKE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-2-79",
+      "color_code": "RD & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "TRYARR IRON MAN",
+      "sire_reg": "RA293583",
+      "dam_name": "TRYARR JIVE TALKIN'",
+      "dam_reg": "RA231938",
+      "breeders": [
+        "A BUCKINGHAM",
+        "A BUCKINGHAM"
+      ],
+      "owners": [
+        "N PRATER",
+        "A BUCKINGHAM"
+      ]
+    },
+    {
+      "reg_number": "RA346235",
+      "name": "COPELAND'S LIL DOTTIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-30-76",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH ARCHER'S DAB O' DUGANE",
+      "sire_reg": "RA156227",
+      "dam_name": "INDIAN DOC'S SADIXIE",
+      "dam_reg": "RA160295",
+      "breeders": [
+        "J & M COPELAND"
+      ],
+      "owners": [
+        "J & M COPELAND"
+      ]
+    },
+    {
+      "reg_number": "RA579915",
+      "name": "DIAMOND FLASHBACK OF JOE-DAN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-4-79",
+      "color_code": "RD & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH TRYARR DIAMONDBACK REDBOLT",
+      "sire_reg": "RA423487",
+      "dam_name": "CH TRYARR BLUE DIAMOND",
+      "dam_reg": "RA450551",
+      "breeders": [
+        "L SHIMAK"
+      ],
+      "owners": [
+        "W VINES JR",
+        "L SHIMAK"
+      ]
+    },
+    {
+      "reg_number": "RA525691",
+      "name": "DON CARLOS'S BOOMERANG",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-11-79",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SOONER'S BOOMER SOONER",
+      "sire_reg": "RA152102",
+      "dam_name": "CH CONCHO'S RUFFIAN SHADE OF",
+      "dam_reg": "RA329043",
+      "breeders": [
+        "OWNER"
+      ],
+      "owners": [
+        "R & J DON CARLOS"
+      ]
+    },
+    {
+      "reg_number": "RA409337",
+      "name": "CH DRYRUN'S SIMAS KUDIRKA",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "11-25-77",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "SOONER'S CAPTAIN EASY",
+      "sire_reg": "RA228701",
+      "dam_name": "HUNTER'S JOEZETT",
+      "dam_reg": "RA224213",
+      "breeders": [
+        "G HUNTER"
+      ],
+      "owners": [
+        "P & D ELZA"
+      ]
+    },
+    {
+      "reg_number": "RA420036",
+      "name": "ESTEWAN'S MISS CARINA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-9-77",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH PATTON'S RED ROCK SKILLET",
+      "sire_reg": "RA361707",
+      "dam_name": "BAR-NONETS CINDERELLA BONITA",
+      "dam_reg": "RA106236",
+      "breeders": [
+        "K & B SANDBORG / R GAITHER & K GUTHRIE"
+      ],
+      "owners": [
+        "K & B SANDBORG"
+      ]
+    },
+    {
+      "reg_number": "RA418641",
+      "name": "GOSS' RED OSCAR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-12-77",
+      "color_code": "RD & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "RUSHING'S RIVAL BOSS",
+      "sire_reg": "RA321992",
+      "dam_name": "CONCHO'S SUN AND SNOW",
+      "dam_reg": "RA432770",
+      "breeders": [
+        "O HILL"
+      ],
+      "owners": [
+        "D GOSS"
+      ]
+    },
+    {
+      "reg_number": "RA041808",
+      "name": "GRAND DUKE BOBBY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-20-73",
+      "color_code": "WH & BRDL",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "GENERAL BOTTALLA",
+      "sire_reg": "RA058564",
+      "dam_name": "LADY BOTTALLA",
+      "dam_reg": "RA018058",
+      "breeders": [
+        "A BOTTALLA"
+      ],
+      "owners": [
+        "N COSMAS"
+      ]
+    },
+    {
+      "reg_number": "RA414995",
+      "name": "KENNY'S BAM-BAM",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-16-77",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SOONER'S RANGER EL CAJOHN",
+      "sire_reg": "RA091937",
+      "dam_name": "MISTY MORN",
+      "dam_reg": "RA140231",
+      "breeders": [
+        "OWNER"
+      ],
+      "owners": [
+        "J THOMAS"
+      ]
+    },
+    {
+      "reg_number": "RA490502",
+      "name": "MCCARTHY'S XPERT MIGS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-4-78",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH RUPERT ROMAN GRIT",
+      "sire_reg": "RA302814",
+      "dam_name": "NELLIE II",
+      "dam_reg": "RA273077",
+      "breeders": [
+        "J MCCARTHY"
+      ],
+      "owners": [
+        "M SUMBRUM"
+      ]
+    },
+    {
+      "reg_number": "RA399468",
+      "name": "MODELS DIABLO TIGER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-15-77",
+      "color_code": "BRDL MKG BLK",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH ARCHER'S DIABLO BANDIIO II",
+      "sire_reg": "R773615",
+      "dam_name": "CH MOPA'S RUFFIAN DE COCOA",
+      "dam_reg": "RA184375",
+      "breeders": [
+        "P JONES"
+      ],
+      "owners": [
+        "G CLARK"
+      ]
+    },
+    {
+      "reg_number": "RA506763",
+      "name": "MORENOS SUZY Q",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-10-78",
+      "color_code": "BL & BRDL",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH RUFFIAN BUCKINGHAM OF TOUNK",
+      "sire_reg": "RA186182",
+      "dam_name": "TRYARR CRAZY MAMA",
+      "dam_reg": "RA332149",
+      "breeders": [
+        "R GONZALES"
+      ],
+      "owners": [
+        "E HERNANDEZ"
+      ]
+    },
+    {
+      "reg_number": "W377099",
+      "name": "MOUNT SHIRE BUTCHER BLOCK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-23-74",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "TOPSTAFFS GANG BUSTER",
+      "sire_reg": "R938208",
+      "dam_name": "MOPA'S GRETA GARBER",
+      "dam_reg": "RA121090",
+      "breeders": [
+        "J MEREDITH / J C HARTNETT"
+      ],
+      "owners": [
+        "C HARTNETT & J MEREDITH"
+      ]
+    },
+    {
+      "reg_number": "RA507327",
+      "name": "NOT QUITE CRICKET",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-17-79",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH CORVAY MAJOR DOMO",
+      "sire_reg": "R714406",
+      "dam_name": "CH SPANKY'S SHINING IMAGE",
+      "dam_reg": "RA334237",
+      "breeders": [
+        "OWNER"
+      ],
+      "owners": [
+        "J METCALF"
+      ]
+    },
+    {
+      "reg_number": "RA399448",
+      "name": "PATTON'S ROCK PENNY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-16-77",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "WHITE ROCK GROVER",
+      "sire_reg": "RA122848",
+      "dam_name": "CH PATTON'S TEXAS BELLE LUCY",
+      "dam_reg": "RA241882",
+      "breeders": [
+        "W PATTON JR"
+      ],
+      "owners": [
+        "H PASCOE"
+      ]
+    },
+    {
+      "reg_number": "RA390193",
+      "name": "RIPS ROCKY MOUNTAIN ROMANCE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-30-77",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "BORZEY'S BLACKIE",
+      "sire_reg": "RA256580",
+      "dam_name": "MOPA'S LIL ZIP'N BEAR",
+      "dam_reg": "RA335353",
+      "breeders": [
+        "S MOORE"
+      ],
+      "owners": [
+        "G & C MOORE"
+      ]
+    },
+    {
+      "reg_number": "RA420508",
+      "name": "ROSA'S DUCHESS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-24-77",
+      "color_code": "WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "SHOVEY SHOW-DOWN",
+      "sire_reg": "RA340645",
+      "dam_name": "LADY DELLA SALARES OF ARAGON",
+      "dam_reg": "RA351083",
+      "breeders": [
+        "I DUNCAN"
+      ],
+      "owners": [
+        "W INGRAM"
+      ]
+    },
+    {
+      "reg_number": "RA454246",
+      "name": "SABENS SIERRA WIND",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-6-78",
+      "color_code": "FN BLK & BRDL",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH RUFFIAN'S SABEN ROSE",
+      "sire_reg": "RA058306",
+      "dam_name": "FARLSDALE'S MOLLY MAGUIRE",
+      "dam_reg": "RA338427",
+      "breeders": [
+        "OWNER"
+      ],
+      "owners": [
+        "C & S ROSE"
+      ]
+    },
+    {
+      "reg_number": "RA537447",
+      "name": "SAVAGE SATELLITE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-22-79",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "BRUISER BOY",
+      "sire_reg": "RA440409",
+      "dam_name": "NIKKI'S MISS JESSICA",
+      "dam_reg": "RA486714",
+      "breeders": [
+        "W N PRATER"
+      ],
+      "owners": [
+        "J & L LIGHTNER"
+      ]
+    },
+    {
+      "reg_number": "RA28125",
+      "name": "SUGAR RAY OF CONCHO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-24-77",
+      "color_code": "WH & BRDL",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH HARPER'S PATTON",
+      "sire_reg": "RA333829",
+      "dam_name": "CH CONCHO'S INDIAN GLO",
+      "dam_reg": "RA063215",
+      "breeders": [
+        "O HILL"
+      ],
+      "owners": [
+        "K HASELWONDER"
+      ]
+    },
+    {
+      "reg_number": "RA381663",
+      "name": "TONY'S PRINCESS LULU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-28-77",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SERTOMA'S LITTLE CHIEF",
+      "sire_reg": "RA188182",
+      "dam_name": "BLU SATIN BRENDE",
+      "dam_reg": "RA137043",
+      "breeders": [
+        "W STRICKLAND"
+      ],
+      "owners": [
+        "W SPANIARD"
+      ]
+    },
+    {
+      "reg_number": "RA476761",
+      "name": "TONY'S SWEET PETUNIA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-1-78",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "SERTOMA'S SUN DEVIL",
+      "sire_reg": "RA330852",
+      "dam_name": "SERTOMA'S MARY FRANCIS",
+      "dam_reg": "RA222360",
+      "breeders": [
+        "T RABORN"
+      ],
+      "owners": [
+        "T SPANIARD"
+      ]
+    },
+    {
+      "reg_number": "RA261213",
+      "name": "TOPSTAFF'S ROUGH & READY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-23-74",
+      "color_code": "GOLD BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "TOPSTAFF'S BLACKIE",
+      "sire_reg": "R938209",
+      "dam_name": "TOPSTAFFS PINKEY",
+      "dam_reg": "RA345229",
+      "breeders": [
+        "R BELL"
+      ],
+      "owners": [
+        "S MCNEILL"
+      ]
+    },
+    {
+      "reg_number": "RA499474",
+      "name": "CH TRYARR ROOSTER COGBURN",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "2-10-78",
+      "color_code": "RD & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH RUFFIAN SKY BOLT OF HAR-WY",
+      "sire_reg": "R736247",
+      "dam_name": "CH TRYARR STRAWBERRY FIELDS",
+      "dam_reg": "RA183625",
+      "breeders": [
+        "S RODGERS"
+      ],
+      "owners": [
+        "D & A DEL RIO"
+      ]
+    },
+    {
+      "reg_number": "RA429086",
+      "name": "CH WARRIGAL'S CLASSY HUSSY",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "1-27-77",
+      "color_code": "BLUEFAWN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH HARPER'S PATTON",
+      "sire_reg": "RA333829",
+      "dam_name": "CH MACS AWFUL PRETTY LADY",
+      "dam_reg": "RA310328",
+      "breeders": [
+        "J MCCLAIN",
+        "R J MCCLAIN"
+      ],
+      "owners": [
+        "A ARSENEAU",
+        "J MCCLAIN"
+      ]
+    },
+    {
+      "reg_number": "RA418936",
+      "name": "WILLYWOOD SMOKEY JOE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-2-77",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH WILLYWOOD OGRE",
+      "sire_reg": "R641390",
+      "dam_name": "WILLYWOOD CARRIE",
+      "dam_reg": "RA156064",
+      "breeders": [
+        "W PETERSON JR"
+      ],
+      "owners": [
+        "P & K COMBS"
+      ]
+    },
+    {
+      "reg_number": "RA493368",
+      "name": "X-PERI VALIANT BRIGET",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-14-78",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-PERI VALIANT SHAMAN",
+      "sire_reg": "RA325915",
+      "dam_name": "X-PERT VALIANT ROXY",
+      "dam_reg": "RA388500",
+      "breeders": [
+        "OWNER"
+      ],
+      "owners": [
+        "M FELTON"
+      ]
+    }
+  ]
+}

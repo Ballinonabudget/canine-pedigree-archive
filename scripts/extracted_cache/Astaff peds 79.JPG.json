@@ -1,0 +1,97 @@
+{
+  "breed": "Staffordshire Terriers",
+  "date_header": "December 1946",
+  "dogs": [
+    {
+      "reg_number": "R9091",
+      "name": "BARBARA'S BINGO",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-1-46",
+      "color_code": "Fawn and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "The Tiger of Cleveland",
+      "sire_reg": "A613804",
+      "dam_name": "Doyle's Penelope",
+      "dam_reg": "A907875",
+      "breeders": [
+        "John Kinghorn, Jr."
+      ],
+      "owners": [
+        "Eileen P. Books"
+      ]
+    },
+    {
+      "reg_number": "R8865",
+      "name": "BARON'S GYPSY OF FARLSDALE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-2-46",
+      "color_code": "Dark brindle and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A683434",
+      "dam_name": "Eleanor's Queenie",
+      "dam_reg": "A377144",
+      "breeders": [
+        "Mrs. Albert L. McCarty"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R8561",
+      "name": "CHARLESTON GIRL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-5-46",
+      "color_code": "Brindle, white marking",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Ruffian Scalawag",
+      "sire_reg": "A422376",
+      "dam_name": "June's Boston Babe",
+      "dam_reg": "R6664",
+      "breeders": [
+        "Herman D. Knauff"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R8658",
+      "name": "CLINTON JOE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-20-46",
+      "color_code": "Brindle",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Corvino's Iron Will",
+      "sire_reg": "A759791",
+      "dam_name": "Bonnie",
+      "dam_reg": "A527563",
+      "breeders": [
+        "Oscar M. Owen"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R8182",
+      "name": "DOYLE'S BROWN BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-1-46",
+      "color_code": "Fawn and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "The Tiger of Cleveland",
+      "sire_reg": "A613804",
+      "dam_name": "Doyle's Penelope",
+      "dam_reg": "A907875",
+      "breeders": [
+        "Fred H. Klein"
+      ],
+      "owners": [
+        "P. Books"
+      ]
+    }
+  ]
+}

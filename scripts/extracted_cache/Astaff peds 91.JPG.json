@@ -1,0 +1,158 @@
+{
+  "breed": "Staffordshire Terriers",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R-18688",
+      "name": "BLACK DUKE II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-24-1945",
+      "color_code": "Black and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Red Rascal",
+      "sire_reg": "A-853967",
+      "dam_name": "Little Black Topsy",
+      "dam_reg": "A-631673",
+      "breeders": [
+        "Mrs. Ralph Schweickert"
+      ],
+      "owners": [
+        "Mrs. Ralph Schweickert"
+      ]
+    },
+    {
+      "reg_number": "R-19018",
+      "name": "GREGORY'S TUFFY BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-27-1946",
+      "color_code": "Fawn, white markings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Williams Paddy Boy",
+      "sire_reg": "A-840803",
+      "dam_name": "Hadley's Dot",
+      "dam_reg": "A-726170",
+      "breeders": [
+        "Hal W. Gregory, Jr."
+      ],
+      "owners": [
+        "Albert C. Williams"
+      ]
+    },
+    {
+      "reg_number": "R-19567",
+      "name": "HOPPER'S MISS TAFFY TAN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-4-1946",
+      "color_code": "Fawn and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Joe Murphy of H.Q.",
+      "sire_reg": "A-652692",
+      "dam_name": "Saucy Sally of H.Q.",
+      "dam_reg": "A-852422",
+      "breeders": [
+        "Eugene H. Hopper"
+      ],
+      "owners": [
+        "Henry O. Houtrow"
+      ]
+    },
+    {
+      "reg_number": "R-18709",
+      "name": "NIGHT BLAZE OF SHERWALL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-10-1946",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Sandy of Sherwall",
+      "sire_reg": "A-696395",
+      "dam_name": "X-Pert Goldie Girl",
+      "dam_reg": "A-386590",
+      "breeders": [
+        "Royal M. Montgomery"
+      ],
+      "owners": [
+        "Sherwall Kennels"
+      ]
+    },
+    {
+      "reg_number": "R-18333",
+      "name": "PETER THE GREAT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-15-1946",
+      "color_code": "Brindle, white on chest",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ben's Dan",
+      "sire_reg": "A-930148",
+      "dam_name": "Bobby Sox",
+      "dam_reg": "A-986772",
+      "breeders": [
+        "John W. Brewster"
+      ],
+      "owners": [
+        "Herbert M. Lawhorne"
+      ]
+    },
+    {
+      "reg_number": "R-18689",
+      "name": "SPRINGVILLE PAL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-3-1945",
+      "color_code": "Brindle",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Red Rascal",
+      "sire_reg": "A-853967",
+      "dam_name": "Sandy Ann",
+      "dam_reg": "A-853968",
+      "breeders": [
+        "Mrs. Ralph Schweickert"
+      ],
+      "owners": [
+        "Mrs. Ralph Schweickert"
+      ]
+    },
+    {
+      "reg_number": "R-18690",
+      "name": "SPRINGVILLE PATSY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-9-1945",
+      "color_code": "Brindle",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Red Rascal",
+      "sire_reg": "A-853967",
+      "dam_name": "Boots",
+      "dam_reg": "A-853966",
+      "breeders": [
+        "Mrs. Ralph Schweickert"
+      ],
+      "owners": [
+        "Mrs. Ralph Schweickert"
+      ]
+    },
+    {
+      "reg_number": "R-19070",
+      "name": "TIGER FLIP",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-16-1946",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Rufco Flip",
+      "sire_reg": "A-810941",
+      "dam_name": "Ruffian Satin Pants",
+      "dam_reg": "A-586844",
+      "breeders": [
+        "Willis H. Bower"
+      ],
+      "owners": [
+        "Malcolm W. Cocke"
+      ]
+    }
+  ]
+}

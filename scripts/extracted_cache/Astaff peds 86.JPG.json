@@ -1,0 +1,320 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R11814",
+      "name": "CLAYTON'S X-PERT FLORA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-8-46",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Sheik",
+      "sire_reg": "A610478",
+      "dam_name": "X-Pert Duchess II",
+      "dam_reg": "R603",
+      "breeders": [
+        "R. C. Clayton"
+      ],
+      "owners": [
+        "Clifford A. Ormsby"
+      ]
+    },
+    {
+      "reg_number": "R11986",
+      "name": "DIAMOND",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-13-46",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Brown Bomber II",
+      "sire_reg": "A964705",
+      "dam_name": "Vicky of Ed-Mar",
+      "dam_reg": "A799677",
+      "breeders": [
+        "A. L. Snodgrass"
+      ],
+      "owners": [
+        "Albert B. DeVault"
+      ]
+    },
+    {
+      "reg_number": "R11987",
+      "name": "JEFF'S DAISY MAY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Rodney D. Hodgson"
+      ]
+    },
+    {
+      "reg_number": "R11988",
+      "name": "LADY LYNN OF EUCLID",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "J. N. Boswell"
+      ]
+    },
+    {
+      "reg_number": "R13242",
+      "name": "MIKE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Dark brindle, white on chest",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "J. T. Branson"
+      ]
+    },
+    {
+      "reg_number": "R13613",
+      "name": "LADY SHARON",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-1-46",
+      "color_code": "Fawn and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "The Tiger of Cleveland",
+      "sire_reg": "A613804",
+      "dam_name": "Doyle's Penelope",
+      "dam_reg": "A907875",
+      "breeders": [
+        "Alfred Rumel"
+      ],
+      "owners": [
+        "Eileen P. Books"
+      ]
+    },
+    {
+      "reg_number": "R11818",
+      "name": "MITZIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-20-46",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Corvino's Iron Will",
+      "sire_reg": "A759791",
+      "dam_name": "Bonnie",
+      "dam_reg": "A527563",
+      "breeders": [
+        "Stephen D. Pawson"
+      ],
+      "owners": [
+        "Joe Corvino"
+      ]
+    },
+    {
+      "reg_number": "R11989",
+      "name": "PEMBROKE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-13-46",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Brown Bomber II",
+      "sire_reg": "A964705",
+      "dam_name": "Vicky of Ed-Mar",
+      "dam_reg": "A799677",
+      "breeders": [
+        "William H. Donaldson"
+      ],
+      "owners": [
+        "Albert B. DeVault"
+      ]
+    },
+    {
+      "reg_number": "R12740",
+      "name": "POKE OF SHERWALL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-26-46",
+      "color_code": "Fawn",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ranger of Sherwall",
+      "sire_reg": "A516356",
+      "dam_name": "Ch. McCabe's Guilda",
+      "dam_reg": "A103298",
+      "breeders": [
+        "A. Edward Schiesel"
+      ],
+      "owners": [
+        "Sherwall Kennels"
+      ]
+    },
+    {
+      "reg_number": "R13540",
+      "name": "STEELES MEMORY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-13-46",
+      "color_code": "Golden brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Rufco Flip",
+      "sire_reg": "A810941",
+      "dam_name": "Tillie The Tops",
+      "dam_reg": "A612573",
+      "breeders": [
+        "Sam W. Farris"
+      ],
+      "owners": [
+        "Adelaide M. Holsten"
+      ]
+    },
+    {
+      "reg_number": "R13539",
+      "name": "TIGER QUEEN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Golden brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Geo. W. Farris, Jr."
+      ]
+    },
+    {
+      "reg_number": "R11815",
+      "name": "X-PERT BRINDLE BELLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-8-46",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Sheik",
+      "sire_reg": "A610478",
+      "dam_name": "X-Pert Duchess II",
+      "dam_reg": "R603",
+      "breeders": [
+        "Clifford A. Ormsby"
+      ],
+      "owners": [
+        "Clifford A. Ormsby"
+      ]
+    },
+    {
+      "reg_number": "R11812",
+      "name": "X-PERT BRINDLE BLONDIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R11811",
+      "name": "X-PERT BRINDLE FURY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R11816",
+      "name": "X-PERT BRINDLE GYPSEY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R11810",
+      "name": "X-PERT BRINDLE MACK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Earl W. L'Esperance"
+      ]
+    },
+    {
+      "reg_number": "R11813",
+      "name": "X-PERT PICK-UP JUNE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R11809",
+      "name": "X-PERT SYMBOL OF VICTORY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Thomas F. Quitko"
+      ]
+    }
+  ]
+}

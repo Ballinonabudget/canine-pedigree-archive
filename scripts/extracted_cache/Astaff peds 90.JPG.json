@@ -1,0 +1,197 @@
+{
+  "breed": "Staffordshire Terriers",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R-17968",
+      "name": "BONNIE LEAH",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Silver gray",
+      "breed": "Skye Terriers",
+      "sire_name": "High Time Tam o' Shanter",
+      "sire_reg": "A-78618",
+      "dam_name": "Time Lady Marcella",
+      "dam_reg": "A-791892",
+      "breeders": [],
+      "owners": [
+        "Eleanor Jane Dunwoodie"
+      ]
+    },
+    {
+      "reg_number": "R-17055",
+      "name": "BRACADALE CLEMENTINE OF IRADELL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-16-46",
+      "color_code": "Silver",
+      "breed": "Skye Terriers",
+      "sire_name": "Bracadele Teena*",
+      "sire_reg": null,
+      "dam_name": "Mrs. Consuelo V. Sm",
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Miss V. Axtell"
+      ]
+    },
+    {
+      "reg_number": "R-17054",
+      "name": "MERRYMOUNT CHARMING LADY OF IRADELL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-14-46",
+      "color_code": "Cream",
+      "breed": "Skye Terriers",
+      "sire_name": "Ch. Fromm of Meerend*",
+      "sire_reg": null,
+      "dam_name": "Rebecca of Merrymount*",
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Consuelo V. Smith",
+        "The Lady Marcia Miles"
+      ]
+    },
+    {
+      "reg_number": "R-17053",
+      "name": "MERRYMOUNT GREY DUSK OF IRADELL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-14-46",
+      "color_code": "Gray",
+      "breed": "Skye Terriers",
+      "sire_name": "Ch. Meerend*",
+      "sire_reg": null,
+      "dam_name": "Rebecca of Merrymount*",
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Consuelo V. Smith"
+      ]
+    },
+    {
+      "reg_number": "R-16868",
+      "name": "ANNIE OAKLEY OF MAPLECREEK",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-16-46",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ruffian Satin Pants",
+      "sire_reg": "A-586844",
+      "dam_name": "Shepley",
+      "dam_reg": "A-810941",
+      "breeders": [],
+      "owners": [
+        "Malcolm W. Cocke"
+      ]
+    },
+    {
+      "reg_number": "R-16868",
+      "name": "BONNIE GOLDEN PRIDE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-13-1946",
+      "color_code": "brindle and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ruffian Satin Pants",
+      "sire_reg": "A-586844",
+      "dam_name": "R",
+      "dam_reg": "A-810941",
+      "breeders": [],
+      "owners": [
+        "Holsten"
+      ]
+    },
+    {
+      "reg_number": "R-17933",
+      "name": "DANIELS' SUSIE Q",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-27-1946",
+      "color_code": "Fawn and",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Williams Paddy Boy",
+      "sire_reg": null,
+      "dam_name": "Hadley's Dot",
+      "dam_reg": "A-726170",
+      "breeders": [],
+      "owners": [
+        "Carlton C. Daniels",
+        "C. Williams"
+      ]
+    },
+    {
+      "reg_number": "R-17007",
+      "name": "DUKE DAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-15-1946",
+      "color_code": "Brindle, white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ben's Dan",
+      "sire_reg": "A-930148",
+      "dam_name": "Sox A",
+      "dam_reg": "986772",
+      "breeders": [],
+      "owners": [
+        "Ellis S. Reagan",
+        "Herbert horne"
+      ]
+    },
+    {
+      "reg_number": "R-17398",
+      "name": "GINGER II",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-13-1946",
+      "color_code": "Brindle, white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Brown Bomber II",
+      "sire_reg": "A-9",
+      "dam_name": "Vicky of Ed-Mar",
+      "dam_reg": "A-799677",
+      "breeders": [],
+      "owners": [
+        "George W. W. De Vault"
+      ]
+    },
+    {
+      "reg_number": "R-17438",
+      "name": "MADAM QUEEN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-15-1946",
+      "color_code": "Brindle, whitings",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ben's Dan",
+      "sire_reg": "A-9",
+      "dam_name": "Bobby Sox",
+      "dam_reg": "A-986772",
+      "breeders": [],
+      "owners": [
+        "Ralph McCormick",
+        "M. Lawhorne"
+      ]
+    },
+    {
+      "reg_number": "R-17449",
+      "name": "RUFCO LUCKY PENNY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-16-1946",
+      "color_code": "Brindle mask, white chest",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "R",
+      "sire_reg": "A-810941",
+      "dam_name": "Ruffian Satin Pants",
+      "dam_reg": "A-586844",
+      "breeders": [],
+      "owners": [
+        "W. Cocke"
+      ]
+    }
+  ]
+}

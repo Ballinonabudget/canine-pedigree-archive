@@ -1,0 +1,458 @@
+{
+  "breed": "Staffordshire Terriers",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R5277",
+      "name": "APACHE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-12-45",
+      "color_code": "Fawn and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Captain Shon of Sherwall",
+      "sire_reg": "A400893",
+      "dam_name": "Ch. Patrice of Sherwall",
+      "dam_reg": "A252555",
+      "breeders": [
+        "Joe A. Filippini"
+      ],
+      "owners": [
+        "Sherwall Kennels"
+      ]
+    },
+    {
+      "reg_number": "R5292",
+      "name": "BROWN'S X-PERT PENNY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-8-45",
+      "color_code": "Fawn brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "X-pert Brindle Sheik",
+      "sire_reg": "A610478",
+      "dam_name": "Lady Dee",
+      "dam_reg": "A792348",
+      "breeders": [
+        "David C. Brown"
+      ],
+      "owners": [
+        "Roy W. Jeffords"
+      ]
+    },
+    {
+      "reg_number": "R5300",
+      "name": "DOTZANA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-17-45",
+      "color_code": "Fawn, dark muzzle",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Tiger",
+      "sire_reg": "A713599",
+      "dam_name": "Bonie",
+      "dam_reg": "A527563",
+      "breeders": [
+        "Orville 11. Dunn"
+      ],
+      "owners": [
+        "Edward F. De Ford"
+      ]
+    },
+    {
+      "reg_number": "R5583",
+      "name": "DOYLE'S TACOMA DISPATCIHER II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-24-46",
+      "color_code": "Brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dispatcher",
+      "sire_reg": "A819563",
+      "dam_name": "Doyle's Honey",
+      "dam_reg": "A643420",
+      "breeders": [
+        "Chas. J. Doyle"
+      ],
+      "owners": [
+        "Chas. J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R6223",
+      "name": "TOP-O-MICH BLUE BOMBARDIER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-24-46",
+      "color_code": "Blue, fawn brindle",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Martin's Tramp",
+      "sire_reg": "A358272",
+      "dam_name": "Trouble of Top-O-Mich",
+      "dam_reg": "A730310",
+      "breeders": [
+        "Hugh M. Ferguson"
+      ],
+      "owners": [
+        "Hugh M. Ferguson"
+      ]
+    },
+    {
+      "reg_number": "R6224",
+      "name": "TOP-O-MICH BLUE BUCCANEER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Blue, white on chest",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R6225",
+      "name": "TOP-O-MICH BOSTON TAR BABY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Black, white on chest",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R6226",
+      "name": "TOP-O-MICH BROWN BETTY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Brown brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R6227",
+      "name": "TOP-O-MICH DOUBLE TROUBLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Black, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R6228",
+      "name": "TOP-O-MICH JUBILEE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Black, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R6229",
+      "name": "TOP-O-MICH MARBLECAKE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Dark brindle, black mask",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R6230",
+      "name": "TOP-O-MICH MARGIN APLENTY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Black, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R6231",
+      "name": "TOP-O-MICH PLUM PUDDIN'",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Fawn brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R6232",
+      "name": "TOP-O-MICH STOUT FELLA'",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Black, white marking",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R5784",
+      "name": "SMOKE II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-31-45",
+      "color_code": "Black, white, brown shadings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Keenc's Smoky",
+      "sire_reg": "A516837",
+      "dam_name": "Louisville",
+      "dam_reg": "A799423",
+      "breeders": [
+        "W. C. Bates"
+      ],
+      "owners": [
+        "John L. Gray"
+      ]
+    },
+    {
+      "reg_number": "R6125",
+      "name": "STAR DUST SASSY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-22-45",
+      "color_code": "Black and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Silver Sam",
+      "sire_reg": "A767334",
+      "dam_name": "Ch. Star Tavern Sassy Too",
+      "dam_reg": "A462329",
+      "breeders": [
+        "Edna Dorothy Morris"
+      ],
+      "owners": [
+        "Mr. & Mrs. Louis Plessner"
+      ]
+    },
+    {
+      "reg_number": "R6243",
+      "name": "WOOD'S GIRLIR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-14-46",
+      "color_code": "Brown, black muzzle",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Red Rascal",
+      "sire_reg": "A853967",
+      "dam_name": "Boots",
+      "dam_reg": "A853966",
+      "breeders": [
+        "Keneze K. Wood"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R6446",
+      "name": "X-PERT BRINDLE BIFF",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-23-46",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "X-Pert Black Ace II",
+      "sire_reg": "A864878",
+      "dam_name": "X-pert Gallant Betty",
+      "dam_reg": "A822281",
+      "breeders": [
+        "Henry Schuhmann"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R6440",
+      "name": "X-PERT BUDDY OF LOUISVILLE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Dark brindle and white, black spots",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R6448",
+      "name": "X-PERT DONNA SUE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Black and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R6441",
+      "name": "X-PERT G.I. JOE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Black, white on head",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R6449",
+      "name": "X-PERT LADY MANDY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Brindle, white marking",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R6444",
+      "name": "X-PERT LUCKY COLONEL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Brindle, white marking",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R6445",
+      "name": "X-PERT OUR BULLY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Black, white marking",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R6447",
+      "name": "X-PERT ROSE BUD",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Black and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R6443",
+      "name": "X-PERT SENATOR CLAGHORN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Black and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R6442",
+      "name": "X-PERT SONNY BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R6450",
+      "name": "X-PERT TOPSY ROSE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Dark brindle and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    }
+  ]
+}

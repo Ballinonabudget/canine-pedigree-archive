@@ -1,0 +1,424 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "UNKNOWN",
+      "name": "X-PERT ACCORD",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-8-48",
+      "color_code": null,
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Kane's Tacoma Blaze",
+      "sire_reg": "A-776601",
+      "dam_name": "X-Pert Gallant Betty",
+      "dam_reg": "A-822281",
+      "breeders": [
+        "Henry Schuhmann"
+      ],
+      "owners": [
+        "Henry Schuhmann"
+      ]
+    },
+    {
+      "reg_number": "R41653",
+      "name": "X-PERT BEST BOOTS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-8-48",
+      "color_code": "Fawn, black markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Kane's Tacoma Blaze",
+      "sire_reg": "A-776601",
+      "dam_name": "X-Pert Gallant Betty",
+      "dam_reg": "A-822281",
+      "breeders": [
+        "Henry Schuhmann"
+      ],
+      "owners": [
+        "Charles Napier"
+      ]
+    },
+    {
+      "reg_number": "R41656",
+      "name": "X-PERT BLACK MAJESTY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-8-48",
+      "color_code": "Black, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Kane's Tacoma Blaze",
+      "sire_reg": "A-776601",
+      "dam_name": "X-Pert Gallant Betty",
+      "dam_reg": "A-822281",
+      "breeders": [
+        "Henry Schuhmann"
+      ],
+      "owners": [
+        "Henry Schuhmann"
+      ]
+    },
+    {
+      "reg_number": "R41197",
+      "name": "X-PERT BOOGIE MAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-2-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R-6446",
+      "dam_name": "X-Pert Kentucky Kate",
+      "dam_reg": "R-23661",
+      "breeders": [
+        "Clifford A. Ormsby"
+      ],
+      "owners": [
+        "Roy Hobbs"
+      ]
+    },
+    {
+      "reg_number": "R41190",
+      "name": "X-PERT BRINDLE LASS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-3-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R-6446",
+      "dam_name": "X-Pert Louisville Linda",
+      "dam_reg": "R-23660",
+      "breeders": [
+        "Clifford A. Ormsby"
+      ],
+      "owners": [
+        "Mrs. Early Vreeland"
+      ]
+    },
+    {
+      "reg_number": "R41189",
+      "name": "X-PERT CAESAR BLACK NIPPER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-3-48",
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R-6446",
+      "dam_name": "X-Pert Louisville Linda",
+      "dam_reg": "R-23660",
+      "breeders": [
+        "Clifford A. Ormsby"
+      ],
+      "owners": [
+        "Chester Wierzycki"
+      ]
+    },
+    {
+      "reg_number": "R41198",
+      "name": "X-PERT FANNEY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-2-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R-6446",
+      "dam_name": "X-Pert Kentucky Kate",
+      "dam_reg": "R-23661",
+      "breeders": [
+        "Clifford A. Ormsby"
+      ],
+      "owners": [
+        "Clifford A. Ormsby"
+      ]
+    },
+    {
+      "reg_number": "R41186",
+      "name": "X-PERT GREER'S DUCHESS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-3-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R-6446",
+      "dam_name": "X-Pert Louisville Linda",
+      "dam_reg": "R-23660",
+      "breeders": [
+        "Clifford A. Ormsby"
+      ],
+      "owners": [
+        "Eugenie E. Greer"
+      ]
+    },
+    {
+      "reg_number": "R41185",
+      "name": "X-PERT GREER'S PRINCESS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-3-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R-6446",
+      "dam_name": "X-Pert Louisville Linda",
+      "dam_reg": "R-23660",
+      "breeders": [
+        "Clifford A. Ormsby"
+      ],
+      "owners": [
+        "Eugenie E. Greer"
+      ]
+    },
+    {
+      "reg_number": "R41659",
+      "name": "X-PERT JEANE BELLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-8-48",
+      "color_code": "Fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Kane's Tacoma Blaze",
+      "sire_reg": "A-776601",
+      "dam_name": "X-Pert Gallant Betty",
+      "dam_reg": "A-822281",
+      "breeders": [
+        "Henry Schuhmann"
+      ],
+      "owners": [
+        "Charles Napier"
+      ]
+    },
+    {
+      "reg_number": "R41193",
+      "name": "X-PERT JEFF'S JUDY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-2-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R-6446",
+      "dam_name": "X-Pert Kentucky Kate",
+      "dam_reg": "R-23661",
+      "breeders": [
+        "Clifford A. Ormsby"
+      ],
+      "owners": [
+        "Clifford A. Ormsby"
+      ]
+    },
+    {
+      "reg_number": "R41188",
+      "name": "X-PERT LONESOME BRINDLE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-3-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R-6446",
+      "dam_name": "X-Pert Louisville Linda",
+      "dam_reg": "R-23660",
+      "breeders": [
+        "Clifford A. Ormsby"
+      ],
+      "owners": [
+        "Joseph S. Kucenski"
+      ]
+    },
+    {
+      "reg_number": "R41658",
+      "name": "X-PERT LUTIE JANE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-8-48",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Kane's Tacoma Blaze",
+      "sire_reg": "A-776601",
+      "dam_name": "X-Pert Gallant Betty",
+      "dam_reg": "A-822281",
+      "breeders": [
+        "Henry Schuhmann"
+      ],
+      "owners": [
+        "James P. Kane"
+      ]
+    },
+    {
+      "reg_number": "R41660",
+      "name": "X-PERT MAZIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-8-48",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Kane's Tacoma Blaze",
+      "sire_reg": "A-776601",
+      "dam_name": "X-Pert Gallant Betty",
+      "dam_reg": "A-822281",
+      "breeders": [
+        "Henry Schuhmann"
+      ],
+      "owners": [
+        "Clifford A. Ormsby"
+      ]
+    },
+    {
+      "reg_number": "R41655",
+      "name": "X-PERT MICKEY DAZZLER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-8-48",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Kane's Tacoma Blaze",
+      "sire_reg": "A-776601",
+      "dam_name": "X-Pert Gallant Betty",
+      "dam_reg": "A-822281",
+      "breeders": [
+        "Henry Schuhmann"
+      ],
+      "owners": [
+        "Henry Schuhmann"
+      ]
+    },
+    {
+      "reg_number": "R41187",
+      "name": "X-PERT PENNEY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-3-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R-6446",
+      "dam_name": "X-Pert Louisville Linda",
+      "dam_reg": "R-23660",
+      "breeders": [
+        "Clifford A. Ormsby"
+      ],
+      "owners": [
+        "Clifford A. Ormsby"
+      ]
+    },
+    {
+      "reg_number": "R41654",
+      "name": "X-PERT POTSEY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-8-48",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Kane's Tacoma Blaze",
+      "sire_reg": "A-776601",
+      "dam_name": "X-Pert Gallant Betty",
+      "dam_reg": "A-822281",
+      "breeders": [
+        "Henry Schuhmann"
+      ],
+      "owners": [
+        "Frank M. Able"
+      ]
+    },
+    {
+      "reg_number": "R41192",
+      "name": "X-PERT PUGGY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-2-48",
+      "color_code": "Red brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R-6446",
+      "dam_name": "X-Pert Kentucky Kate",
+      "dam_reg": "R-23661",
+      "breeders": [
+        "Clifford A. Ormsby"
+      ],
+      "owners": [
+        "Clifford A. Ormsby"
+      ]
+    },
+    {
+      "reg_number": "R41661",
+      "name": "X-PERT RED AMBER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-8-48",
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Kane's Tacoma Blaze",
+      "sire_reg": "A-776601",
+      "dam_name": "X-Pert Gallant Betty",
+      "dam_reg": "A-822281",
+      "breeders": [
+        "Henry Schuhmann"
+      ],
+      "owners": [
+        "Clifford A. Ormsby"
+      ]
+    },
+    {
+      "reg_number": "R41195",
+      "name": "X-PERT RUFF STUFF",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-2-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R-6446",
+      "dam_name": "X-Pert Kentucky Kate",
+      "dam_reg": "R-23661",
+      "breeders": [
+        "Clifford A. Ormsby"
+      ],
+      "owners": [
+        "George J. Snider"
+      ]
+    },
+    {
+      "reg_number": "R41194",
+      "name": "X-PERT SHEARER'S DUKE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-2-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R-6446",
+      "dam_name": "X-Pert Kentucky Kate",
+      "dam_reg": "R-23661",
+      "breeders": [
+        "Clifford A. Ormsby"
+      ],
+      "owners": [
+        "Samuella H. Shearer"
+      ]
+    },
+    {
+      "reg_number": "R41196",
+      "name": "X-PERT SKIPPER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-2-48",
+      "color_code": "Brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Biff",
+      "sire_reg": "R-6446",
+      "dam_name": "X-Pert Kentucky Kate",
+      "dam_reg": "R-23661",
+      "breeders": [
+        "Clifford A. Ormsby"
+      ],
+      "owners": [
+        "Arthur E. Kromer"
+      ]
+    }
+  ]
+}

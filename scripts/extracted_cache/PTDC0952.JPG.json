@@ -1,0 +1,880 @@
+{
+  "breed": "Staffordshire Terriers",
+  "date_header": "December, 1954",
+  "dogs": [
+    {
+      "reg_number": "R116896",
+      "name": "Rhodes' Amanda",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-5-53",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Wee Duffy's Romance",
+      "sire_reg": "R68437",
+      "dam_name": "Rhodes' Smokey Sally",
+      "dam_reg": "R90673",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Thomas B. Rhodes"
+      ]
+    },
+    {
+      "reg_number": "R120819",
+      "name": "Roberta's Mitiz Belle",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-15-53",
+      "color_code": "Blk brdl",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Triple-B's Clipper",
+      "sire_reg": "R114841",
+      "dam_name": "Cantie Onesix",
+      "dam_reg": "R72998",
+      "breeders": [
+        "Lee H. Frederick"
+      ],
+      "owners": [
+        "Roberta Tracy"
+      ]
+    },
+    {
+      "reg_number": "R126472",
+      "name": "Sadie Mae",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-3-53",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Crawford's Mike",
+      "sire_reg": "R123081",
+      "dam_name": "May Queen Tootles",
+      "dam_reg": "R41200",
+      "breeders": [
+        "Mrs. Opal J. Crawford"
+      ],
+      "owners": [
+        "Mrs. Thelma Penn Mucha"
+      ]
+    },
+    {
+      "reg_number": "R100924",
+      "name": "Saint Andrew's Bonnie",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-7-52",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Bryant's Miracle Man",
+      "sire_reg": "R50167",
+      "dam_name": "Welkin Ring Pamela",
+      "dam_reg": "R46606",
+      "breeders": [
+        "Robert G. Bryant"
+      ],
+      "owners": [
+        "C. Rountree & H. K. Couch"
+      ]
+    },
+    {
+      "reg_number": "R115824",
+      "name": "Sandy Mac Tavish of Marymac",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-20-53",
+      "color_code": "Brdl",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Marymac's Jolly Jack",
+      "sire_reg": "R78436",
+      "dam_name": "Troubador's Echo",
+      "dam_reg": "R106718",
+      "breeders": [
+        "Mrs. C. E. Tuell, J"
+      ],
+      "owners": [
+        "Dr. & Mrs. B. Kater McInnes"
+      ]
+    },
+    {
+      "reg_number": "R99019",
+      "name": "Scotland Baby",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-9-52",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Shorty Vi",
+      "sire_reg": "A989445",
+      "dam_name": "Senta II",
+      "dam_reg": "R18774",
+      "breeders": [
+        "Helen K. Edye"
+      ],
+      "owners": [
+        "Mildred Harvey"
+      ]
+    },
+    {
+      "reg_number": "R127532",
+      "name": "Scottie Ho's Fiona o' Brigadoon",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-17-53",
+      "color_code": "Brdl",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Killeshandra Firebrand",
+      "sire_reg": "R9193",
+      "dam_name": "Merrie Mac Tweed",
+      "dam_reg": "R26967",
+      "breeders": [
+        "Edna Du Bois"
+      ],
+      "owners": [
+        "Mrs. Elmer Stricker"
+      ]
+    },
+    {
+      "reg_number": "R124084",
+      "name": "Seaforth High Lassie",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-26-53",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Angus Khan",
+      "sire_reg": "R106841",
+      "dam_name": "Lea Mac",
+      "dam_reg": "R80265",
+      "breeders": [
+        "Howard W. Smith"
+      ],
+      "owners": [
+        "Barbara Mooney"
+      ]
+    },
+    {
+      "reg_number": "R108329",
+      "name": "Seagraves Little Imp",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-10-52",
+      "color_code": "Brdl",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Edgerstoune Troubadour",
+      "sire_reg": "R63663",
+      "dam_name": "Rag-A-Bash Bridget",
+      "dam_reg": "R88726",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Goldie I. Seagraves"
+      ]
+    },
+    {
+      "reg_number": "D137105",
+      "name": "Senator Kim Courageous",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-29-53",
+      "color_code": "Brdl",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Yankee-Pride Senator",
+      "sire_reg": "R90406",
+      "dam_name": "Hibank Jilt",
+      "dam_reg": "R98251",
+      "breeders": [
+        "Hibank Kennels"
+      ],
+      "owners": [
+        "V. A. & C. A. Hultberg"
+      ]
+    },
+    {
+      "reg_number": "D129386",
+      "name": "Sensational Mac",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-5-53",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Oakmar's Sensation",
+      "sire_reg": "A917614",
+      "dam_name": "Trixie Ann Marshel",
+      "dam_reg": "R108987",
+      "breeders": [
+        "Orvella Ann Marshe"
+      ],
+      "owners": [
+        "Mrs. Rodney Peterson"
+      ]
+    },
+    {
+      "reg_number": "R111440",
+      "name": "Serena's Bairn Christie",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-20-52",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Bairn Barrie",
+      "sire_reg": "R55497",
+      "dam_name": "Serena of Gleezencrest",
+      "dam_reg": "R26841",
+      "breeders": [
+        "Mrs. Lloyd Clark"
+      ],
+      "owners": [
+        "Gladys W. Cowell"
+      ]
+    },
+    {
+      "reg_number": "R105569",
+      "name": "Ch. Shawnee Good Cheer",
+      "titles": "Ch.",
+      "sex": "B",
+      "birth_date": "5-26-52",
+      "color_code": "Brdl",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Gillisie Wrockwardine Sirius",
+      "sire_reg": "R73451",
+      "dam_name": "Shawnee Abigail",
+      "dam_reg": "R76541",
+      "breeders": [
+        "Glenna K. Unangst"
+      ],
+      "owners": [
+        "J. Burrell Sanders"
+      ]
+    },
+    {
+      "reg_number": "R105571",
+      "name": "Shawnee Happy Talk",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-26-52",
+      "color_code": "Brdl",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Gillisie Wrockwardine Sirius",
+      "sire_reg": "R73451",
+      "dam_name": "Shawnee Abigail",
+      "dam_reg": "R76541",
+      "breeders": [
+        "Glenna K. Unangst"
+      ],
+      "owners": [
+        "Carl O. Falck"
+      ]
+    },
+    {
+      "reg_number": "R134713",
+      "name": "Sherwood Tam o' Shanter",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-4-53",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Marymac's Latch Key",
+      "sire_reg": "R47827",
+      "dam_name": "Dickinson's Bonnie Cinders",
+      "dam_reg": "R75196",
+      "breeders": [
+        "Elizabeth L. Gilchris"
+      ],
+      "owners": [
+        "Lillian Ross Smith"
+      ]
+    },
+    {
+      "reg_number": "R124272",
+      "name": "Sir Fergus Tay Mac Erc",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-10-52",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Kawyre Kirkealdy II",
+      "sire_reg": "R85900",
+      "dam_name": "Blackscots Fashion Hint II",
+      "dam_reg": "R85886",
+      "breeders": [
+        "E. C. Mounce"
+      ],
+      "owners": [
+        "K. P. & Mrs. M. B. Cates"
+      ]
+    },
+    {
+      "reg_number": "D120258",
+      "name": "Sleepy Hollow's Royal Jester",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-14-53",
+      "color_code": "Blk & brdl",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Edgerstoune Troubadour",
+      "sire_reg": "R63663",
+      "dam_name": "Ayerscott Amelia",
+      "dam_reg": "R70927",
+      "breeders": [
+        "Agnes & Elmer Stric"
+      ],
+      "owners": [
+        "Mrs. Elmer Stricker"
+      ]
+    },
+    {
+      "reg_number": "D132825",
+      "name": "Smokey Heather II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-20-45",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Millerdean's Jerry",
+      "sire_reg": "A593358",
+      "dam_name": "Tam o' Tay",
+      "dam_reg": "R259452",
+      "breeders": [
+        "Mrs. Lucy E. Miller"
+      ],
+      "owners": [
+        "Mrs. Jean C. Davis"
+      ]
+    },
+    {
+      "reg_number": "D139507",
+      "name": "Smokey Pal o' James",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-10-53",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Lavon's Sergeant Rickey",
+      "sire_reg": "R17183",
+      "dam_name": "Admiral's Penny",
+      "dam_reg": "R67623",
+      "breeders": [
+        "Leota Z. Simms"
+      ],
+      "owners": [
+        "Frank H. Johnson"
+      ]
+    },
+    {
+      "reg_number": "R113818",
+      "name": "Spooners Bonnie Brae",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-6-52",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Mac R's Kilten",
+      "sire_reg": "R8254",
+      "dam_name": "Duncan's Siren",
+      "dam_reg": "R22058",
+      "breeders": [
+        "Joseph Tornabene"
+      ],
+      "owners": [
+        "Mrs. Leo Spooner"
+      ]
+    },
+    {
+      "reg_number": "R102598",
+      "name": "Starmist Lady of Darkness",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-23-51",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Mac R's Kilten",
+      "sire_reg": "R8254",
+      "dam_name": "Mac R's Mist",
+      "dam_reg": "R63063",
+      "breeders": [
+        "Keith P. Rogers"
+      ],
+      "owners": [
+        "Elizabeth G. Scott"
+      ]
+    },
+    {
+      "reg_number": "R115444",
+      "name": "Stocks Donna Mitzi",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-23-52",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Wee Willie McDuff",
+      "sire_reg": "R73945",
+      "dam_name": "Velma's Lady Bonnie",
+      "dam_reg": "R88334",
+      "breeders": [
+        "Velma L. Harris"
+      ],
+      "owners": [
+        "Dorethea & Fred H. Stock"
+      ]
+    },
+    {
+      "reg_number": "R131872",
+      "name": "Stuart's Nancy Lee",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-8-53",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Stuart's Kiltie Dictator",
+      "sire_reg": "R84166",
+      "dam_name": "Lassie Lou II",
+      "dam_reg": "R72332",
+      "breeders": [
+        "Curney E. Harris"
+      ],
+      "owners": [
+        "Vernon S. Stuart"
+      ]
+    },
+    {
+      "reg_number": "R124884",
+      "name": "Stuart's Sandy of Mt. Tuck",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-14-53",
+      "color_code": "Gr brdl",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Midnight Raider",
+      "sire_reg": "R72107",
+      "dam_name": "Mac's Welton Spar",
+      "dam_reg": "R98110",
+      "breeders": [
+        "Anne E. Stuart"
+      ],
+      "owners": [
+        "Vernon S. Stuart"
+      ]
+    },
+    {
+      "reg_number": "R132137",
+      "name": "Suzie Que II",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-13-51",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Corky Black Button",
+      "sire_reg": "R73029",
+      "dam_name": "Fanny",
+      "dam_reg": "R42556",
+      "breeders": [
+        "Zulema Ann Stone"
+      ],
+      "owners": [
+        "J. C. Stone"
+      ]
+    },
+    {
+      "reg_number": "R117018",
+      "name": "Tam of Tocaloma",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-5-53",
+      "color_code": "Brrdl",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Otto's High Speed",
+      "sire_reg": "R94149",
+      "dam_name": "Otto's Ritzy Lass",
+      "dam_reg": "R87509",
+      "breeders": [
+        "Mrs. George M. Otto"
+      ],
+      "owners": [
+        "J. D. & K. C. Boentje"
+      ]
+    },
+    {
+      "reg_number": "R129031",
+      "name": "Taylor's Duchess Ann",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-15-51",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Killeshandra Firebrand",
+      "sire_reg": "R9193",
+      "dam_name": "Cookie XII",
+      "dam_reg": "R42979",
+      "breeders": [
+        "George W. Nolan"
+      ],
+      "owners": [
+        "Herbert C. Taylor"
+      ]
+    },
+    {
+      "reg_number": "R124096",
+      "name": "The Black Nymph of Lytton",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-11-52",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Bourbon Mac Gregor",
+      "sire_reg": "R59449",
+      "dam_name": "Kilco Sandra Marie",
+      "dam_reg": "R59456",
+      "breeders": [
+        "Martin E. Nicolaisen"
+      ],
+      "owners": [
+        "Mildred S. Sander"
+      ]
+    },
+    {
+      "reg_number": "R134825",
+      "name": "Toby of Ferry Lane",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-1-53",
+      "color_code": "Blk & brdl",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Inky McTavish II",
+      "sire_reg": "R54031",
+      "dam_name": "Hope of Clarendon",
+      "dam_reg": "R50929",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Robert R. Phillips"
+      ]
+    },
+    {
+      "reg_number": "R116571",
+      "name": "Tootsie Boots Lady",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-14-53",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Laddie of Mooreland",
+      "sire_reg": "R18027",
+      "dam_name": "Lady Cinderella VII",
+      "dam_reg": "R72863",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Wilma L. Stonebrook"
+      ]
+    },
+    {
+      "reg_number": "R132137",
+      "name": "Trademark's Reflection",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-13-51",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Oakmar's Sensation",
+      "sire_reg": "A917614",
+      "dam_name": "Trademark's Dynamite Girl",
+      "dam_reg": "A891176",
+      "breeders": [
+        "Iva S. Profitt"
+      ],
+      "owners": [
+        "Lehman Aud"
+      ]
+    },
+    {
+      "reg_number": "R125525",
+      "name": "Trevone Troubadour (England)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-25-53",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Niddbank His Nibs",
+      "sire_reg": "R117447",
+      "dam_name": "Trevone Tableau",
+      "dam_reg": "null",
+      "breeders": [
+        "A. E. Jones"
+      ],
+      "owners": [
+        "Mr. & Mrs. G. D. Campbell"
+      ]
+    },
+    {
+      "reg_number": "R125623",
+      "name": "Tweed O'Heather",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-5-52",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Alzafar Tinker",
+      "sire_reg": "R99970",
+      "dam_name": "Rose of San Antone",
+      "dam_reg": "R100594",
+      "breeders": [
+        "Harry F. Igleheart"
+      ],
+      "owners": [
+        "Edna M. & Glen Powers"
+      ]
+    },
+    {
+      "reg_number": "R135296",
+      "name": "Valindia",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-17-53",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Reedkroft's Masterpiece",
+      "sire_reg": "R98701",
+      "dam_name": "Odd-Me-Dodd Temptation",
+      "dam_reg": "R63581",
+      "breeders": [
+        "Ruth C. Sanborn"
+      ],
+      "owners": [
+        "Bertha Siebol"
+      ]
+    },
+    {
+      "reg_number": "R131399",
+      "name": "Wee Bonnie Annie",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-9-52",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Sheffscot Selectman",
+      "sire_reg": "R18240",
+      "dam_name": "Erb Gypsy Me-Me",
+      "dam_reg": "R43766",
+      "breeders": [
+        "Mrs. Mary Todd"
+      ],
+      "owners": [
+        "Mrs. Lois Scheuerman"
+      ]
+    },
+    {
+      "reg_number": "R109389",
+      "name": "Wee Bonnie Piper",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-1-52",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Wedemeyer's MacTavish of Scott",
+      "sire_reg": "R53954",
+      "dam_name": "Miss MacTavish Star",
+      "dam_reg": "R93392",
+      "breeders": [
+        "Mrs. Al Stellar"
+      ],
+      "owners": [
+        "John F. White"
+      ]
+    },
+    {
+      "reg_number": "R11472",
+      "name": "Wee Debee",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-22-52",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Stahlman's Rising Sun",
+      "sire_reg": "R40118",
+      "dam_name": "Miss Tucket's Image",
+      "dam_reg": "R63841",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mrs. Nona E. Fagan"
+      ]
+    },
+    {
+      "reg_number": "R118886",
+      "name": "Weichert's Buddy",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-21-52",
+      "color_code": "Brdl",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Marlu Clincher",
+      "sire_reg": "R52491",
+      "dam_name": "Ch. Brawyn Alexis",
+      "dam_reg": "R51252",
+      "breeders": [
+        "Brawyn Kennels"
+      ],
+      "owners": [
+        "Scott F. Weichert"
+      ]
+    },
+    {
+      "reg_number": "R103957",
+      "name": "Weichert's Penny",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-26-52",
+      "color_code": "Blk brdl",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Scottie Ho's Smarty Pants",
+      "sire_reg": "R69033",
+      "dam_name": "Ch. Bon Shirlee of Scottie Ho",
+      "dam_reg": "R51553",
+      "breeders": [
+        "Brawyn Kennels"
+      ],
+      "owners": [
+        "Mrs. Scott Weichert"
+      ]
+    },
+    {
+      "reg_number": "R134070",
+      "name": "Wistful Lassie",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-31-52",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Blackscot MacLendon",
+      "sire_reg": "R74036",
+      "dam_name": "Miss Mac Tavish X",
+      "dam_reg": "R85246",
+      "breeders": [
+        "Mrs. Julanne S. Cummi"
+      ],
+      "owners": [
+        "Mrs. Luther Davis"
+      ]
+    },
+    {
+      "reg_number": "R102222",
+      "name": "Robinson's Dunior",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-15-52",
+      "color_code": "Fn",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Williams Paddy Boy",
+      "sire_reg": "A840803",
+      "dam_name": "Ch. Robinson's Lucky",
+      "dam_reg": "R36971",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Harold R. Robinson"
+      ]
+    },
+    {
+      "reg_number": "R100387",
+      "name": "Ruffian Pamela of Har-Wyn",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-22-51",
+      "color_code": "Brdl",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ruffian Tony of Har-Wyn",
+      "sire_reg": "R55900",
+      "dam_name": "Ruffian Vicky",
+      "dam_reg": "R97709",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mrs. W. D. Harper"
+      ]
+    },
+    {
+      "reg_number": "R102225",
+      "name": "Skipper's Maggie",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-15-52",
+      "color_code": "Brdl",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. Williams Paddy Boy",
+      "sire_reg": "A840803",
+      "dam_name": "Ch. Robinson's Lucky",
+      "dam_reg": "R36971",
+      "breeders": [
+        "Harold R. Robinson"
+      ],
+      "owners": [
+        "E. S. Skipper"
+      ]
+    },
+    {
+      "reg_number": "R128883",
+      "name": "Van-Staff's Black Specter",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-1-53",
+      "color_code": "Blk brdl",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. X-Pert Buddy of Louisville",
+      "sire_reg": "R6440",
+      "dam_name": "Prestadora of Har Wyn",
+      "dam_reg": "R95564",
+      "breeders": [
+        "Dr. Carroll A. Roll"
+      ],
+      "owners": [
+        "John V. Van Shuren"
+      ]
+    },
+    {
+      "reg_number": "R99437",
+      "name": "Ch. X-Pert Black Betsy",
+      "titles": "Ch.",
+      "sex": "B",
+      "birth_date": "3-19-52",
+      "color_code": "Blk",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Ch. X-Pert Brindle Biff",
+      "sire_reg": "R6446",
+      "dam_name": "X-Pert Topsy II",
+      "dam_reg": "R77047",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Clifford A. Ormsby"
+      ]
+    },
+    {
+      "reg_number": "R117237",
+      "name": "X-Pert Janson Brute",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-22-52",
+      "color_code": "Tan",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Jeff's X-Pert Sonny Boy",
+      "sire_reg": "R1549",
+      "dam_name": "X-Pert Sable",
+      "dam_reg": "R66615",
+      "breeders": [
+        "Patrick Kelly, Jr."
+      ],
+      "owners": [
+        "Joseph M. Bonk"
+      ]
+    }
+  ]
+}

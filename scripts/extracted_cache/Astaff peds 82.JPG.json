@@ -1,0 +1,283 @@
+{
+  "breed": "Welsh Terriers",
+  "date_header": "January 1947",
+  "dogs": [
+    {
+      "reg_number": "R9328",
+      "name": "BOGEY WESTBOURNE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-12-46",
+      "color_code": "Black and brown",
+      "breed": "Welsh Terrier",
+      "sire_name": "Graylock Topnotcher",
+      "sire_reg": "A931735",
+      "dam_name": "Linda of Harwinton",
+      "dam_reg": "A919726",
+      "breeders": [
+        "Daniel W. Gottlieb"
+      ],
+      "owners": [
+        "Donald K. & Mildred R. Bentley"
+      ]
+    },
+    {
+      "reg_number": "R9210",
+      "name": "BOLD VENTURE OF GLENHIRST",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-25-46",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Strathglass Bingo's Venture",
+      "sire_reg": "A587909",
+      "dam_name": "Rose of Tralee",
+      "dam_reg": "A697288",
+      "breeders": [
+        "Gilbert Hirst"
+      ],
+      "owners": [
+        "Gilbert Hirst"
+      ]
+    },
+    {
+      "reg_number": "R10184",
+      "name": "BUTCHIE OF GREEN HILL FARM",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-15-46",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Marlu Top Sawyer",
+      "sire_reg": "A591350",
+      "dam_name": "Ch. Nutmeg",
+      "dam_reg": "A393274",
+      "breeders": [
+        "David M. Freudenthal"
+      ],
+      "owners": [
+        "Coltan Kennels"
+      ]
+    },
+    {
+      "reg_number": "R9676",
+      "name": "CISSY OF CYMRY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-25-1941",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Duffy of Arden",
+      "sire_reg": "A520064",
+      "dam_name": "Susie of Offclyde",
+      "dam_reg": "R9251",
+      "breeders": [
+        "Andrew F. Secrest"
+      ],
+      "owners": [
+        "Marguerite C. Davis"
+      ]
+    },
+    {
+      "reg_number": "R10179",
+      "name": "CORBY'S DEVILETTE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-18-46",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Mine Brook Gillian",
+      "sire_reg": "A761674",
+      "dam_name": "Corbscot Mimsi",
+      "dam_reg": "A479440",
+      "breeders": [
+        "Clairdale Kennels"
+      ],
+      "owners": [
+        "Carol McKee Corby"
+      ]
+    },
+    {
+      "reg_number": "R9411",
+      "name": "DUFFY V MARIENLUST",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-24-46",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Twin Ponds Cinder Flash",
+      "sire_reg": "A916820",
+      "dam_name": "Penny v Marienlust",
+      "dam_reg": "A654863",
+      "breeders": [
+        "Monica L. Rumpf"
+      ],
+      "owners": [
+        "Mr. & Mrs. J. Mehrer"
+      ]
+    },
+    {
+      "reg_number": "R9209",
+      "name": "GALEN CLIPPERETTE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-15-45",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Galen Select",
+      "sire_reg": "A462048",
+      "dam_name": "Clipperette",
+      "dam_reg": "A950996",
+      "breeders": [
+        "Julius J. Wichser"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R9332",
+      "name": "GLENAFTON GAITHA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-6-1946",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Scotbourne Supreme",
+      "sire_reg": "R1132",
+      "dam_name": "Mine Brook Anne",
+      "dam_reg": "A761673",
+      "breeders": [
+        "Elizabeth S. Hull"
+      ],
+      "owners": [
+        "Mine Brook Kennels"
+      ]
+    },
+    {
+      "reg_number": "R9350",
+      "name": "GYPSY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-31-1946",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Toney Pandy of Green Arbor",
+      "sire_reg": "A243734",
+      "dam_name": "Del-Vila Dawn",
+      "dam_reg": "A371372",
+      "breeders": [
+        "E. D. Whipple"
+      ],
+      "owners": [
+        "Del-Vila Kennels"
+      ]
+    },
+    {
+      "reg_number": "R10249",
+      "name": "HAUGHTY BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-29-1945",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ern-Bet Night Cap",
+      "sire_reg": "A789570",
+      "dam_name": "Redberry's Denol",
+      "dam_reg": "A806511",
+      "breeders": [
+        "Mrs. Valerie Simpson"
+      ],
+      "owners": [
+        "Mrs. Betty S. Lynch"
+      ]
+    },
+    {
+      "reg_number": "R9537",
+      "name": "LISBRUN'S LITTLE EVE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-25-1946",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "James Hammond of Cliffdale",
+      "sire_reg": "A21693",
+      "dam_name": "Lisbrun's Christmas Eve",
+      "dam_reg": "A565053",
+      "breeders": [
+        "Mrs. Enoch Brown"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R9538",
+      "name": "LISBRUN'S RED ROCKET",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R9347",
+      "name": "MARANN WALTZING LASS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-20-1946",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Harriboy Hi-Lea",
+      "sire_reg": "A588144",
+      "dam_name": "Glenafton Dancing Girl",
+      "dam_reg": "A646081",
+      "breeders": [
+        "Harry E. Gay"
+      ],
+      "owners": [
+        "Irving R. Anderson"
+      ]
+    },
+    {
+      "reg_number": "R10235",
+      "name": "MCCLINTOCK'S PRISSY BRONWYN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-26-1946",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Thet Togo of Halcyon",
+      "sire_reg": "A299063",
+      "dam_name": "Anderson's Missy",
+      "dam_reg": "A796741",
+      "breeders": [
+        "Mrs. A. T. McClintock"
+      ],
+      "owners": [
+        "Mrs. Edna A. H. Anderson"
+      ]
+    },
+    {
+      "reg_number": "R10119",
+      "name": "PRINCE OF WALES III",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-21-1945",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Panorama",
+      "sire_reg": "A358006",
+      "dam_name": "Glenafton Duchess",
+      "dam_reg": "A605081",
+      "breeders": [
+        "Herman T. Detterline"
+      ],
+      "owners": [
+        "Wm. Hancock"
+      ]
+    }
+  ]
+}

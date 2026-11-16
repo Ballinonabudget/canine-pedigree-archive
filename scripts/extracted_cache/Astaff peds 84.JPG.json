@@ -1,0 +1,360 @@
+{
+  "breed": "Welsh Terriers",
+  "date_header": "February 1947",
+  "dogs": [
+    {
+      "reg_number": "R10576",
+      "name": "RUSTY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-13-46",
+      "color_code": "Brindle, white markings",
+      "breed": "Welsh Terrier",
+      "sire_name": "Brown Bomber II",
+      "sire_reg": "A964705",
+      "dam_name": "Vick-Ed-Mar",
+      "dam_reg": "A799677",
+      "breeders": [
+        "Mrs. Jonas A. Byrd"
+      ],
+      "owners": [
+        "Albert B. Vault"
+      ]
+    },
+    {
+      "reg_number": "R11724",
+      "name": "SHERRY OF SHERWALL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-31-46",
+      "color_code": "Red",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ranger of Sherwall",
+      "sire_reg": "A516356",
+      "dam_name": "Ch. McCGuilda",
+      "dam_reg": "A103298",
+      "breeders": [
+        "Dr. Linwood Morris"
+      ],
+      "owners": [
+        "Sherwall Kennels"
+      ]
+    },
+    {
+      "reg_number": "R11456",
+      "name": "SIOUX CITY SUE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Light brindle and white",
+      "breed": "Welsh Terrier",
+      "sire_name": "Tiger Crusader",
+      "sire_reg": "A583694",
+      "dam_name": "Ringold's Sassy Sue",
+      "dam_reg": "A753031",
+      "breeders": [
+        "Edwin C. Ringold"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R10342",
+      "name": "SPARKY BOY OF FARLSDALE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-15-46",
+      "color_code": "White, black and white markings",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A683434",
+      "dam_name": "McVey's Connie",
+      "dam_reg": "A993887",
+      "breeders": [
+        "Marguerite Farley"
+      ],
+      "owners": []
+    },
+    {
+      "reg_number": "R10817",
+      "name": "WATTIE'S BRINDLE BOZO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-22-46",
+      "color_code": "Brindle, white markings",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ben's Dan",
+      "sire_reg": "A936495",
+      "dam_name": "Ben's Sue",
+      "dam_reg": "A930149",
+      "breeders": [
+        "W. A. Conlan"
+      ],
+      "owners": [
+        "Home Thompson"
+      ]
+    },
+    {
+      "reg_number": "R11631",
+      "name": "AMAN BARRIBOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-29-46",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Ch. Hotpot Harriboy of Halcyon",
+      "sire_reg": "A370527",
+      "dam_name": "Ch. Raybrook's Elizabeth Fox",
+      "dam_reg": "A571350",
+      "breeders": [
+        "Clinton H. Anderson"
+      ],
+      "owners": [
+        "Halcyon Kennels"
+      ]
+    },
+    {
+      "reg_number": "R11201",
+      "name": "AMAN HIGH FLYER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-24-44",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terrier",
+      "sire_name": "Aman Airman",
+      "sire_reg": null,
+      "dam_name": "Aman Glorious",
+      "dam_reg": null,
+      "breeders": [
+        "Hugh J. Chisholm"
+      ],
+      "owners": [
+        "J. F. Hitchings"
+      ]
+    },
+    {
+      "reg_number": "R10654",
+      "name": "CLOUDY OF WILDWOOD",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-30-1946",
+      "color_code": "Light gray, black ears",
+      "breed": "Skye Terrier",
+      "sire_name": "Wing Commander of Arreton",
+      "sire_reg": "A562238",
+      "dam_name": "My Beauty du Bazizoo",
+      "dam_reg": "A710037",
+      "breeders": [],
+      "owners": [
+        "Gertrud O. Jeidels"
+      ]
+    },
+    {
+      "reg_number": "R10588",
+      "name": "SWAMIE'S LADY BELLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-29-1946",
+      "color_code": "Silver gray",
+      "breed": "Skye Terrier",
+      "sire_name": "High Time Tam o' Shanter",
+      "sire_reg": "A786188",
+      "dam_name": "High Time Lady Marcella",
+      "dam_reg": "A791892",
+      "breeders": [],
+      "owners": [
+        "Mr. & Mrs. Newell Schwamberger",
+        "Jane Dunwoodie"
+      ]
+    },
+    {
+      "reg_number": "R10589",
+      "name": "TERRIBLE TERRY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Silver gray",
+      "breed": "Skye Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Rosalie M. Levy"
+      ]
+    },
+    {
+      "reg_number": "R11795",
+      "name": "BLACKIE JIGGS OF ED-MAR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-6-1946",
+      "color_code": "Black, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Martin's Tramp",
+      "sire_reg": "A358279",
+      "dam_name": "Golden Patricia of Ed-Mar",
+      "dam_reg": "R8175",
+      "breeders": [],
+      "owners": [
+        "Ed C. Martin"
+      ]
+    },
+    {
+      "reg_number": "R11797",
+      "name": "CINDER OF ED-MAR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Black, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R10340",
+      "name": "CARBON COPY OF FARLSDALE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-15-1946",
+      "color_code": "Black, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A683434",
+      "dam_name": "McVey's Connie",
+      "dam_reg": "A993887",
+      "breeders": [],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R10345",
+      "name": "FARLSDALE'S SHENANIGAN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R11793",
+      "name": "HEIGH-HO CHLOE OF ED-MAR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-6-1946",
+      "color_code": "Black, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Martin's Tramp",
+      "sire_reg": "A358279",
+      "dam_name": "Golden Patricia of Ed-Mar",
+      "dam_reg": "R8175",
+      "breeders": [],
+      "owners": [
+        "Ed C. Martin"
+      ]
+    },
+    {
+      "reg_number": "R11794",
+      "name": "MERRY ELIZA OF ED-MAR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R11796",
+      "name": "MI-BUTCH OF ED-MAR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Dark brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R11792",
+      "name": "MI-MUGGISIE OF ED-MAR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": null,
+      "color_code": "Brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R10344",
+      "name": "NUI OF FARLSDALE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-15-1946",
+      "color_code": "Fawn, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A683434",
+      "dam_name": "McVey's Connie",
+      "dam_reg": "A993887",
+      "breeders": [],
+      "owners": [
+        "Marguerite Farley"
+      ]
+    },
+    {
+      "reg_number": "R10341",
+      "name": "RONCO AGAIN OF FARLSDALE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Black, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R10343",
+      "name": "SCALLY'S SPLASH OF FARLSDALE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Black, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    }
+  ]
+}

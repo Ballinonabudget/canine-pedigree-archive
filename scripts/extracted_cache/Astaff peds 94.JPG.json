@@ -1,0 +1,101 @@
+{
+  "breed": "Staffordshire Terriers",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R-22802",
+      "name": "FRIEL'S LADY FANTARA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-16-46",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Rufco Flip",
+      "sire_reg": "A-810941",
+      "dam_name": "Ruffian Satin Pants",
+      "dam_reg": "A-586844",
+      "breeders": [
+        "Hugh D. Friel"
+      ],
+      "owners": [
+        "Malcolm W. Cocke"
+      ]
+    },
+    {
+      "reg_number": "R-22913",
+      "name": "MIKE II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-1-47",
+      "color_code": "Brown brindle, white on chest",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Brown Bomber",
+      "sire_reg": "A-964705",
+      "dam_name": "Vicky of Ed-Mar",
+      "dam_reg": "A-799677",
+      "breeders": [
+        "A. B. DeVault"
+      ],
+      "owners": [
+        "Mrs. Ralph Schweickert"
+      ]
+    },
+    {
+      "reg_number": "R-22357",
+      "name": "SCHWEICKERT'S TONI",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-4-45",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Red Rascal",
+      "sire_reg": "A-853967",
+      "dam_name": "White Boots",
+      "dam_reg": "A-631672",
+      "breeders": [
+        "Mrs. Ralph Schweickert"
+      ],
+      "owners": [
+        "Mrs. Ralph Schweickert"
+      ]
+    },
+    {
+      "reg_number": "R-22032",
+      "name": "WARD'S BUTCH",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-1-47",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "Brown Bomber II",
+      "sire_reg": "A-964705",
+      "dam_name": "Vicky of Ed-Mar",
+      "dam_reg": "A-799677",
+      "breeders": [
+        "A. B. DeVault"
+      ],
+      "owners": [
+        "A. B. Ward"
+      ]
+    },
+    {
+      "reg_number": "R-22791",
+      "name": "X-PERT BRINDLE VIXON",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-27-46",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terriers",
+      "sire_name": "X-Pert Black Ace II",
+      "sire_reg": "A-864878",
+      "dam_name": "X-Pert Red Susie",
+      "dam_reg": "A-835062",
+      "breeders": [
+        "Byron P. Richardson"
+      ],
+      "owners": [
+        "Alexander L. McKnight"
+      ]
+    }
+  ]
+}

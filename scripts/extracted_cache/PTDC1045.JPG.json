@@ -1,0 +1,200 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "June 10",
+  "dogs": [
+    {
+      "reg_number": "RB103047",
+      "name": "BORJA'S IKAIKA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-25-86",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "LEE'S BANTAM BOSS",
+      "sire_reg": "RA834497",
+      "dam_name": "EDDIE-LEE'S MITY-HI BLAZE",
+      "dam_reg": "RA712695",
+      "breeders": [
+        "MISS O & O BORJA"
+      ],
+      "owners": [
+        "J & O BORJA"
+      ]
+    },
+    {
+      "reg_number": "RB10989",
+      "name": "BRAWNY LADY LOCKJAW",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-2-87",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "SUNDANCES KING",
+      "sire_reg": "RA733244",
+      "dam_name": "PRINCES VELET",
+      "dam_reg": "RA989764",
+      "breeders": [
+        "J HILL"
+      ],
+      "owners": [
+        "T BARTLETT"
+      ]
+    },
+    {
+      "reg_number": "RB103517",
+      "name": "EDORAH'S WILDFIRE O'RYAN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-15-86",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH RYAN'S JIGGS",
+      "sire_reg": "RB005776",
+      "dam_name": "CH RUFHAUS EYE OF THE TIGER",
+      "dam_reg": "RA789603",
+      "breeders": [
+        "M STATHACOS"
+      ],
+      "owners": [
+        "D WORMUTH"
+      ]
+    },
+    {
+      "reg_number": "RB308705",
+      "name": "GREENS CINDER BENDER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-21-88",
+      "color_code": "BL WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "TILLOR THE HOUND",
+      "sire_reg": "RB139061",
+      "dam_name": "GOLD DUST ROCK",
+      "dam_reg": "RB138516",
+      "breeders": [
+        "J GREEN JR"
+      ],
+      "owners": [
+        "T FICARROTTA",
+        "M WEISS"
+      ]
+    },
+    {
+      "reg_number": "RB217796",
+      "name": "GREENS MIGHTY SAMPSON",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-21-88",
+      "color_code": "BLK TN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "FOGGY MOUNTAIN SAM",
+      "sire_reg": "RA930958",
+      "dam_name": "SILVERADAS DIXIE",
+      "dam_reg": "RB134252",
+      "breeders": [
+        "J GREEN JR",
+        "T GREEN"
+      ],
+      "owners": [
+        "J CAMPBELL"
+      ]
+    },
+    {
+      "reg_number": "RB107017",
+      "name": "MISTY MOONSHINE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-15-86",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SMITHS SKYSTAFF STARMAN",
+      "sire_reg": "RA932098",
+      "dam_name": "ROWDYTOWN CAMEO ROSE",
+      "dam_reg": "RB014794",
+      "breeders": [
+        "C & K MONSKE"
+      ],
+      "owners": [
+        "D SMITH",
+        "G ROONEY"
+      ]
+    },
+    {
+      "reg_number": "RA885553",
+      "name": "ROUNDER'S SUNDANCE KID",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-27-83",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "ROUNDERS ROUDY BOY",
+      "sire_reg": "RA551982",
+      "dam_name": "CH ROUNDER'S DOTTY",
+      "dam_reg": "RA733066",
+      "breeders": [
+        "R & F GRAY"
+      ],
+      "owners": [
+        "T & R GRAY"
+      ]
+    },
+    {
+      "reg_number": "RB283686",
+      "name": "SAMANTHA COWHERD",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-20-87",
+      "color_code": "BRDL",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "TERESA'S JACOB",
+      "sire_reg": "RA674888",
+      "dam_name": "FRAJA'S BABE",
+      "dam_reg": "RA619864",
+      "breeders": [
+        "C COWHERD"
+      ],
+      "owners": [
+        "B CONNELL"
+      ]
+    },
+    {
+      "reg_number": "RA992531",
+      "name": "CH TARA'S LIZZY BORDEN",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "6-24-85",
+      "color_code": "RD & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SINDELAR'S DOCTOR MUDD",
+      "sire_reg": "RA613971",
+      "dam_name": "TARA'S STRAWBERRY SHORTCAKE",
+      "dam_reg": "RA707263",
+      "breeders": [
+        "D HUNTER",
+        "L WALTERS"
+      ],
+      "owners": [
+        "L WALTERS"
+      ]
+    },
+    {
+      "reg_number": "RB110737",
+      "name": "WHITE ROCK DAISY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-18-86",
+      "color_code": "BLK & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH WHITE ROCK HANDSOME DEVIL",
+      "sire_reg": "RA951456",
+      "dam_name": "BROWN'S TACOMA STORM",
+      "dam_reg": "RA542331",
+      "breeders": [
+        "J KENNY"
+      ],
+      "owners": [
+        "W BROWN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "breed": "Welsh Terrier",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A394546",
+      "name": "ELINEA V REGENTENHOF",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-15-36",
+      "color_code": "Gr &",
+      "breed": "Skye Terrier",
+      "sire_name": "Affix v Finowfurt",
+      "sire_reg": null,
+      "dam_name": "Tipp v Briccinsberg",
+      "dam_reg": null,
+      "breeders": [
+        "Mrs. Brigitte Kun...m, Germany"
+      ],
+      "owners": [
+        "Ellen Metzmacher"
+      ]
+    },
+    {
+      "reg_number": "A394547",
+      "name": "ASSY V CONSTANZERECK",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-30-39",
+      "color_code": "Gr & blk",
+      "breed": "Skye Terrier",
+      "sire_name": "Arno v Regentenhof",
+      "sire_reg": null,
+      "dam_name": "Antinea v Regentenhof",
+      "dam_reg": "A394546",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Ellen Metzmacher, Memphis, Tenn."
+      ]
+    },
+    {
+      "reg_number": "A394",
+      "name": "LO V D FELDMANNSBURG",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-20-36",
+      "color_code": null,
+      "breed": "Skye Terrier",
+      "sire_name": "Moritz v Apenborg",
+      "sire_reg": null,
+      "dam_name": "Hilli v d Idzburg",
+      "dam_reg": null,
+      "breeders": [
+        "Mrs. Erika ...nmerer, Germany"
+      ],
+      "owners": [
+        "A. C. Wedemeyer"
+      ]
+    },
+    {
+      "reg_number": "A394960",
+      "name": "BAZIZOO BEAU GESTE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-8-39",
+      "color_code": "Slvr gr",
+      "breed": "Skye Terrier",
+      "sire_name": "Limo de Mandane",
+      "sire_reg": null,
+      "dam_name": "M-Go Nowhere du Bazizoo",
+      "dam_reg": "A346109",
+      "breeders": [
+        "Marvin H. Tulman, Waldwick, N. J."
+      ],
+      "owners": [
+        "Mrs. Michael Stillman"
+      ]
+    },
+    {
+      "reg_number": "A394961",
+      "name": "BAZIZOO CELESTE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-8-39",
+      "color_code": "Slvr gr",
+      "breed": "Skye Terrier",
+      "sire_name": "Limo de Mandane",
+      "sire_reg": null,
+      "dam_name": "M-Go Nowhere du Bazizoo",
+      "dam_reg": "A346109",
+      "breeders": [
+        "Marvin H. Tulman, Waldwick, N. J."
+      ],
+      "owners": [
+        "Mrs. Michael Stillman"
+      ]
+    },
+    {
+      "reg_number": "A395851",
+      "name": "UCS GLAMOUR GIRL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-22-39",
+      "color_code": "Slvr",
+      "breed": "Skye Terrier",
+      "sire_name": "Blacky aus dem Asgard Clan",
+      "sire_reg": "A155088",
+      "dam_name": "Iris (Glauerdt)",
+      "dam_reg": "A260506",
+      "breeders": [
+        "Mrs. H. Meyer-Schlichtegroll, Morrisville, Pa."
+      ],
+      "owners": [
+        "Mr. & Mrs. W. H. Scudder"
+      ]
+    },
+    {
+      "reg_number": "A395850",
+      "name": "UCS RAGGEDY ANN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-22-39",
+      "color_code": "Gr",
+      "breed": "Skye Terrier",
+      "sire_name": "Blacky aus dem Asgard Clan",
+      "sire_reg": "A155088",
+      "dam_name": "Taps (Glauerdt)",
+      "dam_reg": "A260506",
+      "breeders": [
+        "Mrs. H. Meyer-Schlichtegroll, Morrisville, Pa."
+      ],
+      "owners": [
+        "Mr. & Mrs. W. H. Scudder"
+      ]
+    },
+    {
+      "reg_number": "A397124",
+      "name": "DOHR'S BIMBO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-10-39",
+      "color_code": "Dk gr",
+      "breed": "Skye Terrier",
+      "sire_name": "Bracadale Henry",
+      "sire_reg": "A210500",
+      "dam_name": "Muriel",
+      "dam_reg": "A260507",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Beatrice de Rumohr, Old Greenwich, Conn."
+      ]
+    },
+    {
+      "reg_number": "A394390",
+      "name": "ELLI'S HUSSY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-1-39",
+      "color_code": "Lt fn, wh mkgs",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Kirby of Indiana",
+      "sire_reg": "A88778",
+      "dam_name": "Miss Aberdeen",
+      "dam_reg": "A385011",
+      "breeders": [
+        "James F. Murphy, Chicago, Ill."
+      ],
+      "owners": [
+        "Bruce Borrelli"
+      ]
+    },
+    {
+      "reg_number": "A398932",
+      "name": "O LIL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-27-39",
+      "color_code": "Brdl, wh mkgs",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Bruce's Mahan Mug",
+      "sire_reg": null,
+      "dam_name": "Scott's Frisco Phoebe",
+      "dam_reg": "A108579",
+      "breeders": [
+        "Robert N. Scott, Pacoima, Calif."
+      ],
+      "owners": [
+        "Dorothea F. Eac..."
+      ]
+    },
+    {
+      "reg_number": "A393425",
+      "name": "JOE PALOOKA",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-27-39",
+      "color_code": "Brdl, wh mkgs",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Bruce's Mahan Mug",
+      "sire_reg": null,
+      "dam_name": "Scott's Frisco Phoebe",
+      "dam_reg": "A108579",
+      "breeders": [
+        "Robert N. Scott, Pacoima, Calif."
+      ],
+      "owners": [
+        "Henry Geimer"
+      ]
+    },
+    {
+      "reg_number": "A396637",
+      "name": "LUCKY SPOT ABNER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-27-39",
+      "color_code": "Brdl, wh mkgs",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Bruce's Mahan Mug",
+      "sire_reg": null,
+      "dam_name": "Scott's Frisco Phoebe",
+      "dam_reg": "A108579",
+      "breeders": [
+        "Robert N. Scott, Pacoima, Calif."
+      ],
+      "owners": [
+        "William C. Lembke"
+      ]
+    },
+    {
+      "reg_number": "A398697",
+      "name": "PEG",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-20-38",
+      "color_code": "Brdl & wh",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "John P. Colby's Primo",
+      "sire_reg": null,
+      "dam_name": "Bama",
+      "dam_reg": "A280014",
+      "breeders": [
+        "John P. Colby, Newburyport, Mass."
+      ],
+      "owners": [
+        "Rupert W. Metzner"
+      ]
+    },
+    {
+      "reg_number": "A397289",
+      "name": "PETE OF SHERWALL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-6-39",
+      "color_code": "Blk & wh",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Siam of Sherwall",
+      "sire_reg": "A276791",
+      "dam_name": "Wendy of Sherwall",
+      "dam_reg": "A276784",
+      "breeders": [
+        "Sherwall Kennels, Wallkill, N. Y."
+      ],
+      "owners": [
+        "Mrs. Thos. M. Murray"
+      ]
+    },
+    {
+      "reg_number": "A395133",
+      "name": "BECKY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-26-37",
+      "color_code": "Blk & tn",
+      "breed": "Welsh Terrier",
+      "sire_name": "Brenin",
+      "sire_reg": "A138940",
+      "dam_name": "Dyma fi",
+      "dam_reg": "A108110",
+      "breeders": [
+        "John F. Maginnis, Chicago, Ill."
+      ],
+      "owners": [
+        "J. G. Murphy"
+      ]
+    },
+    {
+      "reg_number": "A394255",
+      "name": "BENILA'S LADY BESS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-13-39",
+      "color_code": "Blk & tn",
+      "breed": "Welsh Terrier",
+      "sire_name": "Galen Kino of Briarcroft",
+      "sire_reg": "A83601",
+      "dam_name": "Amada's Dawning",
+      "dam_reg": "A260658",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Benjamin M. Klekner, Canfield, Ohio"
+      ]
+    },
+    {
+      "reg_number": "A394254",
+      "name": "BENILA'S SMILEY GIRL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-13-39",
+      "color_code": "Blk & tn",
+      "breed": "Welsh Terrier",
+      "sire_name": "Galen Kino of Briarcroft",
+      "sire_reg": "A83601",
+      "dam_name": "Amada's Dawning",
+      "dam_reg": "A260658",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Benjamin M. Klekner, Canfield, Ohio"
+      ]
+    },
+    {
+      "reg_number": "A395435",
+      "name": "CORBSCOT PENELOPE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-17-38",
+      "color_code": "Blk & tn",
+      "breed": "Welsh Terrier",
+      "sire_name": "Corbscot Knoos",
+      "sire_reg": "A169700",
+      "dam_name": "Corbscot Star",
+      "dam_reg": "A214536",
+      "breeders": [
+        "Verna E. Corby, Pompton Lakes, N. J."
+      ],
+      "owners": [
+        "Margaret F. King"
+      ]
+    },
+    {
+      "reg_number": "A397015",
+      "name": "ED-LOU PLAYGIRL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-1-39",
+      "color_code": "Blk & tn",
+      "breed": "Welsh Terrier",
+      "sire_name": "Corbscot Banks",
+      "sire_reg": "A145156",
+      "dam_name": "Corbscot Cosma",
+      "dam_reg": "A254841",
+      "breeders": [
+        "Verna E. Corby, Cedar Grove, N. J."
+      ],
+      "owners": [
+        "Edward M. Sturhahn"
+      ]
+    },
+    {
+      "reg_number": "A397072",
+      "name": "GWYNNE OF GERASSY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-14-39",
+      "color_code": "Blk & tn",
+      "breed": "Welsh Terrier",
+      "sire_name": "Marlu Rampan",
+      "sire_reg": "996958",
+      "dam_name": "Winnie of Wil-Gor",
+      "dam_reg": "A82976",
+      "breeders": [
+        "Gerassy Kennels, Westminster, Calif."
+      ],
+      "owners": [
+        "Mr. & Mrs. Frank E. Grossman"
+      ]
+    },
+    {
+      "reg_number": "A394412",
+      "name": "HALLIE'S SANDY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-29-38",
+      "color_code": "Blk & tn",
+      "breed": "Welsh Terrier",
+      "sire_name": "Red Crag Pennant",
+      "sire_reg": "A8117",
+      "dam_name": "Saucy Hallie",
+      "dam_reg": "A303556",
+      "breeders": [
+        "Richard F. Benedict, Hudson, Ohio"
+      ],
+      "owners": [
+        "Mary T. Benedict"
+      ]
+    },
+    {
+      "reg_number": "A398741",
+      "name": "HAYWARD HARVESTER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-21-37",
+      "color_code": "Blk & tn",
+      "breed": "Welsh Terrier",
+      "sire_name": "Corbscot Knoos",
+      "sire_reg": "A169700",
+      "dam_name": "Corbscot Gaila",
+      "dam_reg": "A93973",
+      "breeders": [
+        "Verna E. Corby, Pompton Lakes, N. J."
+      ],
+      "owners": [
+        "George E. Baker"
+      ]
+    },
+    {
+      "reg_number": "A393170",
+      "name": "JOLLY TOPPER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-9-39",
+      "color_code": "Blk & tn",
+      "breed": "Welsh Terrier",
+      "sire_name": "Halcyon Welsh Ideal",
+      "sire_reg": "A81409",
+      "dam_name": "Valley Acres Saucy Lass",
+      "dam_reg": "A152183",
+      "breeders": [
+        "Winifred R. Trist, Honolulu, T.H."
+      ],
+      "owners": [
+        "Carolyn W. FitzGerald"
+      ]
+    }
+  ]
+}

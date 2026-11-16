@@ -1,0 +1,115 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "May 32",
+  "dogs": [
+    {
+      "reg_number": "RA420193",
+      "name": "PRINCESS II",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-80",
+      "color_code": "BLK & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "STORKLIND'S SAMUL SAPP",
+      "sire_reg": "RA143194",
+      "dam_name": "RUFFIAN MAGNUM MAX OF HAR-WYN",
+      "dam_reg": "RA318902",
+      "breeders": [
+        "CRUSADER'S LADY WEE LOVE",
+        "P BACITTI",
+        "P BODZIANOWSKI"
+      ],
+      "owners": [
+        "L & J CARRIN",
+        "J NEHSER"
+      ]
+    },
+    {
+      "reg_number": "RA247707",
+      "name": "CH PATTION'S RED ROCK SKILLET",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "8-77",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "STORKLIND'S DUTCH BOY",
+      "sire_reg": "RA036505",
+      "dam_name": "ALL AMERICAN TUFFY",
+      "dam_reg": "RA410762",
+      "breeders": [
+        "B & D HERRERA",
+        "J A PATTERSON"
+      ],
+      "owners": [
+        "W DAVIS",
+        "B PACITTI"
+      ]
+    },
+    {
+      "reg_number": "RA248852",
+      "name": "CH MARI-DOON KIRKEE BATTERY",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "1-80",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH MARI-DOON TIA MARIA",
+      "sire_reg": "RA332186",
+      "dam_name": "SERTOMA PAM GRIER",
+      "dam_reg": "RA078227",
+      "breeders": [
+        "J KING",
+        "D KING",
+        "J FRASER"
+      ],
+      "owners": [
+        "W RHODES",
+        "JR",
+        "J ARNOLD"
+      ]
+    },
+    {
+      "reg_number": "RA411522",
+      "name": "CH SULTAN'S BUCK-A-ROO",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "2-79",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "JOHNSON'S COOL HAND LUKE",
+      "sire_reg": "RA327225",
+      "dam_name": "JOHNSON'S SPARKLES PLENTY",
+      "dam_reg": "RA12522",
+      "breeders": [
+        "B HOLLINS",
+        "T JOHNSON"
+      ],
+      "owners": [
+        "W RHODES",
+        "JR",
+        "MD",
+        "C LLOYD"
+      ]
+    },
+    {
+      "reg_number": "RA440835",
+      "name": "CH PATTION'S LADY MAE",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "1-80",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH PATTION'S RED ROCKET",
+      "sire_reg": "RA228456",
+      "dam_name": "CH PATTION'S RED ROCKET",
+      "dam_reg": "RA440835",
+      "breeders": [
+        "JEFFERIES HOUSE"
+      ],
+      "owners": [
+        "J ALVERSON",
+        "MRS R JEFFERIES"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,637 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "FEBRUARY 99",
+  "dogs": [
+    {
+      "reg_number": "RM218935/06",
+      "name": "ASTI'S BOOTLEG BABY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-30-97",
+      "color_code": "BL & BRDL WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH DEVON'S BLUE THUNDER",
+      "sire_reg": "RM113269/04",
+      "dam_name": "ASTI'S SMOOTH CHAMPAGNE LADY",
+      "dam_reg": "RM138962/01",
+      "breeders": [
+        "C & J STEWART"
+      ],
+      "owners": [
+        "J MARTINEZ III"
+      ]
+    },
+    {
+      "reg_number": "RM263251/06",
+      "name": "AZTECA'S KATANA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-3-98",
+      "color_code": "BLK WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH DELLIES-CISCO-KID CD",
+      "sire_reg": "RM079557/01",
+      "dam_name": "CH FRAJA'S MARIA MACHETES",
+      "dam_reg": "RM189986/01",
+      "breeders": [
+        "C ROBBINS",
+        "J STEWART"
+      ],
+      "owners": [
+        "J MARTINEZ III"
+      ]
+    },
+    {
+      "reg_number": "RM178652/03",
+      "name": "AZTECA'S MUFASA",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-27-96",
+      "color_code": "BL & BRDL",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SIERRA-GAFF TITANIUM TANK",
+      "sire_reg": "RM142449/01",
+      "dam_name": "CH AZTECA'S LUCERITO TEJANO",
+      "dam_reg": "RM155300/09",
+      "breeders": [
+        "C SHERMAN"
+      ],
+      "owners": [
+        "D JENSSEN"
+      ]
+    },
+    {
+      "reg_number": "RM159824/11",
+      "name": "BRAVEHEARTS ROXANNE CDX",
+      "titles": "CDX",
+      "sex": "B",
+      "birth_date": "11-30-95",
+      "color_code": "WH BRDL MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SHONDELL'S TJ RAMBO",
+      "sire_reg": "RA969898",
+      "dam_name": "CH STORYTIME'S AMAZING GRACE",
+      "dam_reg": "RM059124/01",
+      "breeders": [
+        "J HAIGHT",
+        "R CHEN"
+      ],
+      "owners": [
+        "L MILLER"
+      ]
+    },
+    {
+      "reg_number": "RM251795/06",
+      "name": "CAMELOT'S PRIMA DONNA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-29-98",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH HARMONY JAZZIE MAX OF CAMELOT",
+      "sire_reg": "RM112159/04",
+      "dam_name": "CH CAMELOT'S PAINTED LADY",
+      "dam_reg": "RM104890/06",
+      "breeders": [
+        "R HARRIS"
+      ],
+      "owners": [
+        "L NEWELL"
+      ]
+    },
+    {
+      "reg_number": "RM246142/02",
+      "name": "DOS CAPONE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-3-98",
+      "color_code": "FN & WH WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "ARTISANS PABLO PICASSO",
+      "sire_reg": "RM206672/03",
+      "dam_name": "CH BRAVESTARS SANDY EUCHA",
+      "dam_reg": "RM090235/11",
+      "breeders": [
+        "R HARRIS"
+      ],
+      "owners": [
+        "L NEWELL"
+      ]
+    },
+    {
+      "reg_number": "RM259359/06",
+      "name": "DUCATI",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-26-98",
+      "color_code": "FN & WH BL MSK",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "ARTISANS PABLO PICASSO",
+      "sire_reg": "RM206672/03",
+      "dam_name": "ARTISANS MARQUITA KITA",
+      "dam_reg": "RM210184/05",
+      "breeders": [
+        "A STOKES"
+      ],
+      "owners": [
+        "G VAN VOORHEES"
+      ]
+    },
+    {
+      "reg_number": "RM209834/03",
+      "name": "CHRONOS AS YOU LIKE IT",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-27-97",
+      "color_code": "FN BLK & BRDL WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH CHRONOS TEMPUS FUGIT",
+      "sire_reg": "RM163004/02",
+      "dam_name": "CH ZUZU PETALS OF YORK",
+      "dam_reg": "RM095266/07",
+      "breeders": [
+        "J & D PAVAO"
+      ],
+      "owners": [
+        "K GONSALVES"
+      ]
+    },
+    {
+      "reg_number": "RM206950/06",
+      "name": "CRYSTAL ROCK'S BRUNO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-13-97",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "POHAKU'S KEKDA",
+      "sire_reg": "RM106950/03",
+      "dam_name": "HOT LAVA'S SARABI",
+      "dam_reg": "RM153684/04",
+      "breeders": [
+        "L & C SCALES"
+      ],
+      "owners": [
+        "L & D BEST"
+      ]
+    },
+    {
+      "reg_number": "RM241154/06",
+      "name": "DAKOTA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-28-97",
+      "color_code": "BL & BRDL",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "BLUE DIAMOND",
+      "sire_reg": "RM192256/03",
+      "dam_name": "ZENA II",
+      "dam_reg": "RM161516/02",
+      "breeders": [
+        "J MORRIS"
+      ],
+      "owners": [
+        "R CALDWELL"
+      ]
+    },
+    {
+      "reg_number": "RM238356/05",
+      "name": "SANDERSON PATTON'S EASY RIDER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-13-98",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "RUFF RIDERS LIMITED EDITION",
+      "sire_reg": "RM093817/08",
+      "dam_name": "ALABAMA'S LIL PATCH OF BLUE",
+      "dam_reg": "RM173043/04",
+      "breeders": [
+        "T & T SANDERSON"
+      ],
+      "owners": [
+        "A HAYNES"
+      ]
+    },
+    {
+      "reg_number": "RM219371/07",
+      "name": "GRIMLOC'S MISS MOLLY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-15-97",
+      "color_code": "BL & BRDL WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH GOUGHS IVAN THE TERRIBULL",
+      "sire_reg": "RM015475/03",
+      "dam_name": "HAYNES' PEACHES AND CREAM",
+      "dam_reg": "RM161360/06",
+      "breeders": [
+        "W CHRISTENSEN"
+      ],
+      "owners": [
+        "M VAN LOO",
+        "G HARMS"
+      ]
+    },
+    {
+      "reg_number": "RM254435/07",
+      "name": "GRIMLOC'S TOO HOT TOO TOUCH",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-14-98",
+      "color_code": "RD BLK MSK",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH ROOTNTOOTN'S RUFF N REDDY",
+      "sire_reg": "RM197453/06",
+      "dam_name": "GRIMLOC'S MUCH ADO",
+      "dam_reg": "RM202401/03",
+      "breeders": [
+        "W CHRISTENSEN",
+        "G HARMS"
+      ],
+      "owners": [
+        "M VAN LOO"
+      ]
+    },
+    {
+      "reg_number": "RM249477/03",
+      "name": "GRIMLOC'S WEEZIE DOES IT",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-1-98",
+      "color_code": "BL & FN WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH ROOTNTOOTN'S RUFF N REDDY",
+      "sire_reg": "RM197453/06",
+      "dam_name": "GRIMLOC'S FOR MERCI'S SAKE",
+      "dam_reg": "RM148395/02",
+      "breeders": [
+        "W CHRISTENSEN",
+        "G HARMS"
+      ],
+      "owners": [
+        "M VAN LOO",
+        "G HARMS"
+      ]
+    },
+    {
+      "reg_number": "RM225098/01",
+      "name": "HOLLIDAYS WICKED BLUE FLASH",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-5-97",
+      "color_code": "BL & BRDL WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "DEBOE",
+      "sire_reg": "RM164622/08",
+      "dam_name": "HOLLIDAY'S RUGER",
+      "dam_reg": "RM176099/06",
+      "breeders": [
+        "J HOLLIDAY"
+      ],
+      "owners": [
+        "J HOLLIDAY"
+      ]
+    },
+    {
+      "reg_number": "RM255319/07",
+      "name": "JAY'S BABY BLUE STORM",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-14-98",
+      "color_code": "BL WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "JAY'S TACOMA JAZZ",
+      "sire_reg": "RM181803/03",
+      "dam_name": "JAY'S BLUE DESTINY",
+      "dam_reg": "RM197115/05",
+      "breeders": [
+        "M REYES"
+      ],
+      "owners": [
+        "M REYES"
+      ]
+    },
+    {
+      "reg_number": "RM257267/03",
+      "name": "KEY OF CRYSTAL ROCK'S",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-24-98",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "HOT LAVA'S ELMO",
+      "sire_reg": "RM095047/01",
+      "dam_name": "ICE-T",
+      "dam_reg": "RM151468/07",
+      "breeders": [
+        "J & D PAVAO"
+      ],
+      "owners": [
+        "P DASALIA",
+        "K LUM"
+      ]
+    },
+    {
+      "reg_number": "RM175755/05",
+      "name": "KEYSTONES SPECIAL REPORT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-17-96",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH BENMAR'S KNIGHT OF ROADHOUS",
+      "sire_reg": "RM131398/01",
+      "dam_name": "KEYSTONE'S SCARLET GEM",
+      "dam_reg": "RM078663/02",
+      "breeders": [
+        "L RYAN"
+      ],
+      "owners": [
+        "P GOLDMAN",
+        "M SAGULLO"
+      ]
+    },
+    {
+      "reg_number": "RM224193/09",
+      "name": "EMMA RED OF BLUE CHIP",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-4-96",
+      "color_code": "BL WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH KIMMAR'S ROO'S BACK IN BLACK",
+      "sire_reg": "RM150807/01",
+      "dam_name": "KIMMAR'S MIRANDA",
+      "dam_reg": "RM221641/06",
+      "breeders": [
+        "G SCHEIDT",
+        "K OWENS",
+        "T ANTHON"
+      ],
+      "owners": [
+        "K OWENS",
+        "R TEETER"
+      ]
+    },
+    {
+      "reg_number": "RM127685/01",
+      "name": "LORD WOODROW OF BLUE CHIP",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-28-94",
+      "color_code": "BLK BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH RUFFIAN JACK OF YORK",
+      "sire_reg": "RB232875",
+      "dam_name": "PERDUES PRIDE AND JOY",
+      "dam_reg": "RM073769/04",
+      "breeders": [
+        "B & G SCHEIDT"
+      ],
+      "owners": [
+        "P PERDUE"
+      ]
+    },
+    {
+      "reg_number": "RM195682/05",
+      "name": "MAX'S BLUE JEAN BLUES",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-27-96",
+      "color_code": "BL WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "STORYTIME'S SINGING THE BLOOZE",
+      "sire_reg": "RM130147/04",
+      "dam_name": "STORYTIME'S UNLOCK THE BLUES",
+      "dam_reg": "RM067908/07",
+      "breeders": [
+        "T & T SANDERSON"
+      ],
+      "owners": [
+        "M MARTIN"
+      ]
+    },
+    {
+      "reg_number": "RM246636/02",
+      "name": "MICHL'S ALL JAZZED UP",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-17-98",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH ROOTNTOOTN'S RUFF N REDDY",
+      "sire_reg": "RM197453/06",
+      "dam_name": "CH MICHL ROCKETS RED GLARE",
+      "dam_reg": "RM138111/06",
+      "breeders": [
+        "B MICHL",
+        "R PERATA",
+        "J HOLLOWAY"
+      ],
+      "owners": [
+        "W PETERSON",
+        "B MICHL"
+      ]
+    },
+    {
+      "reg_number": "RM216398/01",
+      "name": "CALAGRA'S SHADES OF GRAY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-22-97",
+      "color_code": "BL & BRDL WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SIERRA-GAFF TITANIUM TANK",
+      "sire_reg": "RM142449/01",
+      "dam_name": "GAFF'S LIL MIDNIGHT MOONFLOWER",
+      "dam_reg": "RM156483/01",
+      "breeders": [
+        "R & L ANDERSON"
+      ],
+      "owners": [
+        "L WILSON",
+        "T PAUL"
+      ]
+    },
+    {
+      "reg_number": "RM130003/01",
+      "name": "TELLES' BLUE TELLES",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-6-94",
+      "color_code": "BL & BRDL",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CARR'S BIG BLUE BUTCH",
+      "sire_reg": "RM081638/05",
+      "dam_name": "CARR'S LITTLE ANN OF ROUNDER'S",
+      "dam_reg": "RM014607/02",
+      "breeders": [
+        "D TELLES"
+      ],
+      "owners": [
+        "K CARR"
+      ]
+    },
+    {
+      "reg_number": "RM235499/06",
+      "name": "MYSTIC SAMSOARA'S BLACK BIRD",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-10-98",
+      "color_code": "BLK & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH DENMARS MYSTIC SAMSOARA",
+      "sire_reg": "RM184605/05",
+      "dam_name": "BLANCH-O'S FELONY IN BLUE",
+      "dam_reg": "RM146767/03",
+      "breeders": [
+        "E BRUBAKER"
+      ],
+      "owners": [
+        "E WEAVER",
+        "D RUBENDALL"
+      ]
+    },
+    {
+      "reg_number": "RM242522/07",
+      "name": "NOBLE MORRIS' STEEL BLUE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-2-98",
+      "color_code": "BLK WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH NOBLE'S KASH MONEY",
+      "sire_reg": "RM113115/08",
+      "dam_name": "NICHOLS NOBEL KELSA",
+      "dam_reg": "RM075478/04",
+      "breeders": [
+        "L MORRIS"
+      ],
+      "owners": [
+        "S NICHOLS"
+      ]
+    },
+    {
+      "reg_number": "RM211254/02",
+      "name": "FORD'S MIDNIGHT MOON DANCER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-9-97",
+      "color_code": "RD WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH YORK'S WHAILIN' WILLIE",
+      "sire_reg": "RM120394/04",
+      "dam_name": "STORYTIME MIDNIGHT MADNESS",
+      "dam_reg": "RM110335/06",
+      "breeders": [
+        "J & W NUCKLES"
+      ],
+      "owners": [
+        "M MARTIN",
+        "R TEETER",
+        "W NUCKLES"
+      ]
+    },
+    {
+      "reg_number": "RM239297/08",
+      "name": "PERDUES BLACKJACK MAGIC",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-24-98",
+      "color_code": "BL WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "PERDUES DIBIASE TX MASTERPIECE",
+      "sire_reg": "RM201600/01",
+      "dam_name": "DIBIASE'S BLACK MAJESTY",
+      "dam_reg": "RM128352/07",
+      "breeders": [
+        "P PERDUE",
+        "C & B COLEMAN"
+      ],
+      "owners": [
+        "P PERDUE",
+        "P ROUSE"
+      ]
+    },
+    {
+      "reg_number": "RM172745/05",
+      "name": "PIROUETTE'S PRIMA BALLERINA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-22-96",
+      "color_code": "BL & BRDL WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH BUENA VISTA HONKITONK ROEMEO",
+      "sire_reg": "RM110892/03",
+      "dam_name": "ROYAL LOOK LADY IN LACE",
+      "dam_reg": "RM121026/06",
+      "breeders": [
+        "C & B COLEMAN"
+      ],
+      "owners": [
+        "M LAWSON",
+        "H MCCLURE"
+      ]
+    },
+    {
+      "reg_number": "RM209025/09",
+      "name": "CH YELLAD'S TUMBLIN' DICE",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "5-30-97",
+      "color_code": "BLK & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH ALADONS OK RYDER BY KEYSTONE",
+      "sire_reg": "RM133583/09",
+      "dam_name": "NOBLE PRINCESS OF THE NIGHT",
+      "dam_reg": "RM011784/04",
+      "breeders": [
+        "S MCKENZIE"
+      ],
+      "owners": [
+        "S MCKENZIE"
+      ]
+    },
+    {
+      "reg_number": "RM109661/06",
+      "name": "ROCK HARDS LIL HANNAH BELLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-17-94",
+      "color_code": "BL & BRDL",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH BRONTOSAUR EL TORO BIG JOHN",
+      "sire_reg": "RB314892",
+      "dam_name": "TORNGREN'S ANGEL",
+      "dam_reg": "RM046769/08",
+      "breeders": [
+        "W LEWIS"
+      ],
+      "owners": [
+        "A TAYLOR",
+        "C TORNGREN"
+      ]
+    },
+    {
+      "reg_number": "RM185642/04",
+      "name": "CH ROUNDER'S BUNNY DUSTER",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "8-9-96",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SOMERSETS WHITE LIGHTNING",
+      "sire_reg": "RM127018/04",
+      "dam_name": "ROUNDER'S BUNNY",
+      "dam_reg": "RM094040/04",
+      "breeders": [
+        "R & F GRAY"
+      ],
+      "owners": [
+        "K MONSKE",
+        "R GRAY"
+      ]
+    }
+  ]
+}

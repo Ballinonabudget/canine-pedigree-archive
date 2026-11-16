@@ -1,0 +1,481 @@
+{
+  "breed": "Staffordshire Terriers",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R-23207",
+      "name": "J",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "February 28, 1946",
+      "color_code": "Brindle",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Ffian Scalawag",
+      "sire_reg": "A-422376",
+      "dam_name": "Douglass' Lady In",
+      "dam_reg": "A-904018",
+      "breeders": [
+        "Carl E. Krantz"
+      ],
+      "owners": [
+        "Paul W. Douglass"
+      ]
+    },
+    {
+      "reg_number": "R-24592",
+      "name": "BETTY'S SKEEZEX",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "August 3, 1945",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Red Rascal",
+      "sire_reg": "A-853967",
+      "dam_name": "Sandy Ann",
+      "dam_reg": "A-853968",
+      "breeders": [
+        "H. J. Sayres"
+      ],
+      "owners": [
+        "Mrs. Ralph Schweickert"
+      ]
+    },
+    {
+      "reg_number": "R-23345",
+      "name": "BUCKYE BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "May 6, 1947",
+      "color_code": "fawn, white marking",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Farlsdale's Honey Boy",
+      "sire_reg": "R-9164",
+      "dam_name": "Brindle Queen",
+      "dam_reg": "A-939054",
+      "breeders": [
+        "William A. Beyerle"
+      ],
+      "owners": [
+        "Florence E. Beyerle"
+      ]
+    },
+    {
+      "reg_number": "R-24559",
+      "name": "DAZZLER HY CHUM",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "May 30, 1947",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Ruffian Dazzler",
+      "sire_reg": "A-422377",
+      "dam_name": "Ruffian Bobby Socks Pudge",
+      "dam_reg": "A-852772",
+      "breeders": [
+        "Martin C. Middaugh"
+      ],
+      "owners": [
+        "Charles L. Flinker"
+      ]
+    },
+    {
+      "reg_number": "R-23344",
+      "name": "DEE'S MASKED ROGUE II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "May 6, 1947",
+      "color_code": "Fawn",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Farlsdale's Honey Boy",
+      "sire_reg": "R-9164",
+      "dam_name": "Brindle Queen",
+      "dam_reg": "A-939054",
+      "breeders": [
+        "James E. Dee"
+      ],
+      "owners": [
+        "Florence E. Beyerle"
+      ]
+    },
+    {
+      "reg_number": "R-24096",
+      "name": "DOYLE'S TACOMA DEBUTANTE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "July 4, 1945",
+      "color_code": "Brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Doyle's Tacoma Dispatcher",
+      "sire_reg": "A-819563",
+      "dam_name": "Doyle's Honey A",
+      "dam_reg": "643420",
+      "breeders": [
+        "Chas. J. Doyle"
+      ],
+      "owners": [
+        "Chas. J. Doyle"
+      ]
+    },
+    {
+      "reg_number": "R-23348",
+      "name": "FARLSDALE'S FIRE FLY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "May 6, 1947",
+      "color_code": "Fawn, white marking",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Farlsdale's Honey Boy",
+      "sire_reg": "R-9164",
+      "dam_name": "Brindle Queen",
+      "dam_reg": "A-939054",
+      "breeders": [
+        "Marguerite Farley"
+      ],
+      "owners": [
+        "Florence E. Beyerle"
+      ]
+    },
+    {
+      "reg_number": "R-24214",
+      "name": "HAPPY PAT",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "May 31, 1946",
+      "color_code": "Brindle",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Rhone's Tioga Tige",
+      "sire_reg": "A-845646",
+      "dam_name": "Springville Patsy",
+      "dam_reg": "R-18690",
+      "breeders": [
+        "Trevor Evans"
+      ],
+      "owners": [
+        "Mrs. Ralph Schweickert"
+      ]
+    },
+    {
+      "reg_number": "R-23107",
+      "name": "MISS BELLE COSE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "May 21, 1946",
+      "color_code": "Brindle",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Rhone's Tioga Tige",
+      "sire_reg": "A-845646",
+      "dam_name": "Sandy Ann",
+      "dam_reg": "A-853968",
+      "breeders": [
+        "Chas. W. Entwisle"
+      ],
+      "owners": [
+        "Mrs. Ralph Schweickert"
+      ]
+    },
+    {
+      "reg_number": "R-23206",
+      "name": "MISS MOE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "February 9, 1946",
+      "color_code": "White, black marking",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Keene's Smokey",
+      "sire_reg": "A-516837",
+      "dam_name": "Sans' Pinkie",
+      "dam_reg": "A-674956",
+      "breeders": [
+        "George Wiedemer"
+      ],
+      "owners": [
+        "Mrs. Lawrence M. Sans"
+      ]
+    },
+    {
+      "reg_number": "R-23103",
+      "name": "PUDDINPIE BLUE SMOKE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "January 7, 1947",
+      "color_code": "Brindle",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ruffian Headlight Hal",
+      "sire_reg": "A-586841",
+      "dam_name": "Ruffian Dreadnaught",
+      "dam_reg": "A-908534",
+      "breeders": [
+        "William M. Whitaker"
+      ],
+      "owners": [
+        "Winnie Doris Harper"
+      ]
+    },
+    {
+      "reg_number": "R-23102",
+      "name": "PUDDINPIE PEPPER DUSTER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "January 7, 1947",
+      "color_code": "Brindle",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ruffian Headlight Hal",
+      "sire_reg": "A-586841",
+      "dam_name": "Ruffian Dreadnaught",
+      "dam_reg": "A-908534",
+      "breeders": [
+        "William M. Whitaker"
+      ],
+      "owners": [
+        "Winnie Doris Harper"
+      ]
+    },
+    {
+      "reg_number": "R-23343",
+      "name": "QUEEN'S APACHE CHIEF",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "May 6, 1947",
+      "color_code": "Brindle, white marking",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Farlsdale's Honey Boy",
+      "sire_reg": "R-9164",
+      "dam_name": "Brindle Queen",
+      "dam_reg": "A-939054",
+      "breeders": [
+        "Florence E. Beyerle"
+      ],
+      "owners": [
+        "Florence E. Beyerle"
+      ]
+    },
+    {
+      "reg_number": "R-23342",
+      "name": "QUEEN'S DOMINO JACK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "May 6, 1947",
+      "color_code": "Fawn, white marking",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Farlsdale's Honey Boy",
+      "sire_reg": "R-9164",
+      "dam_name": "Brindle Queen",
+      "dam_reg": "A-939054",
+      "breeders": [
+        "Florence E. Beyerle"
+      ],
+      "owners": [
+        "Florence E. Beyerle"
+      ]
+    },
+    {
+      "reg_number": "R-23347",
+      "name": "QUEENIE'S DOTTIE DIMPLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "May 6, 1947",
+      "color_code": "Brindle, white marking",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Farlsdale's Honey Boy",
+      "sire_reg": "R-9164",
+      "dam_name": "Brindle Queen",
+      "dam_reg": "A-939054",
+      "breeders": [
+        "Florence E. Beyerle"
+      ],
+      "owners": [
+        "Florence E. Beyerle"
+      ]
+    },
+    {
+      "reg_number": "R-23346",
+      "name": "QUEEN'S SAUCY SUE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "May 6, 1947",
+      "color_code": "Brindle, white marking",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Farlsdale's Honey Boy",
+      "sire_reg": "R-9164",
+      "dam_name": "Brindle Queen",
+      "dam_reg": "A-939054",
+      "breeders": [
+        "Florence E. Beyerle"
+      ],
+      "owners": [
+        "Florence E. Beyerle"
+      ]
+    },
+    {
+      "reg_number": "R-23341",
+      "name": "QUEEN'S YANKEE KID",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "May 6, 1947",
+      "color_code": "Brindle",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Farlsdale's Honey Boy",
+      "sire_reg": "R-9164",
+      "dam_name": "Brindle Queen",
+      "dam_reg": "A-939054",
+      "breeders": [
+        "Florence E. Beyerle"
+      ],
+      "owners": [
+        "Florence E. Beyerle"
+      ]
+    },
+    {
+      "reg_number": "R-24180",
+      "name": "SCRAPS II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "June 11, 1947",
+      "color_code": "Fawn, black mask, white chest",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Rhone's Tioga Tige",
+      "sire_reg": "A-845646",
+      "dam_name": "Muggin's Ginger Belle",
+      "dam_reg": "R-4530",
+      "breeders": [
+        "Eugene P. Aldredge"
+      ],
+      "owners": [
+        "Thea Mann"
+      ]
+    },
+    {
+      "reg_number": "R-23624",
+      "name": "TUSCA GINGER GIRL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "May 21, 1946",
+      "color_code": "Brindle and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Rhone's Tioga Tige",
+      "sire_reg": "A-845646",
+      "dam_name": "Sandy Ann",
+      "dam_reg": "A-853968",
+      "breeders": [
+        "Edward F. Stewart"
+      ],
+      "owners": [
+        "Mrs. Ralph Schweickert"
+      ]
+    },
+    {
+      "reg_number": "R-23691",
+      "name": "VICKY VI",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "October 9, 1946",
+      "color_code": "Dark brindle, white chest",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A-683434",
+      "dam_name": "Yerzy's Lady Mary Alice",
+      "dam_reg": "A-883374",
+      "breeders": [
+        "Mr. & Mrs. I. R. Sowash"
+      ],
+      "owners": [
+        "I. R. Sowash"
+      ]
+    },
+    {
+      "reg_number": "R-23663",
+      "name": "X-PERT BLOSSOM QUEEN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "June 16, 1947",
+      "color_code": "Dark brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Shiek",
+      "sire_reg": "A-610478",
+      "dam_name": "X-Pert Gallant Betty",
+      "dam_reg": "A-822281",
+      "breeders": [
+        "Henry Schuhmann"
+      ],
+      "owners": [
+        "Henry Schuhmann"
+      ]
+    },
+    {
+      "reg_number": "R-23654",
+      "name": "X-PERT BOLD SKIPPER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "June 16, 1947",
+      "color_code": "Brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Shiek",
+      "sire_reg": "A-610478",
+      "dam_name": "X-Pert Gallant Betty",
+      "dam_reg": "A-822281",
+      "breeders": [
+        "H. J. Kiefer"
+      ],
+      "owners": [
+        "Henry Schuhmann"
+      ]
+    },
+    {
+      "reg_number": "R-24209",
+      "name": "X-PERT BRINDLE TRAVELER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "June 2, 1947",
+      "color_code": "Red brindle, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Sheik",
+      "sire_reg": "A-610478",
+      "dam_name": "X-Pert Red Susie",
+      "dam_reg": "A-835062",
+      "breeders": [
+        "Francis H. Reinema"
+      ],
+      "owners": [
+        "Alexander L. McKnight"
+      ]
+    },
+    {
+      "reg_number": "R-24210",
+      "name": "X-PERT DIAMOND RED DUKE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "June 2, 1947",
+      "color_code": "Red, white markings",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Sheik",
+      "sire_reg": "A-610478",
+      "dam_name": "X-Pert Red Susie",
+      "dam_reg": "A-835062",
+      "breeders": [
+        "Clifford E. Dounce, Jr."
+      ],
+      "owners": [
+        "Alexander L. McKnight"
+      ]
+    },
+    {
+      "reg_number": "R-23662",
+      "name": "X-PERT GYPSY ROSE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "June 16, 1947",
+      "color_code": "Black and white",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "X-Pert Brindle Shiek",
+      "sire_reg": "A-610478",
+      "dam_name": "X-Pert Gallant Betty",
+      "dam_reg": "A-822281",
+      "breeders": [
+        "M. J. McDonald"
+      ],
+      "owners": [
+        "Henry Schuhmann"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "breed": "Staffordshire Terriers",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "A399984",
+      "name": "BLACKTHORN FITZPATRICK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-6-39",
+      "color_code": "Blk wh mkgs",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Junior King Hubberman",
+      "sire_reg": "A399655",
+      "dam_name": "Willet's First Smile",
+      "dam_reg": "A61907",
+      "breeders": [
+        "Johnson Reed Newell"
+      ],
+      "owners": [
+        "Ralph II. Nodine"
+      ]
+    },
+    {
+      "reg_number": "A403892",
+      "name": "BOVISTA MERDDYN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-9-39",
+      "color_code": "Blk & tn",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Cardiff Fresh Lad",
+      "sire_reg": "A87783",
+      "dam_name": "O'Ba-Mac",
+      "dam_reg": "A25553",
+      "breeders": [
+        "Bouvista Royal Maiden"
+      ],
+      "owners": [
+        "Mrs. John G. Bovey",
+        "Clarke Green"
+      ]
+    },
+    {
+      "reg_number": "A399016",
+      "name": "BRIDESMAID",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-16-1939",
+      "color_code": "Blk & rust",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Hubbermans Jack",
+      "sire_reg": null,
+      "dam_name": "Brandts Princess Pat",
+      "dam_reg": null,
+      "breeders": [
+        "Brehm's South Braintree",
+        "Mass."
+      ],
+      "owners": [
+        "John Rogers"
+      ]
+    },
+    {
+      "reg_number": "A399655",
+      "name": "BO'S GENTLEMAN JIM",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-8-1939",
+      "color_code": "Blk, wh mkgs",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Harrison's Rozo Boy",
+      "sire_reg": "A209481",
+      "dam_name": "Sweet Sue",
+      "dam_reg": "A377142",
+      "breeders": [
+        "H. F. Wiswall",
+        "Santa Cruz",
+        "Calif."
+      ],
+      "owners": [
+        "Land W. Nelson"
+      ]
+    },
+    {
+      "reg_number": "A405781",
+      "name": "BUTCHER BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-23-1939",
+      "color_code": "Blk & tn",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Flashlad",
+      "sire_reg": "A172017",
+      "dam_name": "Peridene",
+      "dam_reg": "A264799",
+      "breeders": [
+        "Kingway Kennels",
+        "Denver",
+        "Colo."
+      ],
+      "owners": [
+        "W. E. Stremkgs."
+      ]
+    },
+    {
+      "reg_number": "A402959",
+      "name": "COCHTISE OF LINDA VISTA",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-31-1939",
+      "color_code": "Brdl",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Sherwall (A-201,794, Vol. 55)",
+      "sire_reg": "A201794",
+      "dam_name": "McCabe's Guilda",
+      "dam_reg": "A103298",
+      "breeders": [
+        "Sherwall Kennels",
+        "Walkill",
+        "N. Y."
+      ],
+      "owners": [
+        "Alice Patricia Peters"
+      ]
+    },
+    {
+      "reg_number": "A401198",
+      "name": "HERSHEY'S KING",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-20-1939",
+      "color_code": "Rd, blk on hd",
+      "breed": "Staffordshire Terrier",
+      "sire_name": "Crusader of Chevy Chase",
+      "sire_reg": "A304",
+      "dam_name": "Hershey's Black Imp",
+      "dam_reg": "A330212",
+      "breeders": [
+        "Stones' Duchess",
+        "Los Angeles",
+        "Calif."
+      ],
+      "owners": [
+        "Harold L. Hershey"
+      ]
+    }
+  ]
+}

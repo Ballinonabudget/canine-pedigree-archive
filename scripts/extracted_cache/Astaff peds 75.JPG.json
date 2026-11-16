@@ -1,0 +1,253 @@
+{
+  "breed": "Welsh Terriers",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R5131",
+      "name": "MUTZY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-14-44",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terriers",
+      "sire_name": "Novak's Mahoney's Molitant",
+      "sire_reg": "A769800",
+      "dam_name": "Dobb's Lady Deviltry",
+      "dam_reg": "A590102",
+      "breeders": [
+        "Dk. J. Bier"
+      ],
+      "owners": [
+        "Mrs. Betty Dobson"
+      ]
+    },
+    {
+      "reg_number": "R4117",
+      "name": "YOUNG BESS",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-16-44",
+      "color_code": "Black, white markings",
+      "breed": "Welsh Terriers",
+      "sire_name": "Ruffian Head Light",
+      "sire_reg": "Hal A586841",
+      "dam_name": "Blackthorn Banshee",
+      "dam_reg": "A618029",
+      "breeders": [
+        "Ward L. Calloway"
+      ],
+      "owners": [
+        "Leslie L. Coleman"
+      ]
+    },
+    {
+      "reg_number": "R1321",
+      "name": "NODLA'S GINGER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-17-44",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terriers",
+      "sire_name": "Strathglass Binge's Venture",
+      "sire_reg": "A587909",
+      "dam_name": "Twin Ponds Topsy",
+      "dam_reg": "A590406",
+      "breeders": [
+        "Natalie Geis"
+      ],
+      "owners": [
+        "Edward P. Alker"
+      ]
+    },
+    {
+      "reg_number": "R4720",
+      "name": "PENILLI'S RIPPER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-19-46",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terriers",
+      "sire_name": "Panorama",
+      "sire_reg": "A358006",
+      "dam_name": "Corbscot Kathy",
+      "dam_reg": "A899245",
+      "breeders": [
+        "Kenneth K. Buzby"
+      ],
+      "owners": [
+        "William G. Hancock"
+      ]
+    },
+    {
+      "reg_number": "R4556",
+      "name": "PORT FORTUNE QUEEN'S CHOICE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-3-42",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terriers",
+      "sire_name": "Senny Trim",
+      "sire_reg": "A409746",
+      "dam_name": "Windermere Queenie",
+      "dam_reg": "A217083",
+      "breeders": [
+        "Jean G. Hinkle"
+      ],
+      "owners": [
+        "Halcyon Kennels"
+      ]
+    },
+    {
+      "reg_number": "R4113",
+      "name": "AMAN SPITFIRE OF HALCYON",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-15-42",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terriers",
+      "sire_name": "Aman Supreme",
+      "sire_reg": "Felstead Duchess",
+      "dam_name": "Halcyon Kennels",
+      "dam_reg": null,
+      "breeders": [
+        "M. Clarke"
+      ],
+      "owners": [
+        "Halcyon Kennels"
+      ]
+    },
+    {
+      "reg_number": "R4114",
+      "name": "AMAN SUPERB AGAIN OF HALCYON",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-27-43",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terriers",
+      "sire_name": "Aman Supreme",
+      "sire_reg": "Halcyon Kennels",
+      "dam_name": "J. F. Hitchings",
+      "dam_reg": null,
+      "breeders": [
+        "Aman Tessina"
+      ],
+      "owners": [
+        "Halcyon Kennels"
+      ]
+    },
+    {
+      "reg_number": "R4247",
+      "name": "BACH-Y-RHYD BRIAR BIT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-5-42",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terriers",
+      "sire_name": "Hotpot Harriboy of Halcyon",
+      "sire_reg": "A399527",
+      "dam_name": "Talcyon Circe",
+      "dam_reg": "A99227",
+      "breeders": [
+        "Jean G. Hinkle"
+      ],
+      "owners": [
+        "Halcyon Kennels"
+      ]
+    },
+    {
+      "reg_number": "A805351",
+      "name": "RARIBIT ARABIT",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-9-44",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terriers",
+      "sire_name": "Briar Aratbit",
+      "sire_reg": "A737258",
+      "dam_name": "Wm. A. Atlee",
+      "dam_reg": null,
+      "breeders": [
+        "Leonard Brumby"
+      ],
+      "owners": [
+        "Leonard Brumby"
+      ]
+    },
+    {
+      "reg_number": "R4906",
+      "name": "PORT FORTUNE SEMPER FI",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-19-45",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terriers",
+      "sire_name": "Port Fortune Reliance",
+      "sire_reg": "A4557",
+      "dam_name": "Port Fortune Queen's Choice",
+      "dam_reg": "A44556",
+      "breeders": [
+        "Jean G. Hinkle"
+      ],
+      "owners": [
+        "Jean G. Hinkle"
+      ]
+    },
+    {
+      "reg_number": "R4973",
+      "name": "BROWN BETTY OF GRAYLOCK",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-15-45",
+      "color_code": "Black and brown",
+      "breed": "Welsh Terriers",
+      "sire_name": "That Brewster Boy of Graylock",
+      "sire_reg": "A695759",
+      "dam_name": "Alice of Graylock",
+      "dam_reg": "A692273",
+      "breeders": [
+        "Dr. & Mrs. Lester C. Grady"
+      ],
+      "owners": [
+        "Dr. & Mrs. Lester C. Grady"
+      ]
+    },
+    {
+      "reg_number": "R4967",
+      "name": "THORNWELSH",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-27-46",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terriers",
+      "sire_name": "Ch. Hook Mountain Swing",
+      "sire_reg": "50990",
+      "dam_name": "Ch. Hatham's Rymric",
+      "dam_reg": "R2514",
+      "breeders": [
+        "Redberry Kennels"
+      ],
+      "owners": [
+        "Redberry Kennels"
+      ]
+    },
+    {
+      "reg_number": "R4970",
+      "name": "REDBERRY PLAYWRIGHT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-27-46",
+      "color_code": "Black and tan",
+      "breed": "Welsh Terriers",
+      "sire_name": "Ch. Hook Mountain Swing",
+      "sire_reg": "50990",
+      "dam_name": "Ch. Hatham's Rymric",
+      "dam_reg": "R2514",
+      "breeders": [
+        "Redberry Kennels"
+      ],
+      "owners": [
+        "Redberry Kennels"
+      ]
+    }
+  ]
+}

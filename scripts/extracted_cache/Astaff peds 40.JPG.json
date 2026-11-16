@@ -1,0 +1,314 @@
+{
+  "breed": "American Staffordshire Terrier",
+  "date_header": "JUNE 23",
+  "dogs": [
+    {
+      "reg_number": "RM167931",
+      "name": "SAINT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-15-96",
+      "color_code": "BLK & TN",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CABIN HILL'S NICODEMUS",
+      "sire_reg": "RM096605",
+      "dam_name": "DRIVER'S SALTWATER TAFFY",
+      "dam_reg": "RM033654",
+      "breeders": [
+        "B BRENT"
+      ],
+      "owners": [
+        "B BRENT"
+      ]
+    },
+    {
+      "reg_number": "RM229026",
+      "name": "WOODRIVER'S HANNABELL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-11-98",
+      "color_code": "BLK & TN",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CABIN HILL'S NICODEMUS",
+      "sire_reg": "RM096605",
+      "dam_name": "DRIVER'S SALTWATER TAFFY",
+      "dam_reg": "RM033654",
+      "breeders": [
+        "B BRENT"
+      ],
+      "owners": [
+        "B BRENT"
+      ]
+    },
+    {
+      "reg_number": "RM197549",
+      "name": "AVALON'S AGENT COOPER",
+      "titles": "CD",
+      "sex": "D",
+      "birth_date": "6-29-90",
+      "color_code": "BRDL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH JEN MAR'S BLUE TIGER",
+      "sire_reg": "AB071448",
+      "dam_name": "BEAR MOUNTAIN FLASHPOINT",
+      "dam_reg": "RA837811",
+      "breeders": [
+        "S FOSTER"
+      ],
+      "owners": [
+        "S FOSTER"
+      ]
+    },
+    {
+      "reg_number": "RM233212",
+      "name": "BEAR MOUNTAIN SHILOH'S SONG",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-12-97",
+      "color_code": "AD WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH BEAR MOUNTAIN FLASHPOINT",
+      "sire_reg": "RA837811",
+      "dam_name": "BEAR MOUNTAIN SHILOH'S SONG",
+      "dam_reg": "RM002583",
+      "breeders": [
+        "T & J MCFANN",
+        "C NELSON & K DAVIS"
+      ],
+      "owners": [
+        "T & J MCFANN",
+        "C NELSON & K DAVIS"
+      ]
+    },
+    {
+      "reg_number": "RM186751",
+      "name": "CH SIERRA'S LIL MASKED RAIDER",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "7-17-96",
+      "color_code": "FN & WH BLK MSK W",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SIERRA'S LIL MASKED RAIDER",
+      "sire_reg": "RM144016",
+      "dam_name": "CH SIERRA'S LIL MASKED RAIDER",
+      "dam_reg": "RM144016",
+      "breeders": [
+        "R TAI",
+        "J TAI"
+      ],
+      "owners": [
+        "R TAI",
+        "J TAI"
+      ]
+    },
+    {
+      "reg_number": "RM186751",
+      "name": "CH SIERRA'S LIL MASKED RAIDER",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "7-17-96",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH SIERRA'S LIL MASKED RAIDER",
+      "sire_reg": "RM144016",
+      "dam_name": "CH SIERRA'S LIL MASKED RAIDER",
+      "dam_reg": "RM144016",
+      "breeders": [
+        "S POCOCK",
+        "J TAI"
+      ],
+      "owners": [
+        "S POCOCK",
+        "J TAI"
+      ]
+    },
+    {
+      "reg_number": "RM161733",
+      "name": "BRADBURN MAGGIE MAY AM I BLUE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-3-96",
+      "color_code": "BL & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH STORYTIME'S RHYTHM AND BLU",
+      "sire_reg": "RM067087",
+      "dam_name": "MAVERICK'S BACK TO THE FUTURE",
+      "dam_reg": "RM183226",
+      "breeders": [
+        "D BRADBURN",
+        "M MARTIN"
+      ],
+      "owners": [
+        "D BRADBURN",
+        "M MARTIN"
+      ]
+    },
+    {
+      "reg_number": "RM246372",
+      "name": "SIERRA'S MAVERICK IN THE FUTURE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-14-98",
+      "color_code": "WH BRDL PTS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "MAVERICK'S BACK TO THE FUTURE",
+      "sire_reg": "RM183226",
+      "dam_name": "EMPIRES'S BLUE AMANDA",
+      "dam_reg": "RM164660",
+      "breeders": [
+        "A BUTLER",
+        "W RAPHAEL & A BUTLER"
+      ],
+      "owners": [
+        "T BURNETT",
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM264854",
+      "name": "EMPIRE'S SHOW ME THE MONEY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-12-98",
+      "color_code": "BL & BRDL WH MKG",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "EMPIRE'S CHANCE TO SURVIVE",
+      "sire_reg": "RM224180",
+      "dam_name": "CH IRONHEART NUBIAN QUEEN",
+      "dam_reg": "RM154448",
+      "breeders": [
+        "B MARSCHALL & C VALENTINE",
+        "E T MAY & C VALENTINE"
+      ],
+      "owners": [
+        "B MARSCHALL & C VALENTINE",
+        "E T MAY & C VALENTINE"
+      ]
+    },
+    {
+      "reg_number": "RM250125",
+      "name": "IRONHEART PIRATE'S PLAYMATE",
+      "titles": "CD",
+      "sex": "D",
+      "birth_date": "7-16-96",
+      "color_code": "RD BRDL WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH CHIEF SITTING BULL CD",
+      "sire_reg": "RM090139",
+      "dam_name": "TAI'S SONG PSALMS",
+      "dam_reg": "RL756228",
+      "breeders": [
+        "K TAI",
+        "OWNER"
+      ],
+      "owners": [
+        "K TAI",
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM145314",
+      "name": "KING'S DAVID'S O'DAVIDA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-23-95",
+      "color_code": "BLK & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "NAZARETH'S FATTY BOY",
+      "sire_reg": "RM109661",
+      "dam_name": "CH DENMARS MYSTIC SAMSOARA",
+      "dam_reg": "RM184605",
+      "breeders": [
+        "E BRUBAKER",
+        "C WEAVER & D RUBENDALL"
+      ],
+      "owners": [
+        "W & E GRIFFIN",
+        "D BLACKMORE"
+      ]
+    },
+    {
+      "reg_number": "RM235499",
+      "name": "OMEGA KINGS GINGO BANDIDO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-10-98",
+      "color_code": "BRDL",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "CH OMEGA KINGS QUEST",
+      "sire_reg": "AM157627",
+      "dam_name": "CH OMEGA MINI MAG",
+      "dam_reg": "RM146767",
+      "breeders": [
+        "W & E GRIFFIN",
+        "D BLACKMORE"
+      ],
+      "owners": [
+        "C KMORE"
+      ]
+    },
+    {
+      "reg_number": "RM207184",
+      "name": "ORBAN'S SAMANTHA SNOW",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-18-97",
+      "color_code": "BLK BRDL & WH G BLA",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "ROYAL BLUE STORM TROOPER",
+      "sire_reg": "RM103438",
+      "dam_name": "ORBAN'S SAMANTHA SNOW",
+      "dam_reg": "RM110691",
+      "breeders": [
+        "E ORBAN",
+        "OWNER"
+      ],
+      "owners": [
+        "E ORBAN",
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM266823",
+      "name": "ORBAN'S CREAM DE COCOA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-2-99",
+      "color_code": "FN WH MKGS",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "ROYAL BLUE STORM TROOPER",
+      "sire_reg": "RM103438",
+      "dam_name": "ORBAN'S SAMANTHA SNOW",
+      "dam_reg": "RM110691",
+      "breeders": [
+        "E ORBAN",
+        "OWNER"
+      ],
+      "owners": [
+        "E ORBAN",
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM194824",
+      "name": "PARAGON CHARM'S CHARISMA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-16-96",
+      "color_code": "FN & WH",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "PARAGON BOND J. BOND",
+      "sire_reg": "AM158311",
+      "dam_name": "PARAGON SPELLBINDER'S CHARM",
+      "dam_reg": "AM124121",
+      "breeders": [
+        "E & W GRIFFIN",
+        "C GRAVES"
+      ],
+      "owners": [
+        "E & W GRIFFIN",
+        "C GRAVES"
+      ]
+    }
+  ]
+}

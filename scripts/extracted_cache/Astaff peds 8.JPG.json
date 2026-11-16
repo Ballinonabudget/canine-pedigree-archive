@@ -1,0 +1,891 @@
+{
+  "breed": "Scottish Terriers",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "R108148",
+      "name": "Patricia's Princess",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-8-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Robert's Remus R54736",
+      "sire_reg": "R54736",
+      "dam_name": "Loretta's Tippy R80234",
+      "dam_reg": "R80234",
+      "breeders": [
+        "Fannie L. Sample"
+      ],
+      "owners": [
+        "O. D. Stephens"
+      ]
+    },
+    {
+      "reg_number": "R126999",
+      "name": "gii II",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-31-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "McTavish XVIII R57202",
+      "sire_reg": "R57202",
+      "dam_name": "Sheilings Penny R18334",
+      "dam_reg": "R18334",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Eldor A. Johnson"
+      ]
+    },
+    {
+      "reg_number": "R18285",
+      "name": "pey P",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-1-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Inky Black Magic R90447",
+      "sire_reg": "R90447",
+      "dam_name": "Lady Victoria o'Aikenside R67341",
+      "dam_reg": "R67341",
+      "breeders": [
+        "Mrs. Garth W. Slate"
+      ],
+      "owners": [
+        "Lloyd G. Rutledge"
+      ]
+    },
+    {
+      "reg_number": "R115849",
+      "name": "er The Great o'Aikenside",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-4-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Hibank Juggernaut R4499",
+      "sire_reg": "R4499",
+      "dam_name": "Friskie II R55982",
+      "dam_reg": "R55982",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mrs. Ray Aikens"
+      ]
+    },
+    {
+      "reg_number": "R103609",
+      "name": "er Laurie MacBeth",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-22-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Sandy Mc Donald VIII R58629",
+      "sire_reg": "R58629",
+      "dam_name": "Am-Er-Scotch Stylist R71485",
+      "dam_reg": "R71485",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "James E. Austin, Jr."
+      ]
+    },
+    {
+      "reg_number": "R102340",
+      "name": "-A-Bash Miss Dalriada",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-6-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Am-Er-Scotch Lord Ben'Ary R80375",
+      "sire_reg": "R80375",
+      "dam_name": "Honeymoon's Model R2475",
+      "dam_reg": "R2475",
+      "breeders": [
+        "Goldie I. Seagraves"
+      ],
+      "owners": [
+        "John F. Root"
+      ]
+    },
+    {
+      "reg_number": "R128607",
+      "name": "rdolph Mac Donald",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-26-46",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Rascal Sun of Hillcote Model A442359",
+      "sire_reg": "A442359",
+      "dam_name": "Ch. Blanart Bouquet R41001",
+      "dam_reg": "R41001",
+      "breeders": [
+        "Mrs. Edna Corson"
+      ],
+      "owners": [
+        "Donald D. Willis"
+      ]
+    },
+    {
+      "reg_number": "R98059",
+      "name": "noch-Dune Rosette",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-21-51",
+      "color_code": "Brdl",
+      "breed": "Scottish Terrier",
+      "sire_name": "Ch. Edgerstoune Troubadour R63663",
+      "sire_reg": "R63663",
+      "dam_name": "Jenks' Little Dickens R83253",
+      "dam_reg": "R83253",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Clare W. Loew"
+      ]
+    },
+    {
+      "reg_number": "R111180",
+      "name": "bie's Little Black Cinders",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-20-52",
+      "color_code": "Blk brdl",
+      "breed": "Scottish Terrier",
+      "sire_name": "Mac R's Mariner R63064",
+      "sire_reg": "R63064",
+      "dam_name": "Rohrer's Bonnie Lassie R40979",
+      "dam_reg": "R40979",
+      "breeders": [
+        "Gladys Hamel & Bonnie Ree"
+      ],
+      "owners": [
+        "Mr. & Mrs. R. D. Griffiths"
+      ]
+    },
+    {
+      "reg_number": "R128630",
+      "name": "rer's Little Bonnie",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-24-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Rustic Auld Lang Syne R80104",
+      "sire_reg": "R80104",
+      "dam_name": "Haycliff Hyacinth R92725",
+      "dam_reg": "R92725",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Clarence W. Easterday"
+      ]
+    },
+    {
+      "reg_number": "R132164",
+      "name": "sie",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-7-52",
+      "color_code": "Brdl",
+      "breed": "Scottish Terrier",
+      "sire_name": "Haycliff High Ideal R60584",
+      "sire_reg": "R60584",
+      "dam_name": "Scotbart Starmist R75851",
+      "dam_reg": "R75851",
+      "breeders": [
+        "Haycliff Kennels"
+      ],
+      "owners": [
+        "Mr. & Mrs. H. Traylor"
+      ]
+    },
+    {
+      "reg_number": "R113678",
+      "name": "tbart Top Brass",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-29-53",
+      "color_code": "Blk brdl",
+      "breed": "Scottish Terrier",
+      "sire_name": "Ch. Trevone Tartar of Bothkennar R38429",
+      "sire_reg": "R38429",
+      "dam_name": "Bon Doon R99016 3-53",
+      "dam_reg": "R99016",
+      "breeders": [
+        "Mrs. B. W. Matthews"
+      ],
+      "owners": [
+        "Mrs. Barton R. Scott"
+      ]
+    },
+    {
+      "reg_number": "R106306",
+      "name": "t McGinnis",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-6-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Jock Mcintosh II R63351",
+      "sire_reg": "R63351",
+      "dam_name": "Atomic Lassie R87564",
+      "dam_reg": "R87564",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Betty M. Petersen"
+      ]
+    },
+    {
+      "reg_number": "R116401",
+      "name": "ttiewood Donny Gold",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-30-52",
+      "color_code": "Whtn",
+      "breed": "Scottish Terrier",
+      "sire_name": "Clinch Mt. Gold Flash R62981",
+      "sire_reg": "R62981",
+      "dam_name": "Bronwen of Scottiewood R77750",
+      "dam_reg": "R77750",
+      "breeders": [
+        "Mrs. Henry L. Arnold"
+      ],
+      "owners": [
+        "Marjorie F. Conover"
+      ]
+    },
+    {
+      "reg_number": "R103179",
+      "name": "ttiewood Gay Dusty",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-28-52",
+      "color_code": "Brdl",
+      "breed": "Scottish Terrier",
+      "sire_name": "Smokie Kuhlman R89221",
+      "sire_reg": "R89221",
+      "dam_name": "Mione Macmer R102276",
+      "dam_reg": "R102276",
+      "breeders": [
+        "Florence M. Hooper"
+      ],
+      "owners": [
+        "John J. White"
+      ]
+    },
+    {
+      "reg_number": "R122987",
+      "name": "tty Boy Macmer",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-16-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Scotty Duke Macmer R37143",
+      "sire_reg": "R37143",
+      "dam_name": "Rose of San Antone R100594",
+      "dam_reg": "R100594",
+      "breeders": [
+        "Harry F. Igleheart"
+      ],
+      "owners": [
+        "L. J. & T. A. Bayless"
+      ]
+    },
+    {
+      "reg_number": "R119287",
+      "name": "tty's Highland Lass",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-10-53",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Alzafar Tinker R99970",
+      "sire_reg": "R99970",
+      "dam_name": "Jayne's Jocksie Jill A839581",
+      "dam_reg": "A839581",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Porter H. Watson"
+      ]
+    },
+    {
+      "reg_number": "R125620",
+      "name": "tty Potty of Killke",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-4-50",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Lord Kirk A732446",
+      "sire_reg": "A732446",
+      "dam_name": "Rag-A-Bansh Bridget R88726",
+      "dam_reg": "R88726",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Bertha Biltgen"
+      ]
+    },
+    {
+      "reg_number": "R108331",
+      "name": "graves Anchor Man",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-10-52",
+      "color_code": "Blk brdl",
+      "breed": "Scottish Terrier",
+      "sire_name": "Ch. Edgerstoune Troubadour R63663",
+      "sire_reg": "R63663",
+      "dam_name": "Shawnee Abigail R76541",
+      "dam_reg": "R76541",
+      "breeders": [
+        "Glenna K. Unangst"
+      ],
+      "owners": [
+        "Goldie I. Seagraves"
+      ]
+    },
+    {
+      "reg_number": "R105570",
+      "name": "wnee Miss Sirius",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-26-52",
+      "color_code": "Brdl",
+      "breed": "Scottish Terrier",
+      "sire_name": "Ch. Gillele Script Wrockwardine Sirius R73451",
+      "sire_reg": "R73451",
+      "dam_name": "Lady Bur Head R43516",
+      "dam_reg": "R43516",
+      "breeders": [
+        "Thad T. Shank"
+      ],
+      "owners": [
+        "Mrs. William J. Worcester"
+      ]
+    },
+    {
+      "reg_number": "R113252",
+      "name": "Douglas Angus McTavish",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-19-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Sir Henry Tarbrush R12812",
+      "sire_reg": "R12812",
+      "dam_name": "Woodhart Winning Lady A789581",
+      "dam_reg": "A789581",
+      "breeders": [
+        "Melvina H. Belieu"
+      ],
+      "owners": [
+        "Gerald V. R. Walker"
+      ]
+    },
+    {
+      "reg_number": "R108592",
+      "name": "Mac Skooter o' Franluart",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-10-52",
+      "color_code": "Blk & slvr",
+      "breed": "Scottish Terrier",
+      "sire_name": "Kinshadows Pippin R100312",
+      "sire_reg": "R100312",
+      "dam_name": "Teala's Tippy-Tin R29771",
+      "dam_reg": "R29771",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "A. L. & L. M. Provancher"
+      ]
+    },
+    {
+      "reg_number": "R125289",
+      "name": "per's Black Rowdy",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-16-53",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Cachiri's Skipper of Woodlea R43524",
+      "sire_reg": "R43524",
+      "dam_name": "Verna A887623",
+      "dam_reg": "A887623",
+      "breeders": [
+        "Mrs. Josie K. Isleib"
+      ],
+      "owners": [
+        "Mrs. Josie K. Isleib"
+      ]
+    },
+    {
+      "reg_number": "R101080",
+      "name": "King's Heather Lass",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-14-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Trademark's Sky King R13700",
+      "sire_reg": "R13700",
+      "dam_name": "Chloe Black Gal R89293",
+      "dam_reg": "R89293",
+      "breeders": [
+        "Maude M. Godown"
+      ],
+      "owners": [
+        "L. D. Bryan"
+      ]
+    },
+    {
+      "reg_number": "R118629",
+      "name": "-Dust V",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-14-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Tar's Black Raven R90358",
+      "sire_reg": "R90358",
+      "dam_name": "Irvine's Annie Laurie R64752",
+      "dam_reg": "R64752",
+      "breeders": [
+        "William Irvine"
+      ],
+      "owners": [
+        "Doris M. Johnson"
+      ]
+    },
+    {
+      "reg_number": "R129582",
+      "name": "ecdale Scotch Laurie",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-11-50",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Stockdale Scotch Warrior R34131",
+      "sire_reg": "R34131",
+      "dam_name": "Snifter of Heather Heath R112540",
+      "dam_reg": "R112540",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "C. B. Van Meter"
+      ]
+    },
+    {
+      "reg_number": "R113754",
+      "name": "nt Hearted Angus",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-13-51",
+      "color_code": "Blk brdl",
+      "breed": "Scottish Terrier",
+      "sire_name": "Anchor v Gondelteich Oels R113753",
+      "sire_reg": "R113753",
+      "dam_name": "Strathkirk's Souvenir R79338",
+      "dam_reg": "R79338",
+      "breeders": [
+        "Strathkirk Kennels"
+      ],
+      "owners": [
+        "Diane Wenck"
+      ]
+    },
+    {
+      "reg_number": "R120052",
+      "name": "athkirk's Spar",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-26-52",
+      "color_code": "Blk brdl",
+      "breed": "Scottish Terrier",
+      "sire_name": "Ch. Relgalf Rebel Dictator A728530",
+      "sire_reg": "A728530",
+      "dam_name": "Cuttysart Sassy Sue R76662",
+      "dam_reg": "R76662",
+      "breeders": [
+        "Mr. & Mrs. Harry W. Hall"
+      ],
+      "owners": [
+        "Olga A. Ditton"
+      ]
+    },
+    {
+      "reg_number": "R115218",
+      "name": "ie MacDougal",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-20-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Ch. Kinclaven Fortissimo R62642",
+      "sire_reg": "R62642",
+      "dam_name": "Wee-Mac's Pin-Up Girl A974076",
+      "dam_reg": "A974076",
+      "breeders": [
+        "Margaret B. Sylvester"
+      ],
+      "owners": [
+        "Mrs. Harold Alber"
+      ]
+    },
+    {
+      "reg_number": "R109930",
+      "name": "ourn Bonnie Wee Braggart",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-7-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Ch. Syl-Von's Sirius R94467",
+      "sire_reg": "R94467",
+      "dam_name": "Molly O'Mischief A887494",
+      "dam_reg": "A887494",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "John P. Kelser"
+      ]
+    },
+    {
+      "reg_number": "R97377",
+      "name": "vera's Timothy",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-29-50",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Laddie of Moorland R18027",
+      "sire_reg": "R18027",
+      "dam_name": "Willmoor Diana A889402",
+      "dam_reg": "A889402",
+      "breeders": [
+        "Claude F. Sanders"
+      ],
+      "owners": [
+        "Mrs. Harold Alber"
+      ]
+    },
+    {
+      "reg_number": "R111021",
+      "name": "nmie Carlisle",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-20-51",
+      "color_code": "Brdl",
+      "breed": "Scottish Terrier",
+      "sire_name": "Fala VII R43255",
+      "sire_reg": "R43255",
+      "dam_name": "Clinch Mt. Black Damsel R91334",
+      "dam_reg": "R91334",
+      "breeders": [
+        "Timothy Killiard"
+      ],
+      "owners": [
+        "Edward Tappe"
+      ]
+    },
+    {
+      "reg_number": "R121166",
+      "name": "-Baby's Pride",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-15-53",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Clinch Mt. Grey Ghost R109200",
+      "sire_reg": "R109200",
+      "dam_name": "Nutmeg Thistlebloom R35271",
+      "dam_reg": "R35271",
+      "breeders": [
+        "Agnes W. Nyberg"
+      ],
+      "owners": [
+        "Mary W. Nierintz"
+      ]
+    },
+    {
+      "reg_number": "R116955",
+      "name": "stle Girl",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-11-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Killiard's Laddy Boy R23222",
+      "sire_reg": "R23222",
+      "dam_name": "Egressa Truth R9631",
+      "dam_reg": "R9631",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mrs. Josie K. Isleib"
+      ]
+    },
+    {
+      "reg_number": "R112403",
+      "name": "ker tartan of Glencairn",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-12-51",
+      "color_code": "Blk & brdl",
+      "breed": "Scottish Terrier",
+      "sire_name": "MacDougal of Irongray R29921",
+      "sire_reg": "R29921",
+      "dam_name": "Teala's Tippy-Tin R29771",
+      "dam_reg": "R29771",
+      "breeders": [
+        "Joe A. Medcalf"
+      ],
+      "owners": [
+        "L. B. & Dr. C. P. Marvin"
+      ]
+    },
+    {
+      "reg_number": "R125290",
+      "name": "py's Black Cindy",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-16-53",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Cachiri's Skipper of Woodlea R43524",
+      "sire_reg": "R43524",
+      "dam_name": "Cinderella Sue II R17845",
+      "dam_reg": "R17845",
+      "breeders": [
+        "Mr. & Mrs. Wm. H. Sheirbu"
+      ],
+      "owners": [
+        "Mrs. Wanda K. Sutley"
+      ]
+    },
+    {
+      "reg_number": "R129024",
+      "name": "sy Dandy of Charbelisa",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-11-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "MacAdoodle Dandy of Maybank R69066",
+      "sire_reg": "R69066",
+      "dam_name": "Friendship Farm Surprise R80967",
+      "dam_reg": "R80967",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "H. J. Trinder, Jr."
+      ]
+    },
+    {
+      "reg_number": "R106424",
+      "name": "- Raven",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-15-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Cyclone of Gleezencrest R39014",
+      "sire_reg": "R39014",
+      "dam_name": "Trinder's Highland Fling R125446 6-54",
+      "dam_reg": "R125446",
+      "breeders": [
+        "Bonnie Brown"
+      ],
+      "owners": [
+        "H. J. Trinder, Jr."
+      ]
+    },
+    {
+      "reg_number": "R128917",
+      "name": "nder's En Guarde",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-7-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Whitaker's Cheif Investigator R84308",
+      "sire_reg": "R84308",
+      "dam_name": "Action Hill's Black Lassie R60163",
+      "dam_reg": "R60163",
+      "breeders": [
+        "W. H. Carson"
+      ],
+      "owners": [
+        "Janice Frady"
+      ]
+    },
+    {
+      "reg_number": "R124446",
+      "name": "nder's Highland Fling",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-24-50",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Stylist o' the Moor R55305",
+      "sire_reg": "R55305",
+      "dam_name": "Caledonia VI R58769",
+      "dam_reg": "R58769",
+      "breeders": [
+        "Mr. & Mrs. Walter T. Nicho"
+      ],
+      "owners": [
+        "W. T. Nichol & H. Haig"
+      ]
+    },
+    {
+      "reg_number": "R103092",
+      "name": "mpan",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-31-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Lochleyoch Limerick R44715",
+      "sire_reg": "R44715",
+      "dam_name": "Garthights Sprig o' Holly R76364",
+      "dam_reg": "R76364",
+      "breeders": [
+        "Maurice A. Rynerson"
+      ],
+      "owners": [
+        "Bessie & Fred Sheradin"
+      ]
+    },
+    {
+      "reg_number": "R114692",
+      "name": "har What-A-Guy",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-20-52",
+      "color_code": "Brdl",
+      "breed": "Scottish Terrier",
+      "sire_name": "Haig and Haig Prince Charles R103223",
+      "sire_reg": "R103223",
+      "dam_name": "Mrs. MacElfoch R85046",
+      "dam_reg": "R85046",
+      "breeders": [
+        "Georgia F. Thompson"
+      ],
+      "owners": [
+        "Betty Ann White"
+      ]
+    },
+    {
+      "reg_number": "R104166",
+      "name": " Bonnie IX",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-8-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Lochnagar Duffy R89111",
+      "sire_reg": "R89111",
+      "dam_name": "Topsie Too R45893",
+      "dam_reg": "R45893",
+      "breeders": [
+        "Margaret B. Menard"
+      ],
+      "owners": [
+        "Mrs. Ben Clouser"
+      ]
+    },
+    {
+      "reg_number": "R109116",
+      "name": "te's Mrs. MacDust",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-18-52",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Ridge Pike Salute R97569",
+      "sire_reg": "R97569",
+      "dam_name": "Alscott Bonnie Brae R69925",
+      "dam_reg": "R69925",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "J. H. Burns & I. V. Conway"
+      ]
+    },
+    {
+      "reg_number": "R127696",
+      "name": "ady Hill's Betsey",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-15-51",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Ayerscastle Raven Pee-Wee R69931",
+      "sire_reg": "R69931",
+      "dam_name": "Windy Hill's Pepper R15807",
+      "dam_reg": "R15807",
+      "breeders": [
+        "W. Berry"
+      ],
+      "owners": [
+        "James V. Robinson"
+      ]
+    },
+    {
+      "reg_number": "R99072",
+      "name": "ndy's Hill's Croissant",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-4-51",
+      "color_code": "Blk",
+      "breed": "Scottish Terrier",
+      "sire_name": "Lynock's Whispering Cavalier R86613",
+      "sire_reg": "R86613",
+      "dam_name": "Wyrebury Wild Jig*",
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    },
+    {
+      "reg_number": "R130704",
+      "name": "rebury Worthwhile (Eng.)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-4-51",
+      "color_code": "Blk brdl",
+      "breed": "Scottish Terrier",
+      "sire_name": "Wyrebury Welldoer*",
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": []
+    }
+  ]
+}

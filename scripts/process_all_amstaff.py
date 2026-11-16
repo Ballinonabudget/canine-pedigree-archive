@@ -76,7 +76,7 @@ def process_page(file_path: str, max_retries: int = 5) -> StudBookPage:
     for attempt in range(max_retries):
         try:
             response = client.models.generate_content(
-                model="gemini-3.8-flash",
+                model="gemini-3.5-flash-lite",
                 contents=[upright_im, STUD_BOOK_PROMPT],
                 config=types.GenerateContentConfig(
                     response_mime_type="application/json",
@@ -148,8 +148,8 @@ def run_batch():
             success_count += 1
             total_dogs_batch += len(page.dogs)
             print(f"DONE (+{len(page.dogs)} dogs)")
-            # Small pace pause to keep comfortably within rate limits
-            time.sleep(1.0)
+            # Polite pace pause to prevent rate limits and eliminate 429 errors
+            time.sleep(2.5)
         except Exception as e:
             error_count += 1
             err_msg = f"{bname}: {str(e)}"

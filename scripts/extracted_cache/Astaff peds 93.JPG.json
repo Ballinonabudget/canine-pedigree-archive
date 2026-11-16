@@ -1,0 +1,864 @@
+{
+  "breed": "Sealyham Terrier",
+  "date_header": "August 1947",
+  "dogs": [
+    {
+      "reg_number": "R21025",
+      "name": "LLEWELLYN BESS O' STONEY BROOK",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-10-42",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Hampton Hill High Light",
+      "sire_reg": "A492707",
+      "dam_name": "Llewellyn Lass",
+      "dam_reg": "A456530",
+      "breeders": [
+        "Susan B. Andrews"
+      ],
+      "owners": [
+        "Polly B. Andrews",
+        "Mary J. White"
+      ]
+    },
+    {
+      "reg_number": "R20710",
+      "name": "LLEWELLYN FASHION QUEEN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-5-46",
+      "color_code": "White, tan head markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Overhill Llewellyn",
+      "sire_reg": "A703291",
+      "dam_name": "Sni-A-Bar Fashion",
+      "dam_reg": "A358162",
+      "breeders": [
+        "Lloyd G. Hanley"
+      ],
+      "owners": [
+        "Mrs. Wm. Seebold"
+      ]
+    },
+    {
+      "reg_number": "R21001",
+      "name": "NETHEREDGE RESOLVE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-2-46",
+      "color_code": "White, badger head marking",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ribston Resultant",
+      "sire_reg": "R7468",
+      "dam_name": "Netheredge Christmas Rose",
+      "dam_reg": null,
+      "breeders": [
+        "Mrs. Amy L. Bacon"
+      ],
+      "owners": [
+        "Mrs. V. Saunders"
+      ]
+    },
+    {
+      "reg_number": "R20045",
+      "name": "OVERHILL HIGH HOPES",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-19-47",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Overhill On Top",
+      "sire_reg": "A215970",
+      "dam_name": "Overhill Queen of Hearts",
+      "dam_reg": "A522962",
+      "breeders": [
+        "Mr. & Mrs. Earl W. Price"
+      ],
+      "owners": [
+        "Mr. & Mrs. William M. Kirby"
+      ]
+    },
+    {
+      "reg_number": "R20042",
+      "name": "OVERHILL HILARY II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-19-47",
+      "color_code": "White, badger on eye",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Overhill On Top",
+      "sire_reg": "A215970",
+      "dam_name": "Overhill Queen of Hearts",
+      "dam_reg": "A522962",
+      "breeders": [
+        "Phillip R. Lord"
+      ],
+      "owners": [
+        "Mr. & Mrs. William M. Kirby"
+      ]
+    },
+    {
+      "reg_number": "R20044",
+      "name": "OVERHILL HILDEGARDE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-19-47",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Overhill On Top",
+      "sire_reg": "A215970",
+      "dam_name": "Overhill Queen of Hearts",
+      "dam_reg": "A522962",
+      "breeders": [
+        "Mrs. E. T. Beall"
+      ],
+      "owners": [
+        "Mr. & Mrs. William M. Kirby"
+      ]
+    },
+    {
+      "reg_number": "R20043",
+      "name": "OVERHILL TOP HAT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-19-47",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Overhill On Top",
+      "sire_reg": "A215970",
+      "dam_name": "Overhill Queen of Hearts",
+      "dam_reg": "A522962",
+      "breeders": [
+        "Mrs. Inga Hill Steele"
+      ],
+      "owners": [
+        "Mr. & Mrs. William M. Kirby"
+      ]
+    },
+    {
+      "reg_number": "R20474",
+      "name": "PETER V",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-24-46",
+      "color_code": "White, light tan marking",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Railec Resolute",
+      "sire_reg": "A728667",
+      "dam_name": "Croglin Linda",
+      "dam_reg": "A719702",
+      "breeders": [
+        "Mrs. L. C. Powell"
+      ],
+      "owners": [
+        "Gaines Food Co., Inc."
+      ]
+    },
+    {
+      "reg_number": "R21401",
+      "name": "POISON IVY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-18-46",
+      "color_code": "White, badger head markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Robin Hill Corsair",
+      "sire_reg": "A788540",
+      "dam_name": "Little Ivy Katie",
+      "dam_reg": "A880639",
+      "breeders": [
+        "Dorothy M. Merten"
+      ],
+      "owners": [
+        "Mrs. Tom Martin"
+      ]
+    },
+    {
+      "reg_number": "R20684",
+      "name": "RAGGED ROBIN OF WOODWELL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-31-47",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Robin Hill Grenadier",
+      "sire_reg": "A673236",
+      "dam_name": "Nanette of Woodwell",
+      "dam_reg": "A816461",
+      "breeders": [
+        "Frances F. Wells"
+      ],
+      "owners": [
+        "Frances F. Wells"
+      ]
+    },
+    {
+      "reg_number": "R20991",
+      "name": "REGGID RATER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-1-45",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Robin Hill Destroyer",
+      "sire_reg": "A324235",
+      "dam_name": "Reggid Refrain",
+      "dam_reg": "A640591",
+      "breeders": [
+        "Nancy F. Lawler"
+      ],
+      "owners": [
+        "Mr. & Mrs. James E. Lawler"
+      ]
+    },
+    {
+      "reg_number": "R21002",
+      "name": "RIBSTON ROSALEEN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-19-46",
+      "color_code": "White, badger head marking",
+      "breed": "Sealyham Terrier",
+      "sire_name": "St. Margaret Statesman",
+      "sire_reg": null,
+      "dam_name": "Ribston Roseleaf",
+      "dam_reg": null,
+      "breeders": [
+        "Mrs. Amy L. Bacon"
+      ],
+      "owners": [
+        "Mrs. J. Cooper Bowler"
+      ]
+    },
+    {
+      "reg_number": "R20534",
+      "name": "RINKLESTONE RED CLIPPER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-11-47",
+      "color_code": "White, badger tan marking",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Oxwich Air Marshall",
+      "sire_reg": "A622566",
+      "dam_name": "Ch. Rinklestone Red Snow",
+      "dam_reg": "A534599",
+      "breeders": [
+        "M. Thelma Miller"
+      ],
+      "owners": [
+        "M. Thelma Miller"
+      ]
+    },
+    {
+      "reg_number": "R20533",
+      "name": "RINKLESTONE RED SLIPPER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-11-47",
+      "color_code": "White, badger tan marking",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Oxwich Air Marshall",
+      "sire_reg": "A622566",
+      "dam_name": "Ch. Rinklestone Red Snow",
+      "dam_reg": "A534599",
+      "breeders": [
+        "M. Thelma Miller"
+      ],
+      "owners": [
+        "M. Thelma Miller"
+      ]
+    },
+    {
+      "reg_number": "R21234",
+      "name": "ROBIN HILL ADONIS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-20-47",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Robin Hill Hit Parade",
+      "sire_reg": "A751463",
+      "dam_name": "Robin Hill Jonquil",
+      "dam_reg": "A856461",
+      "breeders": [
+        "Mrs. Robert B. Choate"
+      ],
+      "owners": [
+        "Mrs. Robert B. Choate"
+      ]
+    },
+    {
+      "reg_number": "R21233",
+      "name": "ROBIN HILL APOLLO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-20-47",
+      "color_code": "White, badger head markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Robin Hill Hit Parade",
+      "sire_reg": "A751463",
+      "dam_name": "Robin Hill Jonquil",
+      "dam_reg": "A856461",
+      "breeders": [
+        "Mrs. Robert B. Choate"
+      ],
+      "owners": [
+        "Mrs. Robert B. Choate"
+      ]
+    },
+    {
+      "reg_number": "R21230",
+      "name": "ROBIN HILL BACAROLLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-20-47",
+      "color_code": "White, badger on eye",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Robin Hill Hit Parade",
+      "sire_reg": "A751463",
+      "dam_name": "Robin Hill Jonquil",
+      "dam_reg": "A856461",
+      "breeders": [
+        "Mrs. Robert B. Choate"
+      ],
+      "owners": [
+        "Mrs. Robert B. Choate"
+      ]
+    },
+    {
+      "reg_number": "R21232",
+      "name": "ROBIN HILL CAROL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-20-47",
+      "color_code": "White, badger head markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Robin Hill Hit Parade",
+      "sire_reg": "A751463",
+      "dam_name": "Robin Hill Jonquil",
+      "dam_reg": "A856461",
+      "breeders": [
+        "Mrs. Robert B. Choate"
+      ],
+      "owners": [
+        "Mrs. Robert B. Choate"
+      ]
+    },
+    {
+      "reg_number": "R21235",
+      "name": "ROBIN HILL CHORISTER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-20-47",
+      "color_code": "White, badger markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Robin Hill Hit Parade",
+      "sire_reg": "A751463",
+      "dam_name": "Robin Hill Jonquil",
+      "dam_reg": "A856461",
+      "breeders": [
+        "Mrs. Robert B. Choate"
+      ],
+      "owners": [
+        "Mrs. Robert B. Choate"
+      ]
+    },
+    {
+      "reg_number": "R21229",
+      "name": "ROBIN HILL MEDLEY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-20-47",
+      "color_code": "White, tan on eye",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Robin Hill Hit Parade",
+      "sire_reg": "A751463",
+      "dam_name": "Robin Hill Jonquil",
+      "dam_reg": "A856461",
+      "breeders": [
+        "Mrs. Robert B. Choate"
+      ],
+      "owners": [
+        "Mrs. Robert B. Choate"
+      ]
+    },
+    {
+      "reg_number": "R21231",
+      "name": "ROBIN HILL PRELUDE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-20-47",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Robin Hill Hit Parade",
+      "sire_reg": "A751463",
+      "dam_name": "Robin Hill Jonquil",
+      "dam_reg": "A856461",
+      "breeders": [
+        "Mrs. Robert B. Choate"
+      ],
+      "owners": [
+        "Mrs. Robert B. Choate"
+      ]
+    },
+    {
+      "reg_number": "R20116",
+      "name": "SEAMUS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-14-45",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Croglin Commando",
+      "sire_reg": "A753234",
+      "dam_name": "Croglin Comfort",
+      "dam_reg": "A617362",
+      "breeders": [
+        "Richard & Virginia Furness"
+      ],
+      "owners": [
+        "Helen M. Schweinler"
+      ]
+    },
+    {
+      "reg_number": "R21211",
+      "name": "SHORTY PANTS ELMER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-26-46",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Reggid Desperado",
+      "sire_reg": "A880081",
+      "dam_name": "Rachel Annette",
+      "dam_reg": "R3037",
+      "breeders": [
+        "Liona N. Parsons"
+      ],
+      "owners": [
+        "Liona N. Parsons"
+      ]
+    },
+    {
+      "reg_number": "R21411",
+      "name": "SUSHASTA LADY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-1-46",
+      "color_code": "White and badger",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Etherden's Shindy Serene",
+      "sire_reg": "A813787",
+      "dam_name": "Shasta Snow Lady",
+      "dam_reg": "A944994",
+      "breeders": [
+        "L. Frankdrow"
+      ],
+      "owners": [
+        "L. Frankdrow"
+      ]
+    },
+    {
+      "reg_number": "R20989",
+      "name": "THE SQUIRT OF ALVIN FARM",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-28-46",
+      "color_code": "White, tan head marking",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Jungle Peter of Bolescot",
+      "sire_reg": "A818473",
+      "dam_name": "West Millgrove's Queen",
+      "dam_reg": null,
+      "breeders": [
+        "Mr. & Mrs. Rolfe N. Bolster"
+      ],
+      "owners": [
+        "Louis B. Mason"
+      ]
+    },
+    {
+      "reg_number": "R20791",
+      "name": "WALESHIRE'S PIED PIPER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-15-46",
+      "color_code": "White, dark markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Walgil Question Mark",
+      "sire_reg": "A796455",
+      "dam_name": "Cedar Root Cookie Jar",
+      "dam_reg": null,
+      "breeders": [
+        "Mrs. H. Eugene Myers"
+      ],
+      "owners": [
+        "Mr. & Mrs. W. J. Young, Jr."
+      ]
+    },
+    {
+      "reg_number": "R20685",
+      "name": "WOODWELL IRRESISTIBLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-31-47",
+      "color_code": "White, badger head markings",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Robin Hill Grenadier",
+      "sire_reg": "A673236",
+      "dam_name": "Nanette of Woodwell",
+      "dam_reg": "A816461",
+      "breeders": [
+        "Frances F. Wells"
+      ],
+      "owners": [
+        "Frances F. Wells"
+      ]
+    },
+    {
+      "reg_number": "R20687",
+      "name": "WOODWELL MEREDITH",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-31-47",
+      "color_code": null,
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Robin Hill Grenadier",
+      "sire_reg": "A673236",
+      "dam_name": "Nanette of Woodwell",
+      "dam_reg": "A816461",
+      "breeders": [
+        "Frances F. Wells"
+      ],
+      "owners": [
+        "Frances F. Wells"
+      ]
+    },
+    {
+      "reg_number": "R20686",
+      "name": "WOODWELL MIGNON",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-31-47",
+      "color_code": "White",
+      "breed": "Sealyham Terrier",
+      "sire_name": "Ch. Robin Hill Grenadier",
+      "sire_reg": "A673236",
+      "dam_name": "Nanette of Woodwell",
+      "dam_reg": "A816461",
+      "breeders": [
+        "Frances F. Wells"
+      ],
+      "owners": [
+        "Frances F. Wells"
+      ]
+    },
+    {
+      "reg_number": "R20126",
+      "name": "F. ANITA'S JUDY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-1-46",
+      "color_code": "Blue",
+      "breed": "Skye Terrier",
+      "sire_name": "The Deacon of Arreton",
+      "sire_reg": "A35252",
+      "dam_name": "Chump's Little Lady of Talisker",
+      "dam_reg": "A833199",
+      "breeders": [
+        "Earl H. Fuller"
+      ],
+      "owners": [
+        "F. Anita Fuller"
+      ]
+    },
+    {
+      "reg_number": "R20589",
+      "name": "NOEL OF LETTS-DHU",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-1-46",
+      "color_code": "Black and tan",
+      "breed": "Skye Terrier",
+      "sire_name": "Light Cloud of Letts-Dhu",
+      "sire_reg": null,
+      "dam_name": "Jan of Don-Karin",
+      "dam_reg": "A832609",
+      "breeders": [
+        "Edgar G. Smith",
+        "Mrs. Herbert Hulson"
+      ],
+      "owners": [
+        "Edgar G. Smith",
+        "Mrs. Herbert Hulson"
+      ]
+    },
+    {
+      "reg_number": "R20192",
+      "name": "SWAMIES APRIL SHOWER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-20-47",
+      "color_code": "Light gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Glengarnoch Ayrshire Laddie",
+      "sire_reg": "R15824",
+      "dam_name": "Ring Bearer of Letts-Dhu",
+      "dam_reg": "R6717",
+      "breeders": [
+        "Newell Schwamberger"
+      ],
+      "owners": [
+        "Newell Schwamberger"
+      ]
+    },
+    {
+      "reg_number": "R20188",
+      "name": "SWAMIES DAPPER DANDY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-20-47",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Glengarnoch Ayrshire Laddie",
+      "sire_reg": "R15824",
+      "dam_name": "Ring Bearer of Letts-Dhu",
+      "dam_reg": "R6717",
+      "breeders": [
+        "Newell Schwamberger"
+      ],
+      "owners": [
+        "Newell Schwamberger"
+      ]
+    },
+    {
+      "reg_number": "R20187",
+      "name": "SWAMIES DUKE PERDO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-20-47",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Glengarnoch Ayrshire Laddie",
+      "sire_reg": "R15824",
+      "dam_name": "Ring Bearer of Letts-Dhu",
+      "dam_reg": "R6717",
+      "breeders": [
+        "Newell Schwamberger"
+      ],
+      "owners": [
+        "Newell Schwamberger"
+      ]
+    },
+    {
+      "reg_number": "R20191",
+      "name": "SWAMIES FROSTY DAWN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-20-47",
+      "color_code": "Light gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Glengarnoch Ayrshire Laddie",
+      "sire_reg": "R15824",
+      "dam_name": "Ring Bearer of Letts-Dhu",
+      "dam_reg": "R6717",
+      "breeders": [
+        "Newell Schwamberger"
+      ],
+      "owners": [
+        "Newell Schwamberger"
+      ]
+    },
+    {
+      "reg_number": "R20190",
+      "name": "SWAMIES HONEY CHIL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-20-47",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Glengarnoch Ayrshire Laddie",
+      "sire_reg": "R15824",
+      "dam_name": "Ring Bearer of Letts-Dhu",
+      "dam_reg": "R6717",
+      "breeders": [
+        "Newell Schwamberger"
+      ],
+      "owners": [
+        "Newell Schwamberger"
+      ]
+    },
+    {
+      "reg_number": "R20186",
+      "name": "SWAMIES LUCKY BOY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-20-47",
+      "color_code": "Dark gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Glengarnoch Ayrshire Laddie",
+      "sire_reg": "R15824",
+      "dam_name": "Ring Bearer of Letts-Dhu",
+      "dam_reg": "R6717",
+      "breeders": [
+        "Newell Schwamberger"
+      ],
+      "owners": [
+        "Newell Schwamberger"
+      ]
+    },
+    {
+      "reg_number": "R20189",
+      "name": "SWAMIES PRINCESS JUDY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-20-47",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Glengarnoch Ayrshire Laddie",
+      "sire_reg": "R15824",
+      "dam_name": "Ring Bearer of Letts-Dhu",
+      "dam_reg": "R6717",
+      "breeders": [
+        "Newell Schwamberger"
+      ],
+      "owners": [
+        "Newell Schwamberger"
+      ]
+    },
+    {
+      "reg_number": "R20185",
+      "name": "SWAMIES UNCLE DUDLEY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-20-47",
+      "color_code": "Gray",
+      "breed": "Skye Terrier",
+      "sire_name": "Glengarnoch Ayrshire Laddie",
+      "sire_reg": "R15824",
+      "dam_name": "Ring Bearer of Letts-Dhu",
+      "dam_reg": "R6717",
+      "breeders": [
+        "Newell Schwamberger"
+      ],
+      "owners": [
+        "Newell Schwamberger"
+      ]
+    },
+    {
+      "reg_number": "R20551",
+      "name": "BROWN'S MR. HOBBY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-5-47",
+      "color_code": "Black, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A683434",
+      "dam_name": "Eleanor's Queenie",
+      "dam_reg": "A377144",
+      "breeders": [
+        "Harry S. Brown"
+      ],
+      "owners": [
+        "Mrs. Albert L. McCarty"
+      ]
+    },
+    {
+      "reg_number": "R20377",
+      "name": "BUTTONS RICHEY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-12-47",
+      "color_code": "Black and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Keene's Smoky",
+      "sire_reg": "A516837",
+      "dam_name": "X-Pert Rose Bud",
+      "dam_reg": "R6447",
+      "breeders": [
+        "John F. Richey"
+      ],
+      "owners": [
+        "Sydney G. Anderson"
+      ]
+    },
+    {
+      "reg_number": "R21304",
+      "name": "FALGAR OF WYNROUND",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-2-46",
+      "color_code": "Brindle",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Jabberwock of Roundcroft",
+      "sire_reg": null,
+      "dam_name": "Margo of Grange",
+      "dam_reg": null,
+      "breeders": [
+        "Daniel G. Pardue"
+      ],
+      "owners": [
+        "W. R. Freeman"
+      ]
+    },
+    {
+      "reg_number": "R20552",
+      "name": "FARLSDALE'S BLACK CHARM",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-5-47",
+      "color_code": "Black, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A683434",
+      "dam_name": "Eleanor's Queenie",
+      "dam_reg": "A377144",
+      "breeders": [
+        "Marguerite Farley"
+      ],
+      "owners": [
+        "Mrs. Albert L. McCarty"
+      ]
+    },
+    {
+      "reg_number": "R20553",
+      "name": "FARLSDALE'S SIR DANIEL",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-5-47",
+      "color_code": "Dark brindle, white markings",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Ch. Chita's Baron",
+      "sire_reg": "A683434",
+      "dam_name": "Eleanor's Queenie",
+      "dam_reg": "A377144",
+      "breeders": [
+        "Marguerite Farley"
+      ],
+      "owners": [
+        "Mrs. Albert L. McCarty"
+      ]
+    },
+    {
+      "reg_number": "R21347",
+      "name": "GENTLE LADY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-13-46",
+      "color_code": "Golden brindle and white",
+      "breed": "American Staffordshire Terrier",
+      "sire_name": "Rufco Flip",
+      "sire_reg": "A810941",
+      "dam_name": "Tillie The Tops",
+      "dam_reg": "A612573",
+      "breeders": [
+        "Mildred G. Lester"
+      ],
+      "owners": [
+        "Adelaide M. Holsten"
+      ]
+    }
+  ]
+}

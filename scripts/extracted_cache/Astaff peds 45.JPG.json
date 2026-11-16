@@ -1,0 +1,829 @@
+{
+  "breed": "Airedale Terrier",
+  "date_header": "September 39",
+  "dogs": [
+    {
+      "reg_number": "RM236666",
+      "name": "ACKLEYS DREAM SEEKER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-3-98",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "KING CREOLE OF STARGUS",
+      "sire_reg": "RM232538",
+      "dam_name": "ACKLEY TYNE-O-MINE",
+      "dam_reg": "RM139058",
+      "breeders": [
+        "D FAZICA",
+        "J SPURLOCK"
+      ],
+      "owners": [
+        "J SPURLOCK"
+      ]
+    },
+    {
+      "reg_number": "RM241675",
+      "name": "AIRY MOUNTAIN LULU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-10-98",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "SANDHILL COVE HENRY",
+      "sire_reg": "RM112159",
+      "dam_name": "SANDHILL COVE MAGGIE",
+      "dam_reg": "RM102518",
+      "breeders": [
+        "C STUBBE",
+        "J HOUBEN"
+      ],
+      "owners": [
+        "C STUBBE",
+        "J HOUBEN"
+      ]
+    },
+    {
+      "reg_number": "RM228097",
+      "name": "ALIXANDER GT BEAR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-1-97",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "FRANK BEAR",
+      "sire_reg": "RM175459",
+      "dam_name": "BRANDE ALIXANDER",
+      "dam_reg": "RM138749",
+      "breeders": [
+        "N YODER/OWNER"
+      ],
+      "owners": [
+        "N YODER/OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM106436",
+      "name": "CH BLUACRE STEEL MAGNOLIA",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "4-3-96",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "CH HIGHPOINT'S DAKOTA",
+      "sire_reg": "RM106436",
+      "dam_name": "CH BLUACRE SAFARI RED DIAMOND",
+      "dam_reg": "RM091807",
+      "breeders": [
+        "M SARKISIAN/OWNER"
+      ],
+      "owners": [
+        "M SARKISIAN/OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM165757",
+      "name": "BOWSPRIT CALAMITY JANE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-23-96",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "JOLEE AIRE FEDERAL EXPRESS",
+      "sire_reg": "AB365615",
+      "dam_name": "JOE'S FAIRE ANNABELLE",
+      "dam_reg": "RM155446",
+      "breeders": [
+        "M WATSON",
+        "G VOHS",
+        "R SHRD"
+      ],
+      "owners": [
+        "M WATSON",
+        "G VOHS",
+        "R SHRD"
+      ]
+    },
+    {
+      "reg_number": "RM189435",
+      "name": "BUZZ LIGHTYEAR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-8-96",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "ALEXANDER ALEX",
+      "sire_reg": "RM109202",
+      "dam_name": "LUCKY-AIRE",
+      "dam_reg": "RM002926",
+      "breeders": [
+        "R & B GILLESPIE",
+        "S & M JOHNSON"
+      ],
+      "owners": [
+        "R & B GILLESPIE",
+        "S & M JOHNSON"
+      ]
+    },
+    {
+      "reg_number": "RM181017",
+      "name": "CRIMSON BON BON",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-15-98",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "CH BRYN HAFOD SPARHAWK",
+      "sire_reg": "RB254996",
+      "dam_name": "DROFFATS HEIDI SPLENDER",
+      "dam_reg": "RM015512",
+      "breeders": [
+        "S ZDANCZEWICZ",
+        "D NAHRWOLD"
+      ],
+      "owners": [
+        "S ZDANCZEWICZ",
+        "D NAHRWOLD"
+      ]
+    },
+    {
+      "reg_number": "RM228159",
+      "name": "DAGMAR'S COCO BEAN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-25-97",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "FORT SAGE FRENCH AUTUMN",
+      "sire_reg": "RM177070",
+      "dam_name": "ROCK ZEE",
+      "dam_reg": "RM002926",
+      "breeders": [
+        "H TERHORST",
+        "S SORENSEN"
+      ],
+      "owners": [
+        "H TERHORST",
+        "S SORENSEN"
+      ]
+    },
+    {
+      "reg_number": "RM235483",
+      "name": "FORT SAGE RAPAHO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-15-98",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "MC WILFORD BANARD",
+      "sire_reg": "RM020458",
+      "dam_name": "MC DAISEY MAY",
+      "dam_reg": "RM096469",
+      "breeders": [
+        "P SHARP",
+        "M COOK"
+      ],
+      "owners": [
+        "P SHARP",
+        "M COOK"
+      ]
+    },
+    {
+      "reg_number": "RM197128",
+      "name": "GALLAIRE'S WALK ON WATER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-16-97",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "TARTAN HOOK 'EM HORNS",
+      "sire_reg": "RM030558",
+      "dam_name": "CH JOCUND'S ALL YOU NEED IS L",
+      "dam_reg": "RM048857",
+      "breeders": [
+        "A BURNS & L AVERY",
+        "L AVERY"
+      ],
+      "owners": [
+        "A BURNS & L AVERY",
+        "L AVERY"
+      ]
+    },
+    {
+      "reg_number": "RM216066",
+      "name": "GATEWOOD PARROT WOMAN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-30-96",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "CH DROFFATS MIDNIGHT CALLER",
+      "sire_reg": "RM051701",
+      "dam_name": "GAYLORD'S SONG FROM HEAVEN",
+      "dam_reg": "RM038804",
+      "breeders": [
+        "D JOHNSON",
+        "A CORN",
+        "D JOHNSON",
+        "A CORN"
+      ],
+      "owners": [
+        "NSON"
+      ]
+    },
+    {
+      "reg_number": "RM204556",
+      "name": "HART AIRES CLOE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-21-97",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "HART AIRES RENNIE",
+      "sire_reg": "RM158826",
+      "dam_name": "QUEEN-B SAMANTHA",
+      "dam_reg": "RM036501",
+      "breeders": [
+        "R & M FRASER",
+        "W BLANCHARD"
+      ],
+      "owners": [
+        "R & M FRASER",
+        "W BLANCHARD"
+      ]
+    },
+    {
+      "reg_number": "RM264924",
+      "name": "HIXENBAUGH'S AUTUMN WIND",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-7-99",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "DWYAIRE'S JOHNNY REB",
+      "sire_reg": "RM214219",
+      "dam_name": "HILLTOP'S SANDHILL GINKGO",
+      "dam_reg": "RM172369",
+      "breeders": [
+        "G GARRETT",
+        "L ALEXANDER"
+      ],
+      "owners": [
+        "G GARRETT",
+        "L ALEXANDER"
+      ]
+    },
+    {
+      "reg_number": "RM198947",
+      "name": "JOLEE AIRE QUEEN EPHRAIM",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-29-98",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "SIX MILE BILLY BEAR",
+      "sire_reg": "RM152428",
+      "dam_name": "JOE'S FAIRE BRAVO",
+      "dam_reg": "RM037411",
+      "breeders": [
+        "G & R HIXENBAUGH",
+        "L JACOBSON"
+      ],
+      "owners": [
+        "G & R HIXENBAUGH",
+        "L JACOBSON"
+      ]
+    },
+    {
+      "reg_number": "RM221882",
+      "name": "KAREN'S DANCING TESSA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-16-98",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "JOE'S FAIRE BUCKSHOT",
+      "sire_reg": "RM165757",
+      "dam_name": "JOLEE AIRE MAY'S RED ALERT",
+      "dam_reg": "RM145293",
+      "breeders": [
+        "J VOHS",
+        "G VOHS",
+        "M SLOWE"
+      ],
+      "owners": [
+        "J VOHS",
+        "G VOHS",
+        "M SLOWE"
+      ]
+    },
+    {
+      "reg_number": "RM206163",
+      "name": "KYRA'S LITTLE ORPHAN ADDIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-2-97",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "ROCKEY RANGER OF NEWWS",
+      "sire_reg": "RM159114",
+      "dam_name": "OWNBY'S SWEET CLOVER",
+      "dam_reg": "RM973456",
+      "breeders": [
+        "K VIERS",
+        "J MATTHEWS"
+      ],
+      "owners": [
+        "K VIERS",
+        "J MATTHEWS"
+      ]
+    },
+    {
+      "reg_number": "RM212111",
+      "name": "LULU ELIZABETH OF FORT SAGE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-9-98",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "KROSSWIND'S BRAVO BOY",
+      "sire_reg": "RB377900",
+      "dam_name": "KAREN'S DAISY",
+      "dam_reg": "RM002530",
+      "breeders": [
+        "P & D WORMINGTON",
+        "D & P WORMINGTON"
+      ],
+      "owners": [
+        "P & D WORMINGTON",
+        "D & P WORMINGTON"
+      ]
+    },
+    {
+      "reg_number": "RM249446",
+      "name": "LULU MAGANDRE NOUVEAU",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-19-98",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "FORT SAGE FRENCH AUTUMN",
+      "sire_reg": "RM177070",
+      "dam_name": "WASHOES CURLY SIOUX",
+      "dam_reg": "RM935386",
+      "breeders": [
+        "P SHARP",
+        "W SENTER",
+        "C MCI-NTYRE SENTER"
+      ],
+      "owners": [
+        "P SHARP",
+        "W SENTER",
+        "C MCI-NTYRE SENTER"
+      ]
+    },
+    {
+      "reg_number": "RM184984",
+      "name": "MCGUIRE'S CUPCAKE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-30-96",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "MAGUM",
+      "sire_reg": "RM069687",
+      "dam_name": "ANDREA",
+      "dam_reg": "RM089564",
+      "breeders": [
+        "B & T NAYLOR",
+        "M PERDUE"
+      ],
+      "owners": [
+        "B & T NAYLOR",
+        "M PERDUE"
+      ]
+    },
+    {
+      "reg_number": "RM214571",
+      "name": "MISS DANDELION",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-22-98",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "SIR FRED DARKSTAR OF ADAIR",
+      "sire_reg": "RM064776",
+      "dam_name": "NANCY",
+      "dam_reg": "RM147966",
+      "breeders": [
+        "H & S MCGUIRE",
+        "S & H MCGUIRE"
+      ],
+      "owners": [
+        "H & S MCGUIRE",
+        "S & H MCGUIRE"
+      ]
+    },
+    {
+      "reg_number": "RM270659",
+      "name": "MURDOCK'S MAGIC OORANG KB",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-16-99",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "FORT SAGE FRENCH AUTUMN",
+      "sire_reg": "RM177070",
+      "dam_name": "BELLE'S ROSE",
+      "dam_reg": "RM163013",
+      "breeders": [
+        "B SMITH",
+        "P SHARP"
+      ],
+      "owners": [
+        "B SMITH",
+        "P SHARP"
+      ]
+    },
+    {
+      "reg_number": "RM259673",
+      "name": "MURDOCK'S HOLLY BUSTER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-24-98",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "TURNER'S PRECIOUS",
+      "sire_reg": "RM024177",
+      "dam_name": "MURDOCK'S HOLLY BU SUSIE",
+      "dam_reg": "RM213063",
+      "breeders": [
+        "J MURDOCK/OWNER"
+      ],
+      "owners": [
+        "J MURDOCK/OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM262125",
+      "name": "OUR LADY'S JIGGS A WALL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-3-99",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "ALEXANDER'S FAVORITE BOOTS",
+      "sire_reg": "RB233073",
+      "dam_name": "QUASAR'S TEXAS ROSE",
+      "dam_reg": "RM043399",
+      "breeders": [
+        "K MARVIN",
+        "W MCCABE"
+      ],
+      "owners": [
+        "K MARVIN",
+        "W MCCABE"
+      ]
+    },
+    {
+      "reg_number": "RM238383",
+      "name": "OUR LADY'S GILLESPIE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-22-99",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "FRED'S MIGHTY JOAB",
+      "sire_reg": "RM267895",
+      "dam_name": "THOUSAND OAKS' MARY",
+      "dam_reg": "RM168051",
+      "breeders": [
+        "R & G GILLESPIE",
+        "J FREDERICK"
+      ],
+      "owners": [
+        "I AROSTEGUI",
+        "E FULLER"
+      ]
+    },
+    {
+      "reg_number": "RM247574",
+      "name": "PATXI",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-21-98",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "MARMADUKE IX",
+      "sire_reg": "RM036104",
+      "dam_name": "LADY JANE",
+      "dam_reg": "RM146193",
+      "breeders": [
+        "G MARVIN",
+        "W MCCABE"
+      ],
+      "owners": [
+        "G MARVIN",
+        "W MCCABE"
+      ]
+    },
+    {
+      "reg_number": "RM252404",
+      "name": "QUANTUM'S MAJESTIC MAY MARVIN",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-7-98",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "HOT HEADED HAWK OF OUACHITA",
+      "sire_reg": "AM033654",
+      "dam_name": "NANCY LOVE OF OUACHITA",
+      "dam_reg": "AM101240",
+      "breeders": [
+        "K KRALY",
+        "M HORST",
+        "B BROWN"
+      ],
+      "owners": [
+        "K KRALY",
+        "M HORST",
+        "B BROWN"
+      ]
+    },
+    {
+      "reg_number": "RM259648",
+      "name": "QUANTUM PHOENIX MARVIN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-20-96",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "CH QUANTUM'S GOLDEN IRONMAN",
+      "sire_reg": "RM214219",
+      "dam_name": "QUANTUM'S SIZZLING LILLYHAMMER",
+      "dam_reg": "AM096469",
+      "breeders": [
+        "B BROWN/OWNER"
+      ],
+      "owners": [
+        "B BROWN/OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM245391",
+      "name": "CH QUANTUM'S O BE JOYFUL",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "6-23-98",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "CH CRIPPLE CREEK GEORGE BURNS",
+      "sire_reg": "AB261205",
+      "dam_name": "CH EPOCH'S QUANTUM MAGIC MOME",
+      "dam_reg": "RM048895",
+      "breeders": [
+        "M MARTIN/OWNER"
+      ],
+      "owners": [
+        "M MARTIN/OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM250776",
+      "name": "CH REEDRIDGE PARROT",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "4-23-97",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "CH MULLIGAN'S CONTRAIRE PIPE DRE",
+      "sire_reg": "AM139431",
+      "dam_name": "CH MULLIGAN'S CATCH YOUR EYE",
+      "dam_reg": "AM067075",
+      "breeders": [
+        "M GRAHAM",
+        "C CROWELL",
+        "M GRAHAM"
+      ],
+      "owners": [
+        "C CROWELL",
+        "M GRAHAM"
+      ]
+    },
+    {
+      "reg_number": "RM248437",
+      "name": "CH REGENT WHISTLE DOWN WIND",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "6-27-98",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "CH SERENDIPITY TERRYDALE HK",
+      "sire_reg": "RM178699",
+      "dam_name": "CH AMITIE'S TUNIA",
+      "dam_reg": "RM045586",
+      "breeders": [
+        "R FRASER JR",
+        "J POWELL",
+        "R FRASER"
+      ],
+      "owners": [
+        "J POWELL"
+      ]
+    },
+    {
+      "reg_number": "RM248502",
+      "name": "REGINA LOVE JOY WOOFS A LOT",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-27-97",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "PINE-GRI-LA'SGARYCOOPER",
+      "sire_reg": "RM207811",
+      "dam_name": "PINE-GRI-LA'S RUBY PEARL",
+      "dam_reg": "AM134195",
+      "breeders": [
+        "J CRAWLEY",
+        "J CALHOUN"
+      ],
+      "owners": [
+        "J CRAWLEY",
+        "J CALHOUN"
+      ]
+    },
+    {
+      "reg_number": "RM263936",
+      "name": "SABRE'S SHADY LADY BELLE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-15-99",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "NIPPER",
+      "sire_reg": "RM142323",
+      "dam_name": "SANDHILL COVE PIPPA",
+      "dam_reg": "RM204214",
+      "breeders": [
+        "C STUBBE",
+        "H JOHNSON JR"
+      ],
+      "owners": [
+        "C STUBBE",
+        "H JOHNSON JR"
+      ]
+    },
+    {
+      "reg_number": "RM248094",
+      "name": "SANDHILL AIRY HUEBEN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-27-98",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "SANDHILL COVE HENRY",
+      "sire_reg": "RM112159",
+      "dam_name": "SANDHILL COVE MAGGIE",
+      "dam_reg": "RM138749",
+      "breeders": [
+        "G B LINGERFELT",
+        "L HOOBEN"
+      ],
+      "owners": [
+        "G B LINGERFELT",
+        "L HOOBEN"
+      ]
+    },
+    {
+      "reg_number": "RM268800",
+      "name": "SILVER STAR OF BLACKRIDGE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-3-16",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "BUFFALO RIDGE DBL BUCKSHOT",
+      "sire_reg": "RM198804",
+      "dam_name": "ANNIE HOOBEN",
+      "dam_reg": "RM216082",
+      "breeders": [
+        "H BRADSHAW",
+        "C SCOTT",
+        "M BRADSHAW"
+      ],
+      "owners": [
+        "C SCOTT",
+        "E GORDON",
+        "E WOL"
+      ]
+    },
+    {
+      "reg_number": "RM157291",
+      "name": "CH TARTAN'S SHETLAND COWBOY",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "8-27-95",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "WALKERSCOTTISHRE COWBOY",
+      "sire_reg": "AM030558",
+      "dam_name": "NAT'S REV OF REGALRIDGE CDX",
+      "dam_reg": "AM089737",
+      "breeders": [
+        "FE & C SCOTT",
+        "J MILLER",
+        "L BUONAURO",
+        "C SCOTT"
+      ],
+      "owners": [
+        "C SCOTT",
+        "E GORDON",
+        "E WOL"
+      ]
+    },
+    {
+      "reg_number": "RM236894",
+      "name": "CH TARTAN SCOTTISHRE RED MARVEL",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "4-4-99",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "CH GREENFIELD'S MAJOR TOM",
+      "sire_reg": "RM224951",
+      "dam_name": "CH TARTAN SCOTTISHTRE MS HOLID",
+      "dam_reg": "RM171834",
+      "breeders": [
+        "L BUONAURO",
+        "C SCOTT",
+        "J MILLER"
+      ],
+      "owners": [
+        "L BUONAURO",
+        "C SCOTT",
+        "J MILLER"
+      ]
+    },
+    {
+      "reg_number": "RM258895",
+      "name": "CH TARTAN SCOTTISHTRE ULTRAGLIDE",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "10-28-98",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "CH SERENDIPITY TERRYDALE HKX",
+      "sire_reg": "RM178640",
+      "dam_name": "CH TARTAN SCOTTISHTRE KRISTINA",
+      "dam_reg": "AM195222",
+      "breeders": [
+        "GORDON",
+        "C SCOTT",
+        "W CLAR"
+      ],
+      "owners": [
+        "E & E GORDONTR"
+      ]
+    },
+    {
+      "reg_number": "RM222985",
+      "name": "WESTMOOR'S UNRULY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-5-97",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "CH WESTMOOR'S LINK",
+      "sire_reg": "RM108170",
+      "dam_name": "WESTMOOR'S CHANEL",
+      "dam_reg": "RM133748",
+      "breeders": [
+        "J SCHMIDT",
+        "P GALLION",
+        "M SCHMIDT"
+      ],
+      "owners": [
+        "M DOLMAYER/OWNER"
+      ]
+    },
+    {
+      "reg_number": "RM136831",
+      "name": "CH WINSONG'S ABIGAIL EDEN",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "3-13-95",
+      "color_code": "BLK & TN",
+      "breed": "Airedale Terrier",
+      "sire_name": "CH WINSONG'S A TO Z",
+      "sire_reg": "RM035729",
+      "dam_name": "CH WINSOME BUCKSKOT ECHO, O'",
+      "dam_reg": "AB370199",
+      "breeders": [
+        "M DOLMAYER/OWNER"
+      ],
+      "owners": [
+        "M DOLMAYER/OWNER"
+      ]
+    }
+  ]
+}
