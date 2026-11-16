@@ -1,0 +1,43 @@
+{
+  "breed": "Rottweiler",
+  "date_header": "FEBRUARY 1990",
+  "dogs": [
+    {
+      "reg_number": "WF532790",
+      "name": "CH. INNER'S SANCTUM DER CATLIN",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "2-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "WF716690",
+      "sire_reg": "WF716690",
+      "dam_name": "CONCORD'S QUAMEGAN",
+      "dam_reg": "WF549883",
+      "breeders": [
+        "J CANDY JR/B E PATTERSON"
+      ],
+      "owners": [
+        "J CANDY JR/B E PATTERSON"
+      ]
+    },
+    {
+      "reg_number": "WG022255",
+      "name": "CERASI' BABY BLACK BART",
+      "sex": "D",
+      "birth_date": "2-88",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "WHISPERING OAKS BLACK BART",
+      "sire_reg": "WG022255",
+      "dam_name": "CERASI' BABY BARKER",
+      "dam_reg": "WF310448",
+      "breeders": [
+        "D ESPLIN/R BAYER"
+      ],
+      "owners": [
+        "D ESPLIN/R BAYER"
+      ]
+    }
+  ]
+}

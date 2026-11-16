@@ -1,0 +1,46 @@
+{
+  "breed": "Rottweiler",
+  "date_header": "FEBRUARY 1990",
+  "dogs": [
+    {
+      "reg_number": "WF647631",
+      "name": "HOETNER DEUTSCHLAND LACHELN",
+      "sex": "D",
+      "birth_date": "10-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "BRUTUS D MARX",
+      "sire_reg": "WF666682",
+      "dam_name": "FREYA VOM STEINECKLAND",
+      "dam_reg": "WF720905",
+      "breeders": [
+        "M GRAY",
+        "J PARROTT"
+      ],
+      "owners": [
+        "M GRAY",
+        "J PARROTT"
+      ]
+    },
+    {
+      "reg_number": "WF411684",
+      "name": "JA HALTER'S JETT START",
+      "sex": "D",
+      "birth_date": "1-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "CH TOBARTS HALTER VON STARKE",
+      "sire_reg": "WF551749",
+      "dam_name": "CH TOBARTS KATIE MARIE V STARKE",
+      "dam_reg": "WF647452",
+      "breeders": [
+        "F J HALTER",
+        "OWNER"
+      ],
+      "owners": [
+        "F J HALTER",
+        "K GURARO"
+      ]
+    }
+  ]
+}

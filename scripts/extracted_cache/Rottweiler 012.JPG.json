@@ -1,0 +1,24 @@
+{
+  "breed": "Rottweiler",
+  "date_header": "January 1950",
+  "dogs": [
+    {
+      "reg_number": "WF962498",
+      "name": "HILDA HOGGVELD VON ROSSMESA",
+      "sex": "B",
+      "birth_date": "6-85",
+      "color_code": null,
+      "breed": "Rottweiler",
+      "sire_name": "HEER HOGGVELD EDEL GEBOREN",
+      "sire_reg": "WF735344",
+      "dam_name": "FROMANS LADY GRETCHEN",
+      "dam_reg": "WF102698",
+      "breeders": [
+        "J & B GUASTADISEGNI & B HOGVELD"
+      ],
+      "owners": [
+        "R & A TATUM & N DODSON"
+      ]
+    }
+  ]
+}

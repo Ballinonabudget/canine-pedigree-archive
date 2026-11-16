@@ -1,0 +1,100 @@
+{
+  "breed": "Rottweiler",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "WG334470",
+      "name": "THE ADMIRAL NORVIC",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-12-88",
+      "color_code": "BLK & WH",
+      "breed": "Rottweiler",
+      "sire_name": "CH FIDALGO DO CUNDINHU",
+      "sire_reg": "WF578705",
+      "dam_name": "TREZENA MEIA BONITA",
+      "dam_reg": "WF618169",
+      "breeders": [],
+      "owners": [
+        "J BENDURE",
+        "A VICHA",
+        "C PREVOST"
+      ]
+    },
+    {
+      "reg_number": "WF916711",
+      "name": "CHARKIT BRIGADA",
+      "titles": "CH",
+      "sex": "B",
+      "birth_date": "8-14-86",
+      "color_code": "BLK",
+      "breed": "Rottweiler",
+      "sire_name": "CH ALFAMA UBO",
+      "sire_reg": "WF421866",
+      "dam_name": "WHITEPOSTS QUEQUE",
+      "dam_reg": "WF421837",
+      "breeders": [],
+      "owners": [
+        "E CHAKRIN",
+        "K HINNANT",
+        "K & C HINNANT"
+      ]
+    },
+    {
+      "reg_number": "WG006379",
+      "name": "HILLTOP'S THE GODFATHER",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-19-87",
+      "color_code": "BLK WH CHST",
+      "breed": "Rottweiler",
+      "sire_name": "CH REBENTO DON CARLOS",
+      "sire_reg": "WF578901",
+      "dam_name": "BITTERSWEET ZLEANN",
+      "dam_reg": "WF383475",
+      "breeders": [],
+      "owners": [
+        "R ROSSMOORE",
+        "C PETURSSON"
+      ]
+    },
+    {
+      "reg_number": "WG157785",
+      "name": "NORVIC'S THE WIDGET OF BENHIL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-21-87",
+      "color_code": "BLK",
+      "breed": "Rottweiler",
+      "sire_name": "CH ALFAMA UBERRIMO OF REGALA",
+      "sire_reg": "WF421867",
+      "dam_name": "CH CRISTINA DO CONDINHO",
+      "dam_reg": "WF578700",
+      "breeders": [],
+      "owners": [
+        "J BENDURE",
+        "A VICHA",
+        "A & N VICHA",
+        "A SUMMERS"
+      ]
+    },
+    {
+      "reg_number": "WF665687",
+      "name": "REGALA BRIOSO NOBREZA",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "1-5-85",
+      "color_code": "BLK",
+      "breed": "Rottweiler",
+      "sire_name": "CH ALFAMA UBERRIMO OF REGALA",
+      "sire_reg": "WF421867",
+      "dam_name": "REGALA ARREBITADO",
+      "dam_reg": "WF421888",
+      "breeders": [],
+      "owners": [
+        "A NICHOLS",
+        "E & R PIERCE"
+      ]
+    }
+  ]
+}

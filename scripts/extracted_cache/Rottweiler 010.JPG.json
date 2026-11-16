@@ -1,0 +1,70 @@
+{
+  "breed": "Rottweiler",
+  "date_header": "January 1990",
+  "dogs": [
+    {
+      "reg_number": "WG097333",
+      "name": "BLACKMAN'S ATHENA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-18-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "BLACKBEARD'S DON DIEGO",
+      "sire_reg": "WG993202",
+      "dam_name": "BLACK EAGLE'S BROKEN ARROW",
+      "dam_reg": "WF512891",
+      "breeders": [
+        "M PENDLETON",
+        "OWNER"
+      ],
+      "owners": [
+        "M CRAWFORD",
+        "G STUDER",
+        "C BRUCKER"
+      ]
+    },
+    {
+      "reg_number": "WG238418",
+      "name": "BLACK MAX VON KNAPP",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-4-86",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "SIMPSON'S JULIUS CAESAR",
+      "sire_reg": "WF525345",
+      "dam_name": "SHEBA VON SOLITAIRE",
+      "dam_reg": "WF636628",
+      "breeders": [
+        "W & M KNAPP",
+        "R S BATES"
+      ],
+      "owners": [
+        "L & L BLAKE",
+        "P D WATERS"
+      ]
+    },
+    {
+      "reg_number": "WF824968",
+      "name": "BLAKES DAGO VON ANTHONY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-5-84",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "IGOR VON SIMBERG",
+      "sire_reg": "WF216933",
+      "dam_name": "GRETA VON WUSTERHAUSEN",
+      "dam_reg": "WF143215",
+      "breeders": [
+        "P WUSTERHAUSEN",
+        "R TENCH"
+      ],
+      "owners": [
+        "R ADELMAN",
+        "M CRANE"
+      ]
+    }
+  ]
+}

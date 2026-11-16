@@ -1,0 +1,838 @@
+{
+  "breed": "Rottweiler",
+  "date_header": "December, 1952",
+  "dogs": [
+    {
+      "reg_number": "W340385",
+      "name": "Afra II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-7-49",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Celloy Barrymore",
+      "sire_reg": "W7589",
+      "dam_name": "Afra of Stony Hill",
+      "dam_reg": "A992055",
+      "owners": [
+        "Margaret L. Cochrane"
+      ]
+    },
+    {
+      "reg_number": "W339507",
+      "name": "Bali of Lestomuir",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-20-50",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Sandow of Lestomuir",
+      "sire_reg": "W161866",
+      "dam_name": "Rugged of Lestomuir",
+      "dam_reg": "W149731",
+      "owners": [
+        "Mr. & Mrs. Lester T. Longton"
+      ]
+    },
+    {
+      "reg_number": "W342947",
+      "name": "Baron of Sun River",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-5-47",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Golden Baron",
+      "sire_reg": "W6476",
+      "dam_name": "Oro Princesa de El Cajon",
+      "dam_reg": "W27775",
+      "owners": [
+        "Harvey M. Read"
+      ]
+    },
+    {
+      "reg_number": "W328635",
+      "name": "Black Pirate",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-21-46",
+      "color_code": "Hlqn",
+      "breed": "Great Dane",
+      "sire_name": "Captain Kidd of Vakeck",
+      "sire_reg": "A422645",
+      "dam_name": "Vakeck's Jean",
+      "dam_reg": "A532105",
+      "owners": [
+        "Katherine P. Draham"
+      ]
+    },
+    {
+      "reg_number": "W340279",
+      "name": "Blondie from Jumbo",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-17-49",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Blond Jumbo",
+      "sire_reg": "W129985",
+      "dam_name": "Mara of Cheramy",
+      "dam_reg": "W203677",
+      "owners": [
+        "Mrs. Howard L. Johnson"
+      ]
+    },
+    {
+      "reg_number": "W350239",
+      "name": "Bushman's Essanay",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-31-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Steele's Tiger",
+      "sire_reg": "W240831",
+      "dam_name": "Golden Dawn",
+      "dam_reg": "W190776",
+      "owners": [
+        "Louis Savarese"
+      ]
+    },
+    {
+      "reg_number": "W328277",
+      "name": "Candace v Freehall",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-11-50",
+      "color_code": "Hlqn",
+      "breed": "Great Dane",
+      "sire_name": "Hector v Freehall",
+      "sire_reg": "W42574",
+      "dam_name": "Duchess of Kane",
+      "dam_reg": "W40000",
+      "owners": [
+        "Frieda L. Hall"
+      ]
+    },
+    {
+      "reg_number": "W323616",
+      "name": "Casmira of Cheramy",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-1-50",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Timbre of Lee-Dane",
+      "sire_reg": "W73537",
+      "dam_name": "Kenda's Yola v Noblestrain",
+      "dam_reg": "W46832",
+      "owners": [
+        "Evona Akerholm"
+      ]
+    },
+    {
+      "reg_number": "W331929",
+      "name": "Cleopatra of Ptolemy",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-29-50",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Duke of Kent III",
+      "sire_reg": "W212353",
+      "dam_name": "Knox's Cecelia",
+      "dam_reg": "W102476",
+      "owners": [
+        "Al. J. Niederkorn"
+      ]
+    },
+    {
+      "reg_number": "W341229",
+      "name": "Cornwall of Nordane",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-3-48",
+      "color_code": "Gldn fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Sarn of Dane Crest",
+      "sire_reg": "W4965",
+      "dam_name": "Lady's S.A.G. of Dane Crest",
+      "dam_reg": "W57757",
+      "owners": [
+        "C. Dwankowski"
+      ]
+    },
+    {
+      "reg_number": "W329826",
+      "name": "Dane Crest Cleopatra",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-13-50",
+      "color_code": "Bl",
+      "breed": "Great Dane",
+      "sire_name": "Freddon's Mr. Chips",
+      "sire_reg": "A782119",
+      "dam_name": "Dane Crest Hildvia",
+      "dam_reg": "W106457",
+      "owners": [
+        "Adele & George Shelton"
+      ]
+    },
+    {
+      "reg_number": "W356201",
+      "name": "Dane Crest Donilia Cecelian",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-28-48",
+      "color_code": "Gldn fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Sarn of Dane Crest",
+      "sire_reg": "W4965",
+      "dam_name": "Knox's Cecelia",
+      "dam_reg": "W102476",
+      "owners": [
+        "Katherine Hyde"
+      ]
+    },
+    {
+      "reg_number": "W348876",
+      "name": "Dane Crest Duchess of Sagon",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-3-48",
+      "color_code": "Gldn fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Sarn of Dane Crest",
+      "sire_reg": "W4965",
+      "dam_name": "Lady's S.A.G. of Dane Crest",
+      "dam_reg": "W57757",
+      "owners": [
+        "Mrs. Jessie B. Knox"
+      ]
+    },
+    {
+      "reg_number": "W356202",
+      "name": "Dane Crest Duchess St. Ebony",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-24-49",
+      "color_code": "Blk",
+      "breed": "Great Dane",
+      "sire_name": "Freddon's Mr. Chips",
+      "sire_reg": "A782119",
+      "dam_name": "Duchess Tonya Leroy",
+      "dam_reg": "W124470",
+      "owners": [
+        "Katherine Hyde"
+      ]
+    },
+    {
+      "reg_number": "W322452",
+      "name": "Dane Crest Gallant Cavalier",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-9-48",
+      "color_code": "Gldn fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Ch. Vakeck's Gallant Cavalier",
+      "sire_reg": "A669408",
+      "dam_name": "Macac\u00e1 of Dane Crest",
+      "dam_reg": "A824268",
+      "owners": [
+        "Leroy Anderson"
+      ]
+    },
+    {
+      "reg_number": "W337033",
+      "name": "Dividend of Okemos",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-2-46",
+      "color_code": "Gldn fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Michaelis's Sir Eric",
+      "sire_reg": "N1616",
+      "dam_name": "Quiti of Connecticut",
+      "dam_reg": "A418085",
+      "owners": [
+        "Katherine Hyde"
+      ]
+    },
+    {
+      "reg_number": "W342649",
+      "name": "Duke Hamilton",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-13-49",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Duke of Ridgepoint",
+      "sire_reg": "W35081",
+      "dam_name": "Lady XII",
+      "dam_reg": "W54270",
+      "owners": [
+        "Maxwell N. Halsey"
+      ]
+    },
+    {
+      "reg_number": "W340611",
+      "name": "Dutchess of Maple Lane",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-13-51",
+      "color_code": "Brdl",
+      "breed": "Great Dane",
+      "sire_name": "Barrister of Stony Hill",
+      "sire_reg": "W63089 C.D.",
+      "dam_name": "Beth's Lady",
+      "dam_reg": "W118038",
+      "owners": [
+        "John R. Hamilton"
+      ]
+    },
+    {
+      "reg_number": "W332700",
+      "name": "Fancy of Taneric",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-12-48",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Varuna of Taneric",
+      "sire_reg": "A73916",
+      "dam_name": "Alamode of Taneric",
+      "dam_reg": "A911191",
+      "owners": [
+        "Frederick A. Bainbridge"
+      ]
+    },
+    {
+      "reg_number": "W326037",
+      "name": "Fawn de Ce La",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-4-49",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "King of Ro-Nan",
+      "sire_reg": "W144764",
+      "dam_name": "Trixta Girl of Ro-Nan",
+      "dam_reg": "W108983",
+      "owners": [
+        "Mr. & Mrs. Raymond Smith"
+      ]
+    },
+    {
+      "reg_number": "W326422",
+      "name": "Fingard's Lady Luck (Canada)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-29-49",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Fingard's Count*",
+      "sire_reg": null,
+      "dam_name": "Lady of Bonnington*",
+      "dam_reg": null,
+      "owners": [
+        "Eunice H. Pike"
+      ]
+    },
+    {
+      "reg_number": "W339319",
+      "name": "Gaskins Dutchess of Zorn",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-4-50",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Zorn of Bel Acres",
+      "sire_reg": "W178006",
+      "dam_name": "Bess Hexengold",
+      "dam_reg": "W178011",
+      "owners": [
+        "Burton F. Johnson"
+      ]
+    },
+    {
+      "reg_number": "W322252",
+      "name": "Gladewinds First Settler",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-22-49",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Ch. Nickey",
+      "sire_reg": "A901639",
+      "dam_name": "Paula Huard of Roxdane",
+      "dam_reg": "A831303",
+      "owners": [
+        "Bonnie R. Post"
+      ]
+    },
+    {
+      "reg_number": "W349638",
+      "name": "Golden Babe",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-9-50",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Ch. Tyras v Ralmar",
+      "sire_reg": "W42886",
+      "dam_name": "Hilda of Thornecrest",
+      "dam_reg": "W100415",
+      "owners": [
+        "Robert R. Kramer"
+      ]
+    },
+    {
+      "reg_number": "W328354",
+      "name": "Graycliff's Moonbeam",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-20-48",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Graycliff's Bruiser",
+      "sire_reg": "A614039",
+      "dam_name": "Roxie Hildebrand of Tag-A-Long",
+      "dam_reg": "W261716",
+      "owners": [
+        "Herberts Julius Muzikants"
+      ]
+    },
+    {
+      "reg_number": "W328353",
+      "name": "Graycliff's Nicodemus",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-2-50",
+      "color_code": "Brdl",
+      "breed": "Great Dane",
+      "sire_name": "Ch. Fury",
+      "sire_reg": "W78259",
+      "dam_name": "Sherry of Vakeck II",
+      "dam_reg": "W77360",
+      "owners": [
+        "Grace I. Driver"
+      ]
+    },
+    {
+      "reg_number": "W334676",
+      "name": "Gustavous of Mountdania",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-5-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Ch. Tyras v Ralmar",
+      "sire_reg": "W42886",
+      "dam_name": "Kready's Chicki",
+      "dam_reg": "A976778",
+      "owners": [
+        "Grace I. Driver"
+      ]
+    },
+    {
+      "reg_number": "W352576",
+      "name": "Guy Hildebrand of Tag-A-Long",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-17-50",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Baron Hildebrand of Tag-A-Long",
+      "sire_reg": "A922589",
+      "dam_name": "Roxie Hildebrand of Tag-A-Long",
+      "dam_reg": "W261716",
+      "owners": [
+        "Leona R. Gappel"
+      ]
+    },
+    {
+      "reg_number": "W339506",
+      "name": "Jeff von Beeher",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-25-49",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Carlo B. Vardea",
+      "sire_reg": "W5691",
+      "dam_name": "Bill's Cookie Garamony",
+      "dam_reg": "W161403",
+      "owners": [
+        "Caroline H. Milleson"
+      ]
+    },
+    {
+      "reg_number": "W327610",
+      "name": "Kalmar's Duchess Candace",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-10-49",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Ch. Xerxes of Twin Cedars",
+      "sire_reg": "W23997",
+      "dam_name": "Bets of Lespedeza Farm",
+      "dam_reg": "W68756",
+      "owners": [
+        "Frank Henry Rutkowski"
+      ]
+    },
+    {
+      "reg_number": "W325439",
+      "name": "King Frederick",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-9-47",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Ch. Herman of Zorn",
+      "sire_reg": "A531080",
+      "dam_name": "Thoreen of Roxdane",
+      "dam_reg": "A918108",
+      "owners": [
+        "Robert McKenzie"
+      ]
+    },
+    {
+      "reg_number": "W337900",
+      "name": "King vom Scharing",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-25-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Beau's Chomper",
+      "sire_reg": "W108478",
+      "dam_name": "Gitts vom Scharing",
+      "dam_reg": "W269845",
+      "owners": [
+        "Robert D. Barber"
+      ]
+    },
+    {
+      "reg_number": "W355188",
+      "name": "Lochinvar",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-3-51",
+      "color_code": "Gldn brdl",
+      "breed": "Great Dane",
+      "sire_name": "Duke of Lumberweic",
+      "sire_reg": "W31757",
+      "dam_name": "Jerry of Cheramy",
+      "dam_reg": "W151102",
+      "owners": [
+        "Mrs. Robert J. Gorman"
+      ]
+    },
+    {
+      "reg_number": "W352298",
+      "name": "Mack of Burgandy",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-3-48",
+      "color_code": "Gldn fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Robin Hood IV",
+      "sire_reg": "W233786",
+      "dam_name": "Voss of West Haven",
+      "dam_reg": "W50190",
+      "owners": [
+        "Robert Cochrane"
+      ]
+    },
+    {
+      "reg_number": "W321328",
+      "name": "Madagascar of Tres Robles",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-17-49",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Sarn of Dane Crest",
+      "sire_reg": "W4965",
+      "dam_name": "Lady's S.A.G. of Dane Crest",
+      "dam_reg": "W57757",
+      "owners": [
+        "Thomas H. O'Connor"
+      ]
+    },
+    {
+      "reg_number": "W357411",
+      "name": "Maxine",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-18-49",
+      "color_code": "Gldn brdl",
+      "breed": "Great Dane",
+      "sire_name": "Randy of Lestomuir",
+      "sire_reg": "W73744",
+      "dam_name": "Perella of Lestomuir",
+      "dam_reg": "W73745",
+      "owners": [
+        "Ryland C. Goodspeed, Jr."
+      ]
+    },
+    {
+      "reg_number": "W328187",
+      "name": "Norton's Black Boot",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-23-50",
+      "color_code": "Blk & wh",
+      "breed": "Great Dane",
+      "sire_name": "Cavalier's Gift To Joey",
+      "sire_reg": "W112133",
+      "dam_name": "Fawnette",
+      "dam_reg": "W21386",
+      "owners": [
+        "Velora I. Beghtel"
+      ]
+    },
+    {
+      "reg_number": "W335797",
+      "name": "Ohio Princess",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-12-50",
+      "color_code": "Blk",
+      "breed": "Great Dane",
+      "sire_name": "Rex of Newport",
+      "sire_reg": "A961027 C.D.X.",
+      "dam_name": "Monticello Fricka",
+      "dam_reg": "W56667",
+      "owners": [
+        "Ray H. Norton"
+      ]
+    },
+    {
+      "reg_number": "W341228",
+      "name": "Pancho Burek of Nordane",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-26-49",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Christian II",
+      "sire_reg": "W131871",
+      "dam_name": "Queen of Normont",
+      "dam_reg": "W15195",
+      "owners": [
+        "Eunice I. Day"
+      ]
+    },
+    {
+      "reg_number": "W325440",
+      "name": "Queen Eideltroude",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-1-50",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Ch. Damocles of Hazelcrest",
+      "sire_reg": "A494072",
+      "dam_name": "Ch. Cliza of Galdane",
+      "dam_reg": "W55337",
+      "owners": [
+        "Carl Dwankowski"
+      ]
+    },
+    {
+      "reg_number": "W343144",
+      "name": "Rennie of Dillners",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-16-50",
+      "color_code": "Gldn fn",
+      "breed": "Great Dane",
+      "sire_name": "Lyn-Ard's Pompey",
+      "sire_reg": "A921535",
+      "dam_name": "My Judy of Zorn",
+      "dam_reg": "W198521",
+      "owners": [
+        "Robert D. Barber"
+      ]
+    },
+    {
+      "reg_number": "W343490",
+      "name": "Ro von Birkenhof",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-15-50",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Sunningdane Ace",
+      "sire_reg": "W101105",
+      "dam_name": "Dillner's Trilby v Greensward",
+      "dam_reg": "W106732",
+      "owners": [
+        "William J. & Lois J. Lively"
+      ]
+    },
+    {
+      "reg_number": "W357402",
+      "name": "Rosie La Roux",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-5-50",
+      "color_code": "Rd brdl",
+      "breed": "Great Dane",
+      "sire_name": "Ch. Robo v Birkenhof",
+      "sire_reg": "A913538",
+      "dam_name": "Katha of Blackbriar",
+      "dam_reg": "A942353",
+      "owners": [
+        "Dr. Clair V. Langton"
+      ]
+    },
+    {
+      "reg_number": "W329275",
+      "name": "Rustidon",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-27-50",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Rivolet of Ouborough",
+      "sire_reg": "W188892",
+      "dam_name": "Elfe of Ouborough",
+      "dam_reg": "W188891",
+      "owners": [
+        "James C. Wilson"
+      ]
+    },
+    {
+      "reg_number": "W335210",
+      "name": "Schumm's Duke",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-13-50",
+      "color_code": "Blk",
+      "breed": "Great Dane",
+      "sire_name": "Rivolet of Ouborough",
+      "sire_reg": "W188892",
+      "dam_name": "Rustum",
+      "dam_reg": "W186514",
+      "owners": [
+        "Fred W. McCown"
+      ]
+    },
+    {
+      "reg_number": "W324544",
+      "name": "Tertia of Torgowin",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-18-50",
+      "color_code": "Gldn brdl",
+      "breed": "Great Dane",
+      "sire_name": "Gessel's Duke of Shadow Lane",
+      "sire_reg": "W27978",
+      "dam_name": "Gessel's Lady Loyanta",
+      "dam_reg": "W157889",
+      "owners": [
+        "John Schumm"
+      ]
+    },
+    {
+      "reg_number": "W337925",
+      "name": "Beau van Noel",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-26-51",
+      "color_code": "Wh & gr",
+      "breed": "Great Pyrenees",
+      "sire_name": "Ch. Basquaerie Marechal",
+      "sire_reg": "A826734",
+      "dam_name": "Ch. Lady Jeanne",
+      "dam_reg": "W26787",
+      "owners": [
+        "T. H. E. Welch"
+      ]
+    },
+    {
+      "reg_number": "W330861",
+      "name": "Valiant Queen",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-29-48",
+      "color_code": "Fn",
+      "breed": "Mastiff",
+      "sire_name": "Hector of Kockrivock",
+      "sire_reg": "A832368",
+      "dam_name": "Valiant Debutante",
+      "dam_reg": "W30210",
+      "owners": [
+        "Saul C. Hoffberger"
+      ]
+    },
+    {
+      "reg_number": "W337432",
+      "name": "Kenmount Anglo",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-23-43",
+      "color_code": "Blk",
+      "breed": "Newfoundland",
+      "sire_name": "Yeoman of Westerland",
+      "sire_reg": "A630462",
+      "dam_name": "Westerland Stella*",
+      "dam_reg": null,
+      "owners": [
+        "Mr. & Mrs. Joseph F. Milleson"
+      ]
+    },
+    {
+      "reg_number": "W356402",
+      "name": "Marwood's Starlight Heather",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-12-49",
+      "color_code": "Gr & wh",
+      "breed": "Old English Sheepdog",
+      "sire_name": "Woods' Canyon Clover",
+      "sire_reg": "W61020",
+      "dam_name": "Shepton Starlight",
+      "dam_reg": "A776829",
+      "owners": [
+        "Marjorie A. Woods"
+      ]
+    },
+    {
+      "reg_number": "W342890",
+      "name": "Lakeview Honey",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-8-46",
+      "color_code": "Blk & gr",
+      "breed": "Puli",
+      "sire_name": "Mereg Duda",
+      "sire_reg": "A770280",
+      "dam_name": "Duna*",
+      "dam_reg": null,
+      "owners": [
+        "Glendon Poland"
+      ]
+    },
+    {
+      "reg_number": "W333894",
+      "name": "Cheelah",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-19-49",
+      "color_code": "Blk & rust",
+      "breed": "Rottweiler",
+      "sire_name": "Domossi v Hohenreissach",
+      "sire_reg": "W64326",
+      "dam_name": "Zada",
+      "dam_reg": "W343133",
+      "owners": [
+        "Mr. & Mrs. Paul J. McKinney"
+      ]
+    }
+  ]
+}

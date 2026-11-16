@@ -1,0 +1,977 @@
+{
+  "breed": "Rottweiler",
+  "date_header": "MARCH 1990",
+  "dogs": [
+    {
+      "reg_number": "WF678281",
+      "name": "NEWSOMS VIRGIN STAR MADONNA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-23-86",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "NICHOLAS VON BLAIR",
+      "sire_reg": "WF638419",
+      "dam_name": "NEWSOMS VIRGIN STAR",
+      "dam_reg": "WF553154",
+      "breeders": [
+        "B NEWSOM & M C BERRY"
+      ],
+      "owners": [
+        "T & K TRITT & A BUTLER"
+      ]
+    },
+    {
+      "reg_number": "WF765346",
+      "name": "NICOLE NOEL WEINACHT",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-19-85",
+      "color_code": "BLK & BR",
+      "breed": "Rottweiler",
+      "sire_name": "IVAN VOM ALLEN",
+      "sire_reg": "WE895465",
+      "dam_name": "CONCORD'S DARLING DOCTOR JAKE",
+      "dam_reg": "WF339149",
+      "breeders": [
+        "D GREENE & J GOLTON & G F VAN ALLEN"
+      ],
+      "owners": [
+        "D GOMEZ & L TOWNSEND"
+      ]
+    },
+    {
+      "reg_number": "WF925021",
+      "name": "NICO VOM STEINBLEIKLAND",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-25-86",
+      "color_code": "BLK & TN",
+      "breed": "Rottweiler",
+      "sire_name": "TAKE IT TO THE MAXIMUS",
+      "sire_reg": "WF646376",
+      "dam_name": "LADY SADIE BUTTE",
+      "dam_reg": "WF066795",
+      "breeders": [
+        "J MORAITES & D DELEISSEGUES"
+      ],
+      "owners": [
+        "D MORAITES & D DELEISSEGUES"
+      ]
+    },
+    {
+      "reg_number": "WG350148",
+      "name": "NIGEL'S SPITFIRE ELSPLATZ",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-26-86",
+      "color_code": "BLK & TN",
+      "breed": "Rottweiler",
+      "sire_name": "GUNDI VON REMCHINGEN",
+      "sire_reg": "WF762028",
+      "dam_name": "ANGEL VON HAUS ALLEN",
+      "dam_reg": "WF064303",
+      "breeders": [
+        "L MATTHEWS & J CLARKE"
+      ],
+      "owners": [
+        "L MATTHEWS & J CLARKE"
+      ]
+    },
+    {
+      "reg_number": "WG013220",
+      "name": "NIGHT STALKER II",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-6-86",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "SRIGO'S LOADED FOR BEAR",
+      "sire_reg": "WF477751",
+      "dam_name": "HEAVENS BABA DOLL",
+      "dam_reg": "WF400966",
+      "breeders": [
+        "J CASTILLO JR & R HERRERA"
+      ],
+      "owners": [
+        "J CASTILLO JR & R HERRERA"
+      ]
+    },
+    {
+      "reg_number": "WG336916",
+      "name": "NIGHTSTICK'S BIZZARD BOUND",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-6-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "CASANOVA'S DIAMONDS GLITTER",
+      "sire_reg": "WF640303",
+      "dam_name": "HEAVENS BABA DOLL",
+      "dam_reg": "WF624434",
+      "breeders": [
+        "R KITS & W DAVIS"
+      ],
+      "owners": [
+        "R KITS & W DAVIS"
+      ]
+    },
+    {
+      "reg_number": "WG16149",
+      "name": "NIKITAS VIKING BEAR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-4-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "NIKITA VOM BARONESS",
+      "sire_reg": "WF624424",
+      "dam_name": "NIKITA VOM BARONESS",
+      "dam_reg": "WF863417",
+      "breeders": [
+        "T DAVIS & W DAVIS"
+      ],
+      "owners": [
+        "T DAVIS & W DAVIS"
+      ]
+    },
+    {
+      "reg_number": "WG206307",
+      "name": "NIKITAS VINTAGE MAX",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-1-87",
+      "color_code": "BLK & TN",
+      "breed": "Rottweiler",
+      "sire_name": "BUCKS DIXIE ACE CUJO",
+      "sire_reg": "WF703151",
+      "dam_name": "MANDY DE BLUERIDGE",
+      "dam_reg": "WF470480",
+      "breeders": [
+        "A BERTRAND III & Y JOSEPH & B PELAK"
+      ],
+      "owners": [
+        "A BERTRAND III & Y JOSEPH & B PELAK"
+      ]
+    },
+    {
+      "reg_number": "WG073945",
+      "name": "NIKITAS DREAM",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-22-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "COUNTRYMAN'S SHASTA",
+      "sire_reg": "WF809004",
+      "dam_name": "EVEULA OF POTTER",
+      "dam_reg": "WF789204",
+      "breeders": [
+        "E JACKSON & E HURST"
+      ],
+      "owners": [
+        "E JACKSON & E HURST"
+      ]
+    },
+    {
+      "reg_number": "WF984534",
+      "name": "NIKKI'S DREAM",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-37-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "RAINFALL'S FLYING THUNDER",
+      "sire_reg": "WF285973",
+      "dam_name": "CH ELF'S AXEL",
+      "dam_reg": "WF630393",
+      "breeders": [
+        "J & J COPELAND & C J RAINEY"
+      ],
+      "owners": [
+        "J & J COPELAND & C J RAINEY"
+      ]
+    },
+    {
+      "reg_number": "WG285098",
+      "name": "NINA VON DIBO",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-3-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "DOLLY VON GEISHERT",
+      "sire_reg": "WF630393",
+      "dam_name": "HITLER VON ROSS",
+      "dam_reg": "WF811852",
+      "breeders": [
+        "K MCGEE & J WALDROP"
+      ],
+      "owners": [
+        "K MCGEE & J WALDROP"
+      ]
+    },
+    {
+      "reg_number": "WE216456",
+      "name": "NITRON THE BLACK PRINCE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-85",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "JOTAM'S PEPPER MILL",
+      "sire_reg": "WF212762",
+      "dam_name": "RO KO SA EBENESSER CEASER",
+      "dam_reg": "WE216456",
+      "breeders": [
+        "V AYALA PAGAN & J RIVERA"
+      ],
+      "owners": [
+        "V AYALA PAGAN & J RIVERA"
+      ]
+    },
+    {
+      "reg_number": "WG218805",
+      "name": "NOMAN VON ROSTOCK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-23-84",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "RO KO SA EBENESSER CEASER",
+      "sire_reg": "WF793380",
+      "dam_name": "ARAIZA'S ROSIE",
+      "dam_reg": "WF670079",
+      "breeders": [
+        "J DUNCAN & KOZIATEK-SANCHEZ"
+      ],
+      "owners": [
+        "J DUNCAN & KOZIATEK-SANCHEZ"
+      ]
+    },
+    {
+      "reg_number": "WF677324",
+      "name": "NORICE'S HOLLIE EBONY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-85",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "BRANDO VON KRIENE",
+      "sire_reg": "WF379395",
+      "dam_name": "FRED & HARRIS J AVELLO",
+      "dam_reg": "WF18809",
+      "breeders": [
+        "E NORICE & R PHILLIPS & P ARAIZA"
+      ],
+      "owners": [
+        "D & J HARRIS & J AVELLO"
+      ]
+    },
+    {
+      "reg_number": "WE886803",
+      "name": "DANSORS HUGGY BEAR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-85",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "FRED & HARRIS J AVELLO",
+      "sire_reg": "WF670079",
+      "dam_name": "DANSORS HUGGY BEAR",
+      "dam_reg": "WG018089",
+      "breeders": [
+        "N & D GOOD & J AVELLO"
+      ],
+      "owners": [
+        "N & D GOOD & J AVELLO"
+      ]
+    },
+    {
+      "reg_number": "WF16577",
+      "name": "NYCE'S SUE FRAULEIN V DREIMEREI",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-86",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "KONIGSERRG ARONS VON WEIDENECK",
+      "sire_reg": "WF624424",
+      "dam_name": "FRED & HARRIS J AVELLO",
+      "dam_reg": "WF623402",
+      "breeders": [
+        "R WRIGHT & B BUCHLE"
+      ],
+      "owners": [
+        "R WRIGHT & B BUCHLE"
+      ]
+    },
+    {
+      "reg_number": "WF636399",
+      "name": "O'CONNELL'S VAIRN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-4-84",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "OASIS VALLEY'S SHEEBA",
+      "sire_reg": "WF252392",
+      "dam_name": "CASTANDAS BRUTUS MAXIMUS",
+      "dam_reg": "WF522392",
+      "breeders": [
+        "N O'CONNELL & J CASTA\u00d1EDA"
+      ],
+      "owners": [
+        "N O'CONNELL & J CASTA\u00d1EDA"
+      ]
+    },
+    {
+      "reg_number": "WF591781",
+      "name": "O'CONNELL'S TROUBLE THE BEAR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-18-86",
+      "color_code": "BLK & TN",
+      "breed": "Rottweiler",
+      "sire_name": "ULLERY'S FRAULEIN GRETA BABE",
+      "sire_reg": "WF852960",
+      "dam_name": "ULLERY'S FRAULEIN GRETA BABE",
+      "dam_reg": "WF852960",
+      "breeders": [
+        "G WEAVER III & CLARK KIDWELL"
+      ],
+      "owners": [
+        "G WEAVER III & PETERS & P HUMPHREY"
+      ]
+    },
+    {
+      "reg_number": "WG31167",
+      "name": "OLDEROOKS BRUSON VON SMOKEY",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-88-88",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "CH DR CATLIN'S H H DIETER CD",
+      "sire_reg": "WF751283",
+      "dam_name": "OLDEROOKS BRUSON VON SMOKEY",
+      "dam_reg": "WF671584",
+      "breeders": [
+        "R DOBBINS & L THAYER"
+      ],
+      "owners": [
+        "R DOBBINS & L THAYER"
+      ]
+    },
+    {
+      "reg_number": "WE372962",
+      "name": "ONYX EMPRESS OF BLACKFIELD",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-1-86",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "TONKA VON GRIZZLY PAW",
+      "sire_reg": "WF708374",
+      "dam_name": "MADRID VOM STROHM",
+      "dam_reg": "WF292641",
+      "breeders": [
+        "D THOMPSON & J REYNA"
+      ],
+      "owners": [
+        "D THOMPSON & J REYNA"
+      ]
+    },
+    {
+      "reg_number": "WG073550",
+      "name": "OPAH WINFREE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-28-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "PUCK MISCHIEVOUS SPRITE",
+      "sire_reg": "WF551925",
+      "dam_name": "MAGIC CARPET MARK V TEMPO",
+      "dam_reg": "WF986-9",
+      "breeders": [
+        "L HUERTA & J SAMANO"
+      ],
+      "owners": [
+        "L HUERTA & J SAMANO"
+      ]
+    },
+    {
+      "reg_number": "WF843096",
+      "name": "OTTO LINDEN VON HUERTA",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-19-86",
+      "color_code": "BLK & TN",
+      "breed": "Rottweiler",
+      "sire_name": "OOLITA VOM SAMANO",
+      "sire_reg": "WF425712",
+      "dam_name": "CLAUS VON ALLEN",
+      "dam_reg": "WF847224",
+      "breeders": [
+        "R GRIFFIN & J WRIGHT"
+      ],
+      "owners": [
+        "R GRIFFIN & J WRIGHT"
+      ]
+    },
+    {
+      "reg_number": "WG044665",
+      "name": "OTTO'S BAD BOY FROM TEXAS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-10-87",
+      "color_code": "BLK & TN",
+      "breed": "Rottweiler",
+      "sire_name": "BATHSHEBA VOM RALLY",
+      "sire_reg": "WF387778",
+      "dam_name": "BETHEL'S KRIEGER INVINCIBLE",
+      "dam_reg": "WF282936",
+      "breeders": [
+        "J & R REYNOLDS & D L SKELTON"
+      ],
+      "owners": [
+        "J & R REYNOLDS & D L SKELTON"
+      ]
+    },
+    {
+      "reg_number": "WF527830",
+      "name": "OTTO VON OBERHAUSEN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-28-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "FRAULEIN GILDA",
+      "sire_reg": "WF783200",
+      "dam_name": "BARONESS KASSANDRA",
+      "dam_reg": "WF212175",
+      "breeders": [
+        "T DUFFEY & A WHIGAM"
+      ],
+      "owners": [
+        "T DUFFEY & A WHIGAM"
+      ]
+    },
+    {
+      "reg_number": "WG026965",
+      "name": "PADONES KARLENE CHANTEL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-27-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "KLEIN NIKKI DAS SPRINGER",
+      "sire_reg": "WF593181",
+      "dam_name": "SHIR-LONS CHARLEMAGNE",
+      "dam_reg": "WF96711",
+      "breeders": [
+        "P FREY & OWNER"
+      ],
+      "owners": [
+        "P FREY & OWNER"
+      ]
+    },
+    {
+      "reg_number": "WF260860",
+      "name": "PAGE'S LAKE PRIDE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-31-87",
+      "color_code": "BLK & BR",
+      "breed": "Rottweiler",
+      "sire_name": "JONSANS ROSITSIE",
+      "sire_reg": "WF769748",
+      "dam_name": "RUNNING DI'S KODIAK CD",
+      "dam_reg": "WF356261",
+      "breeders": [
+        "D & L KAUFMAN & S J FROST"
+      ],
+      "owners": [
+        "J POST & G MARCUS"
+      ]
+    },
+    {
+      "reg_number": "WG69068",
+      "name": "PANCHO'S BRUNO OF L'WOOD",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-26-85",
+      "color_code": "BLK & BR",
+      "breed": "Rottweiler",
+      "sire_name": "BURNS VON WENDY",
+      "sire_reg": "WF530018",
+      "dam_name": "COUNTRYMAN'S RANCH CORENA",
+      "dam_reg": "WF406323",
+      "breeders": [
+        "D FOWLER & D IRISH"
+      ],
+      "owners": [
+        "L BRINSFIELD & DR D GALLO & ODDEN"
+      ]
+    },
+    {
+      "reg_number": "WF730530",
+      "name": "PAMS BLACK MAGIC BEAR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-24-85",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "PETRO VOM HERZOGSWEG",
+      "sire_reg": "WF626701",
+      "dam_name": "RADIO RANCH'S CARE BEAR",
+      "dam_reg": "WF692795",
+      "breeders": [
+        "K MAILFALD & M MOORE"
+      ],
+      "owners": [
+        "K MAILFALD & M MOORE"
+      ]
+    },
+    {
+      "reg_number": "WG629975",
+      "name": "PANZER DIESEL RIG (D)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-4-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "CH RADIO RANCH'S WOLFGANG EL",
+      "sire_reg": "WF656613",
+      "dam_name": "DIAMOND DAX MIBCIG",
+      "dam_reg": "WF290523",
+      "breeders": [
+        "M WILCOX & J HAYNES"
+      ],
+      "owners": [
+        "M WILCOX & J HAYNES"
+      ]
+    },
+    {
+      "reg_number": "WO02996",
+      "name": "PANZER VON KIRKHAUS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-13-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "SIMCA SUE HAYNES",
+      "sire_reg": "WF761859",
+      "dam_name": "DIESEL REX (B)",
+      "dam_reg": "WG327292",
+      "breeders": [
+        "M MATTHEWS & M EVANS"
+      ],
+      "owners": [
+        "M MATTHEWS & M EVANS"
+      ]
+    },
+    {
+      "reg_number": "WF371484",
+      "name": "PANZORA-KARSHA VON OBI (B)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-18-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "SHOGUN MACK",
+      "sire_reg": "WF571484",
+      "dam_name": "KISER FRITZ, JAHESLISA",
+      "dam_reg": "WF451739",
+      "breeders": [
+        "P STURGILL & J RANDOLPH"
+      ],
+      "owners": [
+        "P STURGILL & J RANDOLPH"
+      ]
+    },
+    {
+      "reg_number": "WG259359",
+      "name": "PAULA'S GENTLE BREEZE (B)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-28-88",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "SHEZ SOMETHING SPECIAL",
+      "sire_reg": "WG322242",
+      "dam_name": "DUKE OF DARKNESS",
+      "dam_reg": "WF632242",
+      "breeders": [
+        "S TERRELL-LOMON & L DE LUCCA"
+      ],
+      "owners": [
+        "S TERRELL-LOMON & L DE LUCCA"
+      ]
+    },
+    {
+      "reg_number": "WG036496",
+      "name": "IRA'S MURPHY VOM LUCCA",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "12-87",
+      "color_code": "BLK & TN",
+      "breed": "Rottweiler",
+      "sire_name": "NITASHA VON LUCCA",
+      "sire_reg": "WF377944",
+      "dam_name": "REHLCLEF'S KONG V DJANGO",
+      "dam_reg": "WF884004",
+      "breeders": [
+        "S PEARSON & D ALBERT & M CHAGOLLA"
+      ],
+      "owners": [
+        "D BORREGO & CAMINERO'S SELLERS"
+      ]
+    },
+    {
+      "reg_number": "WG011399",
+      "name": "PEARL'S BRUNO VANGELINA",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-8-87",
+      "color_code": "BLK & BR",
+      "breed": "Rottweiler",
+      "sire_name": "REHLEF'S LOMON (D)",
+      "sire_reg": "WF284804",
+      "dam_name": "REHLEF'S KONG V DJANGO",
+      "dam_reg": "WF884004",
+      "breeders": [
+        "D BORREGO & CAMINERO'S SELLERS"
+      ],
+      "owners": [
+        "J WILLIAMSON & R WILLIAMS"
+      ]
+    },
+    {
+      "reg_number": "WG294495",
+      "name": "BEAUREGARD V KRUGHAUS",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-14-86",
+      "color_code": "BLK & BR",
+      "breed": "Rottweiler",
+      "sire_name": "PEPPER VON ZBOGAR",
+      "sire_reg": "WF782589",
+      "dam_name": "PEBBLES VON FOSTENBURG (B)",
+      "dam_reg": "WF531225",
+      "breeders": [
+        "P & J MILNER & K WINTON"
+      ],
+      "owners": [
+        "L LOLLIS & T JAMES & S DAVIS"
+      ]
+    },
+    {
+      "reg_number": "WF373757",
+      "name": "WAGNER'S SPOOKY SHADOW",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-7-88",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "WILLIAMS MISCHIEVOUS MISSY",
+      "sire_reg": "WF646764",
+      "dam_name": "AHARS TORY SHEBA",
+      "dam_reg": "WF500667",
+      "breeders": [
+        "M & E JOHNSON & D MILLER"
+      ],
+      "owners": [
+        "S SHELDON & G MILLER & G MILLER"
+      ]
+    },
+    {
+      "reg_number": "WG108367",
+      "name": "PETRA TORY VON ROCKIT (B)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-15-88",
+      "color_code": "BLK & TN",
+      "breed": "Rottweiler",
+      "sire_name": "MS JUBAL BRAUN",
+      "sire_reg": "WG031602",
+      "dam_name": "PHILLIS'S BABY BEAR (B)",
+      "dam_reg": "WF964467",
+      "breeders": [
+        "GINA VOM DENGELBERG",
+        "D PITMAN & OWNER"
+      ],
+      "owners": [
+        "D PITMAN & OWNER"
+      ]
+    },
+    {
+      "reg_number": "WG144672",
+      "name": "PIA VON DER TANN (GERMANY) (B)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-21-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "HASSAN VOM K\u00d6NIGSGARTEN",
+      "sire_reg": "WF715144",
+      "dam_name": "FRAULEIN GRETCHEN V NOEL",
+      "dam_reg": "WF480246",
+      "breeders": [
+        "S SHELDON & G MILLER & G MILLER"
+      ],
+      "owners": [
+        "P & O MCDONALD & K DOWNEY & S MCPHERSON"
+      ]
+    },
+    {
+      "reg_number": "WG14851",
+      "name": "HOLIDAY'S BLACK MAGIC",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-12-88",
+      "color_code": "BLK & BR",
+      "breed": "Rottweiler",
+      "sire_name": "HOLIDAY'S BUCK BRUDO",
+      "sire_reg": "WF024519",
+      "dam_name": "SHERA HENNESSA",
+      "dam_reg": "WF900842",
+      "breeders": [
+        "C MILLER JR & T HENNINGS"
+      ],
+      "owners": [
+        "J HORN & C HORST"
+      ]
+    },
+    {
+      "reg_number": "WG343962",
+      "name": "POCHIE V (B)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-12-88",
+      "color_code": "BLK & TN",
+      "breed": "Rottweiler",
+      "sire_name": "CH POMAC'S YODA OF DAGCOBAH",
+      "sire_reg": "WF12793",
+      "dam_name": "FAIR VIEW GUNNAR",
+      "dam_reg": "WF613959",
+      "breeders": [
+        "P PRICE / D ADAMS"
+      ],
+      "owners": [
+        "P PRICHARD & S SHIRK"
+      ]
+    },
+    {
+      "reg_number": "WG22487",
+      "name": "PRECIOUS V",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "12-26-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "ADAM'S JACKIE O",
+      "sire_reg": "WF481868",
+      "dam_name": "LORD BADGER VON WEILER",
+      "dam_reg": "WF653351",
+      "breeders": [
+        "P PRICHARD & S SHIRK"
+      ],
+      "owners": [
+        "L KRUTSCH & OWNER"
+      ]
+    },
+    {
+      "reg_number": "WF265375",
+      "name": "PRICE'S KING SUNDY (D)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-19-87",
+      "color_code": "BLK & BR",
+      "breed": "Rottweiler",
+      "sire_name": "CH ROMER'S SOMER'S SARTHOLME",
+      "sire_reg": "WF617531",
+      "dam_name": "CH SOMER'S ELKE VOM ALPEN HAU",
+      "dam_reg": "WF769368",
+      "breeders": [
+        "F GRELL & S LINDSTROM"
+      ],
+      "owners": [
+        "J LEWIS & R WEAVER"
+      ]
+    },
+    {
+      "reg_number": "WF639411",
+      "name": "PRIMA DANIA, VOM ALPEN HAUS (B)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "13-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "LUGAR VON STROM",
+      "sire_reg": "WF465409",
+      "dam_name": "BRANDY VON STROM",
+      "dam_reg": "WE440757",
+      "breeders": [
+        "F KELLY & D MAHNKEN"
+      ],
+      "owners": [
+        "F KELLY & D MAHNKEN"
+      ]
+    },
+    {
+      "reg_number": "WG221478",
+      "name": "PRIMO VOM STROM (D)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-84",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "DIVERSE CHARLES OF YORKIETOWN",
+      "sire_reg": "WE501295",
+      "dam_name": "SHEENA'S SHADOW LADY",
+      "dam_reg": "WF952230",
+      "breeders": [
+        "B ROSKEY & E NICHOLS"
+      ],
+      "owners": [
+        "W BIRKHEAD & P BARRETT"
+      ]
+    },
+    {
+      "reg_number": "WF529444",
+      "name": "PRINCE RUDY AUGUST SCHATZ MAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-86",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "YATAGHAN VOM NICHOLAS",
+      "sire_reg": "WF20909",
+      "dam_name": "SHEENA'S SHADOW LADY",
+      "dam_reg": "WF952230",
+      "breeders": [
+        "B ROSKEY & E NICHOLS"
+      ],
+      "owners": [
+        "J VANHILLE & R CHANDLER"
+      ]
+    },
+    {
+      "reg_number": "WG08726",
+      "name": "PRINCES MIDGY OF CALLAWAY (B)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-85",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "SHEBA'S BLACK STEINKOPF",
+      "sire_reg": "WF775259",
+      "dam_name": "CHANCE ROWY VON CHANDLER",
+      "dam_reg": "WF832968",
+      "breeders": [
+        "G GILLISON & M WHITE"
+      ],
+      "owners": [
+        "J CHAMBERS & C FIELDS JR"
+      ]
+    },
+    {
+      "reg_number": "WF911229",
+      "name": "PRINCES BRITTIA LEECH (B)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "LEAH VON KRIEGEN",
+      "sire_reg": "WF689312",
+      "dam_name": "ATLEY'S MITZI KIMBERTAL",
+      "dam_reg": "WF748664",
+      "breeders": [
+        "L BROOKS & JR W GRIFFIN"
+      ],
+      "owners": [
+        "L BROOKS & JR W GRIFFIN"
+      ]
+    },
+    {
+      "reg_number": "WG041472",
+      "name": "PRINCESS CAROLINA VANHILLE (B)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-87",
+      "color_code": "BLK & TN",
+      "breed": "Rottweiler",
+      "sire_name": "BUMA'S BAD OMEN",
+      "sire_reg": "WF865391",
+      "dam_name": "PRINCESS GRETA (B)",
+      "dam_reg": "WF6062577",
+      "breeders": [
+        "S RICHARDS & E WILKES"
+      ],
+      "owners": [
+        "L FELAN & G AUSTGEN"
+      ]
+    },
+    {
+      "reg_number": "WO901878",
+      "name": "PRINCESS GRETA (B)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-87",
+      "color_code": "BLK & TN",
+      "breed": "Rottweiler",
+      "sire_name": "WILKES PROWLER",
+      "sire_reg": "WF905276",
+      "dam_name": "WILKES PRINCESS RHEA",
+      "dam_reg": "WG026305",
+      "breeders": [
+        "L FELAN & G AUSTGEN"
+      ],
+      "owners": [
+        "W SIEGRIST & G KLINE"
+      ]
+    },
+    {
+      "reg_number": "WG249708",
+      "name": "PRINCESS ROXIE'S WILDERNESS (B)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "RUBY SHADOW",
+      "sire_reg": "WF637762",
+      "dam_name": "KLINE'S GRETTA DE BELMONT",
+      "dam_reg": "WF608047",
+      "breeders": [
+        "R HAYWOOD & T HUDSON"
+      ],
+      "owners": [
+        "J C MARTIN & B BLAIR"
+      ]
+    },
+    {
+      "reg_number": "WF247250",
+      "name": "PRINCESS SHERRA (B)",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-23-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "LUDWIG'S GREITA OF BELMONT",
+      "sire_reg": "WF3472250",
+      "dam_name": "BARON ESSENDE VON GOTHA",
+      "dam_reg": "WF809543",
+      "breeders": [
+        "ERIC VON UBERALLES",
+        "CHINA BLUE VOM SONNEN"
+      ],
+      "owners": [
+        "C JOHNSON & L CERRATO"
+      ]
+    }
+  ]
+}

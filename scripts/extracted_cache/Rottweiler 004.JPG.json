@@ -1,0 +1,852 @@
+{
+  "breed": "Rottweiler",
+  "date_header": "December, 1954",
+  "dogs": [
+    {
+      "reg_number": "W346912",
+      "name": "Peppermint of Marydane",
+      "sex": "B",
+      "birth_date": "5-10-52",
+      "color_code": "Brdl",
+      "breed": "Rottweiler",
+      "sire_name": "Ch. Lucky Adolph of Marydane",
+      "sire_reg": "W247011",
+      "dam_name": "Ch. Bornholm's Cynara",
+      "dam_reg": "W33022",
+      "breeders": [
+        "Mary K. Johnston"
+      ],
+      "owners": [
+        "Mrs. Glen Peterson"
+      ]
+    },
+    {
+      "reg_number": "W427012",
+      "name": "Pfaff's Six Shoot'n' Freckles",
+      "sex": "B",
+      "birth_date": "5-31-52",
+      "color_code": "Blk & wh",
+      "breed": "Rottweiler",
+      "sire_name": "Peterson's Happy Boy",
+      "sire_reg": "W200494",
+      "dam_name": "Dusk Steppan",
+      "dam_reg": "W217340",
+      "breeders": [
+        "Dr. & Mrs. G. C. F"
+      ],
+      "owners": [
+        "W. R. & D. J. Pfaff"
+      ]
+    },
+    {
+      "reg_number": "W386771",
+      "name": "Prince von Fury",
+      "sex": "D",
+      "birth_date": "11-12-50",
+      "color_code": "Fn",
+      "breed": "Rottweiler",
+      "sire_name": "Ch. Fury",
+      "sire_reg": "W78259",
+      "dam_name": "Martin's Grechen",
+      "dam_reg": "W45851",
+      "breeders": [
+        "Kalmar Kennels"
+      ],
+      "owners": [
+        "Gertrude M. Bartley"
+      ]
+    },
+    {
+      "reg_number": "W413296",
+      "name": "Princess Beauty of Clemans",
+      "sex": "B",
+      "birth_date": "4-12-52",
+      "color_code": "Fn, blk msk",
+      "breed": "Rottweiler",
+      "sire_name": "Ch. Dinro Ajax",
+      "sire_reg": "W130997",
+      "dam_name": "Ch. Vesta of Twin Cedars",
+      "dam_reg": "W23725",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mr. & Mrs. B. Clemans, Jr."
+      ]
+    },
+    {
+      "reg_number": "W421955",
+      "name": "Razzel Dazzel of Marydane",
+      "sex": "D",
+      "birth_date": "4-28-53",
+      "color_code": "Fn, blk msk",
+      "breed": "Rottweiler",
+      "sire_name": "Ch. Autopilot of Kanedane",
+      "sire_reg": "W176095",
+      "dam_name": "Lisa of Marydane",
+      "dam_reg": "W247015",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mary K. Johnston"
+      ]
+    },
+    {
+      "reg_number": "W383109",
+      "name": "Rea-Dane's Becky",
+      "sex": "B",
+      "birth_date": "12-30-52",
+      "color_code": "Fn, blk msk",
+      "breed": "Rottweiler",
+      "sire_name": "Ajax of Blackwell",
+      "sire_reg": "W290328",
+      "dam_name": "Fauna von Weser",
+      "dam_reg": "W281188",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Rea-Dane Kennels"
+      ]
+    },
+    {
+      "reg_number": "W383111",
+      "name": "Rea-Dane's Madamoiselle",
+      "sex": "B",
+      "birth_date": "12-30-52",
+      "color_code": "Fn, blk msk",
+      "breed": "Rottweiler",
+      "sire_name": "Ajax of Blackwell",
+      "sire_reg": "W290328",
+      "dam_name": "Fauna von Weser",
+      "dam_reg": "W281188",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Rea-Dane Kennels"
+      ]
+    },
+    {
+      "reg_number": "W406800",
+      "name": "Rhona's Desireable Sultana",
+      "sex": "B",
+      "birth_date": "11-27-52",
+      "color_code": "Fn, blk msk",
+      "breed": "Rottweiler",
+      "sire_name": "Nalla's Desireable Jeff",
+      "sire_reg": "W66738",
+      "dam_name": "Roselyn's Rhona",
+      "dam_reg": "W88290",
+      "breeders": [
+        "Mrs. Ed Peters"
+      ],
+      "owners": [
+        "Louis Peterman"
+      ]
+    },
+    {
+      "reg_number": "W360887",
+      "name": "Richla's Sultan de Or",
+      "sex": "D",
+      "birth_date": "8-28-52",
+      "color_code": "Brdl",
+      "breed": "Rottweiler",
+      "sire_name": "Vida's Bacio",
+      "sire_reg": "W89366",
+      "dam_name": "Lady Cretion's Easy",
+      "dam_reg": "W264424",
+      "breeders": [
+        "Mr. & Mrs. L. ."
+      ],
+      "owners": [
+        "Edward B. Downs"
+      ]
+    },
+    {
+      "reg_number": "W389850",
+      "name": "Rili's Pollux",
+      "sex": "D",
+      "birth_date": "12-22-52",
+      "color_code": "Fn, blk msk",
+      "breed": "Rottweiler",
+      "sire_name": "Ch. Tyras v Ralmar",
+      "sire_reg": "W42886",
+      "dam_name": "Ch. Kready's Leda",
+      "dam_reg": "W85997",
+      "breeders": [
+        "Philip J. Reilly"
+      ],
+      "owners": [
+        "Amos M. Kauffman"
+      ]
+    },
+    {
+      "reg_number": "W390687",
+      "name": "Saxton Hijo de Homer",
+      "sex": "D",
+      "birth_date": "11-4-52",
+      "color_code": "Fn",
+      "breed": "Rottweiler",
+      "sire_name": "Rey's Sombrero Homer",
+      "sire_reg": "W282571",
+      "dam_name": "Heroin Saxton",
+      "dam_reg": "W112462",
+      "breeders": [
+        "Mrs. Rodney E."
+      ],
+      "owners": [
+        "Mrs. F. A. Tredway, Jr."
+      ]
+    },
+    {
+      "reg_number": "W386570",
+      "name": "Shalott's Lady Antonia",
+      "sex": "B",
+      "birth_date": "12-5-52",
+      "color_code": "Brdl, blk msk",
+      "breed": "Rottweiler",
+      "sire_name": "Ch. Dion of Kent",
+      "sire_reg": "W145759",
+      "dam_name": "Honey Hollow Ebony Maid",
+      "dam_reg": "W267223",
+      "breeders": [
+        "Mayatha Diehl H"
+      ],
+      "owners": [
+        "Mrs. Kenneth C. Host"
+      ]
+    },
+    {
+      "reg_number": "W386566",
+      "name": "Shalott's Sir Aillistair",
+      "sex": "D",
+      "birth_date": "12-5-52",
+      "color_code": "Fn, blk msk",
+      "breed": "Rottweiler",
+      "sire_name": "Ch. Dion of Kent",
+      "sire_reg": "W145759",
+      "dam_name": "Honey Hollow Ebony Maid",
+      "dam_reg": "W267223",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mayatha Diehl Holt"
+      ]
+    },
+    {
+      "reg_number": "W490442",
+      "name": "Sheike of Aggieland",
+      "sex": "D",
+      "birth_date": "10-13-52",
+      "color_code": "Fn, blk msk",
+      "breed": "Rottweiler",
+      "sire_name": "Major's Buff Luck",
+      "sire_reg": "W170269",
+      "dam_name": "Lady Luck VI",
+      "dam_reg": "W255513",
+      "breeders": [
+        "C. E. Waddle"
+      ],
+      "owners": [
+        "H. L. Woods"
+      ]
+    },
+    {
+      "reg_number": "W454076",
+      "name": "Shelia of Guam",
+      "sex": "B",
+      "birth_date": "9-21-52",
+      "color_code": "Fn",
+      "breed": "Rottweiler",
+      "sire_name": "Sir Launcelau",
+      "sire_reg": "W122365",
+      "dam_name": "Lady Leah of Canterbury",
+      "dam_reg": "W252909",
+      "breeders": [
+        "Wilfred A. Clar"
+      ],
+      "owners": [
+        "C. S. Hansen"
+      ]
+    },
+    {
+      "reg_number": "W397602",
+      "name": "Sir Michael Leander",
+      "sex": "D",
+      "birth_date": "7-10-52",
+      "color_code": "Fn, blk msk",
+      "breed": "Rottweiler",
+      "sire_name": "Tulsa Baron",
+      "sire_reg": "W237214",
+      "dam_name": "Duchess of Winston",
+      "dam_reg": "W271026",
+      "breeders": [
+        "Melburn H. Cox"
+      ],
+      "owners": [
+        "Beatrice J. Smith"
+      ]
+    },
+    {
+      "reg_number": "W525820",
+      "name": "Sir Robert of Collindane",
+      "sex": "D",
+      "birth_date": "9-6-52",
+      "color_code": "Fn",
+      "breed": "Rottweiler",
+      "sire_name": "Caliph of Collindane",
+      "sire_reg": "W212214",
+      "dam_name": "Mar-Jo's Lady Jane",
+      "dam_reg": "W128758",
+      "breeders": [
+        "Joseph L. Picor"
+      ],
+      "owners": [
+        "Garrett Miller, Jr."
+      ]
+    },
+    {
+      "reg_number": "W482754",
+      "name": "Sir Roxsford of Glenwood",
+      "sex": "D",
+      "birth_date": "5-24-53",
+      "color_code": "Fn",
+      "breed": "Rottweiler",
+      "sire_name": "Dane Ville's Dashing Duke",
+      "sire_reg": "W168638",
+      "dam_name": "Pauladina of Old Nobility",
+      "dam_reg": "W169027",
+      "breeders": [
+        "Lillian Bellew"
+      ],
+      "owners": [
+        "James Reaume"
+      ]
+    },
+    {
+      "reg_number": "W390926",
+      "name": "Smoky of the Mountains",
+      "sex": "B",
+      "birth_date": "9-9-52",
+      "color_code": "Gr, wh chest",
+      "breed": "Rottweiler",
+      "sire_name": "Clodo vom der Meistersingerberg",
+      "sire_reg": "W345153",
+      "dam_name": "Donad of Clifton",
+      "dam_reg": "W14484",
+      "breeders": [
+        "Charles G. Butt"
+      ],
+      "owners": [
+        "Lorraine Ritchings"
+      ]
+    },
+    {
+      "reg_number": "W403824",
+      "name": "Spotlight",
+      "sex": "D",
+      "birth_date": "7-12-51",
+      "color_code": "Brdl",
+      "breed": "Rottweiler",
+      "sire_name": "Waiter's Broadlawn Butcher Boy",
+      "sire_reg": "W123610",
+      "dam_name": "Helga of Doonholm",
+      "dam_reg": "A986811",
+      "breeders": [
+        "Howard L. Walt"
+      ],
+      "owners": [
+        "G. W. McMaster"
+      ]
+    },
+    {
+      "reg_number": "W418615",
+      "name": "Susie V",
+      "sex": "B",
+      "birth_date": "8-13-52",
+      "color_code": "Fn",
+      "breed": "Rottweiler",
+      "sire_name": "King vom Scharing",
+      "sire_reg": "W337900",
+      "dam_name": "Dolabella of Underwood",
+      "dam_reg": "W170831",
+      "breeders": [
+        "Mr. & Mrs. Llo"
+      ],
+      "owners": [
+        "Mr. & Mrs. R. W. Blake"
+      ]
+    },
+    {
+      "reg_number": "W415502",
+      "name": "Tanya Duchess of Thor",
+      "sex": "B",
+      "birth_date": "12-6-52",
+      "color_code": "Fn, blk msk",
+      "breed": "Rottweiler",
+      "sire_name": "Big Boy of Longwood",
+      "sire_reg": "W269297",
+      "dam_name": "Georgianne",
+      "dam_reg": "W174086",
+      "breeders": [
+        "Mrs. Charles R."
+      ],
+      "owners": [
+        "Anne O. Willard"
+      ]
+    },
+    {
+      "reg_number": "W511649",
+      "name": "Tigewill Golden Mike",
+      "sex": "D",
+      "birth_date": "7-12-51",
+      "color_code": "Brdl",
+      "breed": "Rottweiler",
+      "sire_name": "Tigewill",
+      "sire_reg": "W267525",
+      "dam_name": "Mi-Dane Golden Symphony",
+      "dam_reg": "W139161",
+      "breeders": [
+        "F. Lee Wagner"
+      ],
+      "owners": [
+        "Dwight Lee Phillips"
+      ]
+    },
+    {
+      "reg_number": "W508241",
+      "name": "Tinajero Rusty",
+      "sex": "B",
+      "birth_date": "6-17-50",
+      "color_code": "Rust",
+      "breed": "Rottweiler",
+      "sire_name": "Nalla's Desireable Jeff",
+      "sire_reg": "W66738",
+      "dam_name": "Kalmar's Lady Amber",
+      "dam_reg": "W136317",
+      "breeders": [
+        "B, L. & L. G. Sp"
+      ],
+      "owners": [
+        "Eulene L. Jorgenson"
+      ]
+    },
+    {
+      "reg_number": "W447343",
+      "name": "Tyra of Mountain Side",
+      "sex": "B",
+      "birth_date": "4-19-51",
+      "color_code": "Gldn fn",
+      "breed": "Rottweiler",
+      "sire_name": "Ch. Tyras v Ralmar",
+      "sire_reg": "W42886",
+      "dam_name": "Sandee of Mountainside",
+      "dam_reg": "W296407",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "G. E. & Chas. H. Boyer"
+      ]
+    },
+    {
+      "reg_number": "W334702",
+      "name": "Tyrene of Mountainside",
+      "sex": "B",
+      "birth_date": "10-23-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Rottweiler",
+      "sire_name": "Ch. Tyras v Ralmar",
+      "sire_reg": "W42886",
+      "dam_name": "Sandee of Mountainside",
+      "dam_reg": "W296407",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "G. E. & Chas. H. Boyer"
+      ]
+    },
+    {
+      "reg_number": "W392348",
+      "name": "Val's Pandora",
+      "sex": "B",
+      "birth_date": "5-7-52",
+      "color_code": "Fn, blk msk",
+      "breed": "Rottweiler",
+      "sire_name": "Eginton's Blacky",
+      "sire_reg": "W83987",
+      "dam_name": "Honey's Velesca",
+      "dam_reg": "W212568",
+      "breeders": [
+        "Mrs. Terry Gur"
+      ],
+      "owners": [
+        "Frank Gibler"
+      ]
+    },
+    {
+      "reg_number": "W333888",
+      "name": "Victoria of Westmack",
+      "sex": "B",
+      "birth_date": "6-13-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Rottweiler",
+      "sire_name": "Iver Hill's Adolph Kay",
+      "sire_reg": "W46959",
+      "dam_name": "Hildegard of Our Acres",
+      "dam_reg": "W273172",
+      "breeders": [
+        "Lois De Bruyn"
+      ],
+      "owners": [
+        "Wayne E. Blackrich"
+      ]
+    },
+    {
+      "reg_number": "W406252",
+      "name": "Zitt's Golden Vandal",
+      "sex": "D",
+      "birth_date": "2-9-53",
+      "color_code": "Gldn fn, blk msk",
+      "breed": "Rottweiler",
+      "sire_name": "Ch. Beau's Vandal",
+      "sire_reg": "W61503",
+      "dam_name": "Zitt's Susan",
+      "dam_reg": "W166623",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mr. & Mrs. D. R. Zitt"
+      ]
+    },
+    {
+      "reg_number": "W417596",
+      "name": "Zitt's Lulu Belle",
+      "sex": "B",
+      "birth_date": "3-30-53",
+      "color_code": "Fn, blk msk",
+      "breed": "Rottweiler",
+      "sire_name": "Zitt's Beau Rex",
+      "sire_reg": "W34419",
+      "dam_name": "Zitt's Little Trinket",
+      "dam_reg": "W252246",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mr. & Mrs. D. R. Zitt"
+      ]
+    },
+    {
+      "reg_number": "W420513",
+      "name": "Heros de Crete de Pins",
+      "sex": "D",
+      "birth_date": "2-7-53",
+      "color_code": "Wh, buff ears",
+      "breed": "Great Pyrenees",
+      "sire_name": "Ch. Cote de Neige Acteur",
+      "sire_reg": "W17763",
+      "dam_name": "Cote de Neige Pastourelle II",
+      "dam_reg": "W199796",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Maralee G. Davis"
+      ]
+    },
+    {
+      "reg_number": "D498986",
+      "name": "Jontiman Brandonne de Fontenay de Basquaerie",
+      "sex": "D",
+      "birth_date": null,
+      "color_code": "Eng.",
+      "breed": "Great Pyrenees",
+      "sire_name": "Oslo de Fontenay",
+      "sire_reg": null,
+      "dam_name": "Jontiman Anice",
+      "dam_reg": null,
+      "breeders": [
+        "Mr. & Mrs. N. R."
+      ],
+      "owners": [
+        "Basquaerie Kennels"
+      ]
+    },
+    {
+      "reg_number": "W465962",
+      "name": "Quibbletown Dory",
+      "sex": "B",
+      "birth_date": "4-23-53",
+      "color_code": "8-17-51 Wh, bdgr mkgs",
+      "breed": "Great Pyrenees",
+      "sire_name": "Ch. Quibbletown Easter Token",
+      "sire_reg": "W266344",
+      "dam_name": "Valencia Bezier",
+      "dam_reg": "W312507",
+      "breeders": [
+        "Lucy F. Aalholm"
+      ],
+      "owners": [
+        "Mr. & Mrs. C. S. Smith, Jr."
+      ]
+    },
+    {
+      "reg_number": "W474592",
+      "name": "Boitar from the Farm",
+      "sex": "D",
+      "birth_date": "7-19-53",
+      "color_code": "Wh",
+      "breed": "Kuvasz",
+      "sire_name": "Ahoi von der Roten Muhl",
+      "sire_reg": null,
+      "dam_name": "Atinka from the Farm",
+      "dam_reg": "W346090",
+      "breeders": [
+        "Ralph F. Power"
+      ],
+      "owners": [
+        "Mrs. Virgil Smith"
+      ]
+    },
+    {
+      "reg_number": "W533800",
+      "name": "Heatherbelle Susan's King",
+      "sex": "D",
+      "birth_date": "10-11-52",
+      "color_code": "Fn, blk msk & ears",
+      "breed": "Mastiff",
+      "sire_name": "Heatherbelle Diana's Bruno",
+      "sire_reg": null,
+      "dam_name": "Heatherbelle Hyacinth's Susan",
+      "dam_reg": null,
+      "breeders": [
+        "Mrs. H. M. Mell"
+      ],
+      "owners": [
+        "Benjamin J. Martis"
+      ]
+    },
+    {
+      "reg_number": "W371141",
+      "name": "Dryad's Wendy",
+      "sex": "B",
+      "birth_date": "4-29-52",
+      "color_code": "Blk",
+      "breed": "Newfoundland",
+      "sire_name": "Dryad's Pilot",
+      "sire_reg": "W248810",
+      "dam_name": "Dryad's Beacon of Waseeka",
+      "dam_reg": "W115989",
+      "breeders": [
+        "Dryad Kennels"
+      ],
+      "owners": [
+        "Ray & Mildred Clark"
+      ]
+    },
+    {
+      "reg_number": "W474918",
+      "name": "Arabella's Marian",
+      "sex": "B",
+      "birth_date": "2-24-52",
+      "color_code": "Bl & wh",
+      "breed": "Old English Sheepdog",
+      "sire_name": "Rattler's Watch",
+      "sire_reg": "W304040",
+      "dam_name": "Sheba's Arabella",
+      "dam_reg": "W250343",
+      "breeders": [
+        "Frances G. Mar"
+      ],
+      "owners": [
+        "Bruce D. Jones"
+      ]
+    },
+    {
+      "reg_number": "W325655",
+      "name": "Marksman's Fred Junior",
+      "sex": "D",
+      "birth_date": "9-19-51",
+      "color_code": "Bl & wh",
+      "breed": "Old English Sheepdog",
+      "sire_name": "Lord Fred",
+      "sire_reg": "W133125",
+      "dam_name": "Marksman's G. L. Jane A921447",
+      "dam_reg": "C.D.",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Fred La Crosse"
+      ]
+    },
+    {
+      "reg_number": "W442275",
+      "name": "Februari Friday",
+      "sex": "B",
+      "birth_date": "2-6-53",
+      "color_code": "Blk",
+      "breed": "Puli",
+      "sire_name": "Skysyl Bandi",
+      "sire_reg": "W195901",
+      "dam_name": "Magyar's Czafra",
+      "dam_reg": "W145482",
+      "breeders": [
+        "Clif. F. Woods"
+      ],
+      "owners": [
+        "Edna Kaehele"
+      ]
+    },
+    {
+      "reg_number": "W405098",
+      "name": "Finum Rozsi",
+      "sex": "B",
+      "birth_date": "8-26-52",
+      "color_code": "Blk",
+      "breed": "Puli",
+      "sire_name": "Heimwalds Petofi S\u00e1ndor",
+      "sire_reg": "W236024",
+      "dam_name": "Cinka Panna II",
+      "dam_reg": "A719833",
+      "breeders": [
+        "Johanna K. Kiel"
+      ],
+      "owners": [
+        "Joseph De Lengyel"
+      ]
+    },
+    {
+      "reg_number": "W501546",
+      "name": "Heimwald's Honved",
+      "sex": "D",
+      "birth_date": "5-22-53",
+      "color_code": "Blk",
+      "breed": "Puli",
+      "sire_name": "Heimwald's Kossuth Lajos",
+      "sire_reg": "W181000",
+      "dam_name": "Heimwalds Sari",
+      "dam_reg": "W418914 9-53",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Heimwald Kennels"
+      ]
+    },
+    {
+      "reg_number": "W517467",
+      "name": "Liska Baba",
+      "sex": "B",
+      "birth_date": "7-12-53",
+      "color_code": "Blk",
+      "breed": "Puli",
+      "sire_name": "Ribanczos Rikard",
+      "sire_reg": "W256430",
+      "dam_name": "Panna Kisieany",
+      "dam_reg": "W210305",
+      "breeders": [
+        "Edna Kaehele"
+      ],
+      "owners": [
+        "Madelon B. Neuvirth"
+      ]
+    },
+    {
+      "reg_number": "W329348",
+      "name": "Sammi Buda",
+      "sex": "D",
+      "birth_date": "3-12-49",
+      "color_code": "Blk & gr",
+      "breed": "Puli",
+      "sire_name": "Buda",
+      "sire_reg": "W29010",
+      "dam_name": "Toka",
+      "dam_reg": "W43227",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mary Mahan"
+      ]
+    },
+    {
+      "reg_number": "W439585",
+      "name": "Skysyl Daphne",
+      "sex": "B",
+      "birth_date": "7-22-53",
+      "color_code": "Blk",
+      "breed": "Puli",
+      "sire_name": "Ch. Skysyl Apeter-Pan",
+      "sire_reg": "W157859",
+      "dam_name": "Skysyl Birrichina",
+      "dam_reg": "W319830",
+      "breeders": [
+        "Skysyl Kennels"
+      ],
+      "owners": [
+        "Deke Vermilye"
+      ]
+    },
+    {
+      "reg_number": "W459444",
+      "name": "Skysyl Dorian Grey",
+      "sex": "D",
+      "birth_date": "6-15-53",
+      "color_code": "Gr",
+      "breed": "Puli",
+      "sire_name": "Skysyl Chieftan",
+      "sire_reg": "W319832",
+      "dam_name": "Skysyl Beres",
+      "dam_reg": "W251230",
+      "breeders": [
+        "Charles V. Cori"
+      ],
+      "owners": [
+        "Skysyl Kennels"
+      ]
+    },
+    {
+      "reg_number": "W416333",
+      "name": "Giralda's Argos",
+      "sex": "D",
+      "birth_date": "4-11-53",
+      "color_code": "Blk & tan",
+      "breed": "Rottweiler",
+      "sire_name": "Krieger v Hohenreissach",
+      "sire_reg": "W165626",
+      "dam_name": "Gretchen v Robern",
+      "dam_reg": "W265483",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Giralda Farms"
+      ]
+    },
+    {
+      "reg_number": "W523297",
+      "name": "Olga von Elkin",
+      "sex": "B",
+      "birth_date": "7-20-52",
+      "color_code": "Blk & rust",
+      "breed": "Rottweiler",
+      "sire_name": "Krieger von Hohenreissach",
+      "sire_reg": "W165626",
+      "dam_name": "Asta of Palos Park",
+      "dam_reg": "W202408",
+      "breeders": [
+        "Fred Schaefer"
+      ],
+      "owners": [
+        "Otto Schmid"
+      ]
+    }
+  ]
+}

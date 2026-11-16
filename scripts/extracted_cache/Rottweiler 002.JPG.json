@@ -1,0 +1,1013 @@
+{
+  "breed": "Great Dane",
+  "date_header": null,
+  "dogs": [
+    {
+      "reg_number": "W368948",
+      "name": "The Blue Ox",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-27-50",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Vakeck's Geoffrey",
+      "sire_reg": "W59106",
+      "dam_name": "Madonna of Cedar-Hedge",
+      "dam_reg": "W208534",
+      "breeders": [
+        "Melvin D. Schoeppach"
+      ],
+      "owners": [
+        "Ilah M. Hunter"
+      ]
+    },
+    {
+      "reg_number": "W379762",
+      "name": "S of Bringtonhill",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-11-51",
+      "color_code": "Blk",
+      "breed": "Great Dane",
+      "sire_name": "Dawnlight of Ickford",
+      "sire_reg": null,
+      "dam_name": "Banshee of Bringtonhill",
+      "dam_reg": null,
+      "breeders": [
+        "Mrs. R. M. Ennals"
+      ],
+      "owners": [
+        "Gladys M. Jewell"
+      ]
+    },
+    {
+      "reg_number": "W324626",
+      "name": "Von Tina",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-3-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Ace VI",
+      "sire_reg": "W192014",
+      "dam_name": "Sheila's Clipper of Rho Dane",
+      "dam_reg": "W271101",
+      "breeders": [
+        "Rhoda R. Roffenbarger"
+      ],
+      "owners": [
+        "Gilbert R. David"
+      ]
+    },
+    {
+      "reg_number": "W329320",
+      "name": "of Wonred",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-6-51",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Destiny of Wonred",
+      "sire_reg": "W123223",
+      "dam_name": "Yetta Wardgen",
+      "dam_reg": "W216247 C.D.",
+      "breeders": [
+        "Mr. & Mrs. Howard White"
+      ],
+      "owners": [
+        "James L. Coyle"
+      ]
+    },
+    {
+      "reg_number": "W347733",
+      "name": "is Sento",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-15-51",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Ch. Fury",
+      "sire_reg": "W78259",
+      "dam_name": "Bruce's Bell-A-Lee",
+      "dam_reg": "W68904",
+      "breeders": [
+        "Erwin J. Brown"
+      ],
+      "owners": [
+        "Creighton B. Hayne"
+      ]
+    },
+    {
+      "reg_number": "W321925",
+      "name": "Sigrid of Glendale",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-4-51",
+      "color_code": "Brdl",
+      "breed": "Great Dane",
+      "sire_name": "Var's Valiant of Anadane",
+      "sire_reg": "W143256",
+      "dam_name": "Gerda of Anadane",
+      "dam_reg": "W103139",
+      "breeders": [
+        "Philip T. Ries"
+      ],
+      "owners": [
+        "Errol S. Carpenter"
+      ]
+    },
+    {
+      "reg_number": "W391738",
+      "name": "a of Henyen",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-49",
+      "color_code": "Gldn brdl",
+      "breed": "Great Dane",
+      "sire_name": "Congo",
+      "sire_reg": "W8415",
+      "dam_name": "Princess Victoria",
+      "dam_reg": "W65902",
+      "breeders": [
+        "Joseph G. Klump"
+      ],
+      "owners": [
+        "Mrs. V. Helen Collins"
+      ]
+    },
+    {
+      "reg_number": "W395693",
+      "name": "a Voma Haus Roth",
+      "titles": null,
+      "sex": "Ger.",
+      "birth_date": "9-2-50",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Dojan Vom Inn",
+      "sire_reg": null,
+      "dam_name": "Gaida v Kuerenberg",
+      "dam_reg": null,
+      "breeders": [
+        "Josef Roth"
+      ],
+      "owners": [
+        "Charles H. Costigan"
+      ]
+    },
+    {
+      "reg_number": "W381009",
+      "name": "Eden's Beau Brummell",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-14-47",
+      "color_code": "Gldn brdl",
+      "breed": "Great Dane",
+      "sire_name": "Ch. Dane Eden's Samson",
+      "sire_reg": "W77254",
+      "dam_name": "Duchess of Farmer's Hope",
+      "dam_reg": "A902961",
+      "breeders": [
+        "J. C. Belshaw"
+      ],
+      "owners": [
+        "Mr. & Mrs. Charles Vassar"
+      ]
+    },
+    {
+      "reg_number": "W322428",
+      "name": "Eden's Honey Girl",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-24-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Ch. Dane Eden's Samson",
+      "sire_reg": "W77254",
+      "dam_name": "Tina Kristina",
+      "dam_reg": "W115190",
+      "breeders": [
+        "Florence S. McKay"
+      ],
+      "owners": [
+        "Margaret Terry"
+      ]
+    },
+    {
+      "reg_number": "W361271",
+      "name": "icanor",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-2-50",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Zorn of Bel Acres",
+      "sire_reg": "W178006",
+      "dam_name": "Joyia Zorn",
+      "dam_reg": "W178008",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Jack Sharpe"
+      ]
+    },
+    {
+      "reg_number": "W375080",
+      "name": "er's Coquette",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-20-50",
+      "color_code": "Blk, wh mkgs",
+      "breed": "Great Dane",
+      "sire_name": "Drum Major of Roxdane",
+      "sire_reg": "A969594",
+      "dam_name": "Schnoor's Tar Baby",
+      "dam_reg": "W48189",
+      "breeders": [
+        "Ellis Lincoln Coot"
+      ],
+      "owners": [
+        "John H. Dean"
+      ]
+    },
+    {
+      "reg_number": "W404960",
+      "name": "nans of Mighty Chizade",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-31-50",
+      "color_code": "Brdl",
+      "breed": "Great Dane",
+      "sire_name": "Fritz v Tarlenheim",
+      "sire_reg": "A272473",
+      "dam_name": "Tawnia of Dane Crest",
+      "dam_reg": "W17680",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Leroy Smith"
+      ]
+    },
+    {
+      "reg_number": "W350228",
+      "name": "(D)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-22-52",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Satan of Elco",
+      "sire_reg": "W76822",
+      "dam_name": "Hephzibah of Elco",
+      "dam_reg": "W229201",
+      "breeders": [
+        "Ellis Lincoln Coot"
+      ],
+      "owners": [
+        "Frank E. Kingsbury"
+      ]
+    },
+    {
+      "reg_number": "W354699",
+      "name": "n Belle",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-4-49",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Ch. Dingle's Arthur of Evanger",
+      "sire_reg": "W7302",
+      "dam_name": "Brenda of Kallish",
+      "dam_reg": "A68421",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mr. & Mrs. Fred W. Evanger"
+      ]
+    },
+    {
+      "reg_number": "W361272",
+      "name": "a Girl of Lillard",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-15-49",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Jor-Dane's Cicero",
+      "sire_reg": "W139629",
+      "dam_name": "Yvonne of Seerland",
+      "dam_reg": "W87985",
+      "breeders": [
+        "Mr. & Mrs. A. M. Freeman"
+      ],
+      "owners": [
+        "Elmer E. Harvey"
+      ]
+    },
+    {
+      "reg_number": "W364691",
+      "name": "Dane's Misty Lady",
+      "titles": "Can.",
+      "sex": "B",
+      "birth_date": "6-10-50",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Rose-Ute's Tritoma",
+      "sire_reg": "W8596",
+      "dam_name": "Rose-Ute's Leading Lady",
+      "dam_reg": "W69060",
+      "breeders": [
+        "S. G. & S. E. Baucom"
+      ],
+      "owners": [
+        "N. Barrett Dobbs"
+      ]
+    },
+    {
+      "reg_number": "W373009",
+      "name": "is Sir Galahad",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-14-48",
+      "color_code": "Gr, wh & blk",
+      "breed": "Great Dane",
+      "sire_name": "Zorn of Bel Acres",
+      "sire_reg": "W178006",
+      "dam_name": "Belle Zorn",
+      "dam_reg": "W178008",
+      "breeders": [
+        "J. C. Belshaw"
+      ],
+      "owners": [
+        "Jack Sharpe"
+      ]
+    },
+    {
+      "reg_number": "W366361",
+      "name": "e's Bosco",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-28-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Duke of Brin",
+      "sire_reg": "W180588",
+      "dam_name": "Kandy Leah",
+      "dam_reg": "W66483",
+      "breeders": [
+        "Howard B. Enis"
+      ],
+      "owners": [
+        "Lillian Enis"
+      ]
+    },
+    {
+      "reg_number": "W346498",
+      "name": "r's Dinro Lark",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-14-51",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Ch. Freddon's Captain Keck",
+      "sire_reg": "A660300",
+      "dam_name": "Jingle of Graf Dane",
+      "dam_reg": null,
+      "breeders": [
+        "Mrs. T. C. Hopkins"
+      ],
+      "owners": [
+        "Tarragon Kennels"
+      ]
+    },
+    {
+      "reg_number": "W329941",
+      "name": "ar's Katrina",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-25-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Indyss Apollo",
+      "sire_reg": "W175429",
+      "dam_name": "Kenda's Philanda",
+      "dam_reg": "W19868",
+      "breeders": [
+        "Marjorie E. Baker"
+      ],
+      "owners": [
+        "Louise H. Kirby"
+      ]
+    },
+    {
+      "reg_number": "W329939",
+      "name": "Enis of Lillard",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-15-51",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Ch. Xerxes of Twin Cedars",
+      "sire_reg": "W23997",
+      "dam_name": "Kalmar's Princess Amherst",
+      "dam_reg": "W54703",
+      "breeders": [
+        "Kalmar Kennels"
+      ],
+      "owners": [
+        "N. Barrett Dobbs"
+      ]
+    },
+    {
+      "reg_number": "W367349",
+      "name": "Golden Fury",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-7-52",
+      "color_code": "Fn",
+      "breed": "Great Dane",
+      "sire_name": "Ch. Dinro Don",
+      "sire_reg": "W56309",
+      "dam_name": "Dinro Cain",
+      "dam_reg": "W198057",
+      "breeders": [
+        "Mrs. R. Tong"
+      ],
+      "owners": [
+        "Kalmar Kennels"
+      ]
+    },
+    {
+      "reg_number": "W339042",
+      "name": "kw Drummer Boy",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-13-51",
+      "color_code": "Gldn fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Dinro Ajax",
+      "sire_reg": "W130997",
+      "dam_name": "Ch. Vesta of Twin Cedars",
+      "dam_reg": "W23725",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Kalmar Kennels"
+      ]
+    },
+    {
+      "reg_number": "W358304",
+      "name": "n's Tidgar",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-2-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Duke of Brin",
+      "sire_reg": "W180588",
+      "dam_name": "Richter's Fawn Pferd",
+      "dam_reg": "W185815",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Howard B. Enis"
+      ]
+    },
+    {
+      "reg_number": "W344770",
+      "name": "of Burgandy",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-2-51",
+      "color_code": "Brdl",
+      "breed": "Great Dane",
+      "sire_name": "Mi-Dane Eric",
+      "sire_reg": "W139156",
+      "dam_name": "Alldane's Tonya",
+      "dam_reg": "W263122",
+      "breeders": [
+        "Richard E. Laurin"
+      ],
+      "owners": [
+        "Ralph E. Lee"
+      ]
+    },
+    {
+      "reg_number": "W328521",
+      "name": "Salburg of Ptolemy",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-23-52",
+      "color_code": "Blk & wh",
+      "breed": "Great Dane",
+      "sire_name": "Duke of York",
+      "sire_reg": "W129881",
+      "dam_name": "Gipsy II",
+      "dam_reg": "W252182",
+      "breeders": [
+        "Elmer A. Burton"
+      ],
+      "owners": [
+        "Nina L. McGraw"
+      ]
+    },
+    {
+      "reg_number": "W331927",
+      "name": "Duke",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "3-17-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Vakeck's Jolly Beggar",
+      "sire_reg": "W14778",
+      "dam_name": "Golda",
+      "dam_reg": "W150677",
+      "breeders": [
+        "Walter S. Opalski"
+      ],
+      "owners": [
+        "Clarence Campbell"
+      ]
+    },
+    {
+      "reg_number": "W381648",
+      "name": "hook Raj Kumari",
+      "titles": "Can.",
+      "sex": "B",
+      "birth_date": "11-25-50",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Baldur v Edelherz",
+      "sire_reg": "W265504",
+      "dam_name": "Julep of Winchester",
+      "dam_reg": "W303329",
+      "breeders": [
+        "Harry W. Capper"
+      ],
+      "owners": [
+        "Michael Ponticello"
+      ]
+    },
+    {
+      "reg_number": "W359356",
+      "name": "ant Ribs",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-3-48",
+      "color_code": "Blk",
+      "breed": "Great Dane",
+      "sire_name": "Prince Salburg of Morahn",
+      "sire_reg": "W190758",
+      "dam_name": "Golden Dawn",
+      "dam_reg": "W190776",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Al. J. Niederkorn"
+      ]
+    },
+    {
+      "reg_number": "W356321",
+      "name": "v Edelherz III",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-5-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Vakeck's Laddle",
+      "sire_reg": "W155461",
+      "dam_name": "Marna of Kushong",
+      "dam_reg": "A918950",
+      "breeders": [
+        "Wm. B. Porter"
+      ],
+      "owners": [
+        "Russel Costan"
+      ]
+    },
+    {
+      "reg_number": "W328668",
+      "name": "dronheim's Moygashel",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-29-52",
+      "color_code": "Brdl",
+      "breed": "Great Dane",
+      "sire_name": "Rungmook Rawal",
+      "sire_reg": null,
+      "dam_name": "Rungmook Ra'Ani",
+      "dam_reg": null,
+      "breeders": [
+        "J. De Be & Mrs. Cowan"
+      ],
+      "owners": [
+        "Gladys M. Jewell"
+      ]
+    },
+    {
+      "reg_number": "W333028",
+      "name": "INE-2",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-26-51",
+      "color_code": "Fn, blk msk",
+      "breed": "Great Dane",
+      "sire_name": "Kalmar's Brana",
+      "sire_reg": "W176220",
+      "dam_name": "Kalmar's Golden Antique",
+      "dam_reg": "W183697",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "L. Nichols Sawyer"
+      ]
+    },
+    {
+      "reg_number": "W372025",
+      "name": "of Diamond Ranch",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-3-48",
+      "color_code": "Wh & gr",
+      "breed": "Great Pyrenees",
+      "sire_name": "Baldur v Edelherz",
+      "sire_reg": "W265504",
+      "dam_name": "Ch. Gilbert's Glory's Dixie",
+      "dam_reg": "W53535",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "W. J. Mackensen, Jr."
+      ]
+    },
+    {
+      "reg_number": "W393756",
+      "name": "of Fairview",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "1-28-51",
+      "color_code": "Wh, bdgr mkgs",
+      "breed": "Great Pyrenees",
+      "sire_name": "Ch. Young's Beau Geste of Evanger",
+      "sire_reg": "W126489",
+      "dam_name": "Bock's Neola",
+      "dam_reg": "W206229",
+      "breeders": [
+        "Dr. & Mrs. Walter K. Chmiel"
+      ],
+      "owners": [
+        "Mrs. Aiden Bosold"
+      ]
+    },
+    {
+      "reg_number": "W47843",
+      "name": "Great Saints Playful Prince",
+      "titles": null,
+      "sex": "D",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "Great Pyrenees",
+      "sire_name": "Great Saints Playful Prince",
+      "sire_reg": "W47843",
+      "dam_name": "Cinderella of Diamond Ranch",
+      "dam_reg": "W90894",
+      "breeders": [
+        "Mrs. Ethel R. Rice"
+      ],
+      "owners": [
+        "Jerald Jerew"
+      ]
+    },
+    {
+      "reg_number": "W113838",
+      "name": "Ch. Prince of Zimmies",
+      "titles": "Ch.",
+      "sex": "D",
+      "birth_date": null,
+      "color_code": null,
+      "breed": "Great Pyrenees",
+      "sire_name": "Ch. Prince of Zimmies",
+      "sire_reg": "W113838",
+      "dam_name": "Chalet Av Zimmies",
+      "dam_reg": "W94889",
+      "breeders": [
+        "Mrs. William Zimmerman"
+      ],
+      "owners": [
+        "Harold H. Tangeman"
+      ]
+    },
+    {
+      "reg_number": "W386526",
+      "name": "hurst Rovar",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-7-51",
+      "color_code": "Bl gr & wh",
+      "breed": "Old English Sheepdog",
+      "sire_name": "Marbert Mister Atkins",
+      "sire_reg": "W135347",
+      "dam_name": "Amblehurst's Linda",
+      "dam_reg": "W4460",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mr. & Mrs. Thomas W. Barr"
+      ]
+    },
+    {
+      "reg_number": "W341908",
+      "name": "work Jennie Jerome",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-26-51",
+      "color_code": "Gr & wh",
+      "breed": "Old English Sheepdog",
+      "sire_name": "Shepton Hope",
+      "sire_reg": "W118053",
+      "dam_name": "Merriedip Mopsie Merrie",
+      "dam_reg": "W166285",
+      "breeders": [
+        "Louise P. Acheson"
+      ],
+      "owners": [
+        "Ronald S. Hall"
+      ]
+    },
+    {
+      "reg_number": "W391252",
+      "name": "Piper of Frays (England)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-11-50",
+      "color_code": "Bl & wh",
+      "breed": "Old English Sheepdog",
+      "sire_name": "Watchers Bob's Son",
+      "sire_reg": null,
+      "dam_name": "Barbara of Bashurst",
+      "dam_reg": null,
+      "breeders": [
+        "Mrs. N. B. Wilder"
+      ],
+      "owners": [
+        "Ronald S. Hall"
+      ]
+    },
+    {
+      "reg_number": "W338448",
+      "name": "'s Susie",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-6-50",
+      "color_code": "Gr",
+      "breed": "Pulik",
+      "sire_name": "Nikkito",
+      "sire_reg": "W120719",
+      "dam_name": "Magyar's Aranka",
+      "dam_reg": "W97576",
+      "breeders": [
+        "Mr. & Mrs. Ben Vezerian"
+      ],
+      "owners": [
+        "Grace Eleanor Frazer"
+      ]
+    },
+    {
+      "reg_number": "W398919",
+      "name": "(D)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-18-50",
+      "color_code": "Gr",
+      "breed": "Pulik",
+      "sire_name": "Victor",
+      "sire_reg": "A924820",
+      "dam_name": "Rozsika",
+      "dam_reg": "W159648",
+      "breeders": [
+        "Isabel Kiss"
+      ],
+      "owners": [
+        "Nicholas Margitich"
+      ]
+    },
+    {
+      "reg_number": "W377099",
+      "name": "n Schildgen (Ger.)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "4-4-48",
+      "color_code": "Blk & br",
+      "breed": "Rottweiler",
+      "sire_name": "Alf Vom Timmerberg",
+      "sire_reg": null,
+      "dam_name": "Candra Vom Hohen-Asperg",
+      "dam_reg": null,
+      "breeders": [
+        "Jean Fischer"
+      ],
+      "owners": [
+        "Wilmer F. & M. A. De Vore"
+      ]
+    },
+    {
+      "reg_number": "W374598",
+      "name": "la of Top Acres",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-14-51",
+      "color_code": "Wh, blk points",
+      "breed": "Samoyed",
+      "sire_name": "Ch. Barney Boy of Arbee",
+      "sire_reg": "W79372",
+      "dam_name": "Gioia Cristalla",
+      "dam_reg": "W165158",
+      "breeders": [
+        "Theodora Stroup"
+      ],
+      "owners": [
+        "David Jeffers"
+      ]
+    },
+    {
+      "reg_number": "W395724",
+      "name": "h of Polar Cap",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-1-50",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Bobo of Polar Cap",
+      "sire_reg": "W280591",
+      "dam_name": "Vikki Novyena",
+      "dam_reg": "W121546",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "C. Harold Danks"
+      ]
+    },
+    {
+      "reg_number": "W395723",
+      "name": "er of Polar Cap",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-15-45",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Jack Frost Chibya",
+      "sire_reg": "A360395",
+      "dam_name": "Kola of Polar Cap",
+      "dam_reg": "A965569",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "C. Harold Danks"
+      ]
+    },
+    {
+      "reg_number": "W386977",
+      "name": "bia Chief",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-20-51",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Korki of Malora",
+      "sire_reg": "W229635",
+      "dam_name": "Nikki III",
+      "dam_reg": "W298088",
+      "breeders": [
+        "Helen M. Selander"
+      ],
+      "owners": [
+        "William B. Dawson"
+      ]
+    },
+    {
+      "reg_number": "W389861",
+      "name": "n's Visochestd",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-11-51",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Ch. Frost King II",
+      "sire_reg": "W56808",
+      "dam_name": "Frosty's Snow Babe",
+      "dam_reg": "W169788",
+      "breeders": [
+        "Jack F. Alger"
+      ],
+      "owners": [
+        "Mrs. D. E. Christensen"
+      ]
+    },
+    {
+      "reg_number": "W322063",
+      "name": "of Star-Acres",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-18-51",
+      "color_code": "Wh, blk points",
+      "breed": "Samoyed",
+      "sire_name": "Ch. Frost King II",
+      "sire_reg": "W56808",
+      "dam_name": "Kaiak of Polaris",
+      "dam_reg": "W249884",
+      "breeders": [
+        "Clinton H. Diessner"
+      ],
+      "owners": [
+        "W. J. & A. M. Carey"
+      ]
+    },
+    {
+      "reg_number": "W333866",
+      "name": "e The Klondike",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-27-50",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Zarkhov of Fair Oaks",
+      "sire_reg": "W26590",
+      "dam_name": "Cheena",
+      "dam_reg": "W216458",
+      "breeders": [
+        "Thomas E. Hall"
+      ],
+      "owners": [
+        "Andrew M. Price"
+      ]
+    },
+    {
+      "reg_number": "W385656",
+      "name": "son of Vahnka Lewclaire",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "6-27-51",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Vahnka of Lewclaire",
+      "sire_reg": "W109786",
+      "dam_name": "Snowflurry Hi-Lite",
+      "dam_reg": "W139362",
+      "breeders": [
+        "Mrs. Myrl S. Morris"
+      ],
+      "owners": [
+        "Mrs. Bessie M. Elkins"
+      ]
+    },
+    {
+      "reg_number": "W325744",
+      "name": "a of Yotaz",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-18-52",
+      "color_code": "Wh, blk points",
+      "breed": "Samoyed",
+      "sire_name": "Rhanor's Sooltan of Gardena",
+      "sire_reg": "W50005",
+      "dam_name": "Tazanna",
+      "dam_reg": "W256714",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Mrs. Forrest J. Yohe"
+      ]
+    },
+    {
+      "reg_number": "W350578",
+      "name": "s of Antarctica (England)",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "5-5-49",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Samoffvar",
+      "sire_reg": null,
+      "dam_name": "Snow Stara of Kobe",
+      "dam_reg": null,
+      "breeders": [
+        "Mr. & Mrs. K. B. Rawlings"
+      ],
+      "owners": [
+        "Vera Compton"
+      ]
+    }
+  ]
+}

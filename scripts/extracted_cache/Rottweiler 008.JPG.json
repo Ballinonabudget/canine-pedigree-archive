@@ -1,0 +1,307 @@
+{
+  "breed": "Rottweiler",
+  "date_header": "JANUARY 1979",
+  "dogs": [
+    {
+      "reg_number": "WG101034",
+      "name": "EEJO OF BRINMAR",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-4-87",
+      "color_code": "BLK & BR",
+      "breed": "Rottweiler",
+      "sire_name": "CH FARMSON KEEL",
+      "sire_reg": "WG045734",
+      "dam_name": "CH BRINMAR'S MADEIRA LANCER",
+      "dam_reg": "WF947818",
+      "breeders": [
+        "MR R & MRS T FUNESS",
+        "M MURRAY",
+        "& L KULP JR"
+      ],
+      "owners": [
+        "G WATSON",
+        "D MILLER"
+      ]
+    },
+    {
+      "reg_number": "WF983650",
+      "name": "REGALA'S CAMINHA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-26-87",
+      "color_code": "BLK & WH",
+      "breed": "Rottweiler",
+      "sire_name": "CH WHITE CAP FANCY THAT",
+      "sire_reg": "WF880356",
+      "dam_name": "CH NEOCLES DUKE O'SUNJOY",
+      "dam_reg": "WG107304",
+      "breeders": [
+        "P SCHNELLER",
+        "& J SCHNELLER"
+      ],
+      "owners": [
+        "J & F WARD",
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "WF460624",
+      "name": "CANOPUS FESTIVO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "11-85",
+      "color_code": "BLK & BR",
+      "breed": "Rottweiler",
+      "sire_name": "CH CAMERELL'S DUEL AT DIABLO",
+      "sire_reg": "WF383482",
+      "dam_name": "CH WHITE CAP BIANCA OF BRINMA",
+      "dam_reg": "WF383503",
+      "breeders": [
+        "B JORGENSEN",
+        "& P SCHNELLER",
+        "AFONG"
+      ],
+      "owners": [
+        "G RORER",
+        "& R PIERCE"
+      ]
+    },
+    {
+      "reg_number": "WF421888",
+      "name": "REGALA ARREBITADO",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "5-85",
+      "color_code": null,
+      "breed": "Rottweiler",
+      "sire_name": "CH ALFAZA UBERRIMO OF REGALA",
+      "sire_reg": "WF779038",
+      "dam_name": "CH KEEL BELEZA CDX",
+      "dam_reg": "WF383327",
+      "breeders": [
+        "L REILLY",
+        "& P SCHNELLER"
+      ],
+      "owners": [
+        "J BOHANHAN JR",
+        "OWNER"
+      ]
+    },
+    {
+      "reg_number": "WF721637",
+      "name": "CH NEOCLES ACABADO CD",
+      "titles": "CH",
+      "sex": "D",
+      "birth_date": "11-86",
+      "color_code": "BLK & WH",
+      "breed": "Rottweiler",
+      "sire_name": "CH ALFAZA UBERRIMO OF REGALA",
+      "sire_reg": "WF421888",
+      "dam_name": "CH WHITE CAP DAMA OF NEOCLES",
+      "dam_reg": "WF611646",
+      "breeders": [
+        "A JOMARRON",
+        "J COBALLES"
+      ],
+      "owners": [
+        "A JOMARRON",
+        "J COBALLES"
+      ]
+    },
+    {
+      "reg_number": "WF863266",
+      "name": "JOVIAN JABO",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "CH BRINMAR'S BEAR OF CAMERELL",
+      "sire_reg": "WF383503",
+      "dam_name": "FACHA VON COBALLES BOLDIMAGE",
+      "dam_reg": "WF913629",
+      "breeders": [
+        "S SBISA",
+        "C LABORDE"
+      ],
+      "owners": [
+        "K & S ESTILL",
+        "T SPRADLEY"
+      ]
+    },
+    {
+      "reg_number": "WF757031",
+      "name": "SEBASTIAN ROCKY SHULTZ",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "10-88",
+      "color_code": null,
+      "breed": "Rottweiler",
+      "sire_name": "SUN VALLEY'S LEFTY V ELCK",
+      "sire_reg": "WF589824",
+      "dam_name": "ACOMA'S HEXE VON DEN BERGEN",
+      "dam_reg": "WF508723",
+      "breeders": [
+        "N AGENT",
+        "E CURRENS"
+      ],
+      "owners": [
+        "W & E CARR",
+        "M P NOBEL"
+      ]
+    },
+    {
+      "reg_number": "WG319042",
+      "name": "ABBY GALE VON BARON",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "4-25-88",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "CH DONNA'S DONNAJ KODIAK",
+      "sire_reg": "WG064423",
+      "dam_name": "ABINGDON JOMARRON",
+      "dam_reg": "WG070504",
+      "breeders": [
+        "K SALMON JR",
+        "S ROBINSON",
+        "M & S BROOKS"
+      ],
+      "owners": [
+        "B GRESHAM",
+        "L LEWIS"
+      ]
+    },
+    {
+      "reg_number": "WF839374",
+      "name": "ALBERT'S TEA-ERRA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-19-86",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "SOLUTION VON DANSOR",
+      "sire_reg": "WE866144",
+      "dam_name": "ALETA VON TOMVIANA",
+      "dam_reg": "WG009567",
+      "breeders": [
+        "T & S ALBERT",
+        "G HORMANN",
+        "J S ORIANO"
+      ],
+      "owners": [
+        "D KNIGHT JR",
+        "K KNIGHT",
+        "R HENSON"
+      ]
+    },
+    {
+      "reg_number": "WG009567",
+      "name": "ALEXIS KRISTAL JEWEL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "3-25-87",
+      "color_code": "BLK & TN",
+      "breed": "Rottweiler",
+      "sire_name": "ROBERTANNS SEAGRUM SEVEN",
+      "sire_reg": "WF549357",
+      "dam_name": "ALFALAR'S SOUTHERN BELL",
+      "dam_reg": "WF311645",
+      "breeders": [
+        "D SHIFLETT",
+        "L & F ALFANO"
+      ],
+      "owners": [
+        "R MELLAN",
+        "J SAWSELLE"
+      ]
+    },
+    {
+      "reg_number": "WG051470",
+      "name": "ALIEN RAINBOW MELLAN",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "8-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "OBANDO VOM TANNENWALD",
+      "sire_reg": "WF881296",
+      "dam_name": "SHARDIK VOM NIELSEN",
+      "dam_reg": "WF413539",
+      "breeders": [
+        "ALLEN'S HANS",
+        "S OAKES",
+        "R & P ALLEN"
+      ],
+      "owners": [
+        "Q OWENS",
+        "C CHRISTIAN",
+        "R ROBERTS"
+      ]
+    },
+    {
+      "reg_number": "WF836426",
+      "name": "ALLISON ROSE BAY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-19-86",
+      "color_code": "BLK & TN",
+      "breed": "Rottweiler",
+      "sire_name": "MATEUS OF ASMASLEA",
+      "sire_reg": "WF837589",
+      "dam_name": "ALMASLEA'S EZ",
+      "dam_reg": "WG196542",
+      "breeders": [
+        "STUBBS OF SALEA",
+        "DINA VOM HAUSE STARK"
+      ],
+      "owners": [
+        "J RUIZ",
+        "E ALMEIDA"
+      ]
+    },
+    {
+      "reg_number": "WF995848",
+      "name": "ALTARS TIA VOM FREYR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-22-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "CH ALTAR'S CHIEF VOM FREYR",
+      "sire_reg": "WF497288",
+      "dam_name": "DUX VON DER KOHLPLATTE",
+      "dam_reg": "WF934781",
+      "breeders": [
+        "NATASHA ROSE CRANSON",
+        "WF685670 9-87"
+      ],
+      "owners": [
+        "C NAPOLI",
+        "E ALPHIN",
+        "R HARE"
+      ]
+    },
+    {
+      "reg_number": "WF924292",
+      "name": "AMBER MARILYN VON MONROE",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-8-86",
+      "color_code": "BLK & BR",
+      "breed": "Rottweiler",
+      "sire_name": "MIRKO VON HOHENHAMELN",
+      "sire_reg": "WE526959 3-82",
+      "dam_name": "ADD VON DER GOLDEN BRUCKE",
+      "dam_reg": "WF685670 9-87",
+      "breeders": [
+        "TOBAR'S SAMPSON LECARDO"
+      ],
+      "owners": [
+        "J MONROE",
+        "J LECARDO"
+      ]
+    }
+  ]
+}

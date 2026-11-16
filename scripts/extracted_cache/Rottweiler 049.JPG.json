@@ -1,0 +1,253 @@
+{
+  "breed": "Rottweiler",
+  "date_header": "March 1990",
+  "dogs": [
+    {
+      "reg_number": "WF643265",
+      "name": "KYNTASHA VON MURDOCK",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-22-88",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "BLACKJACK VAN DER FANTOM",
+      "sire_reg": "WF983410",
+      "dam_name": "LADY TALIAH VON ROTT",
+      "dam_reg": "WF216385",
+      "breeders": [
+        "B MURDOCK / B DILLASHAW"
+      ],
+      "owners": [
+        "R & R KAUFFMAN / B & T PETERS"
+      ]
+    },
+    {
+      "reg_number": "WF644794",
+      "name": "LADY BRIDGETTE VON ROTT",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-88",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "HOLLANDBECK'S ROYAL GUARDIAN CD",
+      "sire_reg": "WF464796",
+      "dam_name": "TROLL JORIS V",
+      "dam_reg": "WF961601",
+      "breeders": [
+        "T JACKSON / T TORIX"
+      ],
+      "owners": [
+        "T JACKSON / T TORIX"
+      ]
+    },
+    {
+      "reg_number": "WF995804",
+      "name": "KODIAK KOJACK",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "7-18-84",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "GATOR Forsch",
+      "sire_reg": "WF482820",
+      "dam_name": "GRETA VON HYTHE",
+      "dam_reg": "WF735239",
+      "breeders": [
+        "B CABRERA / E CENDAN"
+      ],
+      "owners": [
+        "B CABRERA / E CENDAN"
+      ]
+    },
+    {
+      "reg_number": "WF430129",
+      "name": "LADY NATASHA OF PITT PLAZA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "6-85",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "LORD VON BYRON DE AVE-Y-ANZA",
+      "sire_reg": "WF216385",
+      "dam_name": "LADY NATASHA LAEL",
+      "dam_reg": "WF048356",
+      "breeders": [
+        "E & R ALVAREZ / F HYDEMAN"
+      ],
+      "owners": [
+        "G & C ZIELINSKI / OWNER"
+      ]
+    },
+    {
+      "reg_number": "WF952146",
+      "name": "WENDA'S HAUTY WINKY",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "10-88",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "TORA PEPPER WINTERS",
+      "sire_reg": "WF644247",
+      "dam_name": "MY EUNIQUE BABE",
+      "dam_reg": "WF063677",
+      "breeders": [
+        "B & L DRAKE / P & M LASKOWSKI"
+      ],
+      "owners": [
+        "B & L DRAKE / P & M LASKOWSKI"
+      ]
+    },
+    {
+      "reg_number": "WF964474",
+      "name": "FALCO VON FACHA",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "2-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "PORTENT'S BAVARIAN BISCHE",
+      "sire_reg": "WF528826",
+      "dam_name": "MCCLAM'S MOONSHINE",
+      "dam_reg": "WF971394",
+      "breeders": [
+        "D & M RIDLEY / R FENDER"
+      ],
+      "owners": [
+        "D & M RIDLEY / R FENDER"
+      ]
+    },
+    {
+      "reg_number": "WF66292",
+      "name": "ZOR'S JAKE SUNDANCE",
+      "titles": null,
+      "sex": "D",
+      "birth_date": "9-85",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "OLYMPIA'S ROMAN IMAGE",
+      "sire_reg": "WF800051",
+      "dam_name": "OXFORD E ROTT",
+      "dam_reg": "WF917204",
+      "breeders": [
+        "J SKINNER / A OLSON"
+      ],
+      "owners": [
+        "J SKINNER / A OLSON"
+      ]
+    },
+    {
+      "reg_number": "WF70459",
+      "name": "LADY MIRIA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "7-86",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "OCALA",
+      "sire_reg": "WF505115",
+      "dam_name": "ALYSON'S DUCHESS TOMAS",
+      "dam_reg": "WF491743",
+      "breeders": [
+        "L SEPULVEDA / H PEREZ"
+      ],
+      "owners": [
+        "L SEPULVEDA / H PEREZ"
+      ]
+    },
+    {
+      "reg_number": "WF422882",
+      "name": "LADY NIKITA",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "2-86",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "LYKINS NIKI",
+      "sire_reg": "WF963370",
+      "dam_name": "HANNIBAL'S SUGAR BEAR BONAN",
+      "dam_reg": "WF155770",
+      "breeders": [
+        "R SYLVIA / K LITCHFIELD"
+      ],
+      "owners": [
+        "W SCHWARZ / K LITCHFIELD"
+      ]
+    },
+    {
+      "reg_number": "WF628277",
+      "name": "VARENKA THE SENATOR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "11-86",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "RED SKY",
+      "sire_reg": "WF825595",
+      "dam_name": "PARTRIDGE'S SUGAR BEAR",
+      "dam_reg": "WF015386",
+      "breeders": [
+        "S WILSON / MR R & MRS E THOMPSON"
+      ],
+      "owners": [
+        "S WILSON / MR R & MRS E THOMPSON"
+      ]
+    },
+    {
+      "reg_number": "WF62644",
+      "name": "LADY ROX OF BRIARKNOLL",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "8-87",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "MUGZZY VON ECKHART",
+      "sire_reg": "WF505382",
+      "dam_name": "HERR ROTTNER SCHWARZ",
+      "dam_reg": "WF132554",
+      "breeders": [
+        "K DILL / M R DOTY"
+      ],
+      "owners": [
+        "K DILL / M R DOTY"
+      ]
+    },
+    {
+      "reg_number": "WF219191",
+      "name": "BLACK DIAMONDS VON KWIKASAR",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "1-84",
+      "color_code": "BLK & TN",
+      "breed": "Rottweiler",
+      "sire_name": "DEARMOND'S ROWDY VON BOREGARD",
+      "sire_reg": "WF487495",
+      "dam_name": "URBANA VON MUHDORF",
+      "dam_reg": "WF874594",
+      "breeders": [
+        "R MCDANIEL / C HANN"
+      ],
+      "owners": [
+        "R MCDANIEL / C HANN"
+      ]
+    },
+    {
+      "reg_number": "WF790648",
+      "name": "SUMMERFIELD'S BIG BADGER",
+      "titles": null,
+      "sex": "B",
+      "birth_date": "9-86",
+      "color_code": "BLK & MHGY",
+      "breed": "Rottweiler",
+      "sire_name": "LOGEN STARBUCK",
+      "sire_reg": "WF790482",
+      "dam_name": "SUMMERFIELD'S SUGAR BAARE",
+      "dam_reg": "WF876920",
+      "breeders": [
+        "R WARD / S WEATHERRED"
+      ],
+      "owners": [
+        "R WARD / S WEATHERRED"
+      ]
+    }
+  ]
+}

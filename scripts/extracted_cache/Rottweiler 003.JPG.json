@@ -1,0 +1,958 @@
+{
+  "breed": "Samoyed",
+  "date_header": "June, 1954",
+  "dogs": [
+    {
+      "reg_number": "W411475",
+      "name": "Wey Acres Wanda",
+      "sex": "B",
+      "birth_date": "11-13-52",
+      "color_code": "Apricot, blk msk",
+      "breed": "Mastiff",
+      "sire_name": "Withybush Magnus",
+      "sire_reg": "W322280",
+      "dam_name": "Peach Farm Priscilla",
+      "dam_reg": "W258590",
+      "breeders": [
+        "Helen J. Weyenberg"
+      ],
+      "owners": [
+        "Marie A. Moore"
+      ]
+    },
+    {
+      "reg_number": "W441288",
+      "name": "Black Bowser",
+      "sex": "D",
+      "birth_date": "5-21-52",
+      "color_code": "Blk",
+      "breed": "Newfoundland",
+      "sire_name": "Blackie XI",
+      "sire_reg": "W278496",
+      "dam_name": "Laudick's Black Beauty",
+      "dam_reg": "W192730",
+      "breeders": [
+        "Leonard V. Laudick"
+      ],
+      "owners": [
+        "Evelyn B. Klips"
+      ]
+    },
+    {
+      "reg_number": "W415691",
+      "name": "Mayfield's Lady",
+      "sex": "B",
+      "birth_date": "5-21-52",
+      "color_code": "Blk, wh on chest",
+      "breed": "Newfoundland",
+      "sire_name": "Blackie XI",
+      "sire_reg": "W278496",
+      "dam_name": "Laudick's Black Beauty",
+      "dam_reg": "W192730",
+      "breeders": [
+        "Leonard V. Laudick"
+      ],
+      "owners": [
+        "Mrs. Geo. Mayfield"
+      ]
+    },
+    {
+      "reg_number": "W488058",
+      "name": "Oquaga's Queen Juno",
+      "sex": "B",
+      "birth_date": "5-7-52",
+      "color_code": "Blk",
+      "breed": "Newfoundland",
+      "sire_name": "Oquaga's Lifeguard of Waseeka",
+      "sire_reg": "W183139",
+      "dam_name": "Oquaga's Sea Mist",
+      "dam_reg": "W290431",
+      "breeders": [
+        "Oquaga Kennels"
+      ],
+      "owners": [
+        "Oquaga Kennels"
+      ]
+    },
+    {
+      "reg_number": "W404391",
+      "name": "Queen Fuzzy",
+      "sex": "B",
+      "birth_date": "6-26-52",
+      "color_code": "Blk",
+      "breed": "Newfoundland",
+      "sire_name": "Ted",
+      "sire_reg": "W200584",
+      "dam_name": "Lady Esther",
+      "dam_reg": "W206168",
+      "breeders": [
+        "Rita Luedeman"
+      ],
+      "owners": [
+        "Mrs. Joseph Graybill"
+      ]
+    },
+    {
+      "reg_number": "W332895",
+      "name": "Csongradi Haragos Tisza",
+      "sex": "B",
+      "birth_date": "10-17-51",
+      "color_code": "Blk",
+      "breed": "Puli",
+      "sire_name": "Ch. Skysyl Apeter-Pan",
+      "sire_reg": "W157859",
+      "dam_name": "Magda",
+      "dam_reg": "W224984",
+      "breeders": [
+        "Bronson Williams"
+      ],
+      "owners": [
+        "Francis Benedek"
+      ]
+    },
+    {
+      "reg_number": "W452737",
+      "name": "Darva",
+      "sex": "D",
+      "birth_date": "12-7-52",
+      "color_code": "Blk",
+      "breed": "Puli",
+      "sire_name": "Heimwalds Petofi Sandor",
+      "sire_reg": "W236024",
+      "dam_name": "Lakeview Honey",
+      "dam_reg": "W342890",
+      "breeders": [
+        "Glendon G. Poland"
+      ],
+      "owners": [
+        "Lee S. Williams"
+      ]
+    },
+    {
+      "reg_number": "W419811",
+      "name": "Heimwalds Peter",
+      "sex": "D",
+      "birth_date": "6-5-51",
+      "color_code": "Blk & tan",
+      "breed": "Puli",
+      "sire_name": "Ch. Skysyl Apeter-Pan",
+      "sire_reg": "W157859",
+      "dam_name": "Lakeview Honey",
+      "dam_reg": "W342890",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Heimwald Kennels"
+      ]
+    },
+    {
+      "reg_number": "W372562",
+      "name": "Lakeview Paragon",
+      "sex": "B",
+      "birth_date": "6-29-52",
+      "color_code": "Blk",
+      "breed": "Puli",
+      "sire_name": "Szeplaki Boganos*",
+      "sire_reg": null,
+      "dam_name": "Macko Buksi*",
+      "dam_reg": null,
+      "breeders": [
+        "Farkas Vendel"
+      ],
+      "owners": [
+        "Lee S. Williams"
+      ]
+    },
+    {
+      "reg_number": "W458478",
+      "name": "Mocsok Cigany (Austria)",
+      "sex": "D",
+      "birth_date": "5-12-49",
+      "color_code": "Blk?",
+      "breed": "Puli",
+      "sire_name": "Bambi",
+      "sire_reg": "W281129",
+      "dam_name": "Heidi",
+      "dam_reg": "W281130",
+      "breeders": [
+        "Bronson Williams"
+      ],
+      "owners": [
+        "Francis Benedek"
+      ]
+    },
+    {
+      "reg_number": "W332894",
+      "name": "Zalayongye Bodri Buksi",
+      "sex": "B",
+      "birth_date": "11-15-51",
+      "color_code": "Blk",
+      "breed": "Puli",
+      "sire_name": null,
+      "sire_reg": null,
+      "dam_name": null,
+      "dam_reg": null,
+      "breeders": [],
+      "owners": [
+        "Francis Benedek"
+      ]
+    },
+    {
+      "reg_number": "W324043",
+      "name": "Stella af Ally (Denmark)",
+      "sex": "B",
+      "birth_date": "7-26-50",
+      "color_code": "Blk, tan mkgs",
+      "breed": "Rottweiler",
+      "sire_name": "Tyrk*",
+      "sire_reg": null,
+      "dam_name": "Husums Ally*",
+      "dam_reg": null,
+      "breeders": [
+        "Fr. Christensen Lauri"
+      ],
+      "owners": [
+        "Peggy D. Inman"
+      ]
+    },
+    {
+      "reg_number": "W473325",
+      "name": "Antarctic Circle Lady Frost",
+      "sex": "B",
+      "birth_date": "1-16-51",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Ch. Rhanor's Schomic of Petsamo",
+      "sire_reg": "A879202",
+      "dam_name": "Colorado's Snow Queen",
+      "dam_reg": "W156651",
+      "breeders": [
+        "Josephine Ruth Desha"
+      ],
+      "owners": [
+        "Marilynn Desha Travis"
+      ]
+    },
+    {
+      "reg_number": "W452737",
+      "name": "Babinka's Queenie",
+      "sex": "B",
+      "birth_date": "6-29-52",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Frosty's Viosochestio",
+      "sire_reg": "W389861",
+      "dam_name": "Nova Sonia Babinka of Glacier",
+      "dam_reg": "W203804",
+      "breeders": [
+        "Mrs. Dorothy E. Chris"
+      ],
+      "owners": [
+        "Gary & George Walker"
+      ]
+    },
+    {
+      "reg_number": "W402911",
+      "name": "Balaiya Doroga Orion",
+      "sex": "D",
+      "birth_date": "1-30-52",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Deyomas of Ibur",
+      "sire_reg": "W146740",
+      "dam_name": "Czarevna Balaiya Doroga",
+      "dam_reg": "W59924",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "C. R. & Frances P. Hurley"
+      ]
+    },
+    {
+      "reg_number": "W370838",
+      "name": "Barbara Clark's Princess Tina",
+      "sex": "B",
+      "birth_date": "4-9-52",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Prince Nikitia Buck",
+      "sire_reg": "W229143",
+      "dam_name": "Princess Mitzi Vera Buck",
+      "dam_reg": "W156603",
+      "breeders": [
+        "Duane W. Buck"
+      ],
+      "owners": [
+        "Barbara J. Clark"
+      ]
+    },
+    {
+      "reg_number": "W475734",
+      "name": "Blackeyed Suzie",
+      "sex": "B",
+      "birth_date": "12-4-50",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Franke's Sno Duke",
+      "sire_reg": "W192000",
+      "dam_name": "Snowflurry Forever Glo",
+      "dam_reg": "W139361",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Joann Lambeth"
+      ]
+    },
+    {
+      "reg_number": "W452437",
+      "name": "Bonnie Dee of Fairview",
+      "sex": "B",
+      "birth_date": "12-15-51",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Frosty of Fairview",
+      "sire_reg": "W84110",
+      "dam_name": "Sno-White Lassie of Altai",
+      "dam_reg": "W43394",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "A. K. Virnig"
+      ]
+    },
+    {
+      "reg_number": "W385605",
+      "name": "Cheechako of Whitecliff",
+      "sex": "D",
+      "birth_date": "8-22-52",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Ch. Petra of Valiki",
+      "sire_reg": "W31926",
+      "dam_name": "Samoyland's Frosty's Natusha",
+      "dam_reg": "W222246",
+      "breeders": [
+        "Percy R. Matheron"
+      ],
+      "owners": [
+        "Charles H. Blank"
+      ]
+    },
+    {
+      "reg_number": "W443034",
+      "name": "Duska's Petchoria of Glacier",
+      "sex": "B",
+      "birth_date": "8-27-50",
+      "color_code": "Cr & wh",
+      "breed": "Samoyed",
+      "sire_name": "Panslavism's Zarov of Glacier",
+      "sire_reg": "W163726",
+      "dam_name": "Babushki's Duska of Glacier",
+      "dam_reg": "W202592",
+      "breeders": [
+        "Mrs. Thelma L. Olsso"
+      ],
+      "owners": [
+        "Patricia Bower"
+      ]
+    },
+    {
+      "reg_number": "W388968",
+      "name": "Frosty Dawn of Allied",
+      "sex": "B",
+      "birth_date": "8-5-52",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Marshall Boy White",
+      "sire_reg": "W92844",
+      "dam_name": "Lanya's Lani of Snowy Way",
+      "dam_reg": "W217033",
+      "breeders": [
+        "Mr. & Mrs. W. M. Pr"
+      ],
+      "owners": [
+        "Thomas L. Herman"
+      ]
+    },
+    {
+      "reg_number": "W412922",
+      "name": "Hillsboro Suzette",
+      "sex": "B",
+      "birth_date": "5-1-49",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Rascal",
+      "sire_reg": "W124236",
+      "dam_name": "Sanctuary Petchora",
+      "dam_reg": "W20692",
+      "breeders": [
+        "Jeanne F. Smothers"
+      ],
+      "owners": [
+        "Donald Obrist & Z. L. Munter"
+      ]
+    },
+    {
+      "reg_number": "W455649",
+      "name": "Kelowna",
+      "sex": "B",
+      "birth_date": "8-11-52",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Cheechako of Taku",
+      "sire_reg": "W57200",
+      "dam_name": "Frosty Princess' Midget",
+      "dam_reg": "W154464",
+      "breeders": [
+        "Margaret C. Beattie"
+      ],
+      "owners": [
+        "John H. & Hazel I. Snyder"
+      ]
+    },
+    {
+      "reg_number": "W348177",
+      "name": "King Tusha",
+      "sex": "D",
+      "birth_date": "10-4-51",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Don't Pride of Dunrovin",
+      "sire_reg": "W158056",
+      "dam_name": "Kara Kose of Malora",
+      "dam_reg": "W106827",
+      "breeders": [
+        "William B. Dawson"
+      ],
+      "owners": [
+        "Lois E. Ader"
+      ]
+    },
+    {
+      "reg_number": "W436100",
+      "name": "Kunto's Tyke",
+      "sex": "D",
+      "birth_date": "6-7-52",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "White Wind of Ohrmi",
+      "sire_reg": "W268319",
+      "dam_name": "Kunto's White Lady",
+      "dam_reg": "W323949",
+      "breeders": [
+        "Lloyd D. Simmons"
+      ],
+      "owners": [
+        "Leona M. Schankel"
+      ]
+    },
+    {
+      "reg_number": "W374191",
+      "name": "Lady Laska of White Way",
+      "sex": "B",
+      "birth_date": "2-15-52",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Master o' the Moonrise",
+      "sire_reg": "W79332",
+      "dam_name": "Cheila White Igloo",
+      "dam_reg": "W295993",
+      "breeders": [
+        "V. Douglas McGill"
+      ],
+      "owners": [
+        "Ruth M. Scott"
+      ]
+    },
+    {
+      "reg_number": "W339189",
+      "name": "Micka",
+      "sex": "B",
+      "birth_date": "9-18-51",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Ch. Samoyland's Sergei",
+      "sire_reg": "W44130",
+      "dam_name": "White Puff of Notoc",
+      "dam_reg": "W182618",
+      "breeders": [
+        "R. E. & J. L. Schmid"
+      ],
+      "owners": [
+        "B. & E. L. Hampton, Jr."
+      ]
+    },
+    {
+      "reg_number": "W452738",
+      "name": "Mike's King",
+      "sex": "D",
+      "birth_date": "8-4-52",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Frosty's Viosochestio",
+      "sire_reg": "W389861",
+      "dam_name": "Babinka's Printsessa",
+      "dam_reg": "W239989",
+      "breeders": [
+        "Mrs. Dorothy E. Chri"
+      ],
+      "owners": [
+        "Ronnie & George Walker"
+      ]
+    },
+    {
+      "reg_number": "W383495",
+      "name": "Mish Kobette of Yotaz",
+      "sex": "B",
+      "birth_date": "10-28-52",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Ch. Snohomish of Oceanside",
+      "sire_reg": "A725792",
+      "dam_name": "Morozko's Pola",
+      "dam_reg": "A998389",
+      "breeders": [
+        "Forrest & Marie R."
+      ],
+      "owners": [
+        "Patricia A. Patterson"
+      ]
+    },
+    {
+      "reg_number": "W461969",
+      "name": "Nifty Snow Queen",
+      "sex": "B",
+      "birth_date": "9-5-52",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Northern Frosty of Fairview",
+      "sire_reg": "W120392",
+      "dam_name": "T'Laska's Antonika",
+      "dam_reg": "W98072",
+      "breeders": [
+        "Alfred G. Linzenmey"
+      ],
+      "owners": [
+        "Barbara Radebaugh"
+      ]
+    },
+    {
+      "reg_number": "W429356",
+      "name": "Nuggett Nord",
+      "sex": "D",
+      "birth_date": "11-12-52",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Ch. Peter Pan",
+      "sire_reg": "W55349",
+      "dam_name": "Ch. Tazson's Snow Flicka",
+      "dam_reg": "W169668",
+      "breeders": [
+        "Mr. & Mrs. Asbjorn"
+      ],
+      "owners": [
+        "Joseph D. Tatem"
+      ]
+    },
+    {
+      "reg_number": "W473075",
+      "name": "Oh Mi Snow Joy's Missy",
+      "sex": "B",
+      "birth_date": "5-29-52",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "White Wind of Ohrmi",
+      "sire_reg": "W268319",
+      "dam_name": "Oh Mi Snow Joy",
+      "dam_reg": "W121804",
+      "breeders": [
+        "Owner"
+      ],
+      "owners": [
+        "Leona M. Schankel"
+      ]
+    },
+    {
+      "reg_number": "W351312",
+      "name": "Polar Star's Nikita",
+      "sex": "B",
+      "birth_date": "3-19-52",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Kikmik of Oceanside",
+      "sire_reg": "A744239",
+      "dam_name": "Cleo Polaris",
+      "dam_reg": "W242922",
+      "breeders": [
+        "Fred W. Phillips"
+      ],
+      "owners": [
+        "Mr. & Mrs. Marshall"
+      ]
+    },
+    {
+      "reg_number": "W351305",
+      "name": "Polar Star's Sladko Devooshka",
+      "sex": "B",
+      "birth_date": "3-17-52",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Cheechako of Taku",
+      "sire_reg": "W57200",
+      "dam_name": "Karma's Dalla Ann Snow Frost",
+      "dam_reg": "W14686",
+      "breeders": [
+        "Willard D. Boyle"
+      ],
+      "owners": [
+        "Mr. & Mrs. Marshall"
+      ]
+    },
+    {
+      "reg_number": "W359654",
+      "name": "Princess Eska",
+      "sex": "B",
+      "birth_date": "4-9-52",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Prince Nikita Buck",
+      "sire_reg": "W229143",
+      "dam_name": "Princess Mitzi Vera Buck",
+      "dam_reg": "W156603",
+      "breeders": [
+        "Duane W. Buck"
+      ],
+      "owners": [
+        "Robert E. & Madonna Oxford"
+      ]
+    },
+    {
+      "reg_number": "W328294",
+      "name": "Princess Roxana Snowflake",
+      "sex": "B",
+      "birth_date": "4-19-52",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Po-Tim-Kin of Encino",
+      "sire_reg": "W272698",
+      "dam_name": "Princess Suanna",
+      "dam_reg": "W281111",
+      "breeders": [
+        "Mrs. Donald Brossar"
+      ],
+      "owners": [
+        "Hazel M. Brossard"
+      ]
+    },
+    {
+      "reg_number": "W404097",
+      "name": "Pushok of Notoc",
+      "sex": "B",
+      "birth_date": "9-18-51",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Ch. Samoyland's Sergei",
+      "sire_reg": "W44130 C.D.",
+      "dam_name": "White Puff of Notoc",
+      "dam_reg": "W182618",
+      "breeders": [
+        "R. E. & J. L. Schmid"
+      ],
+      "owners": [
+        "G. L. & Mrs. R. L Blass"
+      ]
+    },
+    {
+      "reg_number": "W443461",
+      "name": "Raff's Becky",
+      "sex": "B",
+      "birth_date": "11-9-52",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Raff of Kobe",
+      "sire_reg": "W191559",
+      "dam_name": "Katrinka of Encino",
+      "dam_reg": "W224993",
+      "breeders": [
+        "Dr. M. Bethea"
+      ],
+      "owners": [
+        "Owner"
+      ]
+    },
+    {
+      "reg_number": "W373599",
+      "name": "Russian River Vocka",
+      "sex": "B",
+      "birth_date": "6-1-52",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Vahnka of Lewclaire",
+      "sire_reg": "W109786",
+      "dam_name": "Konchakovna",
+      "dam_reg": "W69474",
+      "breeders": [
+        "Mrs. Dorothy Larson"
+      ],
+      "owners": [
+        "Evelyn H. Henderson"
+      ]
+    },
+    {
+      "reg_number": "W445829",
+      "name": "Samara's Nikkolene II",
+      "sex": "B",
+      "birth_date": "11-29-52",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Ch. Guardian of the Arctic",
+      "sire_reg": "W140696",
+      "dam_name": "Nikkolene of Samar",
+      "dam_reg": "W111076",
+      "breeders": [
+        "Donald A. McPherson"
+      ],
+      "owners": [
+        "Mrs. Jos. J. Marsha"
+      ]
+    },
+    {
+      "reg_number": "W323137",
+      "name": "Saundra Nord",
+      "sex": "B",
+      "birth_date": "7-29-51",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Dazla of Altai",
+      "sire_reg": "W24154",
+      "dam_name": "Paris-Cliffe Vodka",
+      "dam_reg": "W116737",
+      "breeders": [
+        "Betty Jones Tatem"
+      ],
+      "owners": [
+        "Mildred Sheridan Da"
+      ]
+    },
+    {
+      "reg_number": "W400776",
+      "name": "Seabar's Tarla",
+      "sex": "B",
+      "birth_date": "12-11-51",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Ch. Verla's Tagenrod",
+      "sire_reg": "W54305",
+      "dam_name": "Tait's Tamaria",
+      "dam_reg": "W198813",
+      "breeders": [
+        "Loni Caldwell"
+      ],
+      "owners": [
+        "William & Myra K."
+      ]
+    },
+    {
+      "reg_number": "W432591",
+      "name": "Segonia's Penny of Black",
+      "sex": "B",
+      "birth_date": "1-19-53",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Panslavism's Zarov of Glacier",
+      "sire_reg": "W163726",
+      "dam_name": "Jelski's Segonia of Glacier",
+      "dam_reg": "W202718",
+      "breeders": [
+        "Walter E. Thurmond"
+      ],
+      "owners": [
+        "Mrs. John O. Davis,"
+      ]
+    },
+    {
+      "reg_number": "W478291",
+      "name": "Siberian Alexis III",
+      "sex": "D",
+      "birth_date": "9-25-52",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Siberian Kazan",
+      "sire_reg": "W251864",
+      "dam_name": "Silver Tassel",
+      "dam_reg": "W18277",
+      "breeders": [
+        "Gloria Kozlowski"
+      ],
+      "owners": [
+        "Martha E. Humphris"
+      ]
+    },
+    {
+      "reg_number": "W482832",
+      "name": "Siberian Starason",
+      "sex": "D",
+      "birth_date": "10-21-52",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Ch. Snowland Stara",
+      "sire_reg": "W4305",
+      "dam_name": "Tanga Calisto of Mansu",
+      "dam_reg": "W100202",
+      "breeders": [
+        "Martha E. Humphriss"
+      ],
+      "owners": [
+        "Owner"
+      ]
+    },
+    {
+      "reg_number": "W479927",
+      "name": "Sno-White's Flake",
+      "sex": "D",
+      "birth_date": "12-20-51",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Pride of Yukon",
+      "sire_reg": "W9943",
+      "dam_name": "Frisky Miss of Sno-White",
+      "dam_reg": "W205651",
+      "breeders": [
+        "F. & Mrs. J. K. Molinaro"
+      ],
+      "owners": [
+        "Mrs. F. J. Chandley"
+      ]
+    },
+    {
+      "reg_number": "W478005",
+      "name": "Sno-White's Gay of Ar-Lou",
+      "sex": "B",
+      "birth_date": "12-13-50",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Kasanova of Kometes",
+      "sire_reg": "W177857",
+      "dam_name": "Lady Sheba of Fairview",
+      "dam_reg": "W219287",
+      "breeders": [
+        "Mrs. J. F. Chandley"
+      ],
+      "owners": [
+        "Mr. & Mrs. Arnold"
+      ]
+    },
+    {
+      "reg_number": "W418209",
+      "name": "Snow White VII",
+      "sex": "B",
+      "birth_date": "5-20-52",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Kanda Ermolino's Timmie",
+      "sire_reg": "W45266",
+      "dam_name": "Kanda Katinka",
+      "dam_reg": "W3030",
+      "breeders": [
+        "C. W. Breitenstein & E. F."
+      ],
+      "owners": [
+        "Mr. & Mrs. W. D. R."
+      ]
+    },
+    {
+      "reg_number": "W375886",
+      "name": "Sonia of Morozka",
+      "sex": "B",
+      "birth_date": "12-30-51",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Ch. Snohomish of Oceanside",
+      "sire_reg": "A725792",
+      "dam_name": "Ch. Snow Queen of White Way",
+      "dam_reg": "A747186",
+      "breeders": [
+        "Tony DiSanti [McCormick"
+      ],
+      "owners": [
+        "Elmer R. Ebersol"
+      ]
+    },
+    {
+      "reg_number": "W395751",
+      "name": "Starlight Taffy Kisses",
+      "sex": "B",
+      "birth_date": "6-13-52",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Zodiak of the Igloo",
+      "sire_reg": "W199342",
+      "dam_name": "Verla's Tears",
+      "dam_reg": "W352583",
+      "breeders": [
+        "Isabelle & Byron L. Jensen."
+      ],
+      "owners": [
+        "Verla M. Davis"
+      ]
+    },
+    {
+      "reg_number": "W430333",
+      "name": "Starlite Amur of Glacier",
+      "sex": "B",
+      "birth_date": "2-4-51",
+      "color_code": "Wh",
+      "breed": "Samoyed",
+      "sire_name": "Glacier King of Betty Blue",
+      "sire_reg": "W31645",
+      "dam_name": "Palae ozoic Tosca of Glacier",
+      "dam_reg": "W163727",
+      "breeders": [
+        "Patricia Bower"
+      ],
+      "owners": [
+        "Mrs. John O. Davis,"
+      ]
+    },
+    {
+      "reg_number": "W461970",
+      "name": "Stormy of Yukon",
+      "sex": "D",
+      "birth_date": "12-5-52",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Katina's Kotton Kandi Kidd",
+      "sire_reg": "W313496",
+      "dam_name": "Yukon Snow Shoes",
+      "dam_reg": "W207701",
+      "breeders": [
+        "William Radebaugh"
+      ],
+      "owners": [
+        "Arthur M. Wall"
+      ]
+    },
+    {
+      "reg_number": "W386130",
+      "name": "Sully",
+      "sex": "D",
+      "birth_date": "10-29-52",
+      "color_code": "Wh, blk pts",
+      "breed": "Samoyed",
+      "sire_name": "Omak",
+      "sire_reg": "W221963",
+      "dam_name": "Carla II",
+      "dam_reg": "W326628",
+      "breeders": [
+        "Mrs. Dorothy Larson"
+      ],
+      "owners": [
+        "Hazel L. Schelbert"
+      ]
+    }
+  ]
+}
