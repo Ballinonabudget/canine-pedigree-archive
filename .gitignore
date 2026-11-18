@@ -29,3 +29,9 @@ Thumbs.db
 # Personal / Scans temp (keep docs/screenshots tracked)
 temp_scans/
 *.log
+
+# Local agent worktrees (Claude works in .worktrees/claude-ux)
+.worktrees/
+
+# Data exports and DB backups never go to git (spec §3 step 0)
+data/
