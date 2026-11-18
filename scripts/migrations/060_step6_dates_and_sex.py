@@ -57,6 +57,8 @@ def body(cur, report):
     cur.execute("select reg_number, birth_date, birth_year, birth_month, birth_day, date_precision, stud_book_pub_date from dogs")
     rows, unparsed, counts, ex = [], [], {"full": 0, "month": 0, "year": 0, "pub": 0}, {}
     for reg, bd, *current in cur.fetchall():
+        if current[3] == "disputed":
+            continue  # set by the born-before-parent check below on an earlier run
         p = parse(bd)
         if bd and p == (None,) * 5:
             unparsed.append((reg, bd))
@@ -109,6 +111,33 @@ def body(cur, report):
         cur.execute("update dogs set sex = %s where reg_number = %s", (new, reg))
         cur.execute("insert into phase0_changes (step, tbl, key, col, old_value, new_value, reason) values (%s,'dogs',%s,'sex',%s,%s,%s)",
                     (STEP, reg, old, new, why))
+
+    # born before parent
+    pairs_sql = """select c.reg_number, s.side, p.reg_number, p.sex from dogs c cross join (values ('sire'), ('dam')) s(side)
+                   join dogs p on p.reg_number = case s.side when 'sire' then c.sire_reg else c.dam_reg end
+                   where c.birth_year < p.birth_year"""
+    cur.execute(pairs_sql)
+    report["born-before-parent pairs before fix"] = cur.rowcount
+    # a) parent date contradicted by 2+ offspring -> the parent's date is the wrong value
+    cur.execute(f"""select parent, count(*) from ({pairs_sql}) x(child, side, parent, psex) group by parent having count(*) >= 2""")
+    disputed = cur.fetchall()
+    for parent, n in disputed:
+        cur.execute("""update dogs set birth_year = null, birth_month = null, birth_day = null, date_precision = 'disputed'
+                       where reg_number = %s returning birth_date""", (parent,))
+        bd = cur.fetchone()[0]
+        cur.execute("insert into phase0_changes (step, tbl, key, col, old_value, new_value, reason) values (%s,'dogs',%s,'birth_year',%s,null,%s)",
+                    (STEP, parent, bd, f"date contradicted by {n} offspring born earlier"))
+    report["a) parent birth dates marked disputed (2+ offspring born earlier)"] = len(disputed)
+    # b) parent sex contradicts the side it is listed on -> the link is wrong
+    cur.execute(pairs_sql)
+    wrong = [(c, s, p) for c, s, p, sx in cur.fetchall() if (s == "sire" and sx == "B") or (s == "dam" and sx == "D")]
+    for child, side, parent in wrong:
+        cur.execute(f"update dogs set {side}_reg = null where reg_number = %s", (child,))
+        cur.execute("insert into phase0_changes (step, tbl, key, col, old_value, new_value, reason) values (%s,'dogs',%s,%s,%s,null,%s)",
+                    (STEP, child, f"{side}_reg", parent, "born before parent and parent sex contradicts role"))
+    report["b) links cleared (born before parent + parent sex contradicts sire/dam role)"] = len(wrong)
+    cur.execute(pairs_sql)
+    report["born-before-parent pairs left (one date or link wrong, can't tell which)"] = cur.rowcount
 
 
 if __name__ == "__main__":
