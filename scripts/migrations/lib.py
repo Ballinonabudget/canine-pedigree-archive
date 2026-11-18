@@ -52,7 +52,7 @@ def run_step(step_name, body):
         if apply:
             import json
             cur.execute("insert into schema_migrations (step, summary) values (%s, %s)",
-                        (step_name, json.dumps({k: v for k, v in report.items() if not isinstance(v, list)}, default=str)))
+                        (step_name, json.dumps({k: (v if isinstance(v, (int, float, str)) else str(v)) for k, v in report.items() if not isinstance(v, list)})))
             conn.commit()
         else:
             conn.rollback()
