@@ -1,37 +1,52 @@
-# Working agreement: Claude + ChatGPT on this repo
+# Working Agreement: Claude + Antigravity (ChatGPT) on Canine Pedigree Archive
 
-Two AI agents work on this project at the same time. This file says who owns what so they don't overwrite each other.
-Source of truth for the build: `docs/specs/CANINE_PEDIGREE_ARCHIVE_UX_SPEC.md`.
+Two autonomous AI agents work on this project simultaneously. This document specifies ownership boundaries, shared database rules, and communication protocols.
 
-## Where each agent works
+Source of truth for UX/UI & Data Architecture: `docs/specs/CANINE_PEDIGREE_ARCHIVE_UX_SPEC.md`.  
+Source of truth for Chronological Build Diary: `BUILD_LOG.md`.  
+Source of truth for YouTube Script & Metrics: `docs/YOUTUBE_SCRIPT_NOTES.md`.  
+Source of truth for Live Database Metrics: `docs/PEDIGREE_PROGRESS.md`.  
 
-| Agent | Folder | Git branch |
+---
+
+## 1. Where Each Agent Works
+
+| Agent | Working Directory | Primary Git Branch | Core Ownership |
+|---|---|---|---|
+| **Antigravity / ChatGPT** | `~/Documents/Pedigree Database` (main checkout) | `main` | **Extraction & OCR pipelines**, **Batch Ingestion**, **Architecture Documentation**, **YouTube Script Tracking** |
+| **Claude** | `~/Documents/Pedigree Database/.worktrees/claude-ux` (git worktree) | `claude/phase0-ux`, `claude/*` | **`web/` (Next.js 15 UI/UX)**, **`scripts/migrations/` (data cleaning & schema fixes)** |
+
+A git worktree provides isolated checkouts on separate branches so file changes in one directory do not collide with the other. Work merges cleanly through commits, pushes, and GitHub pull requests.
+
+---
+
+## 2. Who Owns What
+
+| Area | Owner | Rules & Protocol |
 |---|---|---|
-| ChatGPT | `~/Documents/Pedigree Database` (main checkout) | `main` (or its own `chatgpt/*` branches) |
-| Claude | `~/Documents/Pedigree Database/.worktrees/claude-ux` (git worktree) | `claude/phase0-ux`, later `claude/*` |
+| **`web/` (Next.js 15 UI/UX)** | **Claude** | Antigravity: do NOT edit `web/` while Claude is active. Review via PRs or leave notes here. |
+| **`scripts/migrations/`** | **Claude** | Numbered, re-runnable data migration and schema integrity scripts. |
+| **`docs/specs/`** | Owner (Nitty) | Agents read-only. Changes only upon explicit request from Nitty. |
+| **`docs/YOUTUBE_SCRIPT_NOTES.md`** | **Antigravity** | Maintains exact hours, financial audits, model selection lessons, and video copy blocks. Claude can read & cite. |
+| **`docs/PEDIGREE_PROGRESS.md`** | **Both** | Live tracking of dogs, sheets, stubs, and breeds. Updated after every major milestone. |
+| **`BUILD_LOG.md`** | **Both** | Chronological build diary. Append-only; tag each entry with your agent name. |
+| **Extraction / OCR (`scripts/*.py`)** | **Antigravity** | Batch extraction and Tesseract OSD auto-rotation. (Note: legacy batch ingest paused until updated per spec §13). |
 
-A git worktree is a second checkout of the same repo on its own branch. Files edited in one folder do not change in the other. Work comes together only through commits, pushes and pull requests on GitHub.
+---
 
-## Who owns what
+## 3. The Shared PostgreSQL Database
 
-| Area | Owner | Notes |
-|---|---|---|
-| `web/` (Next.js UI/UX) | **Claude** | ChatGPT: don't edit; open an issue or leave a note in this file. |
-| `scripts/migrations/` (Phase 0 cleanup) | **Claude** | Numbered, re-runnable. |
-| `docs/specs/` | Owner (Nitty) | Agents read; changes only when Nitty asks. |
-| Extraction / OCR / new scans (`scripts/*.py`, `scripts/extracted_cache/`) | ChatGPT | See spec §13 before ingesting more scans. |
-| `BUILD_LOG.md` | Both | Append only, add your agent name to each entry. |
+Git branches do **NOT** isolate PostgreSQL. Both agents connect to the local PostgreSQL 16 database: `canine_pedigree_archive`.
 
-## The shared database
+* **Phase 0 Status**: Claude completed Phase 0 data cleaning for the AmStaff collection (`docs/reports/PHASE0_REPORT.md`), resolving self-loops, cycles, canonicalizing registration numbers, and splitting titles.
+* **Ingestion Moratorium**: No legacy batch ingest scripts (`process_all_*.py`, `ingest.py`) should be executed on AmStaff until updated to write Phase 0 canonical schemas (§13).
+* **Schema Migrations**: Recorded in `schema_migrations`. Always check before touching tables.
+* **Backups**: Database dumps live in `data/backups/` (git-ignored). Back up before modifying schema.
 
-Branches do not isolate PostgreSQL. Both agents talk to the same `canine_pedigree_archive` database.
+---
 
-- **While Phase 0 is in progress, only Claude writes to `canine_pedigree_archive`.** No ingest runs (`process_all_*.py`, `overnight_auto_runner.py`, `ingest.py`) until Phase 0 is finished for AmStaff, because the old ingest code would re-add the problems Phase 0 removes.
-- Every applied migration is recorded in the `schema_migrations` table (`select * from schema_migrations order by id;`). Check it before touching the schema.
-- Experiments go in a scratch database (`createdb canine_pedigree_archive_scratch_<agent>`), never in the main one.
-- Backups live in `data/backups/` (git-ignored). Make one before any write.
+## 4. Merging & Synchronization
 
-## Merging
-
-- Each agent pushes its own branch and opens a pull request into `main`. Nitty merges.
-- Pull `main` into your branch before starting a new piece of work.
+1. Each agent commits and pushes to its designated branch on GitHub (`origin/main` vs `origin/claude/*`).
+2. Pull `main` into your branch before beginning a new major layer.
+3. Open a pull request into `main` for Nitty to review and merge.
