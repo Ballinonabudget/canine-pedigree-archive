@@ -30,6 +30,7 @@ async function entries(): Promise<MetadataRoute.Sitemap> {
     { url: u('/about/coverage'), changeFrequency: 'monthly', priority: 0.3 },
     { url: u('/tools/test-mating'), changeFrequency: 'monthly', priority: 0.3 },
     ...breeds.rows.map((b) => ({ url: u(`/${b.slug}`), changeFrequency: 'weekly' as const, priority: 0.9 })),
+    ...breeds.rows.map((b) => ({ url: u(`/${b.slug}/colors`), changeFrequency: 'monthly' as const, priority: 0.4 })),
     ...decades.rows.map((d) => ({ url: u(`/${d.slug}/browse/${d.decade}s`), changeFrequency: 'monthly' as const, priority: 0.5 })),
     ...dogs.rows.map((d) => ({ url: u(dogHref(d.breed_slug, d.reg_number)), changeFrequency: 'monthly' as const, priority: d.stub ? 0.4 : 0.7 })),
     ...people.rows.map((p) => ({ url: u(personHref(p)), changeFrequency: 'monthly' as const, priority: 0.4 })),
