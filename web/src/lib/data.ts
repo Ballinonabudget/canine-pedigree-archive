@@ -9,6 +9,8 @@ export type Dog = {
   titles: string | null;
   sex: string;
   color_code: string | null;
+  /** Colour spelled out in full, from the colour ledger (null when the printed text couldn't be read). */
+  color: string | null;
   breed_slug: string | null;
   breed_name: string | null;
   historical_breed_label: string | null;
@@ -38,7 +40,7 @@ export type DogPage = Dog & {
   first_appearance: number | null;
 };
 
-const DOG_COLS = `d.reg_number, d.name, d.titles, d.sex, d.color_code, d.breed_slug, b.name as breed_name,
+const DOG_COLS = `d.reg_number, d.name, d.titles, d.sex, d.color_code, d.color, d.breed_slug, b.name as breed_name,
   d.historical_breed_label, d.sire_reg, d.dam_reg, coalesce(d.is_stub, true) as is_stub, d.aka_names, d.country,
   d.birth_year, d.birth_month, d.birth_day, d.date_precision, d.stud_book_issue, d.stud_book_issue_source, d.litter_code, coalesce(b.is_live, false) as breed_live`;
 

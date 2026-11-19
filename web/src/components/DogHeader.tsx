@@ -62,10 +62,14 @@ export function DogHeader({ dog }: { dog: DogPage }) {
         </dd>
         <dt className="text-muted">Colour</dt>
         <dd>
-          {dog.color_code ? (
-            <Link href={`/search?${breedQ}color=${encodeURIComponent(dog.color_code)}&sort=oldest`} className="text-accent hover:underline" title="See every dog recorded with this colour">
-              {dog.color_code}
+          {dog.color ? (
+            <Link href={`/search?${breedQ}color=${encodeURIComponent(dog.color)}&sort=oldest`} className="text-accent hover:underline" title="See every dog recorded with this colour">
+              {dog.color}
             </Link>
+          ) : dog.color_code ? (
+            <span>
+              {dog.color_code} <span className="text-xs text-muted">(as printed)</span>
+            </span>
           ) : (
             <span className="text-faint">Not recorded</span>
           )}

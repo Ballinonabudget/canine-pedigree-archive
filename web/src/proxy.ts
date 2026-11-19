@@ -78,6 +78,7 @@ export async function proxy(req: NextRequest) {
     if (!live.has(breed)) return notFound(req);
     if (parts.length === 1) return NextResponse.next();
 
+    if (kind === 'colors') return parts.length === 2 ? NextResponse.next() : notFound(req);
     if (kind === 'browse') return parts.length === 3 && /^(1[89]\d0|20[0-2]0)s$/.test(key ?? '') ? NextResponse.next() : notFound(req);
 
     if (kind === 'dog' && key && rest.length === 0 && (!tab || TABS.has(tab))) {

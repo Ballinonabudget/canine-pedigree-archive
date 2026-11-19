@@ -36,6 +36,7 @@ async function Details({ params }: Props) {
     ['Registration as printed', d.reg_raw],
     ['Birth date as printed', d.birth_date && `${d.birth_date}${dog.date_precision ? ` (${PRECISION[dog.date_precision] ?? dog.date_precision})` : ''}`],
     ['Breed as printed', d.breed_raw],
+    ['Colour as printed', dog.color_code && dog.color_code !== dog.color ? dog.color_code : null],
     ['Litter code', dog.litter_code],
     ['Every spelling recorded', spellings.join(' · ')],
     ['Stud book issue', sourceLine(dog.stud_book_issue, dog.stud_book_issue_source)],

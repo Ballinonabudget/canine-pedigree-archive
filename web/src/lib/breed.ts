@@ -182,3 +182,15 @@ export function gaps(perYear: { year: number; n: number }[], min = 5): [number, 
   }
   return out;
 }
+
+/** The colour ledger for one breed: every spelled-out colour with how many dogs carry it. */
+export async function getBreedColors(slug: string): Promise<{ color: string; n: number; spellings: number }[]> {
+  'use cache';
+  cacheLife('hours');
+  const r = await pool.query<{ color: string; n: number; spellings: number }>(
+    `select d.color, count(*)::int as n, count(distinct d.color_code)::int as spellings
+     from dogs d where d.breed_slug = $1 and d.color is not null group by d.color order by n desc, d.color`,
+    [slug],
+  );
+  return r.rows;
+}

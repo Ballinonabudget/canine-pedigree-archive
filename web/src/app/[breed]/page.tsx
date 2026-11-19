@@ -63,9 +63,10 @@ async function BreedView({ params }: Props) {
           ['foundation', 'Foundation dogs'],
           ['influential', 'Influential sires and dams'],
           ['breeders', 'Breeders'],
+          ['colors', 'Colours'],
           ...(articles.length ? [['history', 'Breed history']] : []),
         ].map(([id, label]) => (
-          <a key={id} href={`#${id}`} className="hover:text-fg">
+          <a key={id} href={id === 'colors' ? `/${b.slug}/colors` : `#${id}`} className="hover:text-fg">
             {label}
           </a>
         ))}
