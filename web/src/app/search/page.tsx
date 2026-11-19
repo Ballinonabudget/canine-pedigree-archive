@@ -162,7 +162,7 @@ async function Results({ searchParams }: Props) {
               <p className="text-fg">Nothing found{f.q ? ` for “${f.q}”` : ''}.</p>
               <p className="mt-2">Try fewer words, part of a kennel name (like “X-Pert”), a registration number, or fewer filters.</p>
               <p className="mt-2">
-                The records are thin for some years, including 1954–1966 for AmStaffs. See{' '}
+                The records are thin for some years, including 1953–1970 for AmStaffs. See{' '}
                 <Link href="/amstaff#coverage" className="text-accent hover:underline">
                   coverage by year
                 </Link>

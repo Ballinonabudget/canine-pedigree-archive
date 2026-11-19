@@ -32,12 +32,16 @@ export default function About() {
       </ul>
       <h2 className="mt-8 text-lg font-semibold">What’s missing</h2>
       <p className="mt-2">
-        The scans don’t cover every year. For American Staffordshire Terriers the records are thin for 1954–1966, 1981–1983 and 1990–1993, so many pedigrees stop
+        The scans don’t cover every year. For American Staffordshire Terriers the records are thin for 1953–1970, 1981–1982 and 1989–1993, so many pedigrees stop
         after two or three generations. The chart on the{' '}
         <Link href="/amstaff#coverage" className="text-accent hover:underline">
           breed page
         </Link>{' '}
-        shows coverage by year. Dogs registered as Staffordshire Terriers before the breed was renamed in 1972 are included as AmStaffs, with the original name
+        shows coverage by year, and the{' '}
+        <Link href="/about/coverage" className="text-accent hover:underline">
+          coverage page
+        </Link>{' '}
+        shows how deep the pedigrees go and how each entry was dated. Dogs registered as Staffordshire Terriers before the breed was renamed in 1972 are included as AmStaffs, with the original name
         noted.
       </p>
       <h2 id="corrections" className="mt-8 scroll-mt-20 text-lg font-semibold">Corrections</h2>

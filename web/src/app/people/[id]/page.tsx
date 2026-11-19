@@ -2,6 +2,8 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound, redirect } from 'next/navigation';
 import { Suspense } from 'react';
+import { RankList } from '@/components/BreedBits';
+import { getBreederParents } from '@/lib/breed';
 import { getPerson, type PersonPage } from '@/lib/data';
 import { displayName, dogHref, isRealReg, personHref } from '@/lib/format';
 
@@ -38,6 +40,7 @@ async function PersonView({ params }: Props) {
 
   const bred = p.dogs.filter((d) => d.roles.includes('B'));
   const owned = p.dogs.filter((d) => d.roles.includes('O'));
+  const used = bred.length ? await getBreederParents(p.id) : null;
 
   return (
     <>
@@ -77,6 +80,12 @@ async function PersonView({ params }: Props) {
           </Link>
         )}
       </p>
+      {used && (used.sires.length > 0 || used.dams.length > 0) && (
+        <section className="mt-8 grid gap-8 sm:grid-cols-2">
+          <RankList title="Sires used most" items={used.sires} unit="pups" />
+          <RankList title="Dams used most" items={used.dams} unit="pups" />
+        </section>
+      )}
       <DogList title="Dogs bred" dogs={bred} />
       <DogList title="Dogs owned" dogs={owned} />
     </>
