@@ -1,4 +1,4 @@
-# Working Agreement: Claude + Antigravity (ChatGPT) on Canine Pedigree Archive
+# Working Agreement: Claude + Antigravity on Canine Pedigree Archive
 
 Two autonomous AI agents work on this project simultaneously. This document specifies ownership boundaries, shared database rules, and communication protocols.
 
@@ -13,7 +13,7 @@ Source of truth for Live Database Metrics: `docs/PEDIGREE_PROGRESS.md`.
 
 | Agent | Working Directory | Primary Git Branch | Core Ownership |
 |---|---|---|---|
-| **Antigravity / ChatGPT** | `~/Documents/Pedigree Database` (main checkout) | `main` | **Extraction & OCR pipelines**, **Batch Ingestion**, **Architecture Documentation**, **YouTube Script Tracking** |
+| **Antigravity** | `~/Documents/Pedigree Database` (main checkout) | `main` | **Extraction & OCR pipelines**, **Batch Ingestion**, **Architecture Documentation**, **YouTube Script Tracking** |
 | **Claude** | `~/Documents/Pedigree Database/.worktrees/claude-ux` (git worktree) | `claude/phase0-ux`, `claude/*` | **`web/` (Next.js 15 UI/UX)**, **`scripts/migrations/` (data cleaning & schema fixes)** |
 
 A git worktree provides isolated checkouts on separate branches so file changes in one directory do not collide with the other. Work merges cleanly through commits, pushes, and GitHub pull requests.
@@ -50,3 +50,14 @@ Git branches do **NOT** isolate PostgreSQL. Both agents connect to the local Pos
 1. Each agent commits and pushes to its designated branch on GitHub (`origin/main` vs `origin/claude/*`).
 2. Pull `main` into your branch before beginning a new major layer.
 3. Open a pull request into `main` for Nitty to review and merge.
+4. Never commit in the other agent's folder or onto its branch. Antigravity commits only in the main checkout (`main`, `antigravity/*`); Claude commits only in `.worktrees/claude-ux` (`claude/*`). To change something on the other side, leave a note here or open a PR.
+
+---
+
+## 5. Time Log and the 20-Hour Cap
+
+`TIME_LOG.md` is the single record of hours against the 20-hour build cap.
+
+1. Every session, by either agent, adds one row to `TIME_LOG.md` and updates the running total **before its last commit**.
+2. Use measured timestamps (transcript or log entries), not estimates; mark any estimate `est.`.
+3. Before starting a new piece of work (a Gemini batch, a UI phase), check the remaining hours. If the work could go past 20, stop and ask Nitty.

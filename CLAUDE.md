@@ -1,6 +1,6 @@
 # CLAUDE.md: Canine Pedigree Archive — Agent Briefing & Coordination
 
-This file provides project context, progress tracking, YouTube script metrics, and working agreements for Claude (working in `.worktrees/claude-ux` on `claude/*` branches) and Antigravity / ChatGPT (working on `main` / `chatgpt/*` branches).
+This file provides project context, progress tracking, YouTube script metrics, and working agreements for Claude (working in `.worktrees/claude-ux` on `claude/*` branches) and Antigravity (working on `main` / `antigravity/*` branches).
 
 ---
 
@@ -16,7 +16,7 @@ This file provides project context, progress tracking, YouTube script metrics, a
 | Agent | Active Directory | Git Branch | Core Ownership Area |
 |---|---|---|---|
 | **Claude** | `.worktrees/claude-ux` | `claude/phase0-ux`, `claude/*` | **`web/` (Next.js 15 UI/UX)**, **`scripts/migrations/` (data cleaning)** |
-| **Antigravity / ChatGPT** | `~/Documents/Pedigree Database` | `main`, `chatgpt/*` | **Extraction & OCR pipelines**, **Batch Ingest**, **Architecture Documentation**, **YouTube Script Tracking** |
+| **Antigravity** | `~/Documents/Pedigree Database` | `main`, `antigravity/*` | **Extraction & OCR pipelines**, **Batch Ingest**, **Architecture Documentation**, **YouTube Script Tracking** |
 
 ### Shared Database Rules
 * Both agents share the local PostgreSQL 16 database: `canine_pedigree_archive`.
@@ -81,4 +81,5 @@ Claude, please preserve these exact metrics when updating docs or coordinating w
 * [docs/PEDIGREE_PROGRESS.md](file:///Users/daplug/Documents/Pedigree%20Database/docs/PEDIGREE_PROGRESS.md): Detailed database and breed progress tracker.
 * [docs/specs/CANINE_PEDIGREE_ARCHIVE_UX_SPEC.md](file:///Users/daplug/Documents/Pedigree%20Database/docs/specs/CANINE_PEDIGREE_ARCHIVE_UX_SPEC.md): Master product and UX design spec.
 * [docs/reports/PHASE0_REPORT.md](file:///Users/daplug/Documents/Pedigree%20Database/docs/reports/PHASE0_REPORT.md): Claude's Phase 0 AmStaff data cleaning results and exit criteria.
+* [TIME_LOG.md](file:///Users/daplug/Documents/Pedigree%20Database/TIME_LOG.md): Hours per session against the 20-hour build cap. Add a row before each session's last commit.
 * [AGENTS_COORDINATION.md](file:///Users/daplug/Documents/Pedigree%20Database/AGENTS_COORDINATION.md): Rules of engagement between Claude and Antigravity.
