@@ -11,7 +11,7 @@ type Props = PageProps<'/search'>;
 type SP = Record<string, string | string[] | undefined>;
 const PAGE = 25;
 
-const FILTER_KEYS = ['breed', 'sex', 'from', 'to', 'titled', 'type', 'sire', 'dam', 'breeder', 'owner', 'desc'] as const;
+const FILTER_KEYS = ['breed', 'sex', 'from', 'to', 'titled', 'type', 'sire', 'dam', 'breeder', 'owner', 'desc', 'color'] as const;
 type FilterKey = (typeof FILTER_KEYS)[number];
 
 function first(v: string | string[] | undefined) {
@@ -45,6 +45,7 @@ function readFilters(sp: SP) {
     breeder: id('breeder'),
     owner: id('owner'),
     desc: reg('desc'),
+    color: get('color').slice(0, 80) || undefined,
     sort: sort === 'oldest' || sort === 'newest' || sort === 'name' ? sort : undefined,
     page: Math.max(1, Number(get('page')) || 1),
   } satisfies Partial<DogFilters> & { page: number; q: string };
@@ -106,6 +107,7 @@ async function Results({ searchParams }: Props) {
   const chips: { key: FilterKey | 'fromto'; label: string; clear: Partial<Record<keyof F, undefined>> }[] = [];
   if (f.sex) chips.push({ key: 'sex', label: f.sex === 'D' ? 'Dogs' : 'Bitches', clear: { sex: undefined } });
   if (f.from || f.to) chips.push({ key: 'fromto', label: `Born ${f.from ?? '…'}–${f.to ?? '…'}`, clear: { from: undefined, to: undefined } });
+  if (f.color) chips.push({ key: 'color', label: `Colour: ${f.color}`, clear: { color: undefined } });
   if (f.titled) chips.push({ key: 'titled', label: 'Has titles', clear: { titled: undefined } });
   if (f.type)
     chips.push({
@@ -250,6 +252,7 @@ function FilterPanel({ f, open }: { f: F; open: boolean }) {
       <form action="/search" className="mt-3 space-y-3">
         {f.q && <input type="hidden" name="q" value={f.q} />}
         {f.sort && <input type="hidden" name="sort" value={f.sort} />}
+        {f.color && <input type="hidden" name="color" value={f.color} />}
         <input type="hidden" name="breed" value="amstaff" />
         <div>
           <label className={label} htmlFor="f-sex">

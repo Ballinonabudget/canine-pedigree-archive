@@ -5,6 +5,28 @@ import { normalizeReg, searchWords, type Dog, type DogHit } from './data';
 
 // ---------- Full results page: dogs with filters ----------
 
+/**
+ * SQL that reduces a stud book colour to a comparable key, so "BRDL & WH", "Brindle and white" and
+ * "Brindle, white markings" all become "brindle white".
+ */
+export function colorKeySql(x: string) {
+  let e = `lower(coalesce(${x}, ''))`;
+  for (const [from, to] of [
+    ['brdl|brndl|brin|brind', 'brindle'],
+    ['wh|wht|whi', 'white'],
+    ['blk|bk', 'black'],
+    ['fn|fwn', 'fawn'],
+    ['tn', 'tan'],
+    ['rd', 'red'],
+    ['bl|blu', 'blue'],
+    ['liv', 'liver'],
+    ['markings|marking|marks|mkgs|mks', ''],
+  ])
+    e = `regexp_replace(${e}, '\\m(${from})\\M\\.?', '${to}', 'g')`;
+  e = `regexp_replace(${e}, '(&|,|/|;|\\+|\\mand\\M|\\mwith\\M)', ' ', 'g')`;
+  return `btrim(regexp_replace(${e}, '\\s+', ' ', 'g'))`;
+}
+
 export type DogFilters = {
   q?: string;
   breed?: string;
@@ -18,6 +40,7 @@ export type DogFilters = {
   breeder?: number;
   owner?: number;
   desc?: string;
+  color?: string;
   sort?: 'best' | 'oldest' | 'newest' | 'name';
   limit: number;
   offset: number;
@@ -52,6 +75,7 @@ export async function searchDogs(f: DogFilters): Promise<DogHit[]> {
   if (f.sex) where.push(`d.sex = ${arg(f.sex)}`);
   if (f.from) where.push(`d.birth_year >= ${arg(f.from)}`);
   if (f.to) where.push(`d.birth_year <= ${arg(f.to)}`);
+  if (f.color) where.push(`${colorKeySql('d.color_code')} = ${colorKeySql(arg(f.color))}`);
   if (f.titled) where.push(`coalesce(d.titles, '') <> ''`);
   if (f.type === 'unregistered') where.push(`d.reg_number like 'UNREG%'`);
   if (f.type === 'parent') where.push(`coalesce(d.is_stub, true) and d.reg_number not like 'UNREG%'`);

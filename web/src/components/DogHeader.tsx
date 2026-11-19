@@ -9,12 +9,8 @@ export function DogHeader({ dog }: { dog: DogPage }) {
   const source = sourceLine(dog.stud_book_issue, dog.stud_book_issue_source);
   const fullName = `${dog.titles ? dog.titles + ' ' : ''}${displayName(dog.name)}`;
   const aka = usefulAka(dog.name, dog.aka_names);
-  const facts = [
-    sexLabel(dog.sex),
-    born ? `born ${born}` : dog.date_precision === 'disputed' ? 'birth date disputed in the records' : null,
-    dog.color_code,
-    dog.country,
-  ].filter(Boolean);
+  const facts = [sexLabel(dog.sex), dog.country].filter(Boolean);
+  const breedQ = dog.breed_slug ? `breed=${dog.breed_slug}&` : '';
 
   return (
     <header>
@@ -49,6 +45,31 @@ export function DogHeader({ dog }: { dog: DogPage }) {
       </p>
 
       <dl className="mt-4 grid gap-x-8 gap-y-2 text-sm sm:grid-cols-[max-content_1fr]">
+        <dt className="text-muted">Born</dt>
+        <dd>
+          {born && dog.birth_year ? (
+            <>
+              {born}
+              <Link href={`/search?${breedQ}from=${dog.birth_year}&to=${dog.birth_year}&sort=name`} className="ml-2 text-xs text-accent hover:underline">
+                All dogs born in {dog.birth_year}
+              </Link>
+            </>
+          ) : dog.date_precision === 'disputed' ? (
+            <span className="text-muted">Disputed: the records contradict each other</span>
+          ) : (
+            <span className="text-faint">Not recorded</span>
+          )}
+        </dd>
+        <dt className="text-muted">Colour</dt>
+        <dd>
+          {dog.color_code ? (
+            <Link href={`/search?${breedQ}color=${encodeURIComponent(dog.color_code)}&sort=oldest`} className="text-accent hover:underline" title="See every dog recorded with this colour">
+              {dog.color_code}
+            </Link>
+          ) : (
+            <span className="text-faint">Not recorded</span>
+          )}
+        </dd>
         {isRealReg(dog.reg_number) && (
           <>
             <dt className="text-muted">Registration</dt>
