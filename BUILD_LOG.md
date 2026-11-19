@@ -273,8 +273,31 @@ This chronological build diary documents every architectural layer, milestone, b
      - **The Spending Limit vs. Free Tier Trap:** Setting a budget threshold or linking a credit card to Google Cloud disables Google AI Studio's unconditional 1,500 request/day Free Tier. Once billing is linked, every request bills against the card. Keeping an unbilled developer project allows 100% free batch processing resetting nightly at midnight Pacific (3:00 AM EST).
      - **Adding New Work to the Build:** Never expand batch scope without: (1) 3-sample validation, (2) token/cost calculation, (3) local disk caching (`scripts/extracted_cache/`), and (4) user confirmation.
   4. **Cumulative Time & Financial Audit:**
-     - **Total Project Elapsed Time:** 34 hours (Nov 14 19:00 EST to Nov 16 04:50 EST).
-     - **Active Coding & Prompting Time:** ~14–16 active hours across 8 iterative architectural layers.
-     - **Autonomous Machine Time:** ~4 hours of unattended overnight execution.
-     - **Total Out-of-Pocket Money Spent:** **$0.00** (processed 100% on Free Tier; 100% of the $20 project budget preserved).
+     - **Total Project Elapsed Time:** 36.5 hours (Nov 14 18:58 EST to Nov 16 06:30 EST).
+     - **Active Coding & Prompting Time:** 1.6 to 2.0 hours hands-on user prompting + 8.7 hours AI execution.
+     - **Downtime & Autonomous Machine Time:** ~25.8 hours of unattended overnight execution and breaks.
+     - **Total Out-of-Pocket Money Spent:** **~$6.07** ($6.02 on initial 118-sheet batch due to Gemini 3.8 Flash thinking tokens + $0.05 on remaining 111 sheets using Gemini 3.5 Flash-Lite; $8.93 of $15.00 spend cap preserved).
 - **Visual Evidence:** `09-amstaff-100-percent-complete.png` (saved in `/docs/screenshots/09-amstaff-100-percent-complete.png`)
+
+---
+
+### Layer 10: Multi-Breed Scale to 43,888 Dogs & Claude Phase 0 Coordination (`2026-11-19T00:15:00-05:00`)
+
+- **Timestamp & Layer:** `2026-11-19 00:15 EST` — `Layer 10: Multi-Breed Scale to 43,888 Dogs & Claude Phase 0 Coordination` [Antigravity]
+- **What We Planned:**
+  1. Expand the batch pipeline beyond AmStaff to process multi-breed AKC stud book archives: Rottweilers (58 sheets) and Boxers (265 sheets).
+  2. Implement sequential multi-breed state machine in `scripts/process_all_boxers.py` and `scripts/process_all_rottweiler.py` to capture breed transitions across page boundaries.
+  3. Coordinate with Claude Code working in isolated git worktree `.worktrees/claude-ux` on branch `claude/phase0-ux` for data cleaning and UI/UX engineering.
+  4. Compile comprehensive YouTube case study script notes, time audits, and database metrics into `CLAUDE.md`, `docs/YOUTUBE_SCRIPT_NOTES.md`, and `docs/PEDIGREE_PROGRESS.md`.
+- **What Actually Happened:**
+  1. **Massive Multi-Breed Database Expansion (PostgreSQL 16):**
+     - **Total Dogs in Database:** **43,888 dogs** (19,018 full pup records + 24,870 auto-stitched parent stubs).
+     - **Normalized People:** **30,634 distinct breeders, owners, and kennels**.
+     - **Verified Role Links:** **52,371 links** in `dog_people`.
+     - **Total Ingested Sheets:** **510 sheets** across 36+ breeds (Boxer: 24,821; Rottweiler: 6,500; AmStaff: 3,445; Welsh Terrier: 2,311; Collie: 1,498; Scottish Terrier: 670; Sealyham: 617; Australian Terrier: 549; Skye Terrier: 492; Airedale: 464).
+  2. **Claude Phase 0 Data Cleaning Coordination:**
+     - Claude completed Phase 0 data cleaning for AmStaff (`docs/reports/PHASE0_REPORT.md`): resolved all self-loops (12 → 0), graph cycles (6 → 0), cross-breed parent links (89 → 0), standardized `breed_slug` (3,445 dogs), canonicalized registration IDs, and split owner/co-owner arrays.
+     - Documented ingest moratorium to prevent legacy batch scripts from corrupting Phase 0 canonicalized schemas until updated per spec §13.
+  3. **Universal Documentation Sync:**
+     - Created `CLAUDE.md`, `docs/YOUTUBE_SCRIPT_NOTES.md`, `docs/PEDIGREE_PROGRESS.md`, and updated `AGENTS_COORDINATION.md` to ensure Claude and all collaborating agents share identical context, timings, and financial metrics.
+- **Visual Evidence:** `09-amstaff-100-percent-complete.png` and `data/exports/` CSV archives.
