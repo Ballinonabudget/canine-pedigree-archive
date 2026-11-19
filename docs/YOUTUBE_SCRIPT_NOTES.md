@@ -32,12 +32,11 @@ When presenting this build to an audience, clarity on real working hours vs. idl
 
 | Category | Time Measured | Description | Video Script Framing |
 |---|---|---|---|
-| **Total Calendar Span** | **36.5 Hours** | From Saturday 6:58 PM EST to Monday 6:30 AM EST | *"A full weekend build, but I wasn't glued to my chair."* |
-| **Human Hands-On Prompting** | **1.6 to 2.0 Hours** | Total time drafting prompts, reviewing agent outputs, and testing localhost | *"I spent under 2 hours actively typing instructions and reviewing work."* |
-| **Fast Turns (< 10 mins)** | **17 Turns (66 mins)** | Rapid back-and-forth iteration; average prompt turnaround was **3.9 minutes** | *"High-speed agent steering: prompt, execute, verify in under 4 minutes."* |
-| **Deeper Evaluation (10–15 mins)**| **3 Turns (32 mins)** | Auditing cloud billing consoles, verifying complex database schemas | *"Taking 10 minutes to verify data integrity before scaling."* |
-| **AI Heavy-Lifting Execution** | **8.7 Hours** | Tesseract OSD auto-rotation, vision LLM inference, Next.js Turbopack compilation | *"The AI did 8.7 hours of heavy technical labor: OCR, SQL migrations, and UI code."* |
-| **Downtime / Sleep / Breaks** | **25.8 Hours** | 3 overnight sleep cycles (5.3h, 7.0h, 7.8h), meals, and autonomous 3 AM runner | *"Over 25 hours was completely hands-free while I slept and lived my life."* |
+| **Total Calendar Span (Layers 1–9)** | **33.9 Hours** | From Saturday 6:58 PM EST to Monday 4:51 AM EST | *"A full weekend build, but I wasn't glued to my chair."* |
+| **Human Hands-On Prompting** | **~2.0 Hours (est.)** | Total time drafting 23 prompts, reviewing agent outputs, and testing localhost | *"I spent ~2 hours actively typing instructions and reviewing work."* |
+| **Active AI Working Time** | **2.7 Hours** | Measured by consecutive transcript gaps <10m (`06944c8d` steps 0–712 + `fbf7a28b`) | *"The AI spent 2.7 hours of active coding, OCR, SQL migrations, and UI generation."* |
+| **Unattended Batch & Watcher Runs** | **~7.7 Hours** | 118-sheet AmStaff batch (~4.4 h) + 3 AM overnight quota watcher (~3.3 h) — not counted against active cap | *"Nearly 8 hours of hands-free batch processing while the Mac worked alone."* |
+| **Downtime / Sleep / Breaks** | **~21.5 Hours** | Overnight sleep cycles, meals, and idle gaps >10m | *"Over 21 hours was completely hands-free while I slept and lived my life."* |
 
 ---
 
@@ -82,11 +81,11 @@ When presenting this build to an audience, clarity on real working hours vs. idl
 
 ## 5. Ready-to-Read YouTube Script Voiceover
 
-> *"If you look at the timestamps on our Git commits, 36 hours elapsed between my first prompt on Saturday evening and our final deploy on Monday morning.*
+> *"If you look at the timestamps on our Git commits, ~34 hours elapsed between my first prompt on Saturday evening and completing the AmStaff archive on Monday morning.*
 >
-> *Here is the honest truth about real AI development: I was NOT coding for 36 hours. I spent roughly an hour and a half to two hours actively typing instructions, testing screens, and steering the agents. My average prompt turn was under four minutes.*
+> *Here is the honest truth about real AI development: I was NOT coding for 34 hours. I spent roughly two hours actively typing instructions, testing screens, and steering the agents.*
 >
-> *The AI agent spent 8.7 hours doing the actual heavy lifting—writing database schemas, fixing upside-down image scans with Tesseract, and generating UI components. The remaining 26 hours? That was me sleeping, eating, and letting autonomous scripts watch API quotas.*
+> *The AI agent spent 2.7 hours of active coding and verification—writing database schemas, fixing upside-down image scans with Tesseract, and generating UI components—plus ~7.7 hours of unattended batch and quota-watcher runs. The remaining ~21.5 hours? That was me sleeping and living my life.*
 >
 > *And if you're building with AI APIs, remember this million-dollar lesson:*
 > *We accidentally spent $6.02 on our first 118 pages because the agent defaulted to a flagship model with 'thinking reasoning' turned on. Once we caught it, audited the pricing catalog, and switched to Gemini 3.5 Flash-Lite, we extracted the next 111 pages for less than five cents!*

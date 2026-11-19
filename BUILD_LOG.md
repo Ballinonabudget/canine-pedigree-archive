@@ -272,10 +272,10 @@ This chronological build diary documents every architectural layer, milestone, b
      - **The Model Selection Rule:** Defaulting to flagship models (`gemini-2.5-pro` or `gemini-3.8-flash`) for dense image extraction burns money rapidly. Before committing to a model, the agent must inspect pricing tiers and test the cheapest candidate first (`gemini-3.5-flash-lite`), which delivers 100% identical structured JSON accuracy at a fraction of the cost.
      - **The Spending Limit vs. Free Tier Trap:** Setting a budget threshold or linking a credit card to Google Cloud disables Google AI Studio's unconditional 1,500 request/day Free Tier. Once billing is linked, every request bills against the card. Keeping an unbilled developer project allows 100% free batch processing resetting nightly at midnight Pacific (3:00 AM EST).
      - **Adding New Work to the Build:** Never expand batch scope without: (1) 3-sample validation, (2) token/cost calculation, (3) local disk caching (`scripts/extracted_cache/`), and (4) user confirmation.
-  4. **Cumulative Time & Financial Audit:**
-     - **Total Project Elapsed Time:** 36.5 hours (Nov 14 18:58 EST to Nov 16 06:30 EST).
-     - **Active Coding & Prompting Time:** 1.6 to 2.0 hours hands-on user prompting + 8.7 hours AI execution.
-     - **Downtime & Autonomous Machine Time:** ~25.8 hours of unattended overnight execution and breaks.
+  4. **Cumulative Time & Financial Audit (Layers 1–9):**
+     - **Total Project Elapsed Time:** 33.9 hours (Nov 14 18:58 EST to Nov 16 04:51 EST).
+     - **Active Coding & Prompting Time:** ~2.0 hours (`est.`, 23 turns) hands-on user prompting + 2.7 hours active AI execution (measured by <10m transcript gaps across `06944c8d` steps 0–712 and `fbf7a28b`).
+     - **Not Counted (Unattended Machine & Idle Time):** ~7.7 hours of unattended 118-sheet AmStaff batch & 3 AM quota watcher runs + ~21.5 hours of sleep/idle breaks.
      - **Total Out-of-Pocket Money Spent:** **~$6.07** ($6.02 on initial 118-sheet batch due to Gemini 3.8 Flash thinking tokens + $0.05 on remaining 111 sheets using Gemini 3.5 Flash-Lite; $8.93 of $15.00 spend cap preserved).
 - **Visual Evidence:** `09-amstaff-100-percent-complete.png` (saved in `/docs/screenshots/09-amstaff-100-percent-complete.png`)
 
