@@ -124,12 +124,8 @@ export async function getPedigree(reg: string, gens: number): Promise<PedigreeNo
   return r.rows;
 }
 
-/** "R-75,131" -> "R75131". Returns null when the text doesn't look like a registration number. */
-export function normalizeReg(q: string): string | null {
-  const t = q.trim().toUpperCase();
-  if (!/^[A-Z]{0,3}[\s.\-]?[0-9][0-9,.\s\-]{2,}(\/\d{1,2})?$/.test(t)) return null;
-  return t.replace(/\/\d{1,2}$/, '').replace(/[^A-Z0-9]/g, '');
-}
+export { normalizeReg } from './format';
+import { normalizeReg } from './format';
 
 const TITLE_WORDS = /^(CH|GR|GCH|INT|AM|CAN|UKC|ROM|CD|CDX|UD|TT|CGC)\.?$/i;
 

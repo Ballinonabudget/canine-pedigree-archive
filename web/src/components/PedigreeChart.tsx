@@ -119,7 +119,7 @@ export function PedigreeChart({ nodes, gens, breedSlug, trail, subjectReg, showC
           role="tree"
           aria-label={`${gens}-generation pedigree`}
           className="grid min-w-[720px]"
-          style={{ gridTemplateColumns: `repeat(${gens}, minmax(${gens >= 6 ? 170 : 200}px, 1fr))`, gridTemplateRows: `repeat(${rows}, ${rowH}px)` }}
+          style={{ gridTemplateColumns: `repeat(${gens}, minmax(${gens >= 6 ? 170 : 200}px, 1fr))`, gridTemplateRows: `repeat(${rows}, ${rowH}px)`, ['--rows' as string]: rows }}
         >
           {cells}
         </div>

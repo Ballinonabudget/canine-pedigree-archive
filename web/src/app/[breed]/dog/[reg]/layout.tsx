@@ -11,10 +11,12 @@ type Props = LayoutProps<'/[breed]/dog/[reg]'>;
 export default function DogLayout({ params, children }: Props) {
   return (
     <div className="mx-auto max-w-6xl px-4 py-6">
-      <Suspense fallback={<div className="h-56 animate-pulse rounded-lg bg-surface" />}>
-        <Header params={params} />
-      </Suspense>
-      <div className="mt-6">{children}</div>
+      <div className="print:hidden">
+        <Suspense fallback={<div className="h-56 animate-pulse rounded-lg bg-surface" />}>
+          <Header params={params} />
+        </Suspense>
+      </div>
+      <div className="mt-6 print:mt-0">{children}</div>
     </div>
   );
 }

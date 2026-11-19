@@ -74,12 +74,45 @@ select:focus-visible {
   outline-offset: 2px;
 }
 
+@page {
+  size: landscape;
+  margin: 10mm;
+}
+
 @media print {
   .no-print {
     display: none !important;
   }
+  :root,
+  :root[data-theme="dark"],
+  :root:not([data-theme="light"]) {
+    --bg: #fff;
+    --surface: #fff;
+    --fg: #000;
+    --muted: #333;
+    --faint: #555;
+    --line: #bbb;
+    --sire: #fff;
+    --dam: #fff;
+    --unknown: #fff;
+  }
   body {
     background: #fff;
     color: #000;
+  }
+  .overflow-x-auto {
+    overflow: visible !important;
+  }
+  [role="tree"] {
+    min-width: 0 !important;
+    /* fit the whole chart on one landscape page */
+    grid-template-rows: repeat(var(--rows), minmax(0, 1fr)) !important;
+    height: 160mm;
+    font-size: 9pt;
+  }
+  [role="tree"] a {
+    padding-top: 1px !important;
+    padding-bottom: 1px !important;
+    overflow: hidden;
   }
 }

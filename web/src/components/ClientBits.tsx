@@ -1,8 +1,8 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { usePathname, useRouter, useSearchParams } from 'next/navigation';
-import { Check, Copy, Share2 } from 'lucide-react';
+import { Check, Copy, Printer, Share2 } from 'lucide-react';
 
 export function CopyButton({ text, label }: { text: string; label: string }) {
   const [done, setDone] = useState(false);
@@ -74,4 +74,26 @@ export function GensMemory({ gens }: { gens: number }) {
     }
   }, [gens, params, path, router]);
   return null;
+}
+
+export function PrintButton() {
+  return (
+    <button
+      type="button"
+      onClick={() => window.print()}
+      className="no-print inline-flex items-center gap-1.5 text-sm text-muted hover:text-fg"
+    >
+      <Printer className="size-3.5" aria-hidden />
+      Print
+    </button>
+  );
+}
+
+/** Today's date, filled in on the client (the page itself is cached, so it can't know when it's printed). */
+export function TodayDate() {
+  const ref = useRef<HTMLSpanElement>(null);
+  useEffect(() => {
+    if (ref.current) ref.current.textContent = new Date().toLocaleDateString(undefined, { year: 'numeric', month: 'long', day: 'numeric' });
+  }, []);
+  return <span ref={ref} />;
 }

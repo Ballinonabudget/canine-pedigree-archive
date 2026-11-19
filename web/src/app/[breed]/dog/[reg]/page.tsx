@@ -1,11 +1,12 @@
 import Link from 'next/link';
 import { Suspense } from 'react';
-import { GensMemory } from '@/components/ClientBits';
+import { GensMemory, PrintButton, TodayDate } from '@/components/ClientBits';
+import { WalkUp } from '@/components/WalkUp';
 import { TabSkeleton } from '@/components/DogList';
 import { PedigreeChart } from '@/components/PedigreeChart';
 import { getDogNames, getPedigree } from '@/lib/data';
 import { dogMetadata, loadDog } from '@/lib/dogRoute';
-import { displayName, dogHref } from '@/lib/format';
+import { displayName, dogHref, isRealReg, sourceLine } from '@/lib/format';
 
 type Props = PageProps<'/[breed]/dog/[reg]'>;
 
@@ -35,6 +36,7 @@ async function Pedigree({ params, searchParams }: Props) {
   const dog = await loadDog(breed, reg);
   const gens = parseGens(first(sp.gens));
   const showCommon = first(sp.common) === '1';
+  const forceChart = first(sp.view) === 'chart';
   const trailRegs = (first(sp.from) ?? '').split(',').filter(Boolean).slice(-8);
   const [nodes, trail] = await Promise.all([getPedigree(dog.reg_number, gens), getDogNames(trailRegs)]);
 
@@ -82,8 +84,28 @@ async function Pedigree({ params, searchParams }: Props) {
         >
           Test a mating with this dog
         </Link>
+        <PrintButton />
       </div>
-      <PedigreeChart nodes={nodes} gens={gens} breedSlug={dog.breed_slug ?? breed} trail={trailRegs} subjectReg={dog.reg_number} showCommon={showCommon} />
+      <div className={forceChart ? 'hidden' : 'mb-6'}>
+        <WalkUp nodes={nodes} breedSlug={dog.breed_slug ?? breed} gens={gens} trail={[...trailRegs, dog.reg_number].slice(-8).join(',')} />
+      </div>
+      <div className="mb-4 hidden print:block">
+        <p className="text-xs">Canine Pedigree Archive · printed <TodayDate /></p>
+        <p className="mt-1 text-lg font-semibold">
+          {dog.titles ? `${dog.titles} ` : ''}
+          {displayName(dog.name)}
+          {isRealReg(dog.reg_number) ? ` (${dog.reg_number})` : ''}
+        </p>
+        <p className="text-xs">{[dog.breed_name, sourceLine(dog.stud_book_issue, dog.stud_book_issue_source)].filter(Boolean).join(' · ')}</p>
+      </div>
+      {!forceChart && (
+        <Link href={here({ view: 'chart' })} className="no-print text-sm text-accent hover:underline sm:hidden">
+          Show the full {gens}-generation chart
+        </Link>
+      )}
+      <div className={forceChart ? '' : 'hidden sm:block print:block'}>
+        <PedigreeChart nodes={nodes} gens={gens} breedSlug={dog.breed_slug ?? breed} trail={trailRegs} subjectReg={dog.reg_number} showCommon={showCommon} />
+      </div>
     </section>
   );
 }
