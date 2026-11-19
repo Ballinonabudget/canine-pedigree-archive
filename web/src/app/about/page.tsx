@@ -40,6 +40,11 @@ export default function About() {
         shows coverage by year. Dogs registered as Staffordshire Terriers before the breed was renamed in 1972 are included as AmStaffs, with the original name
         noted.
       </p>
+      <h2 id="corrections" className="mt-8 scroll-mt-20 text-lg font-semibold">Corrections</h2>
+      <p className="mt-2">
+        The records were read from old scans, so some names, dates and registration numbers are wrong. A form for reporting errors is coming; each dog’s Details tab
+        already shows every row it was read from, as printed.
+      </p>
       <p className="mt-4 text-muted">
         Owner and breeder names are shown as the stud books printed them. Many are initials only, so one name can refer to more than one person.
       </p>

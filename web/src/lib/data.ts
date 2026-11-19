@@ -134,7 +134,7 @@ export function normalizeReg(q: string): string | null {
 const TITLE_WORDS = /^(CH|GR|GCH|INT|AM|CAN|UKC|ROM|CD|CDX|UD|TT|CGC)\.?$/i;
 
 /** Words a name search should match, with punctuation and title prefixes dropped. */
-function searchWords(q: string): string[] {
+export function searchWords(q: string): string[] {
   const words = q
     .toUpperCase()
     .replace(/'/g, '')

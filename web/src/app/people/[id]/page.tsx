@@ -65,6 +65,18 @@ async function PersonView({ params }: Props) {
           ))}
         </p>
       )}
+      <p className="mt-3 flex gap-4 text-sm">
+        {bred.length > 0 && (
+          <Link href={`/search?breeder=${p.id}&sort=oldest`} className="text-accent hover:underline">
+            Filter dogs they bred
+          </Link>
+        )}
+        {owned.length > 0 && (
+          <Link href={`/search?owner=${p.id}&sort=oldest`} className="text-accent hover:underline">
+            Filter dogs they owned
+          </Link>
+        )}
+      </p>
       <DogList title="Dogs bred" dogs={bred} />
       <DogList title="Dogs owned" dogs={owned} />
     </>
