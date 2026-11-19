@@ -4,6 +4,8 @@ import { Empty, TabSkeleton } from '@/components/DogList';
 import { dogMetadata, loadDog } from '@/lib/dogRoute';
 import { displayName, isRealReg, sourceLine } from '@/lib/format';
 import { getDetails } from '@/lib/queries';
+import { getPedigree } from '@/lib/data';
+import { coiLabel, computeCoi } from '@/lib/coi';
 
 type Props = PageProps<'/[breed]/dog/[reg]/details'>;
 
@@ -24,7 +26,8 @@ const PRECISION: Record<string, string> = { full: 'exact day', month: 'month onl
 async function Details({ params }: Props) {
   const { breed, reg } = await params;
   const dog = await loadDog(breed, reg, '/details');
-  const d = await getDetails(dog.reg_number);
+  const [d, ped] = await Promise.all([getDetails(dog.reg_number), getPedigree(dog.reg_number, 5)]);
+  const coi = computeCoi(ped, 5);
   if (!d) return <Empty>No details recorded.</Empty>;
   const spellings = [...new Set([d.name_raw, dog.name, ...dog.aka_names].filter((x): x is string => !!x))];
 
@@ -36,6 +39,13 @@ async function Details({ params }: Props) {
     ['Litter code', dog.litter_code],
     ['Every spelling recorded', spellings.join(' · ')],
     ['Stud book issue', sourceLine(dog.stud_book_issue, dog.stud_book_issue_source)],
+    [
+      'Inbreeding coefficient',
+      <span key="coi">
+        {coiLabel(coi)}
+        <span className="block text-xs text-muted">Counts only ancestors in our records, so the real figure may be higher.</span>
+      </span>,
+    ],
   ];
 
   return (

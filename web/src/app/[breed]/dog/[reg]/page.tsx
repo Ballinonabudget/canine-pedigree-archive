@@ -76,6 +76,12 @@ async function Pedigree({ params, searchParams }: Props) {
           <span className={`mr-1.5 inline-block size-3 rounded-sm border align-[-1px] ${showCommon ? 'border-accent bg-accent' : 'border-line'}`} aria-hidden />
           Highlight repeated ancestors
         </Link>
+        <Link
+          href={`/tools/test-mating?${dog.sex === 'B' ? 'dam' : 'sire'}=${encodeURIComponent(dog.reg_number)}`}
+          className="text-sm text-muted hover:text-fg sm:ml-auto"
+        >
+          Test a mating with this dog
+        </Link>
       </div>
       <PedigreeChart nodes={nodes} gens={gens} breedSlug={dog.breed_slug ?? breed} trail={trailRegs} subjectReg={dog.reg_number} showCommon={showCommon} />
     </section>

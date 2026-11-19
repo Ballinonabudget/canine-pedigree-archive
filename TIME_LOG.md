@@ -10,10 +10,10 @@ Every work session by any agent (Claude, Antigravity) adds one row **before its 
 
 | | Hours |
 |---|---|
-| Nitty hands-on | 3.65 (est.) |
-| Agent working time | 4.95 |
-| **Total against the 20 h cap** | **8.6** |
-| **Remaining** | **11.4** |
+| Nitty hands-on | 3.7 (est.) |
+| Agent working time | 5.05 |
+| **Total against the 20 h cap** | **8.75** |
+| **Remaining** | **11.25** |
 
 ## Sessions
 
@@ -28,5 +28,6 @@ Every work session by any agent (Claude, Antigravity) adds one row **before its 
 | 7 | Nov 19 03:03 – 03:12 | Claude | UI phases 1–3: routes, layout and themes, search and dropdown, dog page and pedigree chart, person, breed and about pages | 0.05 (est.) | 0.15 | Claude session transcript timestamps |
 | 8 | Nov 19 03:19 – 03:27 | Claude | UI phases 4–5: search filters, chips and sort; profile tabs (offspring, siblings, descendants, details) | 0.05 (est.) | 0.1 | Claude session transcript timestamps |
 | 9 | Nov 19 03:31 – 03:36 | Claude | UI phases 6–8: breeder summaries, breed home (decades, influential dogs, breeders, history), coverage page | 0.05 (est.) | 0.1 (0.05 measured, rounded up) | Claude session transcript timestamps |
+| 10 | Nov 19 03:46 – 03:50 | Claude | UI phase 9: test mating tool, exact COI with completeness rule, COI in Details | 0.05 (est.) | 0.1 (0.04 measured, rounded up) | Claude session transcript timestamps |
 
 Not counted: unattended machine batch runs and overnight watchers — ~4.4 h 118-sheet AmStaff batch + ~3.3 h 3 AM quota watcher (Nov 15–16), ~0.4 h Rottweiler 58-sheet batch + ~7.35 h Boxer 559-sheet `caffeinate` batch (Nov 16), plus sleep/idle gaps > 10 min.
