@@ -10,10 +10,10 @@ Every work session by any agent (Claude, Antigravity) adds one row **before its 
 
 | | Hours |
 |---|---|
-| Nitty hands-on | 3.5 (est.) |
-| Agent working time | 4.6 |
-| **Total against the 20 h cap** | **8.1** |
-| **Remaining** | **11.9** |
+| Nitty hands-on | 3.55 (est.) |
+| Agent working time | 4.75 |
+| **Total against the 20 h cap** | **8.3** |
+| **Remaining** | **11.7** |
 
 ## Sessions
 
@@ -25,5 +25,6 @@ Every work session by any agent (Claude, Antigravity) adds one row **before its 
 | 4 | Nov 19 00:00 – 00:35 | Claude | Repo check (Antigravity, time cap, YouTube docs), this log | 0.1 (est.) | 0.1 | Claude session transcript timestamps |
 | 5 | Nov 19 00:51 – 02:56 | Antigravity | Measured rows 1–2, opened PR #1 | 0.3 (est., 6 turns) | 0.25 | Transcript `06944c8d` steps 927+, measured by Claude |
 | 6 | Nov 19 | Claude | Re-measured PR #1 from Antigravity logs, merged it, added rows 5–6 | 0.1 (est.) | 0.1 | Claude session transcript timestamps |
+| 7 | Nov 19 03:03 – 03:12 | Claude | UI phases 1–3: routes, layout and themes, search and dropdown, dog page and pedigree chart, person, breed and about pages | 0.05 (est.) | 0.15 | Claude session transcript timestamps |
 
 Not counted: unattended machine batch runs and overnight watchers — ~4.4 h 118-sheet AmStaff batch + ~3.3 h 3 AM quota watcher (Nov 15–16), ~0.4 h Rottweiler 58-sheet batch + ~7.35 h Boxer 559-sheet `caffeinate` batch (Nov 16), plus sleep/idle gaps > 10 min.

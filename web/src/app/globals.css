@@ -1,26 +1,85 @@
 @import "tailwindcss";
 
+/* One accent colour, light by default, dark on request or by system setting. */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --bg: #fbfaf8;
+  --surface: #ffffff;
+  --fg: #1b1d1f;
+  --muted: #62676d;
+  --faint: #9aa0a6;
+  --line: #e4e2dd;
+  --accent: #1d5c7a;
+  --accent-soft: #e5eff4;
+  --sire: #f1f5f9;
+  --dam: #faf3f1;
+  --unknown: #f4f3f0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #121416;
+    --surface: #1a1d20;
+    --fg: #e8e6e3;
+    --muted: #a3a8ad;
+    --faint: #6d7378;
+    --line: #2c3034;
+    --accent: #7cb8d6;
+    --accent-soft: #1d2d36;
+    --sire: #1a2026;
+    --dam: #241d1e;
+    --unknown: #17191b;
+  }
+}
+
+:root[data-theme="dark"] {
+  --bg: #121416;
+  --surface: #1a1d20;
+  --fg: #e8e6e3;
+  --muted: #a3a8ad;
+  --faint: #6d7378;
+  --line: #2c3034;
+  --accent: #7cb8d6;
+  --accent-soft: #1d2d36;
+  --sire: #1a2026;
+  --dam: #241d1e;
+  --unknown: #17191b;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-fg: var(--fg);
+  --color-muted: var(--muted);
+  --color-faint: var(--faint);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-sire: var(--sire);
+  --color-dam: var(--dam);
+  --color-unknown: var(--unknown);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+body {
+  background: var(--bg);
+  color: var(--fg);
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: #fff;
+    color: #000;
+  }
 }
