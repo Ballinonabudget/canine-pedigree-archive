@@ -72,6 +72,8 @@ export async function proxy(req: NextRequest) {
     }
 
     if (parts.length === 0 || RESERVED.has(parts[0])) return NextResponse.next();
+    // Link-preview images ("/amstaff/dog/R99450/opengraph-image-…") are answered by their own route.
+    if (/^(opengraph|twitter)-image/.test(parts[parts.length - 1])) return NextResponse.next();
 
     const live = await liveBreeds();
     const [breed, kind, key, tab, ...rest] = parts;

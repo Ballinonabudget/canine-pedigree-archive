@@ -2,12 +2,16 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { Geist, Geist_Mono } from 'next/font/google';
 import { SiteHeader } from '@/components/SiteHeader';
+import { SITE_URL } from '@/lib/site';
 import './globals.css';
 
 const geistSans = Geist({ variable: '--font-geist-sans', subsets: ['latin'] });
 const geistMono = Geist_Mono({ variable: '--font-geist-mono', subsets: ['latin'] });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
+  openGraph: { siteName: 'Canine Pedigree Archive', type: 'website' },
+  twitter: { card: 'summary_large_image' },
   title: {
     default: 'Canine Pedigree Archive',
     template: '%s · Canine Pedigree Archive',

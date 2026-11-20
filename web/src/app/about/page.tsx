@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
+import { CONTACT_EMAIL } from '@/lib/site';
 
 export const metadata: Metadata = {
   title: 'About the archive',
@@ -46,8 +47,19 @@ export default function About() {
       </p>
       <h2 id="corrections" className="mt-8 scroll-mt-20 text-lg font-semibold">Corrections</h2>
       <p className="mt-2">
-        The records were read from old scans, so some names, dates and registration numbers are wrong. A form for reporting errors is coming; each dog’s Details tab
-        already shows every row it was read from, as printed.
+        The records were read from old scans, so some names, dates and registration numbers are wrong. Each dog’s Details tab shows every row it was read
+        from, as printed.{' '}
+        {CONTACT_EMAIL ? (
+          <>
+            To report a mistake, use the “Report an error” link on the dog’s Details tab, or email{' '}
+            <a href={`mailto:${CONTACT_EMAIL}`} className="text-accent hover:underline">
+              {CONTACT_EMAIL}
+            </a>{' '}
+            with the dog’s registration number and what’s wrong.
+          </>
+        ) : (
+          'A way to send corrections will be listed here.'
+        )}
       </p>
       <p className="mt-4 text-muted">
         Owner and breeder names are shown as the stud books printed them. Many are initials only, so one name can refer to more than one person.
