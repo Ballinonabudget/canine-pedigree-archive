@@ -10,10 +10,10 @@ Every work session by any agent (Claude, Antigravity) adds one row **before its 
 
 | | Hours |
 |---|---|
-| Nitty hands-on | 3.9 (est.) |
-| Agent working time | 5.45 |
-| **Total against the 20 h cap** | **9.35** |
-| **Remaining** | **10.65** |
+| Nitty hands-on | 3.95 (est.) |
+| Agent working time | 5.65 |
+| **Total against the 20 h cap** | **9.6** |
+| **Remaining** | **10.4** |
 
 ## Sessions
 
@@ -33,5 +33,6 @@ Every work session by any agent (Claude, Antigravity) adds one row **before its 
 | 12 | Nov 19 04:00 – 04:20 | Claude | Opened PR #2 (merged main), moved born and colour into dog details with links, merged PR #2 | 0.05 (est.) | 0.05 (est.) | Claude session transcript timestamps |
 | 13 | Nov 19 04:20 – 04:35 | Claude | Colour ledger: migration 110 (1,467 printed spellings -> 615 full-word colours), site uses it, /amstaff/colors page | 0.05 (est.) | 0.15 (est.) | Claude session transcript timestamps |
 | 14 | Nov 19 21:10 – 21:25 | Claude | Colour ledger: reviewed 159 unresolved spellings, taught 78 (new abbreviations + exact readings), 81 left for the scans | 0.05 (est.) | 0.1 (est.) | Claude session transcript timestamps |
+| 15 | Nov 20 | Claude | Launch prep: share cards for X (site, breed, dog with mini pedigree), corrections email link, deploy settings template | 0.05 (est.) | 0.2 (est.) | Claude session transcript timestamps |
 
 Not counted: unattended machine batch runs and overnight watchers — ~4.4 h 118-sheet AmStaff batch + ~3.3 h 3 AM quota watcher (Nov 15–16), ~0.4 h Rottweiler 58-sheet batch + ~7.35 h Boxer 559-sheet `caffeinate` batch (Nov 16), plus sleep/idle gaps > 10 min.

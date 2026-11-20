@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import { Suspense } from 'react';
 import { Empty, TabSkeleton } from '@/components/DogList';
 import { dogMetadata, loadDog } from '@/lib/dogRoute';
@@ -6,6 +5,7 @@ import { displayName, isRealReg, sourceLine } from '@/lib/format';
 import { getDetails } from '@/lib/queries';
 import { getPedigree } from '@/lib/data';
 import { coiLabel, computeCoi } from '@/lib/coi';
+import { correctionHref } from '@/lib/site';
 
 type Props = PageProps<'/[breed]/dog/[reg]/details'>;
 
@@ -103,9 +103,12 @@ async function Details({ params }: Props) {
 
       <p className="text-sm text-muted">
         Spotted a mistake in {displayName(dog.name)}’s record?{' '}
-        <Link href="/about#corrections" className="text-accent hover:underline">
+        <a
+          href={correctionHref(`Correction: ${displayName(dog.name)}${isRealReg(dog.reg_number) ? ` (${dog.reg_number})` : ''}`)}
+          className="text-accent hover:underline"
+        >
           Report an error
-        </Link>
+        </a>
       </p>
     </div>
   );
