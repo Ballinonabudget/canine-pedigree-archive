@@ -65,22 +65,56 @@ ABBR = {
     "wkgs": "white markings", "wkkgs": "white markings", "wkfg": "white markings", "wk": "white",
     "brl": "brindle", "rdl": "brindle", "brcl": "brindle", "brdi": "brindle",
     "hlqn": "harlequin", "wlf": "wolf", "chcl": "charcoal", "thny": "tawny", "mg": "markings", "kgs": "markings", "wn": "white",
+    # Misspellings found in the first unresolved review (Nov 2026)
+    "brd": "brindle", "brds": "brindle", "brh": "brindle", "brid": "brindle", "bril": "brindle", "brill": "brindle",
+    "brinde": "brindle", "brld": "brindle", "brsl": "brindle", "brul": "brindle", "erdl": "brindle", "rrdl": "brindle",
+    "badl": "brindle", "brol": "brindle",
+    "fln": "fawn", "fdn": "fawn", "fld": "fawn",
+    "mas": "mask", "mssk": "mask", "smk": "mask", "rsk": "mask", "mki": "mask",
+    "bkl": "black", "bln": "black", "wt": "white", "whte": "white", "wm": "white",
+    "mzzle": "muzzle", "mz": "muzzle", "muckle": "muzzle",
+    "marks": "markings", "mrkgs": "markings", "mksg": "markings", "rkg": "markings", "ngs": "markings", "msks": "markings",
+    "whkg": "white markings", "wlmkg": "white markings", "whitings": "white markings",
+    "trmgs": "trimmings",
+    "silvr": "silver", "ylw": "yellow", "mhgny": "mahogany", "mhty": "mahogany",
+    "spts": "spots", "spt": "spot", "badge": "badger",
 }
 COLORS = {
     "black", "white", "tan", "fawn", "brindle", "red", "blue", "gray", "brown", "golden", "gold", "sable", "silver", "cream",
     "liver", "merle", "mahogany", "rust", "wheaten", "tawny", "sandy", "badger", "grizzle", "chocolate", "orange", "lemon",
     "apricot", "yellow", "wolf", "pepper", "salt", "seal", "chestnut", "buckskin", "buff", "harlequin", "mantle", "roan",
-    "tricolor", "bicolor", "steel", "slate", "isabella", "smoke", "biscuit", "champagne", "charcoal",
+    "tricolor", "bicolor", "steel", "slate", "isabella", "smoke", "biscuit", "champagne", "charcoal", "ebony", "bronze", "honey",
 }
 PARTS = {
     "mask", "markings", "points", "chest", "head", "muzzle", "feet", "foot", "ears", "ear", "eye", "eyes", "saddle", "trim",
-    "spots", "spot", "blaze", "collar", "ticking", "ticked", "legs", "tail", "face", "toes", "patches", "patch", "shadings",
+    "spots", "spot", "blaze", "collar", "ticking", "ticked", "legs", "tail", "face", "toes", "toe", "patches", "patch", "shadings",
+    "trimmings", "breast",
 }
-MODS = {"dark", "light", "pale", "deep", "bright", "clear", "mixed"}
-GLUE = {"on", "with", "of"}
+MODS = {"dark", "light", "pale", "deep", "bright", "clear", "mixed", "tiger"}
+GLUE = {"on", "with", "of", "around"}
 # Second word that forms one colour with the word before it ("black brindle", "blue merle", "red fawn")
 COMPOUND_TAIL = {"brindle", "sable", "merle", "fawn", "gray", "grizzle", "roan"}
 KNOWN = set(ABBR) | COLORS | PARTS | MODS | GLUE
+
+# Whole spellings whose reading was decided by hand: too garbled for the rules above, or the rules read them clumsily.
+EXACT = {
+    "Bld": "Brindle",
+    "BLD BRDL, BLK MSK": "Brindle, black mask",
+    "Gldn fin, blk msk": "Golden fawn, black mask",
+    "Fp, blk msk": "Fawn, black mask",
+    "Flk msk": "Fawn, black mask",
+    "FwnhonChst": "Fawn, white on chest",
+    "FN PLAIN": "Fawn, plain",
+    "brdl, lk msk": "Brindle, black mask",
+    "Fn, blk mskgs": "Fawn, black mask",
+    "Wh, lmn tkd ears": "White, lemon ticked ears",
+    "Brdl, wh spt on chest": "Brindle, white spot on chest",
+    "Gldn blkm sk, blkm sk, wh": "Golden, black mask, white",
+    "BRDL BROL & WH": "Brindle and white",
+    "Honey Br, blk msk": "Honey brown, black mask",
+    "Wh brdl spts": "White, brindle spots",
+    "GR BRD": None,  # a Collie: "gray brindle" is unlikely, so left for the scan
+}
 
 
 @lru_cache(maxsize=None)
@@ -103,6 +137,7 @@ def words_of(raw):
     t = raw.lower().replace("[", " ").replace("]", " ")
     t = re.sub(r"\bm\s+sk\b", "msk", t)                   # OCR split of MSK
     t = re.sub(r"\bbr\s+dl\b", "brdl", t)                 # OCR split of BRDL
+    t = re.sub(r"\bblkm\s+sk\b", "blk msk", t)             # "blkm sk" = BLK MSK
     parts = re.split(r"\s*(&|,|;|/|\+|\band\b)\s*", t)
     groups, unknown, sep = [], [], None
     for p in parts:
@@ -201,6 +236,8 @@ def render(groups):
 
 
 def canonical(raw):
+    if raw in EXACT:
+        return EXACT[raw], ([] if EXACT[raw] else ["(see scan)"])
     groups, unknown = words_of(raw or "")
     color = render(groups) if groups else None
     return color, unknown
